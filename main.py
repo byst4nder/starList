@@ -2,7 +2,7 @@ import re
 import base64
 import traceback
 import json
-
+from datetime import datetime, timedelta
 
 START_COMMENT = '<!--START:starList-->'
 END_COMMENT = '<!--END:starList-->'
@@ -20,6 +20,12 @@ def readJsonFile(path):
         starList = list(f.readlines())
         for l in starList:
             for obj in json.loads(l):
+                updated_at = datetime.strptime(obj["updated_at"], "%Y-%m-%dT%H:%M:%SZ")
+                is_hot = (datetime.utcnow() - updated_at).days < 3
+                
+                name_display = obj["name"]
+                if is_hot:
+                    name_display = f"🔥 {name_display}"
                 start += 1
                 name = ''
                 license = ''
