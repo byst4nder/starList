@@ -22,11 +22,9 @@ jobs:
 
       - name: Generate list.json (Fetch Stars)
         env:
-
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-
-          gh api user/starred --paginate --method GET > raw_stars.json
+          gh api users/${{ github.repository_owner }}/starred --paginate --method GET > raw_stars.json
           
           python3 -c "import json; print(json.dumps(json.load(open('raw_stars.json'))))" > list.json
 
