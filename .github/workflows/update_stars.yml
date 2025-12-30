@@ -1,0 +1,47 @@
+name: Update Starred List
+
+on:
+  schedule:
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate list.json (Fetch Stars)
+        env:
+
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+
+          gh api user/starred --paginate --method GET > raw_stars.json
+          
+          python3 -c "import json; print(json.dumps(json.load(open('raw_stars.json'))))" > list.json
+
+      - name: Run update script
+        run: python main.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if [[ -n $(git status -s README.md) ]]; then
+            git add README.md
+            git commit -m "Auto-update starred repositories [skip ci]"
+            git push
+          else
+            echo "No changes in README.md, skipping commit."
+          fi
