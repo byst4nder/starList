@@ -1,1489 +1,1489 @@
 <!--START:starList-->
 | 序号 | 仓库 | 描述 | Star | 语言 |
 |:----:|:----:| ---- |:----:|:----:|
-| 1 | [firecrawl](https://github.com/firecrawl/firecrawl) | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. | 210502 | TypeScript |
-| 2 | [dify](https://github.com/langgenius/dify) | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb... | 161939 | Python |
-| 3 | [posthog](https://github.com/PostHog/posthog) | :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c... | 41140 | Python |
-| 4 | [sanoTTS](https://github.com/Ampixa/sanoTTS) | sanoTTS (सानो = 'small' in Nepali): 294k–2.27M-parameter neural TTS that runs on a $3 chip, in the browser, or in Python with low-latency streaming. | 857 | C |
-| 5 | [quivr](https://github.com/The-Vibe-Company/quivr) | An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules. | 39666 | Go |
-| 6 | [openclaw](https://github.com/openclaw/openclaw) | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  | 395263 | TypeScript |
-| 7 | [superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | 327023 | Shell |
-| 8 | [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  | 169351 | Python |
-| 9 | [loopx](https://github.com/loopx-project/loopx) | The control plane for 24/7 always-on agents. Turn long-horizon goals into verifiable results across Codex, Claude Code, and custom runtimes—from local SQLite to team scale. | 6766 | Python |
-| 10 | [foam](https://github.com/foambubble/foam) | A personal knowledge management and sharing system for VSCode | 17502 | TypeScript |
-| 11 | [kudu](https://github.com/AdventDevInc/kudu) | Free Windows, Mac and Linux cleaner, scanner, and more. | 4496 | TypeScript |
-| 12 | [jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present)  Interactive Historical Atlas of China across 18 dynasties, 200+ territory snapshots, ancient-to-modern place genealogy & classical poetry routes | 9339 | JavaScript |
-| 13 | [windmill](https://github.com/windmill-labs/windmill) | Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control wh... | 18730 | Rust |
-| 14 | [cherry-studio](https://github.com/CherryHQ/cherry-studio) | Your AI workspace for models, agents, and productivity. | 53897 | TypeScript |
-| 15 | [streamlit](https://github.com/streamlit/streamlit) | Streamlit — The agent-native framework for data apps and dashboards. | 46511 | Python |
-| 16 | [yao](https://github.com/YaoApp/yao) | ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted. | 8350 | Go |
-| 17 | [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | 212198 | TypeScript |
-| 18 | [y-agent](https://github.com/luohy15/y-agent) | A simple personal agent app | 218 | Python |
-| 19 | [hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns | 63570 | Python |
-| 20 | [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative | 65616 | TypeScript |
-| 21 | [monty](https://github.com/pydantic/monty) | A secure Python sandbox, written in Rust, for code written by AI. | 9010 | Rust |
-| 22 | [DS-Bot](https://github.com/Fei-Craft/DS-Bot) | A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. | 8986 | JavaScript |
-| 23 | [netch](https://github.com/netchx/netch) | A simple proxy client | 17708 | C# |
-| 24 | [cognee](https://github.com/topoteretes/cognee) | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free | 33636 | Python |
-| 25 | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click | 44474 | TypeScript |
-| 26 | [pytorch](https://github.com/pytorch/pytorch) | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 105775 | Python |
-| 27 | [pydantic-ai](https://github.com/pydantic/pydantic-ai) | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end. | 21404 | Python |
-| 28 | [core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | 92558 | Python |
-| 29 | [GitNexus](https://github.com/abhigyanpatwari/GitNexus) | GitNexus: The Zero-Server Code Intelligence Engine  | 48888 | TypeScript |
-| 30 | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. | 71130 | TypeScript |
-| 31 | [backstage](https://github.com/backstage/backstage) | Backstage is an open framework for building developer portals | 34933 | TypeScript |
-| 32 | [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 181521 | Dart |
-| 33 | [cpython](https://github.com/python/cpython) | The Python programming language | 78466 | Python |
-| 34 | [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  | 101096 | TypeScript |
-| 35 | [qwen-code](https://github.com/QwenLM/qwen-code) | An open-source AI coding agent that lives in your terminal. | 30951 | TypeScript |
-| 36 | [eliza](https://github.com/elizaOS/eliza) | Open source agentic operating system | 19922 | Java |
-| 37 | [changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin... | 36049 | Python |
-| 38 | [odoo](https://github.com/odoo/odoo) | Odoo. Open Source Apps To Grow Your Business. | 56115 | Python |
-| 39 | [erpnext](https://github.com/frappe/erpnext) | Free and Open Source Enterprise Resource Planning (ERP) | 41649 | Python |
-| 40 | [julia](https://github.com/JuliaLang/julia) | The Julia Programming Language | 49309 | Julia |
-| 41 | [netdata](https://github.com/netdata/netdata) | Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfi... | 81653 | Go |
-| 42 | [lobehub](https://github.com/lobehub/lobehub) | 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week. | 86173 | TypeScript |
-| 43 | [openmotion](https://github.com/nexu-io/openmotion) | The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A fu... | 16555 | TypeScript |
-| 44 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | 188202 | Python |
-| 45 | [sentry](https://github.com/getsentry/sentry) | Developer-first error tracking and performance monitoring | 45889 | Python |
-| 46 | [metabase](https://github.com/metabase/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | 50567 | Clojure |
-| 47 | [PowerToys](https://github.com/microsoft/PowerToys) | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | 141421 | C |
-| 48 | [hermes-webui](https://github.com/nesquena/hermes-webui) | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! | 19638 | Python |
-| 49 | [daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | 43004 | JavaScript |
-| 50 | [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) | Pure python3 implementation for working with iDevices (iPhone, etc...). | 3098 | Python |
-| 51 | [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience | 160839 | TypeScript |
-| 52 | [worldmonitor](https://github.com/koala73/worldmonitor) | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface | 91210 | TypeScript |
-| 53 | [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | 195830 | TypeScript |
-| 54 | [unsloth](https://github.com/unslothai/unsloth) | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more. | 80284 | Python |
-| 55 | [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | ⚚ The ultrawork agent with AI coworkers wired into you | 6051 | Python |
-| 56 | [pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes. | 31467 | Python |
-| 57 | [Janus](https://github.com/janus-sh/Janus) | A free coding agent in your terminal. It runs on the smartest free model that is up today. | 6556 | JavaScript |
-| 58 | [CompanyOS](https://github.com/kortix-ai/CompanyOS) | Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any ... | 20804 | TypeScript |
-| 59 | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. | 148693 | Python |
-| 60 | [hummingbot](https://github.com/hummingbot/hummingbot) | Open source software that helps you create and deploy high-frequency crypto trading bots | 21404 | Python |
-| 61 | [ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | Autonomous AI development loop for Claude Code with intelligent exit detection | 9741 | Shell |
-| 62 | [supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. | 115530 | TypeScript |
-| 63 | [LibreChat](https://github.com/LibreChat-AI/LibreChat) | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me... | 47552 | TypeScript |
-| 64 | [litellm](https://github.com/BerriAI/litellm) | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi... | 63944 | Python |
-| 65 | [opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | 229314 | TypeScript |
-| 66 | [woocommerce](https://github.com/woocommerce/woocommerce) | A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine. | 10610 | PHP |
-| 67 | [remotion](https://github.com/remotion-dev/remotion) | 🎥      Make videos programmatically with React | 75849 | TypeScript |
-| 68 | [frappe](https://github.com/frappe/frappe) | Low code web framework for real world applications, in Python and Javascript | 11163 | Python |
-| 69 | [opengame](https://github.com/nexu-io/opengame) | The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish... | 114 | TypeScript |
-| 70 | [penguin-harness](https://github.com/Prism-Shadow/penguin-harness) | 🐧 Unified and Stable RSI Platform | 3334 | TypeScript |
-| 71 | [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | 113190 | Rust |
-| 72 | [mastra](https://github.com/mastra-ai/mastra) | Mastra is the modern TypeScript framework for AI-powered applications and agents. | 29829 | TypeScript |
-| 73 | [x402](https://github.com/x402-foundation/x402) | A payments protocol for the internet. Built on HTTP. | 6831 | TypeScript |
-| 74 | [ToolJet](https://github.com/ToolJet/ToolJet) | Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla... | 41306 | HTML |
-| 75 | [wecom-bot-mcp-server](https://github.com/loonghao/wecom-bot-mcp-server) | A Python server implementation for WeCom (WeChat Work) bot that follows the Model Context Protocol (MCP). This server provides a standardized interface for handling automated messaging and context-awa... | 106 | Python |
-| 76 | [AutoControlGUI](https://github.com/Jeffrey-Automations/AutoControlGUI) | A framework for GUI automation | 62 | Python |
-| 77 | [fast-agent](https://github.com/evalstate/fast-agent) | Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support | 3980 | Python |
-| 78 | [hyperframes](https://github.com/heygen-com/hyperframes) | Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen. | 90478 | TypeScript |
-| 79 | [LangBot](https://github.com/langbot-app/LangBot) | Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integr... | 19223 | Python |
-| 80 | [flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | ServerBox - high performance server toolbox app & server written in Flutter & Rust. | 9075 | Dart |
-| 81 | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | A self-improving RLM agent for coding workflows and long-running autonomous tasks. | 22927 | Rust |
-| 82 | [memmy-agent](https://github.com/MemTensor/memmy-agent) | 🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, ... | 2353 | TypeScript |
-| 83 | [batocera.linux](https://github.com/batocera-linux/batocera.linux) | batocera.linux | 3322 | Python |
-| 84 | [pi](https://github.com/earendil-works/pi) | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | 123997 | TypeScript |
-| 85 | [LocalAI](https://github.com/mudler/LocalAI) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. | 50559 | Go |
-| 86 | [penpot](https://github.com/penpot/penpot) | Penpot: The open-source design platform for Product teams that need scalable collaboration. | 62765 | Clojure |
-| 87 | [uni-api](https://github.com/yym68686/uni-api) | This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancin... | 1275 | Rust |
-| 88 | [browser](https://github.com/lightpanda-io/browser) | Lightpanda: the headless browser designed for AI and automation | 42597 | Zig |
-| 89 | [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. | 33856 | TypeScript |
-| 90 | [mygo](https://github.com/egoist/mygo) | Develop desktop apps with native UI or web frontend in Go | 6897 | Go |
-| 91 | [oh-my-pi](https://github.com/can1357/oh-my-pi) | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. | 39930 | TypeScript |
-| 92 | [public-apis](https://github.com/marcelscruz/public-apis) | A collaborative list of public APIs for developers | 9781 | JavaScript |
-| 93 | [meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | 60016 | Rust |
-| 94 | [darling](https://github.com/darlinghq/darling) | Darwin/macOS emulation layer for Linux | 13846 | Objective-C |
-| 95 | [fastmcp](https://github.com/PrefectHQ/fastmcp) | 🚀 The fast, Pythonic way to build MCP servers and clients. | 28762 | Python |
-| 96 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++ | 136339 | C++ |
-| 97 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | 97509 | TypeScript |
-| 98 | [E2B](https://github.com/e2b-dev/E2B) | Open-source, secure environment with real-world tools for enterprise-grade agents. | 15027 | Python |
-| 99 | [Octop](https://github.com/TencentCloud/Octop) | A smarter, self-hosted AI assistant — multi-user, multi-agent. | 12520 | Python |
-| 100 | [wechat-on-airflow](https://github.com/claude89757/wechat-on-airflow) | 基于 Apache Airflow 的微信智能应用编排框架，通过可视化工作流驱动 AI 与数据自动化任务。支持 智能客服（多轮对话/知识库）、AI 图文/短视频生成、智能提醒等应用，灵活扩展多模态交互与大模型能力。 | 96 | Python |
-| 101 | [LunaTranslator](https://github.com/HIllya51/LunaTranslator) | 视觉小说翻译器 / Visual Novel Translator | 14306 | C++ |
-| 102 | [gumroad](https://github.com/antiwork/gumroad) | See what sticks | 10214 | Ruby |
-| 103 | [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) | Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome... | 4961 | Python |
-| 104 | [fastllm](https://github.com/ztxz16/fastllm) | fastllm是后端无依赖的高性能大模型推理库，帮助您在大部分设备上高效推理大模型！ | 5135 | C++ |
-| 105 | [mypy](https://github.com/python/mypy) | Optional static typing for Python | 20737 | Python |
-| 106 | [genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) | Simulation platform for general-purpose robotics & embodied AI learning. | 30318 | Python |
-| 107 | [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | 120151 | TypeScript |
-| 108 | [SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi... | 74966 | PHP |
-| 109 | [rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | 479111 | TypeScript |
-| 110 | [cadcraft](https://github.com/storytold/cadcraft) | CADCraft: computer-aided design and drafting — an open-source, clean-room CAD application in pure Rust | 8503 | Rust |
-| 111 | [LiveTalking](https://github.com/lipku/LiveTalking) | Real time interactive streaming digital human | 11321 | Python |
-| 112 | [Data-Analysis-Agent](https://github.com/Zafer-Liu/Data-Analysis-Agent) | 🚀你的私人数据分析助手。通过对话式交互，自动生成可视化报表与商业洞察，让数据决策变得像聊天一样简单。  🚀 Your personal data analysis assistant. Say goodbye to complex SQL and Excel formulas.  An LLM-powered data analysis agent. Chat with your data to ... | 2634 | JavaScript |
-| 113 | [SmartKBS](https://github.com/youufis/SmartKBS) | 面向小学·初中·高中的通用学科 AI 教学平台（以信息科技、通用技术为例）。题库与智能组卷、考试、练习、作业、自动批改、课堂闯关/抢答/抽问/投票/分组讨论/协作白板、点名考勤与 12 级称号积分、学情分析、成长档案与 AI 画像等60+功能。FastAPI + React，DashScope/DeepSeek/Ollama，本地 SQLite，可完全离线部署，AGPL-3.0。 | 111 | Python |
-| 114 | [OpenViking](https://github.com/volcengine/OpenViking) | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. | 42845 | Python |
-| 115 | [speech-to-speech](https://github.com/huggingface/speech-to-speech) | Build voice agents with open-source models | 13794 | Python |
-| 116 | [happy](https://github.com/slopus/happy) | Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for. | 24846 | Swift |
-| 117 | [Hexis](https://github.com/QuixiAI/Hexis) | 无 | 627 | Python |
-| 118 | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Production-grade Rust-native trading engine with deterministic event-driven architecture | 31835 | Rust |
-| 119 | [brightdata-mcp](https://github.com/brightdata/brightdata-mcp) | A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access. | 2739 | JavaScript |
-| 120 | [obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) | Agent-native AI assistant — chat, write, whiteboard, learning, all in one. | 1397 | TypeScript |
-| 121 | [univer](https://github.com/dream-num/univer) | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. | 31912 | TypeScript |
-| 122 | [cryptography](https://github.com/pyca/cryptography) | cryptography is a package designed to expose cryptographic primitives and recipes to Python developers. | 7865 | Python |
-| 123 | [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou... | 11321 | Python |
-| 124 | [midscene](https://github.com/web-infra-dev/midscene) | See interfaces like a human. E2E testing in natural language. | 15777 | TypeScript |
-| 125 | [openwork](https://github.com/different-ai/openwork) | The open-source alternative to Claude Cowork (powered by opencode) | 24606 | TypeScript |
-| 126 | [py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) | Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction. | 3563 | Python |
-| 127 | [anki-pipeline](https://github.com/CHNragdoll/anki-pipeline) | 考研资料下载，涵盖数学、英语、政治、408、199 管综和 396 经综。提供历年真题、答案与详解、考试大纲、做题本、答题卡、Anki 卡包、英语词汇及《27考研政治背诵笔记》。各科固定 Release 提供下载和更新记录。 | 73 | Python |
-| 128 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | 59432 | TypeScript |
-| 129 | [tinygrad](https://github.com/tinygrad/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️  | 33988 | Python |
-| 130 | [freellmapi](https://github.com/tashfeenahmed/freellmapi) | 10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted ... | 58604 | TypeScript |
-| 131 | [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams | 136338 | TypeScript |
-| 132 | [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | 57003 | 无 |
-| 133 | [codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal | 136524 | Rust |
-| 134 | [aiohttp](https://github.com/aio-libs/aiohttp) | Asynchronous HTTP client/server framework for asyncio and Python | 16623 | Python |
-| 135 | [kun](https://github.com/kunchenguid/kun) | Think and build like a principal engineer. Leverage Kun's experience, knowledge, tools, workflows, and skills to help you get shit done. | 509 | JavaScript |
-| 136 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla... | 119869 | TypeScript |
-| 137 | [termux-packages](https://github.com/termux/termux-packages) | A package build system for Termux. | 17454 | Shell |
-| 138 | [open-design](https://github.com/nexu-io/open-design) | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha... | 109604 | TypeScript |
-| 139 | [v](https://github.com/vlang/v) | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io | 38155 | V |
-| 140 | [design-resources-for-deve](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more | 67471 | 无 |
-| 141 | [directus](https://github.com/directus/directus) | The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. | 38679 | TypeScript |
-| 142 | [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... | 29100 | Python |
-| 143 | [CoWork-OS](https://github.com/CoWork-OS/CoWork-OS) | Rent the model. Own everything else. Free, open-source AI app for real work. | 554 | TypeScript |
-| 144 | [XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等 | 3635 | Python |
-| 145 | [sdnext](https://github.com/vladmandic/sdnext) | SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing | 7383 | Python |
-| 146 | [FastGPT](https://github.com/labring/FastGPT) | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti... | 30110 | TypeScript |
-| 147 | [electerm](https://github.com/electerm/electerm) | Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS) | 15719 | JavaScript |
-| 148 | [ccxt](https://github.com/ccxt/ccxt) | A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust | 45000 | Python |
-| 149 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | Teams-first Multi-agent orchestration for Claude Code | 41078 | TypeScript |
-| 150 | [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie... | 59523 | Go |
-| 151 | [vuetify](https://github.com/vuetifyjs/vuetify) | 🐉 Vue Component Framework | 41044 | TypeScript |
-| 152 | [docling](https://github.com/docling-project/docling) | Get your documents ready for gen AI | 71093 | Python |
-| 153 | [mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) | Automate real Microsoft Excel with AI via MCP Server or CLI — Power Query, DAX, VBA, PivotTables, and charts. | 969 | C# |
-| 154 | [MaxKB](https://github.com/1Panel-dev/MaxKB) | 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 | 23215 | Python |
-| 155 | [taste-skill](https://github.com/Leonxlnx/taste-skill) | Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages | 121771 | JavaScript |
-| 156 | [Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | 58827 | TypeScript |
-| 157 | [craft-anything](https://github.com/storytold/craft-anything) | Craft Anything: understand how any software works, and craft your own. | 43846 | Rust |
-| 158 | [vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) | 文字游戏: 我的文字修仙全靠刷 | 1800 | Vue |
-| 159 | [d2](https://github.com/d2lang/d2) | D2 is a modern diagram scripting language that turns text to diagrams. | 25921 | Go |
-| 160 | [autogluon](https://github.com/autogluon/autogluon) | Fast and Accurate ML in 3 Lines of Code | 10847 | Python |
-| 161 | [agno](https://github.com/agno-agi/agno) | The self-managing agent platform | 43313 | Python |
-| 162 | [Handy](https://github.com/cjpais/Handy) | A free, open source, and extensible speech-to-text application that works completely offline. | 40285 | Rust |
-| 163 | [tardis-machine](https://github.com/tardis-dev/tardis-machine) | Locally runnable server with built-in data caching, providing both tick-level historical and consolidated real-time cryptocurrency market data via HTTP and WebSocket APIs | 314 | TypeScript |
-| 164 | [three.js](https://github.com/mrdoob/three.js) | JavaScript 3D Library. | 119443 | JavaScript |
-| 165 | [agentscope](https://github.com/agentscope-ai/agentscope) | Build and run agents you can see, understand and trust. | 36753 | Python |
-| 166 | [Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | The only downloader you need. 下载器的集大成者。 | 18723 | Python |
-| 167 | [qingjian](https://github.com/qingjian-team/qingjian) | 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词 | 8152 | Rust |
-| 168 | [munder-difflin](https://github.com/HarnessMD/munder-difflin) | Coolest app to use agents, local, multi provider and open source grok bot alternative. Build custom worlds for your claude code and codex like agents | 9869 | TypeScript |
-| 169 | [Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) | Web application generating interactive and highly customizable maps | 6244 | TypeScript |
-| 170 | [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | 47389 | TypeScript |
-| 171 | [OmniRoute](https://github.com/cheaper-inference/OmniRoute) | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline... | 90436 | TypeScript |
-| 172 | [django](https://github.com/django/django) | The Web framework for perfectionists with deadlines. | 91915 | Python |
-| 173 | [PyGithub](https://github.com/PyGithub/PyGithub) | Typed interactions with the GitHub API v3 | 7823 | Python |
-| 174 | [skills](https://github.com/google/skills) | Agent Skills for Google products and technologies | 24694 | Python |
-| 175 | [jumpserver](https://github.com/jumpserver/jumpserver) | JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databa... | 32054 | Python |
-| 176 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ | 47549 | Python |
-| 177 | [free-chat](https://github.com/CNSeniorious000/free-chat) | An elegant LLM chat UI forked from chatgpt-demo of @anse-app. Index site at https://free-chat.asia | 192 | TypeScript |
-| 178 | [openless](https://github.com/Open-Less/openless) | Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字) | 4172 | Rust |
-| 179 | [PyMuPDF](https://github.com/pymupdf/PyMuPDF) | Layout-aware document engine for AI and a feature-rich Python toolkit for extracting, rendering and editing PDFs and other documents. Since version 2.0, its ML-based layout analysis turns PDFs and Off... | 11203 | Python |
-| 180 | [deepagents](https://github.com/langchain-ai/deepagents) | The batteries-included agent harness. | 31610 | Python |
-| 181 | [logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV | 45715 | Clojure |
-| 182 | [colibri](https://github.com/JustVugg/colibri) | A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. | 53547 | C |
-| 183 | [langchain](https://github.com/langchain-ai/langchain) | The agent engineering platform. | 150019 | Python |
-| 184 | [DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | 63041 | Python |
-| 185 | [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 | 132753 | Python |
-| 186 | [LibreCAD](https://github.com/LibreCAD/LibreCAD) | LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customi... | 6645 | C++ |
-| 187 | [opensquilla](https://github.com/TokenRhythm/opensquilla) | OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density | 7166 | Python |
-| 188 | [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. | 34209 | JavaScript |
-| 189 | [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀 | 33630 | Rust |
-| 190 | [jsxgraph](https://github.com/jsxgraph/jsxgraph) | JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser. | 1507 | JavaScript |
-| 191 | [clawhub](https://github.com/openclaw/clawhub) | Skill + Plugin Registry for OpenClaw | 9566 | TypeScript |
-| 192 | [pytorch3d](https://github.com/facebookresearch/pytorch3d) | PyTorch3D is FAIR's library of reusable components for deep learning with 3D data | 10010 | Python |
-| 193 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | 266231 | Python |
-| 194 | [AIHOT](https://github.com/KKKKhazix/AIHOT) | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 | 11450 | TypeScript |
-| 195 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | 118665 | Python |
-| 196 | [vnote](https://github.com/vnotex/vnote) | A pleasant note-taking platform with native speed, majoring in Markdown, MindMap, Typst, and plain text. | 13072 | C++ |
-| 197 | [chinese-independent-devel](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | 62316 | 无 |
-| 198 | [FxEmbed](https://github.com/FxEmbed/FxEmbed) | Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others | 5988 | TypeScript |
-| 199 | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary | 75430 | Python |
-| 200 | [misskey](https://github.com/misskey-dev/misskey) | 🌎 A completely free and open interplanetary-microblogging platform 🚀 | 11404 | TypeScript |
-| 201 | [saber](https://github.com/saber-notes/saber) | The cross-platform open-source app built for handwriting | 5083 | Dart |
-| 202 | [tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) | 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。 | 7971 | Python |
-| 203 | [whisper.cpp](https://github.com/ggml-org/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ | 55538 | C++ |
-| 204 | [1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. 1Panel 是专门为 AI 服务器打造的管理面板。 | 37532 | Go |
-| 205 | [authentik](https://github.com/goauthentik/authentik) | The authentication glue you need. | 26474 | Python |
-| 206 | [dataease](https://github.com/dataease/dataease) | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. | 24748 | Java |
-| 207 | [videospeed](https://github.com/igrigorik/videospeed) | HTML5 video speed controller (for Google Chrome) | 4487 | JavaScript |
-| 208 | [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能... | 34139 | Rust |
-| 209 | [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format | 72210 | C++ |
-| 210 | [openpilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. | 64235 | Python |
-| 211 | [AIWriteX](https://github.com/iniwap/AIWriteX) | AIWriteX - 微信公众号全自动AI工具：全网热搜舆情聚合+趋势分析+爆款选题+文章采集+一键生成排版发布  AI自动配图  去AI味、过朱雀检测  支持小红书/百家号/头条等多平台  洗稿润色支持多账号  专家赛道  小绿书贴图  短视频文案  手机控制  小说连载  短剧剧本  爆文10w+神器 | 2332 | Python |
-| 212 | [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero | 38678 | Python |
-| 213 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | 154439 | Python |
-| 214 | [cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) | 🍒 This is the mobile version of Cherry Studio. | 4096 | TypeScript |
-| 215 | [meteor](https://github.com/meteor/meteor) | Meteor, the JavaScript App Platform | 44790 | JavaScript |
-| 216 | [qwerty-learner](https://github.com/RealKai42/qwerty-learner) | 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers | 23906 | TypeScript |
-| 217 | [playwright-python](https://github.com/microsoft/playwright-python) | Python version of the Playwright testing and automation library. | 15133 | Python |
-| 218 | [pollinations](https://github.com/pollinations/pollinations) | Your Friendly Open-Source Gen-AI Platform | 5336 | TypeScript |
-| 219 | [cline](https://github.com/cline/cline) | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. | 71911 | TypeScript |
-| 220 | [claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ... | 157156 | TypeScript |
-| 221 | [skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | 23551 | Python |
-| 222 | [Codewhale](https://github.com/codewhale-hq/Codewhale) | Open-source Rust coding agent for terminal, web, and desktop. Any model, multi-agent fleets, MCP & plugins, OS sandboxing, and session receipts. | 41218 | Rust |
-| 223 | [koodo-reader](https://github.com/koodo-reader/koodo-reader) | A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web | 28991 | JavaScript |
-| 224 | [skills](https://github.com/scenario-labs/skills) | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus e... | 4034 | Python |
-| 225 | [core](https://github.com/vuejs/core) | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | 55139 | TypeScript |
-| 226 | [new-term-radar](https://github.com/zhuyansen/new-term-radar) | Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them. | 2242 | Python |
-| 227 | [Nuitka](https://github.com/Nuitka/Nuitka) | Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens... | 15264 | Python |
-| 228 | [lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | A toolbox of film styles made in code for Claude Code: 99 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Le... | 21371 | JavaScript |
-| 229 | [BeefTV](https://github.com/glanderness/BeefTV) | High-performance · Lightweight · AI Native Video workspace. 面向 AI 时代的视频创作工作台。 在画布中，和Agent一起自由连接创意和素材。 | 2666 | TypeScript |
-| 230 | [paperclip](https://github.com/paperclipai/paperclip) | The open-source app everyone uses to manage agents at work | 117226 | TypeScript |
-| 231 | [vyper](https://github.com/vyperlang/vyper) | Pythonic Smart Contract Language for the EVM | 5186 | Python |
-| 232 | [sail-riscv](https://github.com/riscv/sail-riscv) | Sail RISC-V model | 817 | Sail |
-| 233 | [explainroo](https://github.com/vincentsch/explainroo) | Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4. | 1462 | JavaScript |
-| 234 | [full-stack-fastapi-templa](https://github.com/fastapi/full-stack-fastapi-template) | Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose. | 46341 | TypeScript |
-| 235 | [airi](https://github.com/moeru-ai/airi) | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf... | 51803 | TypeScript |
-| 236 | [developer-roadmap](https://github.com/nilbuild/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 372809 | TypeScript |
-| 237 | [any-auto-register](https://github.com/zc-zhangchen/any-auto-register) | 无 | 3626 | Python |
-| 238 | [sqlmodel](https://github.com/fastapi/sqlmodel) | SQL databases in Python, designed for simplicity, compatibility, and robustness. | 18672 | Python |
-| 239 | [ten-framework](https://github.com/TEN-framework/ten-framework) |  Open-source framework for conversational voice AI agents | 11247 | Python |
-| 240 | [typer](https://github.com/fastapi/typer) | Typer, build great CLIs. Easy to code. Based on Python type hints. | 20445 | Python |
-| 241 | [ds-harness-remote](https://github.com/liguobao/ds-harness-remote) | 基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solu... | 3809 | TypeScript |
-| 242 | [maccms10](https://github.com/magicblack/maccms10) | 苹果CMS v10 · MacCMS v10 — 开源内容管理系统：视频 / 分集剧情 / 文章 / 漫画 / 图片 / 网址导航. Open-source PHP CMS for video, articles, manga, images & site navigation. | 2932 | PHP |
-| 243 | [OpenHands](https://github.com/OpenHands/OpenHands) | 🙌 OpenHands: AI-Driven Development | 94386 | TypeScript |
-| 244 | [Agent-S](https://github.com/simular-ai/Agent-S) | Agent S: the state-of-the-art open source computer use agents | 13054 | Python |
-| 245 | [Rich-Address-Wallet](https://github.com/Pymmdrza/Rich-Address-Wallet) | All Rich Address Wallet Cryptocurrency [Bitcoin , Ethereum , Dogecoin, Dash, Litecoin, Polkadot, TRON, ZCASH, BCH] | 400 | 无 |
-| 246 | [infOS](https://github.com/Astrmira/infOS) | 基于操作系统思维构建的AI Agent底座：用长记忆引擎造就「陪伴」；用精美客户端打造「体验」；用深度拓展探索「无限边界」。只为打造最懂你的AI伙伴 | 169 | TypeScript |
-| 247 | [dsh-market](https://github.com/dsh-market/dsh-market) | The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场 | 13545 | TypeScript |
-| 248 | [renpy](https://github.com/renpy/renpy) | The Ren'Py Visual Novel Engine | 7065 | Ren'Py |
-| 249 | [laya](https://github.com/NandhaKishorM/laya) | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque... | 35983 | Python |
-| 250 | [astron-agent](https://github.com/iflytek/astron-agent) | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. | 8930 | Python |
-| 251 | [oppia](https://github.com/oppia/oppia) | A free, online learning platform to make quality education accessible for all. | 7010 | Python |
-| 252 | [Awesome-REA](https://github.com/reacher-z/Awesome-REA) | Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese. | 3568 | Python |
-| 253 | [v2rayNG](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, support Xray core and v2fly core | 66591 | Kotlin |
-| 254 | [superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | 75694 | Python |
-| 255 | [excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) | Excel MCP server: let AI (Claude, Cursor, Codex) create and edit Excel files with charts, PivotTables, slicers and formulas. No Excel required. | 4326 | Python |
-| 256 | [goose](https://github.com/aaif-goose/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | 57024 | Rust |
-| 257 | [dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 | 36890 | TypeScript |
-| 258 | [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) | Enjoy the magic of Diffusion models! | 13442 | Python |
-| 259 | [private-gpt](https://github.com/zylon-ai/private-gpt) | Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server. | 57659 | Python |
-| 260 | [OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) | 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件）  Local-first open-source cross-platform AI content discovery agent: understands you, th... | 3803 | Python |
-| 261 | [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) | List of libraries, tools and APIs for web scraping and data processing. | 8249 | JavaScript |
-| 262 | [cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) | Creates standalone executables from Python scripts with the same performance as the original script. It is cross-platform and should work on any platform that Python runs on. | 1565 | Python |
-| 263 | [esProc](https://github.com/SPLWare/esProc) | esProc SPL is a JVM-based programming language designed for structured data computation, serving as both a data analysis tool and an embedded computing engine. | 4675 | Java |
-| 264 | [Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the <canvas> tag | 67827 | JavaScript |
-| 265 | [AutoSwarm](https://github.com/HKUDS/AutoSwarm) | AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You. | 2698 | Python |
-| 266 | [uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. | 92692 | Rust |
-| 267 | [ui](https://github.com/shadcn-ui/ui) | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. | 129137 | TypeScript |
-| 268 | [WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) | 微信 4.x 数据库解密与分析，支持实时更新、聊天记录与朋友圈导出、年度总结。 | 4423 | Python |
-| 269 | [nano-banana-prompt-studio](https://github.com/lissettecarlr/nano-banana-prompt-studio) | 一个支持nano-banana、gpt-image-2和千问的文生图模型的提示词结构化与优化工具集。 它帮助你快速构建高质量的提示词，并一键调用接口生成图片，让「想法 → 好图」变得更简单、更可控。 | 124 | Python |
-| 270 | [hamuleite](https://github.com/hoochanlon/hamuleite) | 🌊深度整合全球顶尖学术、金融与教育资源：学术板块汇聚 JSTOR、Taylor & Francis、剑桥大学出版社等权威平台的论文，并接入 Z-Library 影子图书馆的海量电子书；教育板块收录香港、新加坡从小学到高中以及大学学科教科书；金融板块则聚合香橼、摩根、野村等顶级机构的深度研报，只为打破信息孤岛，构建知识平权普惠知识库。 | 10148 | Jupyter Notebook |
-| 271 | [supermemory](https://github.com/supermemoryai/supermemory) | Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era. | 31794 | TypeScript |
-| 272 | [plugins](https://github.com/cursor/plugins) | Cursor plugin specification and official plugins | 19661 | TypeScript |
-| 273 | [actual](https://github.com/actualbudget/actual) | A local-first personal finance app | 30465 | TypeScript |
-| 274 | [wechaty](https://github.com/wechaty/wechaty) | Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt | 23617 | TypeScript |
-| 275 | [SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) | Modular SenseNova skills for building AI-powered office assistants and productivity workflows | 6114 | JavaScript |
-| 276 | [minimind](https://github.com/jingyaogong/minimind) | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. | 71378 | Python |
-| 277 | [clashfree](https://github.com/free-nodes/clashfree) | clash节点、免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅地址、clash免费节点每日更新 | 17440 | 无 |
-| 278 | [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | An MCP-based chatbot  一个基于MCP的聊天机器人 | 33826 | C++ |
-| 279 | [preact](https://github.com/preactjs/preact) | ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM. | 39017 | JavaScript |
-| 280 | [autoclip](https://github.com/zhouxiaoka/autoclip) | AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing. | 16626 | Python |
-| 281 | [Inkeys](https://github.com/Alan-CRL/Inkeys) | Inkeys is a free, open-source Windows app for desktop annotation, free-form whiteboarding, and slide markup—featuring smooth, responsive ink, smart drawing tools, and a sleek, customizable interface. | 1222 | C++ |
-| 282 | [zvec-grep](https://github.com/zvec-ai/zvec-grep) | Local-first search across your workspace, built for humans and AI agents. | 4384 | Rust |
-| 283 | [350-layout-compositions](https://github.com/nevertoday/350-layout-compositions) | 350 layout composition references across visual principles, editorial design, typography, grids, web UI, film, Chinese art, and presentations. | 908 | JavaScript |
-| 284 | [AiToEarn](https://github.com/yikart/AiToEarn) | Let's use AI to Earn! | 28742 | TypeScript |
-| 285 | [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cm... | 7592 | HTML |
-| 286 | [sub2api](https://github.com/Wei-Shaw/sub2api) | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | 46660 | Go |
-| 287 | [facefusion](https://github.com/facefusion/facefusion) | Industry leading face manipulation platform | 30827 | Python |
-| 288 | [zvec](https://github.com/alibaba/zvec) | A lightweight, lightning-fast, in-process vector database | 16291 | C++ |
-| 289 | [AIClient2API](https://github.com/justlovemaki/AIClient2API) | Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Buil... | 9005 | JavaScript |
-| 290 | [FunASR](https://github.com/modelscope/FunASR) | Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving. | 21137 | Python |
-| 291 | [dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) | DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated a... | 1509 | Python |
-| 292 | [antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) | 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows.  专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。 | 5861 | C++ |
-| 293 | [patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 | 13876 | Python |
-| 294 | [issrc](https://github.com/jrsoftware/issrc) | Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizatio... | 5784 | Pascal |
-| 295 | [mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) | Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI, Telegram or More. | 4073 | TypeScript |
-| 296 | [impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. | 117213 | Rust |
-| 297 | [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | 155789 | C |
-| 298 | [awesome-REA-cases](https://github.com/songshikang0111/awesome-REA-cases) | A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours. | 470 | Python |
-| 299 | [tools](https://github.com/alesha-pro/tools) | Tools, ComfyUI workflows and benchmark configs from a 4x RTX 3090 local-inference rig | 704 | HTML |
-| 300 | [LongMemory](https://github.com/CaviraOSS/LongMemory) | Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc. | 4587 | TypeScript |
-| 301 | [pywebview](https://github.com/r0x0r/pywebview) | Build GUI for your Python program with JavaScript, HTML, and CSS | 6181 | Python |
-| 302 | [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot | 57293 | Python |
-| 303 | [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | 91262 | TypeScript |
-| 304 | [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) | 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享 | 16337 | Python |
-| 305 | [element-plus](https://github.com/element-plus/element-plus) | 🎉 A Vue.js 3 UI Library made by Element team | 27879 | TypeScript |
-| 306 | [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | An open source re-implementation of RollerCoaster Tycoon 2 🎢 | 16613 | C++ |
-| 307 | [prefect](https://github.com/PrefectHQ/prefect) | Prefect is a workflow orchestration framework for building resilient data pipelines in Python. | 24246 | Python |
-| 308 | [buzz](https://github.com/block/buzz) | A hive mind communication platform | 37774 | Rust |
-| 309 | [kdenlive](https://github.com/KDE/kdenlive) | Free and open source video editor, based on MLT Framework and KDE Frameworks | 6191 | C++ |
-| 310 | [awesome-jev-projects](https://github.com/logicrw/awesome-jev-projects) | Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync | 742 | JavaScript |
-| 311 | [deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta... | 85843 | Python |
-| 312 | [awesome-nano-banana-pro-p](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source. | 13874 | TypeScript |
-| 313 | [PageIndex](https://github.com/VectifyAI/PageIndex) | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | 40792 | Python |
-| 314 | [openai-python](https://github.com/openai/openai-python) | The official Python library for the OpenAI API | 32249 | Python |
-| 315 | [TradingView-Webhook-Bot](https://github.com/fabston/TradingView-Webhook-Bot) | 📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email.  | 1920 | Python |
-| 316 | [datasets](https://github.com/huggingface/datasets) | 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools | 22187 | Python |
-| 317 | [gradio](https://github.com/gradio-app/gradio) | Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work! | 44159 | Python |
-| 318 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | scikit-learn: machine learning in Python | 68337 | Python |
-| 319 | [upptime](https://github.com/upptime/upptime) | ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary | 17214 | Markdown |
-| 320 | [maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from 6K websites | 41301 | Python |
-| 321 | [taro](https://github.com/NervJS/taro) | 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。 | 37765 | TypeScript |
-| 322 | [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) | Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns. | 12075 | Python |
-| 323 | [editor](https://github.com/pascalorg/editor) | Open-source 3D architecture software for AECO, scan-to-BIM. Agent-friendly, browser-first, MCP, CLI. | 25777 | TypeScript |
-| 324 | [ruflo](https://github.com/ruvnet/ruflo) | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa... | 82448 | TypeScript |
-| 325 | [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official, Anthropic-managed directory of high quality Claude Code Plugins. | 48265 | Python |
-| 326 | [Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to... | 11634 | Python |
-| 327 | [CowAgent](https://github.com/zhayujie/CowAgent) | Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-lin... | 48091 | Python |
-| 328 | [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) | Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. | 10549 | Rust |
-| 329 | [sokuji](https://github.com/kizuna-ai-lab/sokuji) | Real-time two-way speech translation for bilingual meetings — auto-detects the spoken language and translates both directions, cloud or fully offline on-device. Desktop (Windows · macOS · Linux) + bro... | 1526 | TypeScript |
-| 330 | [Paddle](https://github.com/PaddlePaddle/Paddle) | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） | 24155 | C++ |
-| 331 | [openinterpreter](https://github.com/openinterpreter/openinterpreter) | A coding agent for open models like Kimi K3.1 and GLM 5.3 | 68971 | Rust |
-| 332 | [AutoMonkey](https://github.com/MihailCosmin/AutoMonkey) | Python Automation using Mouse and Keyboard, for the masses | 23 | Python |
-| 333 | [BrowserSkill](https://github.com/Tencent/BrowserSkill) | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. | 10748 | TypeScript |
-| 334 | [prompts.chat](https://github.com/f/prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | 178549 | MDX |
-| 335 | [pyvideotrans](https://github.com/jianchang512/pyvideotrans) | Translate the video from one language to another and embed dubbing & subtitles. | 19846 | Python |
-| 336 | [MuseAI-Skills](https://github.com/win4r/MuseAI-Skills) | muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive. | 703 | HTML |
-| 337 | [zulip](https://github.com/zulip/zulip) | Zulip server and web application. Open-source team chat that helps teams stay productive and focused. | 26310 | Python |
-| 338 | [freebuff](https://github.com/CodebuffAI/freebuff) | The free coding agent | 14322 | TypeScript |
-| 339 | [browser-use](https://github.com/browser-use/browser-use) | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. | 122116 | Python |
-| 340 | [Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) | 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建 | 2527 | Go |
-| 341 | [MemOS](https://github.com/MemTensor/MemOS) | Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support. | 12517 | TypeScript |
-| 342 | [gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA | 142703 | TypeScript |
-| 343 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | 459662 | TypeScript |
-| 344 | [bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | 175140 | JavaScript |
-| 345 | [nexrender](https://github.com/inlife/nexrender) | 📹  Data-driven render automation for After Effects | 1867 | JavaScript |
-| 346 | [MinerU](https://github.com/opendatalab/MinerU) | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. | 84367 | Python |
-| 347 | [czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. | 35538 | Fluent |
-| 348 | [westore](https://github.com/Tencent/westore) | 小程序MVVM分层架构 | 4278 | JavaScript |
-| 349 | [claude-code-templates](https://github.com/davila7/claude-code-templates) | Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods | 34218 | Python |
-| 350 | [xzs](https://github.com/mindskip/xzs) | 在线考试系统 | 3922 | JavaScript |
-| 351 | [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android... | 16249 | C++ |
-| 352 | [wemod-launcher](https://github.com/DeckCheatz/wemod-launcher) | Tool to launch the Game Trainer / Cheat tool WeMod along with your game made for Linux mainly for steam | 660 | Python |
-| 353 | [libreget](https://github.com/OpenSelena/libreget) | Open-source download manager for courses (Udemy/Hotmart), YouTube, music & 1,800+ sites. Built with Tauri 2.0, Rust & Svelte. | 7336 | Rust |
-| 354 | [electron-builder](https://github.com/electron-userland/electron-builder) | A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box | 14727 | TypeScript |
-| 355 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. | 119420 | Swift |
-| 356 | [ollama](https://github.com/ollama/ollama) | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | 188187 | Go |
-| 357 | [pandoc](https://github.com/jgm/pandoc) | Universal markup converter | 47095 | Haskell |
-| 358 | [sunnypilot](https://github.com/sunnypilot/sunnypilot) | sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 350 supported car makes and models with modified behaviors of driving assist enga... | 2185 | Python |
-| 359 | [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记  评论爬虫、抖音视频  评论爬虫、快手视频  评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫   知乎问答文章｜评论爬虫 | 71836 | Python |
-| 360 | [RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. | 105250 | Rust |
-| 361 | [uni-ui](https://github.com/dcloudio/uni-ui) | 基于uni-app的、全端兼容的、高性能UI框架 | 2089 | JavaScript |
-| 362 | [puppeteer](https://github.com/puppeteer/puppeteer) | JavaScript API for Chrome and Firefox | 95908 | TypeScript |
-| 363 | [promptfoo](https://github.com/promptfoo/promptfoo) | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line ... | 27701 | TypeScript |
-| 364 | [spyder](https://github.com/spyder-ide/spyder) | Official repository for Spyder - The Scientific Python Development Environment | 9404 | Python |
-| 365 | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. | 145794 | Python |
-| 366 | [toga](https://github.com/beeware/toga) | A Python native, OS native GUI toolkit. | 5428 | Python |
-| 367 | [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | 124102 | C++ |
-| 368 | [awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) | 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI im... | 10422 | 无 |
-| 369 | [Wox](https://github.com/Wox-launcher/Wox) | A cross-platform launcher that simply works | 27700 | Go |
-| 370 | [starship](https://github.com/starship/starship) | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! | 60933 | Rust |
-| 371 | [hashcat](https://github.com/hashcat/hashcat) | World's fastest and most advanced password recovery utility | 27428 | C |
-| 372 | [liteparse](https://github.com/run-llama/liteparse) | A fast, helpful, and open-source document parser | 13399 | Rust |
-| 373 | [new-api](https://github.com/QuantumNous/new-api) | Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting. | 52584 | Go |
-| 374 | [ego-lite](https://github.com/citrolabs/ego-lite) | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf... | 24614 | JavaScript |
-| 375 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Qt 上位机/机械设计）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。 | 22338 | Shell |
-| 376 | [kepler.gl](https://github.com/keplergl/kepler.gl) | Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets. | 12111 | TypeScript |
-| 377 | [soul.md](https://github.com/aeonfun/soul.md) | The best way to build a personality for your agent. Let Claude Code / OpenClaw ingest your data & build your AI soul. | 715 | JavaScript |
-| 378 | [datasette](https://github.com/simonw/datasette) | An open source multi-tool for exploring and publishing data | 11669 | Python |
-| 379 | [fuint](https://github.com/fushengqian/fuint) | fuint会员营销系统是基于Java开发，集线上商城、线下门店收银管理与会员营销的系统，整合 POS 收银、二级分销、线上积分商城、会员营销能力，支持小程序H5商城。具有会员分享奖励、优惠券、预存卡、实体卡、次卡、储值卡、电子券、会员积分、会员等级、员工提成、分销裂变等完整营销工具。系统采用SpringBoot3、Vue3、Uniapp主流技术栈，支持微信小程序、H5端、后台管理端。适用生鲜、零售... | 1811 | Java |
-| 380 | [keras](https://github.com/keras-team/keras) | Deep Learning for humans | 64450 | Python |
-| 381 | [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) | A curated list of awesome Jupyter projects, libraries and resources | 4703 | 无 |
-| 382 | [reflex](https://github.com/reflex-dev/reflex) | 🕸️ Web apps in pure Python 🐍 | 29050 | Python |
-| 383 | [generativeart](https://github.com/jdxyw/generativeart) | Generative Art in Go | 954 | Go |
-| 384 | [docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) | Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs | 1311 | Vue |
-| 385 | [passivbot](https://github.com/enarjord/passivbot) | Trading bot running on Bybit, Bitget, OKX, GateIO, Binance, Kucoin, WEEX and Hyperliquid | 2191 | Python |
-| 386 | [tvbox](https://github.com/qist/tvbox) | OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 | 13329 | JavaScript |
-| 387 | [agentmemory](https://github.com/rohitg00/agentmemory) | #1 Persistent memory for AI coding agents based on real-world benchmarks | 30599 | TypeScript |
-| 388 | [cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io | 157362 | Rust |
-| 389 | [ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version ... | 7973 | CSS |
-| 390 | [sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | 117822 | Python |
-| 391 | [EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI) | A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents. | 3788 | Rust |
-| 392 | [Pillow](https://github.com/python-pillow/Pillow) | Python Imaging Library (fork) | 14022 | Python |
-| 393 | [deepchat](https://github.com/ThinkInAIXYZ/deepchat) | 🐬DeepChat - A smart assistant that connects powerful AI to your personal world | 6408 | TypeScript |
-| 394 | [tencentcloud-sdk-python](https://github.com/TencentCloud/tencentcloud-sdk-python) | Tencent Cloud API 3.0 SDK for Python | 717 | Python |
-| 395 | [pytudes](https://github.com/norvig/pytudes) | Python programs, usually short, of considerable difficulty, to perfect particular skills. | 24433 | Jupyter Notebook |
-| 396 | [agents-radar](https://github.com/duanyytop/agents-radar) | Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions. | 1167 | TypeScript |
-| 397 | [matplotlib](https://github.com/matplotlib/matplotlib) | matplotlib: plotting with Python | 23504 | Python |
-| 398 | [nanobot](https://github.com/HKUDS/nanobot) | Your lightweight open-source personal agent. | 50357 | Python |
-| 399 | [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | 12841 | JavaScript |
-| 400 | [vxe-table](https://github.com/x-extends/vxe-table) | vxe table 支持 vue2, vue3 的表格解决方案 | 8633 | TypeScript |
-| 401 | [Github-Ranking](https://github.com/EvanLi/Github-Ranking) | :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily.  Github仓库排名，每日自动更新 | 13185 | Python |
-| 402 | [mempalace](https://github.com/MemPalace/mempalace) | The best-benchmarked open-source AI memory system. And it's free. | 60717 | Python |
-| 403 | [genoffice](https://github.com/genspark-ai/genoffice) | Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and... | 12977 | TypeScript |
-| 404 | [onlook](https://github.com/onlook-dev/onlook) | The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers an... | 27962 | TypeScript |
-| 405 | [openstory](https://github.com/openstory-so/openstory) | Open-source AI-powered video sequence platform built with TanStack Start | 729 | TypeScript |
-| 406 | [iii](https://github.com/iii-hq/iii) | Effortlessly compose, extend, observe, discover, and react to every service in real-time for the first time ever. | 18976 | Rust |
-| 407 | [cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 中小学 10 学科知识图谱查漏补缺：4,068 个知识点、6,429 条先修关系、16,419 道题。按国家课程标准逐条核对，诊断定位真正没学会的前置知识点，给出补学路径。 | 9257 | Python |
-| 408 | [pyglet](https://github.com/pyglet/pyglet) | pyglet is a cross-platform windowing and multimedia library for Python, for developing games and other visually rich applications. | 2231 | Python |
-| 409 | [vditor](https://github.com/Vanessa219/vditor) | ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes. | 11460 | TypeScript |
-| 410 | [generative-ai-for-beginne](https://github.com/microsoft/generative-ai-for-beginners) | 21 Lessons, Get Started Building with Generative AI  | 124287 | Jupyter Notebook |
-| 411 | [langflow](https://github.com/langflow-ai/langflow) | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | 156965 | Python |
-| 412 | [paywall-gallery](https://github.com/paywallpro/paywall-gallery) | Top iOS app subscription paywall and onboarding gallery with screenshots, videos, pricing models, patterns, and monetization signals. | 934 | 无 |
-| 413 | [WeKnora](https://github.com/Tencent/WeKnora) | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | 38276 | Go |
-| 414 | [CloudBot](https://github.com/TotallyNotRobots/CloudBot) | CloudBot - The simple, fast, expandable, open-source Python IRC Bot! | 183 | Python |
-| 415 | [a2ui](https://github.com/a2ui-project/a2ui) | Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose. | 18720 | TypeScript |
-| 416 | [WeChatAuto.SDK](https://github.com/scottfly189/WeChatAuto.SDK) | WeChatAuto.SDK 是一款面向 AI 的微信RPA自动化SDK，这是一个面向开发者的微信自动化开发工具包，帮助你构建自己的微信机器人、微信助手和企业系统集成; | 329 | C# |
-| 417 | [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! | 105522 | C++ |
-| 418 | [claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. | 194721 | Rust |
-| 419 | [moyin-creator](https://github.com/MemeCalculate/moyin-creator) | AI 影视生产级工具  支持 Seedance 2.0  剧本到成片全流程批量化  AI-powered film production tool with Seedance 2.0 support | 4879 | TypeScript |
-| 420 | [mcp-use](https://github.com/mcp-use/mcp-use) | The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents. | 11011 | TypeScript |
-| 421 | [screenpipe](https://github.com/screenpipe/screenpipe) | YC (S26)  Screenpipe finds the work worth automating  Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use. | 22553 | Rust |
-| 422 | [clash-freenode](https://github.com/OpenRunner/clash-freenode) | 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY | 6546 | 无 |
-| 423 | [short-video-factory](https://github.com/YILS-LIN/short-video-factory) | 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool | 6298 | TypeScript |
-| 424 | [flet](https://github.com/flet-dev/flet) | Build realtime web, mobile and desktop apps in Python only. No frontend experience required. | 17591 | Python |
-| 425 | [openscad](https://github.com/openscad/openscad) | OpenSCAD - The Programmers Solid 3D CAD Modeller   | 10746 | C++ |
-| 426 | [codefever](https://github.com/PGYER/codefever) | CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)! | 2748 | PHP |
-| 427 | [open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,... | 56487 | Go |
-| 428 | [upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. | 53265 | TypeScript |
-| 429 | [v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others | 121507 | C# |
-| 430 | [cc-connect](https://github.com/chenhg5/cc-connect) | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from... | 16500 | Go |
-| 431 | [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s... | 31205 | TypeScript |
-| 432 | [crewAI](https://github.com/crewAIInc/crewAI) | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 61291 | Python |
-| 433 | [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) | Run agents in Obsidian - OpenCode, Codex, Claude Code etc. | 8053 | TypeScript |
-| 434 | [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | An AI prompt optimizer for writing better prompts and getting better AI results. | 42568 | TypeScript |
-| 435 | [FreeVideo](https://github.com/FlashML-org/FreeVideo) | Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware. | 5043 | Python |
-| 436 | [markdown-online-editor](https://github.com/nicejade/markdown-online-editor) | 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site | 3998 | CSS |
-| 437 | [cesium](https://github.com/CesiumGS/cesium) | An open-source JavaScript library for world-class 3D globes and maps :earth_americas: | 15990 | JavaScript |
-| 438 | [note-gen](https://github.com/codexu/note-gen) | Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI. | 13055 | TypeScript |
-| 439 | [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed. | 33080 | Python |
-| 440 | [archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Curso... | 100253 | JavaScript |
-| 441 | [FeHelper](https://github.com/zxlie/FeHelper) | 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!） | 5690 | JavaScript |
-| 442 | [pwndbg](https://github.com/pwndbg/pwndbg) | Exploit Development and Reverse Engineering with GDB & LLDB Made Easy | 11251 | Python |
-| 443 | [AlgoXY](https://github.com/liuxinyu95/AlgoXY) | Book of Elementary Functional Algorithms and Data structures | 6330 | TeX |
-| 444 | [SmsForwarder](https://github.com/pppscn/SmsForwarder) | 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是... | 29037 | Kotlin |
-| 445 | [numpy](https://github.com/numpy/numpy) | The fundamental package for scientific computing with Python. | 33483 | Python |
-| 446 | [agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 | 6617 | TypeScript |
-| 447 | [gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | 109165 | TypeScript |
-| 448 | [ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) | ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this ... | 16952 | Python |
-| 449 | [maxun](https://github.com/getmaxun/maxun) | Turn any website into a structured API. Extract, automate, search and monitor the web. | 18566 | TypeScript |
-| 450 | [hyperforge](https://github.com/PlayHyperia/hyperforge) | MMORPG for humans and agents. In development. Powered by ElizaOS | 102 | TypeScript |
-| 451 | [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged document management system: scan, index and archive all your documents | 48648 | Python |
-| 452 | [test_code](https://github.com/ysoftman/test_code) | test code | 3 | HTML |
-| 453 | [xzs-mysql](https://github.com/mindskip/xzs-mysql) | 学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。 | 3603 | JavaScript |
-| 454 | [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) | A markdown version emoji cheat sheet | 13838 | TypeScript |
-| 455 | [gorse](https://github.com/gorse-io/gorse) | AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding | 9928 | Go |
-| 456 | [wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go | 37205 | Go |
-| 457 | [disktree](https://github.com/tobi/disktree) | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. | 4326 | Rust |
-| 458 | [adss](https://github.com/clion007/adss) | 全自动 DNS 智能脚本（ADSS），重新启用，项目更名为ADSS，进行重大调整升级后镜像至gitcode和gitee，方便国内网络环境使用。 | 154 | Shell |
-| 459 | [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | 144744 | TypeScript |
-| 460 | [Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks... | 105911 | Python |
-| 461 | [Horizon](https://github.com/Thysrael/Horizon) | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese.  用 AI 构建你专属的新闻雷达 | 15151 | Python |
-| 462 | [podman](https://github.com/podman-container-tools/podman) | Podman: A tool for managing OCI containers and pods. | 33397 | Go |
-| 463 | [piskel](https://github.com/piskelapp/piskel) | A simple web-based tool for Spriting and Pixel art. | 13021 | TypeScript |
-| 464 | [agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | 26787 | Rust |
-| 465 | [deepflow](https://github.com/deepflowio/deepflow) | eBPF Observability - Distributed Tracing and Profiling | 4330 | Go |
-| 466 | [AI-Novel-Writing-Assistan](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) | 面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-d... | 3563 | TypeScript |
-| 467 | [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software | 196058 | Go |
-| 468 | [osiris](https://github.com/simplifaisoul/osiris) | Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -                            2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump  | 11879 | TypeScript |
-| 469 | [stagehand](https://github.com/browserbase/stagehand) | The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more. | 26154 | TypeScript |
-| 470 | [go](https://github.com/golang/go) | The Go programming language | 140144 | Go |
-| 471 | [susi_builder_web](https://github.com/susiai/susi_builder_web) | 无 | 1033 | CSS |
-| 472 | [telegram-crawler](https://github.com/MarshalX/telegram-crawler) | Tracks changes to Telegram's sites, beta apps and servers | 369 | Python |
-| 473 | [OpenBB](https://github.com/openbq-org/OpenBB) | Open Data Platform for analysts, quants and AI agents. | 75759 | Python |
-| 474 | [proxypin](https://github.com/wanghongenpin/proxypin) | Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems | 14486 | Dart |
-| 475 | [Strata](https://github.com/Niko1221/Strata) | Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input. | 48301 | C++ |
-| 476 | [salt](https://github.com/saltstack/salt) | Software to automate the management and configuration of infrastructure and applications at scale. | 15769 | Python |
-| 477 | [strix](https://github.com/usestrix/strix) | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. | 77675 | Python |
-| 478 | [tambo](https://github.com/tambo-ai/tambo) | Generative UI SDK for React | 11226 | TypeScript |
-| 479 | [PraisonAI](https://github.com/MervinPraison/PraisonAI) | Private AI agents for highly regulated teams, and for anyone who wants AI on their own computer. Open-source Python agent framework that runs fully offline. | 9384 | Python |
-| 480 | [better-auth](https://github.com/better-auth/better-auth) | The most comprehensive authentication framework | 30893 | TypeScript |
-| 481 | [coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers. | 66488 | PHP |
-| 482 | [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 | 25686 | JavaScript |
-| 483 | [cli](https://github.com/cli/cli) | GitHub’s official command line tool | 47218 | Go |
-| 484 | [Pallaidium](https://github.com/tin2tin/Pallaidium) | PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back. | 1563 | Python |
-| 485 | [Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. | 46821 | C# |
-| 486 | [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | SeleniumBase browser automation handles E2E testing, web scraping, and stealth. CDP Mode bypasses bot-detection. Lots of integrations. | 13286 | Python |
-| 487 | [upx](https://github.com/upx/upx) | UPX - the Ultimate Packer for eXecutables | 18036 | C++ |
-| 488 | [rectg](https://github.com/rooktwo/rectg) | Telegram频道群组推荐 | 9436 | Python |
-| 489 | [tabler-icons](https://github.com/tabler/tabler-icons) | A set of over 6500 free MIT-licensed high-quality SVG icons for you to use in your web projects. | 22832 | JavaScript |
-| 490 | [jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | LIST OF ALL MY JAILBREAKS | 20837 | 无 |
-| 491 | [blockly](https://github.com/RaspberryPiFoundation/blockly) | The web-based visual programming editor. | 13622 | TypeScript |
-| 492 | [auto-editor](https://github.com/WyattBlue/auto-editor) | Effort free video editing! | 6155 | Nim |
-| 493 | [manim](https://github.com/ManimCommunity/manim) | A community-maintained Python framework for creating mathematical animations.  | 42929 | Python |
-| 494 | [USearch](https://github.com/unum-cloud/USearch) | One proximity graph for vector search, sparse products & attention across RAM, VRAM & NVMe, over dense vectors, sequences, shapes & geospatial sets in 14 languages 🔍 | 4394 | C++ |
-| 495 | [swarms](https://github.com/kyegomez/swarms) | The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai | 7402 | Python |
-| 496 | [vis-timeline](https://github.com/visjs/vis-timeline) | 📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges. | 2584 | JavaScript |
-| 497 | [python-chess](https://github.com/niklasf/python-chess) | A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine comm... | 2912 | Python |
-| 498 | [project-maya](https://github.com/mw00/project-maya) | Run GLM-5.3 (744B), DeepSeek-V4.1-Flash (748B), MiniMax-M3.1-Flash (428B), GLM-5.3-Flash (321B), Hy4-Flash (220B) and Inkling 2 Mini (26B) on your own GPUs - from 8 GB of VRAM, NVIDIA and AMD, one das... | 3372 | Cuda |
-| 499 | [nuxt](https://github.com/nuxt/nuxt) | The full-stack Vue framework. | 61103 | TypeScript |
-| 500 | [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins. | 50359 | Python |
-| 501 | [vim](https://github.com/vim/vim) | The official Vim repository | 41382 | Vim Script |
-| 502 | [shadPS4](https://github.com/shadps4-emu/shadPS4) | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ | 34396 | C++ |
-| 503 | [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | 143708 | HTML |
-| 504 | [webpack](https://github.com/webpack/webpack) | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM... | 66017 | JavaScript |
-| 505 | [openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) | OpenClaw Supermemory lets to have long-term memory and recall for your openclaw agent. | 800 | TypeScript |
-| 506 | [TwitterInternalAPIDocumen](https://github.com/fa0311/TwitterInternalAPIDocument) | Twitter Internal API Document | 725 | Python |
-| 507 | [marked](https://github.com/markedjs/marked) | A markdown parser and compiler. Built for speed. | 37327 | TypeScript |
-| 508 | [TypeScript](https://github.com/microsoft/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | 111910 | Go |
-| 509 | [shannon](https://github.com/KeygraphHQ/shannon) | Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. | 52339 | TypeScript |
-| 510 | [Applio](https://github.com/IAHispano/Applio) | A simple, high-quality voice conversion tool focused on ease of use and performance. | 4079 | Python |
-| 511 | [pytest](https://github.com/pytest-dev/pytest) | The pytest framework makes it easy to write small tests, yet scales to support complex functional testing | 14764 | Python |
-| 512 | [gpt4free](https://github.com/xtekky/gpt4free) | The official gpt4free repository  various collection of powerful language models  opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3 | 67111 | Python |
-| 513 | [pypdf](https://github.com/py-pdf/pypdf) | A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files | 10319 | Python |
-| 514 | [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服 | 33383 | Rust |
-| 515 | [pyenv](https://github.com/pyenv/pyenv) | Simple Python version management | 45187 | Shell |
-| 516 | [obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas. | 53857 | Shell |
-| 517 | [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | 24170 | Python |
-| 518 | [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。 | 6678 | JavaScript |
-| 519 | [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) | Make bilingual epub books Using AI translate | 9955 | Python |
-| 520 | [BotBrowser](https://github.com/botswin/BotBrowser) | Advanced Privacy Browser Core with Unified Fingerprint Defense: Cloudflare, Akamai, Kasada, Shape, DataDome, PerimeterX, hCaptcha, FunCaptcha, Imperva, reCAPTCHA, ThreatMetrix, Adscore | 2672 | TypeScript |
-| 521 | [obscura](https://github.com/h4ckf0r0day/obscura) | The headless browser for AI agents and web scraping | 37450 | Rust |
-| 522 | [pluggy](https://github.com/pytest-dev/pluggy) | A minimalist production ready plugin system | 1721 | Python |
-| 523 | [Leaflet](https://github.com/Leaflet/Leaflet) | 🍃 number one JavaScript library for interactive maps 🇺🇦 | 45993 | JavaScript |
-| 524 | [rpcs3](https://github.com/RPCS3/rpcs3) | PlayStation 3 emulator and debugger | 20522 | C++ |
-| 525 | [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. | 80430 | 无 |
-| 526 | [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | 22627 | TypeScript |
-| 527 | [stemdeck](https://github.com/stemdeckapp/stemdeck) | Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative aud... | 4623 | JavaScript |
-| 528 | [Fabric](https://github.com/danielmiessler/Fabric) | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. | 44773 | Go |
-| 529 | [echarts](https://github.com/apache/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser | 67803 | TypeScript |
-| 530 | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill to stop your coding agent from burying the answer. ADHD-friendly output. | 62476 | Python |
-| 531 | [QuantDinger](https://github.com/OpenByteInc/QuantDinger) | The most complete open-source, self-hosted Agentic Trading OS—AI research, Python strategies, factor discovery, backtesting, optimization, paper/live multi-asset execution, risk controls, monitoring, ... | 14001 | Python |
-| 532 | [pydantic](https://github.com/pydantic/pydantic) | Data validation using Python type hints | 29667 | Python |
-| 533 | [fearless](https://github.com/zce/fearless) | A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite. | 1307 | TypeScript |
-| 534 | [computer](https://github.com/cloudflare/computer) | Give your agent a computer 👾 | 9968 | TypeScript |
-| 535 | [nodeskclaw](https://github.com/NoDeskAI/nodeskclaw) | Humans and AI work together ❤️ | 757 | Python |
-| 536 | [codex2api](https://github.com/james-6-23/codex2api) | Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目 | 2395 | Go |
-| 537 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | Faster Whisper transcription with CTranslate2 | 27030 | Python |
-| 538 | [reveric](https://github.com/looplj/reveric) | Agent Native 一站式 AI 小说，短剧桌面创作工作台 | 1011 | Dart |
-| 539 | [Snap](https://github.com/jmoenig/Snap) | a visual programming language inspired by Scratch | 1622 | JavaScript |
-| 540 | [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | MCP for xiaohongshu.com | 17335 | Go |
-| 541 | [agent-zero](https://github.com/agent0ai/agent-zero) | Agent Zero AI framework | 19995 | Python |
-| 542 | [egui](https://github.com/emilk/egui) | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native | 32510 | Rust |
-| 543 | [marketingskills](https://github.com/coreyhaines31/marketingskills) | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. | 62744 | JavaScript |
-| 544 | [magictools](https://github.com/ellisonleao/magictools) | :video_game: :pencil: A list of Game Development resources to make magic happen. | 17874 | Markdown |
-| 545 | [pandas](https://github.com/pandas-dev/pandas) | Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more | 50646 | Python |
-| 546 | [scrapy](https://github.com/scrapy/scrapy) | Scrapy, a fast high-level web crawling & scraping framework for Python. | 65641 | Python |
-| 547 | [cyber-doctor](https://github.com/ZeroTang05/cyber-doctor) | 赛博医生项目——”赛博华佗“，基于多模态大模型的多功能智能体，一键搭建本地多模态大模型。接入医疗健康相关的知识图谱和知识库后可以进行疾病初诊，病历分析，专业知识问答等功能，成为你的私人医生。赛博华佗项目能帮助实现医疗资源的跨地域传播，让更多人借助大模型改善健康水平。"Cyber ​​Huatuo" - Easy to build a personal doctor agent based on L... | 521 | Python |
-| 548 | [opc-skills](https://github.com/ReScienceLab/opc-skills) | Agent Skills for Solopreneurs | 1940 | Python |
-| 549 | [microstudio](https://github.com/pmgl/microstudio) | Free, open source game engine online | 1198 | JavaScript |
-| 550 | [kiss-translator](https://github.com/fishjar/kiss-translator) | A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) | 13544 | JavaScript |
-| 551 | [screenity](https://github.com/alyssaxuu/screenity) | The free and privacy-friendly screen recorder with no limits 🎥 | 19010 | JavaScript |
-| 552 | [markdown](https://github.com/Python-Markdown/markdown) | A Python implementation of John Gruber’s Markdown with Extension support. | 4260 | Python |
-| 553 | [speechbrain](https://github.com/speechbrain/speechbrain) | A PyTorch-based Speech Toolkit | 11951 | Python |
-| 554 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | 402319 | Python |
-| 555 | [fast-anything](https://github.com/EL4CTEO/fast-anything) | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same. | 4114 | Rust |
-| 556 | [nicegui](https://github.com/zauberzeug/nicegui) | Create web-based user interfaces with Python. The nice way. | 16357 | Python |
-| 557 | [livebook](https://github.com/derekfuture/livebook) | 让课本活起来：在书页上，亲手探索课本里的知识。 | 203 | JavaScript |
-| 558 | [chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) | 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 agent harness｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill | 5594 | JavaScript |
-| 559 | [ouroboros-desktop](https://github.com/joi-lab/ouroboros-desktop) | Archived: official Ouroboros moved to https://github.com/razzant/ouroboros | 209 | Python |
-| 560 | [ouroboros](https://github.com/joi-lab/ouroboros) | Archived mirror of https://github.com/razzant/ouroboros. Current code, releases, issues, and discussions live there. | 894 | Python |
-| 561 | [enaml](https://github.com/nucleic/enaml) | Declarative User Interfaces for Python | 1580 | Python |
-| 562 | [cefpython](https://github.com/cztomczak/cefpython) | Python bindings for the Chromium Embedded Framework (CEF) | 3237 | Cython |
-| 563 | [wigolo](https://github.com/KnockOutEZ/wigolo) | The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. | 5568 | TypeScript |
-| 564 | [ai-engineering-from-scrat](https://github.com/rohitg00/ai-engineering-from-scratch) | Learn AI Engineering! Learn it. Build it. Ship it for others. | 80286 | Python |
-| 565 | [crawlab](https://github.com/crawlab-team/crawlab) | Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架 | 12299 | Go |
-| 566 | [mimik](https://github.com/westpoint-io/mimik) | 🎬 A browser extension and desktop app that turns your clicks into step-by-step guides with annotated screenshots 📖 | 1939 | TypeScript |
-| 567 | [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | 120861 | C++ |
-| 568 | [A2A](https://github.com/a2aproject/A2A) | Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. | 26696 | Shell |
-| 569 | [tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. | 98840 | TypeScript |
-| 570 | [switch-frame-tap](https://github.com/TomasUribe/switch-frame-tap) | Play your Nintendo Switch or Switch Lite on your PC: stream games at up to 1080p60 with sound over USB-C or the network, no dock or capture card. Record MP4, take native-resolution screenshots, or use... | 427 | C++ |
-| 571 | [repomix](https://github.com/yamadashy/repomix) | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C... | 29442 | TypeScript |
-| 572 | [one-skill-to-rule-them-al](https://github.com/rebelytics/one-skill-to-rule-them-all) | The meta-skill that improves your skills, including itself. Turns the corrections, judgement calls and repeated workflows of your sessions (autonomous or human-led) into small skill updates and new sk... | 4031 | Markdown |
-| 573 | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software. | 74913 | Python |
-| 574 | [md](https://github.com/doocs/md) | ✍ WeChat Markdown Editor  一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性 | 13564 | TypeScript |
-| 575 | [alist-tvbox](https://github.com/power721/alist-tvbox) | AList proxy server for TvBox, support playlist and search.  | 3187 | Java |
-| 576 | [pycryptodome](https://github.com/Legrandin/pycryptodome) | Self-contained cryptographic library for Python, classical and post-quantum | 3297 | Python |
-| 577 | [JMComic-qt](https://github.com/tonquer/JMComic-qt) | 禁漫天堂，18comic，使用qt实现的PC客户端，支持Windows，Linux，MacOS | 4260 | Python |
-| 578 | [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e... | 153603 | Python |
-| 579 | [epusdt](https://github.com/GMWalletApp/epusdt) | 开源优雅的跨平台收款网关 GM Pay(formerly known as EPUSDT) | 3990 | Go |
-| 580 | [lossless-cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing | 46442 | TypeScript |
-| 581 | [wukong-robot](https://github.com/wzpan/wukong-robot) | 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。 | 7138 | Python |
-| 582 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | A Python module for creating Excel XLSX files. | 3999 | Python |
-| 583 | [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t... | 41387 | C# |
-| 584 | [outlines](https://github.com/dottxt-ai/outlines) | Structured Outputs | 16027 | Python |
-| 585 | [ChatterBot](https://github.com/gunthercox/ChatterBot) | ChatterBot is a machine learning, conversational dialog engine for creating chat bots | 14523 | Python |
-| 586 | [fastembed](https://github.com/qdrant/fastembed) | Fast, Accurate, Lightweight Python library to make State of the Art Embedding | 3313 | Python |
-| 587 | [ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) | 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves | 8719 | Python |
-| 588 | [remove-bg](https://github.com/brilam/remove-bg) | A Python API wrapper for removing background using remove.bg's API | 865 | Python |
-| 589 | [webdav](https://github.com/hacdias/webdav) | A simple and standalone WebDAV server. | 6004 | Go |
-| 590 | [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it. | 7082 | TypeScript |
-| 591 | [Pake](https://github.com/tw93/Pake) | Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux. | 64051 | Rust |
-| 592 | [konva](https://github.com/konvajs/konva) | Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag and drop, transforms, animations, and export. | 15016 | TypeScript |
-| 593 | [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) | Client-side HTML-to-PDF rendering using pure JS. | 4938 | JavaScript |
-| 594 | [notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agen... | 20377 | Python |
-| 595 | [kev](https://github.com/jaredpalmer/kev) | Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own | 10131 | Python |
-| 596 | [opentui](https://github.com/anomalyco/opentui) | OpenTUI is a library to build terminal user interfaces (TUI) | 13927 | TypeScript |
-| 597 | [qrbtf](https://github.com/latentcat/qrbtf) | AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com | 7041 | TypeScript |
-| 598 | [mvt](https://github.com/mvt-project/mvt) | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. | 16202 | Python |
-| 599 | [skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | 333253 | Shell |
-| 600 | [briefcase](https://github.com/beeware/briefcase) | Tools to support converting a Python project into a standalone native application. | 3378 | Python |
-| 601 | [img2threejs](https://github.com/img2threejs/img2threejs) | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. | 21957 | Python |
-| 602 | [Multi-Agent-Custom-Automa](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator) | The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven system that manages a group of AI agents to accomplish tasks based on user input. Powered by Microsoft Agent Framework, Az... | 900 | Python |
-| 603 | [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) | 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具 | 13426 | JavaScript |
-| 604 | [skill-recorder](https://github.com/microsoft/skill-recorder) | Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots... | 5921 | TypeScript |
-| 605 | [potpie](https://github.com/potpie-ai/potpie) | Context Graph for AI Native SDLC | 5803 | Python |
-| 606 | [teardown](https://github.com/elvarofficial/teardown) | A Claude Code skill that turns any machine into a 3D simulator you can take apart | 4213 | JavaScript |
-| 607 | [cloudreve](https://github.com/cloudreve/cloudreve) | 🌩 Self-hosted file management and sharing system, supports multiple storage providers | 29019 | Go |
-| 608 | [vision](https://github.com/pytorch/vision) | Datasets, Transforms and Models specific to Computer Vision | 18032 | Python |
-| 609 | [Feeder](https://github.com/spacecowboy/Feeder) | Android feed reader app | 3145 | Kotlin |
-| 610 | [mem0](https://github.com/mem0ai/mem0) | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. | 69495 | Python |
-| 611 | [psd-tools](https://github.com/psd-tools/psd-tools) | Python package for reading Adobe Photoshop PSD files | 1492 | Python |
-| 612 | [HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 | 77662 | HTML |
-| 613 | [professional-programming](https://github.com/charlax/professional-programming) | A collection of learning resources for curious software engineers | 51706 | Python |
-| 614 | [docusaurus](https://github.com/meta/docusaurus) | Easy to maintain open source documentation websites. | 66808 | TypeScript |
-| 615 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps | 51558 | 无 |
-| 616 | [anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. C... | 3656 | TypeScript |
-| 617 | [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) ... | 22696 | TypeScript |
-| 618 | [anything_about_game](https://github.com/killop/anything_about_game) | A wonderful list of Game Development resources. | 4218 | 无 |
-| 619 | [hypit](https://github.com/hypit-ai/hypit) | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views. | 31570 | TypeScript |
-| 620 | [rea-video](https://github.com/JuneYaooo/rea-video) | Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。 | 13556 | Python |
-| 621 | [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | 101399 | Java |
-| 622 | [OctoBot](https://github.com/Drakkar-Software/OctoBot) | Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15+ exchanges, with a simple interface. | 6992 | Python |
-| 623 | [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia | 80982 | TypeScript |
-| 624 | [wtfibought](https://github.com/mamawai/wtfibought) | A live arena where LLM agents trade real market data with virtual money — every thought, tool call, thesis and post-mortem is public. Bring your own model and key. | 147 | Java |
-| 625 | [memsearch](https://github.com/zilliztech/memsearch) | A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus. | 2944 | Python |
-| 626 | [xdm](https://github.com/subhra74/xdm) | Fast, reliable download accelerator and video downloader since 2013 | 8855 | Kotlin |
-| 627 | [video-recap-skills](https://github.com/zenstory-ai/video-recap-skills) | AI 视频解说 Agent 技能包：自动切镜、看画面写解说词、配音混音合成成片，可导出剪映/CapCut 草稿，无需 GPU ｜ Agent skills for narrated video recaps & CapCut drafts | 655 | Python |
-| 628 | [claudian](https://github.com/YishenTu/claudian) | An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault. | 16081 | TypeScript |
-| 629 | [kivy](https://github.com/kivy/kivy) | Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS | 19033 | Python |
-| 630 | [png2svg](https://github.com/xyproto/png2svg) | :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2 | 361 | Go |
-| 631 | [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | Uncensored AI Image & Video Generator — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. | 36376 | JavaScript |
-| 632 | [ns-emu-tools](https://github.com/triwinds/ns-emu-tools) | 一个用于安装/更新 NS 模拟器的工具 | 4988 | Rust |
-| 633 | [akshare](https://github.com/akfamily/akshare) | AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库 | 23485 | Python |
-| 634 | [PaddleX](https://github.com/PaddlePaddle/PaddleX) | All-in-One Development Tool based on PaddlePaddle | 6304 | Python |
-| 635 | [yomiyasu](https://github.com/nanaism/yomiyasu) | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese | 3530 | Python |
-| 636 | [Skills](https://github.com/MengTo/Skills) | Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents | 8347 | HTML |
-| 637 | [PriceAI](https://github.com/dimthink/PriceAI) | AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。 | 6110 | TypeScript |
-| 638 | [hello-uniapp](https://github.com/dcloudio/hello-uniapp) | uni-app框架演示示例 | 3048 | Vue |
-| 639 | [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | 35406 | Python |
-| 640 | [amphtml](https://github.com/ampproject/amphtml) | The AMP web component framework. | 14906 | JavaScript |
-| 641 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | "Vibe-Trading: Your Personal Trading Agent" | 38958 | Python |
-| 642 | [tick-stock-panel](https://github.com/shy3130/tick-stock-panel) | TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台   LLM能力驱使策略定制+个股分析+复盘  自由接入第三方数据源与个性化扩展数据  | 8305 | Python |
-| 643 | [xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) | 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。 | 8413 | Python |
-| 644 | [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | A collection of MCP servers. | 98523 | 无 |
-| 645 | [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Making large AI models cheaper, faster and more accessible | 41427 | Python |
-| 646 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Towards Agentic Finance Research | 123814 | TypeScript |
-| 647 | [voicebox](https://github.com/jamiepine/voicebox) | The open-source AI voice studio. Clone, dictate, create. | 61341 | Python |
-| 648 | [seafile](https://github.com/haiwen/seafile) | Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views | 15498 | C |
-| 649 | [up](https://github.com/byoungd/up) | 人生进阶指南 韩先凯的人生进阶指南 AI时代中英双语终身学习指南：学习 、创业、财富、爱情、人生与AI | 70921 | JavaScript |
-| 650 | [rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies | 87888 | Rust |
-| 651 | [black](https://github.com/psf/black) | The uncompromising Python code formatter | 42217 | Python |
-| 652 | [Sana](https://github.com/NVlabs/Sana) | SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, World Modeling and Robotics  | 9903 | Python |
-| 653 | [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,... | 94554 | TypeScript |
-| 654 | [inspector](https://github.com/modelcontextprotocol/inspector) | Deterministic testing tools for MCP servers | 11363 | TypeScript |
-| 655 | [x-algorithm](https://github.com/xai-org/x-algorithm) | Algorithm powering the For You feed on X | 34438 | Rust |
-| 656 | [aTrain](https://github.com/aTrainTranscription/aTrain) | A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models. | 1245 | Python |
-| 657 | [openshot-qt](https://github.com/OpenShot/openshot-qt) | OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world. | 6843 | Python |
-| 658 | [Jellyfish](https://github.com/Forget-C/Jellyfish) | 开源 AI短剧生成与短剧制作工作台，支持剧本拆解、短剧分镜、角色一致性管理和视频生成。Open-source AI short drama studio for storyboarding and video generation. | 7344 | Python |
-| 659 | [omniget](https://github.com/tonhowtf/omniget) | Local MCP server that lets Claude Code, Codex, Cursor and Gemini CLI use your own computer and your own logged-in accounts: chats, feeds, browser, files and downloads. Also a downloader for video, mus... | 14719 | Rust |
-| 660 | [awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。 | 8899 | Python |
-| 661 | [Trader-Archives](https://github.com/suoha888/Trader-Archives) | 🏛️ 推特顶级实战派交易员推文公开收录大典 · 剥离噪音，沉淀真金白银实盘认知体系与全量开源数据湖，完全开源免费 by 梭哈.AI | 392 | HTML |
-| 662 | [cython](https://github.com/cython/cython) | The most widely used Python to C compiler | 10901 | Cython |
-| 663 | [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | 64402 | TypeScript |
-| 664 | [m3e-canvas](https://github.com/lnkiai/m3e-canvas) | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. | 10912 | TypeScript |
-| 665 | [servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol Reference Servers | 92265 | TypeScript |
-| 666 | [pygubu-designer](https://github.com/alejandroautalan/pygubu-designer) | A simple GUI designer for the python tkinter module | 1068 | Python |
-| 667 | [diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | 73479 | HTML |
-| 668 | [reddit-mcp-buddy](https://github.com/karanb192/reddit-mcp-buddy) | Clean, LLM-optimized Reddit MCP server. Browse posts, search content, analyze users. No fluff, just Reddit data. | 912 | TypeScript |
-| 669 | [novel-to-game](https://github.com/zenstory-ai/novel-to-game) | 小说改游戏 Agent 技能包：通读拆书、玩法与美术策划、代码构建与盲玩验收，支持网页、互动影游与微信/抖音/TapTap 小游戏 ｜ Agent skills for adapting novels into playable games | 1270 | Markdown |
-| 670 | [hapi](https://github.com/tiann/hapi) | App for Codex / Claude Code / Pi / OpenCode / Kimi Code / Grok Build, vibe coding anytime, anywhere | 5461 | TypeScript |
-| 671 | [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | 75597 | TypeScript |
-| 672 | [html-to-image](https://github.com/bubkoo/html-to-image) | ✂️ Generates an image from a DOM node using HTML5 canvas and SVG. | 7276 | TypeScript |
-| 673 | [ntfy](https://github.com/binwiederhier/ntfy) | Send push notifications to your phone or desktop using PUT/POST | 35769 | Go |
-| 674 | [satori](https://github.com/vercel/satori) | Enlightened library to convert HTML and CSS to SVG | 14218 | TypeScript |
-| 675 | [Liyuan](https://github.com/weidu12123/Liyuan) | 梨园 Liyuan — 以 rp agent为主体的ai角色扮演应用 | 300 | TypeScript |
-| 676 | [melonJS](https://github.com/melonjs/melonJS) | A modern & fully featured HTML5 game engine (2D & 3D) for JavaScript/TypeScript, with WebGL/WebGPU rendering, built-in physics, Tiled map & glTF support and WebAudio. | 6529 | JavaScript |
-| 677 | [light-c](https://github.com/Chunyu33/light-c) | A free, minimalist, lightweight, and high-performance C-drive cleanup tool. | 4220 | Rust |
-| 678 | [MuseBot](https://github.com/yincongcyincong/MuseBot) | Agent for Telegram, Discord, Slack, Lark（飞书），dingding（钉钉）, 企业微信, QQ, 微信（wechat） | 1819 | Go |
-| 679 | [Phoenix](https://github.com/wxWidgets/Phoenix) | wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before. | 2640 | Python |
-| 680 | [mlx-audio](https://github.com/Neywa-Labs/mlx-audio) | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. | 8338 | Python |
-| 681 | [OpenCreator](https://github.com/krillinai/OpenCreator) | Formerly KrillinAI, VideoTranslation and Dubbing Tool for 120+ Languages. Open-source AI workspace for creators, powered by Codex. Video downloader, video translation, create videos, images, audios, a... | 14551 | TypeScript |
-| 682 | [claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | 无 | 8645 | Python |
-| 683 | [deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) | DSH Tauri 桌面版  Better DSH desktop, zero environment setup, preset plugins, Windows / macOS / Linux. | 3746 | TypeScript |
-| 684 | [OpenSpec](https://github.com/Fission-AI/OpenSpec) | Spec-driven development (SDD) for AI coding assistants. | 75772 | TypeScript |
-| 685 | [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Open-Source Product for Controlled Data Agents | 20340 | Python |
-| 686 | [banana-slides](https://github.com/Anionex/banana-slides) | 一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana/gpt-image🏞️ | 16090 | Python |
-| 687 | [Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) | DataBackup for Android 7.0+ | 7634 | Kotlin |
-| 688 | [claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) | Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents | 3635 | Python |
-| 689 | [gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini... | 5797 | JavaScript |
-| 690 | [heyform](https://github.com/heyform/heyform) | Open-Source Form Builder | 9085 | TypeScript |
-| 691 | [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) | :movie_camera: Python and OpenCV-based scene cut/transition detection program & library. | 5663 | Python |
-| 692 | [morphic](https://github.com/miurla/morphic) | An AI-powered search engine with a generative UI | 9365 | TypeScript |
-| 693 | [html2image](https://github.com/vgalin/html2image) | A package acting as a wrapper around the headless mode of existing web browsers to generate images from URLs and from HTML+CSS strings or files. | 455 | Python |
-| 694 | [Pagekin](https://github.com/EthanYoQ/Pagekin) | Pagekin，免费 AI 小说写作软件，适合长篇小说和网文写作。用章节蓝图、人物时间线和伏笔追踪推进连载，支持续写、审稿和修稿。作品存在本机，模型自行配置。Pagekin (formerly AI Novel Writer) is a free, open-source desktop app for long-form fiction and web novels. Windows and m... | 2916 | TypeScript |
-| 695 | [OmniParser](https://github.com/microsoft/OmniParser) | A simple screen parsing tool towards pure vision based GUI agent | 25648 | Jupyter Notebook |
-| 696 | [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 | 19715 | TypeScript |
-| 697 | [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. | 6330 | JavaScript |
-| 698 | [PyAV](https://github.com/PyAV-Org/PyAV) | ﻿﻿Pythonic bindings for FFmpeg's libraries. | 3349 | Python |
-| 699 | [streamlink](https://github.com/streamlink/streamlink) | Streamlink is a CLI utility which pipes video streams from various services into a video player | 12000 | Python |
-| 700 | [quickemu](https://github.com/quickemu-project/quickemu) | Quickly create and run optimised Windows, macOS and Linux virtual machines | 16808 | Shell |
-| 701 | [was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui) | WAS-NS v3 Reborn; Tools for image processing, filters, masking, text, logic, numbers, latents, files, 3D scenes, and animation. | 1904 | Python |
-| 702 | [wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking. | 2830 | Python |
-| 703 | [ag2](https://github.com/ag2ai/ag2) | AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x | 5091 | Python |
-| 704 | [android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) | Android backup extractor | 2612 | Java |
-| 705 | [simple-icons](https://github.com/simple-icons/simple-icons) | SVG icons for popular brands | 26279 | JavaScript |
-| 706 | [morphik-core](https://github.com/morphik-org/morphik-core) | Open-source multimodal retrieval engine (Morphik Core) | 3722 | Python |
-| 707 | [python](https://github.com/kubernetes-client/python) | Official Python client library for kubernetes | 7714 | Python |
-| 708 | [mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) | Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloa... | 4374 | Python |
-| 709 | [anything-llm](https://github.com/Mintplex-Labs/anything-llm) | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience  | 68661 | JavaScript |
-| 710 | [sqlmap](https://github.com/sqlmapproject/sqlmap) | Automatic SQL injection and database takeover tool | 39054 | Python |
-| 711 | [pyright](https://github.com/microsoft/pyright) | Static Type Checker for Python | 15764 | Python |
-| 712 | [hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) | Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents | 3331 | Python |
-| 713 | [WeasyPrint](https://github.com/Kozea/WeasyPrint) | The awesome document factory | 9810 | Python |
-| 714 | [tinydb](https://github.com/msiemens/tinydb) | TinyDB is a lightweight document oriented database optimized for your happiness :) | 7585 | Python |
-| 715 | [PixelRAG](https://github.com/StarTrail-org/PixelRAG) | https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/ | 10979 | Python |
-| 716 | [book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. | 39076 | Python |
-| 717 | [handcalcs](https://github.com/connorferster/handcalcs) | Python library for converting Python calculations into rendered latex. | 5816 | Python |
-| 718 | [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | The Database Toolkit for Python | 12312 | Python |
-| 719 | [scikit-image](https://github.com/scikit-image/scikit-image) | Image processing in Python | 6642 | Python |
-| 720 | [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | 77260 | C++ |
-| 721 | [shaders](https://github.com/shader-effects-inc/shaders) | WebGPU components for React, Vue, Svelte, Solid, JS & Framer | 6050 | TypeScript |
-| 722 | [pylance-release](https://github.com/microsoft/pylance-release) | Documentation and issues for Pylance | 2171 | Python |
-| 723 | [ejs](https://github.com/mde/ejs) | Embedded JavaScript templates -- http://ejs.co | 8135 | JavaScript |
-| 724 | [bend](https://github.com/bendlang/bend) | Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh  sh | 25898 | TypeScript |
-| 725 | [mobilerun](https://github.com/droidrun/mobilerun) | Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖 | 10128 | Python |
-| 726 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | 210855 | Python |
-| 727 | [oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) | 网文写作 Agent 技能包：扫榜、拆文、大纲细纲、长短篇连载、伏笔追踪、去AI味与封面生成，适配 Claude Code / Codex 等 ｜ Agent skills for writing web novels | 8959 | JavaScript |
-| 728 | [dyad](https://github.com/dyad-sh/dyad) | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it! | 22454 | TypeScript |
-| 729 | [googleads-mobile-android-](https://github.com/googleads/googleads-mobile-android-examples) | googleads-mobile-android | 1887 | Java |
-| 730 | [melty](https://github.com/meltylabs/melty) | Chat first code editor. To download the packaged app: | 5459 | TypeScript |
-| 731 | [LTX-2](https://github.com/Lightricks/LTX-2) | Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model. | 10413 | Python |
-| 732 | [vega-lite](https://github.com/vega/vega-lite) | A concise grammar of interactive graphics, built on Vega. | 5566 | TypeScript |
-| 733 | [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot | 12171 | TypeScript |
-| 734 | [habitica](https://github.com/HabitRPG/habitica) | A habit tracker app which treats your goals like a Role Playing Game. | 14341 | JavaScript |
-| 735 | [earthworm](https://github.com/cuixueshe/earthworm) | Open-source origin of Julebu (julebu.ai / julebu.co) — learn English like a game by typing whole sentences, dictation, and active recall. | 11265 | TypeScript |
-| 736 | [fyne](https://github.com/fyne-io/fyne) | Cross platform GUI toolkit in Go inspired by Material Design | 28873 | Go |
-| 737 | [drama-skills](https://github.com/zenstory-ai/drama-skills) | AI 短剧与漫剧制作 Agent 技能包：小说改剧本、视觉设定、分镜、生图/生视频提示词与剪辑成片，适配 Claude Code / Codex 等 ｜ Agent skills for AI short dramas & motion comics | 5053 | Python |
-| 738 | [pdfmake](https://github.com/bpampuch/pdfmake) | Client/server side PDF printing in pure JavaScript | 12368 | JavaScript |
-| 739 | [beeai-framework](https://github.com/i-am-bee/beeai-framework) | Build production-ready AI agents in both Python and Typescript. | 3459 | Python |
-| 740 | [Recordly](https://github.com/webadderallorg/Recordly) | Create polished demo videos without editing skills. Mac/Windows/Linux | 37501 | TypeScript |
-| 741 | [wechatauto-replica](https://github.com/fanyuantaier/wechatauto-replica) | Windows WeChat automation for Windows (non-web), wxauto replica supporting WeChat 4.x - Windows 微信客户端自动化（非网页版）复刻版 | 725 | Python |
-| 742 | [rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | 131569 | Rust |
-| 743 | [Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) | AIHawk: AI job application bot, automated job search, job hunting, auto-apply to resume-matching jobs while you sleep. | 32650 | Python |
-| 744 | [localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | 100955 | Dart |
-| 745 | [Papermorph](https://github.com/DozenTwelve/Papermorph) | An AI skill that turns books into animated, narrated, interactive web experiences | 2121 | JavaScript |
-| 746 | [tabula-py](https://github.com/chezou/tabula-py) | Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame | 2314 | Python |
-| 747 | [agents](https://github.com/wshobson/agents) | Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida... | 42914 | Python |
-| 748 | [mobile-mcp](https://github.com/mobile-next/mobile-mcp) | Mobile MCP: let AI agents drive your iOS and Android apps. MCP server for simulators, emulators and real devices. Works with Claude Code, Codex, Cursor and any MCP client. | 10902 | TypeScript |
-| 749 | [certd](https://github.com/certd/certd) | 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署 | 5158 | JavaScript |
-| 750 | [build123d](https://github.com/gumyr/build123d) | A python CAD programming library | 3863 | Python |
-| 751 | [vscode-language-renpy](https://github.com/renpy/vscode-language-renpy) | Ren'Py extension for Visual Studio Code | 151 | TypeScript |
-| 752 | [Python](https://github.com/geekcomputers/Python) | My Python Examples | 35522 | Python |
-| 753 | [rembg](https://github.com/danielgatis/rembg) | Rembg is a tool to remove images background | 25684 | Python |
-| 754 | [parlant](https://github.com/emcie-co/parlant) | Parlant lets you build and operate reliable CX and support agents from your own AI coding agents. | 18349 | Python |
-| 755 | [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | 强大的哔哩哔哩增强脚本 | 31226 | TypeScript |
-| 756 | [PhoneGo](https://github.com/HKUDS/PhoneGo) | PhoneGo: Personal AI Agent on Your Phone | 1485 | Python |
-| 757 | [beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) | README design skill for Claude Code & Codex. 帮你把 GitHub README 做得好看又好懂。 | 2016 | Python |
-| 758 | [nonebot2](https://github.com/nonebot/nonebot2) | 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python | 7786 | Python |
-| 759 | [WeChatBridge](https://github.com/freestylefly/WeChatBridge) | 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具 | 2489 | Swift |
-| 760 | [mcp-crypto-price](https://github.com/truss44/mcp-crypto-price) | A Model Context Protocol (MCP) server that provides real-time cryptocurrency analysis via CoinCap's API. Enables Claude and other MCP clients to fetch crypto prices, analyze market trends, and track h... | 42 | TypeScript |
-| 761 | [openclaude](https://github.com/Twigpine/openclaude) | runs anywhere. uses anything | 34550 | TypeScript |
-| 762 | [AutoX](https://github.com/aiselp/AutoX) | A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具) | 2016 | C++ |
-| 763 | [Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) | Create Epic Math and Physics Animations & Study Notes From Text and Images. | 2900 | Python |
-| 764 | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | 114888 | Python |
-| 765 | [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages! | 20671 | Python |
-| 766 | [thonny](https://github.com/thonny/thonny) | Python IDE for beginners | 4021 | Python |
-| 767 | [AI-tutor](https://github.com/qiyuxi24/AI-tutor) | 知识图谱驱动的导学 Agent：知识地图 + 学习路径 + 学情画像 + AI 出题。413 条用例全绿 / L1–L4 四层真实 API 评测 7/7 / BM25 门控 + RRF 混合检索 | 4 | Python |
-| 768 | [SeeCode](https://github.com/Aryanutkarsh/SeeCode) | Animated, explorable diagrams for Claude and other coding agents, from a short JSON spec. | 1028 | JavaScript |
-| 769 | [fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 105047 | Python |
-| 770 | [locust](https://github.com/locustio/locust) | Write scalable load tests in plain Python 🚗💨 | 28314 | Python |
-| 771 | [screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) | Professional agent skills for screenwriting, television writing and dramaturgy | 2188 | Python |
-| 772 | [odysseus](https://github.com/odysseus-dev/odysseus) | Self-hosted AI workspace.  | 95992 | Python |
-| 773 | [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | A list of awesome beginners-friendly projects. | 91802 | 无 |
-| 774 | [awesome-css](https://github.com/awesome-css-group/awesome-css) | :art: A curated contents of amazing CSS :) | 5670 | 无 |
-| 775 | [magika](https://github.com/google/magika) | Fast and accurate AI powered file content types detection  | 18869 | Rust |
-| 776 | [layui](https://github.com/layui/layui) | 一套遵循浏览器原生态开发模式的 Web UI 组件库。 | 30595 | JavaScript |
-| 777 | [LandPPT](https://github.com/sligter/LandPPT) | 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。 | 3652 | Python |
-| 778 | [ha_wechat](https://github.com/shaonianzhentan/ha_wechat) | 使用微信控制HomeAssistant | 32 | Python |
-| 779 | [PaddleFormers](https://github.com/PaddlePaddle/PaddleFormers) | PaddleFormers is an easy-to-use library of pre-trained large language model zoo based on PaddlePaddle. | 12970 | Python |
-| 780 | [DiPlay](https://github.com/shihabal3amri/DiPlay) | Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview. | 14236 | Kotlin |
-| 781 | [waveterm](https://github.com/wavetermdev/waveterm) | An open-source, AI-integrated, cross-platform terminal for seamless workflows | 22747 | Go |
-| 782 | [greenbubbles](https://github.com/bojieli/greenbubbles) | Enable your AI agents to access your WeChat history in real time | 429 | Rust |
-| 783 | [invoice2data](https://github.com/invoice-x/invoice2data) | Extract structured data from PDF invoices | 2254 | Python |
-| 784 | [wechat-decrypt](https://github.com/freanocank/wechat-decrypt) | Agent Skill — WeChat 4.x chat decrypt & query (macOS + Windows): MCP read/search, export, voice transcription. | 107 | Python |
-| 785 | [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | Harness engineering beginner tutorial, from 0 to 1 | 26146 | TypeScript |
-| 786 | [frontend-hard-mode-interv](https://github.com/coffe1891/frontend-hard-mode-interview) | 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。 | 3516 | JavaScript |
-| 787 | [overtls](https://github.com/ShadowsocksR-Live/overtls) | A minimalist proxy tunnel for bypassing the GFW. | 468 | Rust |
-| 788 | [openhuman](https://github.com/tinyhumansai/openhuman) | The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS. | 42861 | Rust |
-| 789 | [agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | 120519 | JavaScript |
-| 790 | [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google An... | 72676 | Python |
-| 791 | [licia](https://github.com/liriliri/licia) | Useful utility collection with zero dependencies | 2382 | JavaScript |
-| 792 | [flask-admin](https://github.com/pallets-eco/flask-admin) | Simple and extensible administrative interface framework for Flask | 6076 | Python |
-| 793 | [cherry-markdown](https://github.com/Tencent/cherry-markdown) | ✨ A Markdown Editor | 4937 | TypeScript |
-| 794 | [ip2region](https://github.com/lionsoul2014/ip2region) | Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programmi... | 19986 | Go |
-| 795 | [xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix) | 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台 | 3005 | Python |
-| 796 | [Fomantic-UI](https://github.com/fomantic/Fomantic-UI) | Fomantic-UI is the official community fork of Semantic-UI | 3772 | JavaScript |
-| 797 | [MTranServer](https://github.com/xxnuo/MTranServer) | Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器 | 4760 | C++ |
-| 798 | [SurfSense](https://github.com/MODSetter/SurfSense) | Air-gapped, private AI for confidential documents. Open-source NotebookLM alternative that runs on your computer. Join our Discord: https://discord.gg/ejRNvftDp9 | 16960 | Python |
-| 799 | [logic_vsi](https://github.com/wxflogic/logic_vsi) | 牛津通识读本 Logic: A Very Short Introduction 新译本（补充了第2版新增的两章） | 443 | Python |
-| 800 | [stickman-video-director](https://github.com/kaomei/stickman-video-director) | AI Agent Skill (Claude Code, Codex & more): Turn any script into animated stickman videos for faceless YouTube, Shorts & TikTok. 20+ styles with voiceover, captions & SFX. Free & open-source (MIT). | 8414 | JavaScript |
-| 801 | [holiday-cn](https://github.com/NateScarlet/holiday-cn) | 📅🇨🇳中国法定节假日数据 自动每日抓取国务院公告 | 2301 | Python |
-| 802 | [md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 面向 AI Agent 的微信公众号创作与发布 CLI：Markdown 排版、AI 配图、预览与草稿创建；支持由浏览器 Agent 保存知乎、CSDN、头条未发布草稿。 | 3828 | Go |
-| 803 | [Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | ehviewer，用爱发电，快乐前行 | 29600 | C |
-| 804 | [xgo](https://github.com/goplus/xgo) | XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw... | 9493 | Go |
-| 805 | [RSSHub-python](https://github.com/hillerliao/RSSHub-python) | A RSSHub for Pythonista | 190 | Python |
-| 806 | [bulma](https://github.com/jgthms/bulma) | Modern CSS framework based on Flexbox | 50030 | CSS |
-| 807 | [vega](https://github.com/vega/vega) | A visualization grammar. | 12052 | JavaScript |
-| 808 | [gpt-load](https://github.com/tbphp/gpt-load) | Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。 | 7254 | Go |
-| 809 | [heretic](https://github.com/p-e-w/heretic) | Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more | 43254 | Python |
-| 810 | [illa-builder](https://github.com/illacloud/illa-builder) | Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL... | 12366 | TypeScript |
-| 811 | [mcp-feedback-enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) | Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detec... | 3748 | JavaScript |
-| 812 | [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) | Power CLI and Workflow manager for LLMs (core package) | 3715 | Python |
-| 813 | [d3](https://github.com/d3/d3) | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: | 114017 | Shell |
-| 814 | [organize](https://github.com/tfeldmann/organize) | The file management automation tool. | 3217 | Python |
-| 815 | [codegraph](https://github.com/colbymchenry/codegraph) | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca... | 78750 | TypeScript |
-| 816 | [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | 34314 | Python |
-| 817 | [ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud ... | 71631 | Python |
-| 818 | [pyarmor](https://github.com/dashingsoft/pyarmor) | A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts. | 5232 | Python |
-| 819 | [xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf) | A library for converting HTML into PDFs using ReportLab | 2403 | Python |
-| 820 | [zeal](https://github.com/zealdocs/zeal) | Offline documentation browser. Your personal reference library, searchable in an instant. | 12888 | C++ |
-| 821 | [pyzo](https://github.com/pyzo/pyzo) | Python to the people | 319 | Python |
-| 822 | [pysheeet](https://github.com/crazyguitar/pysheeet) | Python Cheat Sheet | 8161 | Python |
-| 823 | [favorite-link](https://github.com/guanguans/favorite-link) | ❤️ 每天收集喜欢的开源项目。 | 3364 | PHP |
-| 824 | [pdfminer.six](https://github.com/pdfminer/pdfminer.six) | Community maintained fork of pdfminer - we fathom PDF | 7059 | Python |
-| 825 | [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | Python sample codes and textbook for robotics algorithms. | 30983 | Python |
-| 826 | [PyQtDarkTheme](https://github.com/5yutan5/PyQtDarkTheme) | A flat dark theme for PySide and PyQt. | 757 | Python |
-| 827 | [lairdubois-opencutlist-sk](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension) | OpenCutList is a SketchUp Extension for automating the generation of cut lists for woodworking projects. | 629 | Ruby |
-| 828 | [page-agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent. Control web interfaces with natural language. | 29769 | TypeScript |
-| 829 | [Dango-Translator](https://github.com/PantsuDango/Dango-Translator) | 梦想是做出最棒的生肉翻译软件喵 | 8858 | Python |
-| 830 | [plasticity](https://github.com/nkallen/plasticity) | 无 | 3418 | TypeScript |
-| 831 | [json-render](https://github.com/vercel-labs/json-render) | The Generative UI framework | 19850 | TypeScript |
-| 832 | [codon](https://github.com/exaloop/codon) | A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support | 16864 | Python |
-| 833 | [anyrouter-check-in](https://github.com/millylee/anyrouter-check-in) | 支持 AnyRouter、AgentRouter 的多平台多账号签到，理论兼容所有基于 NewAPI、OneAPI 的平台。 | 1453 | Python |
-| 834 | [trafilatura](https://github.com/adbar/trafilatura) | Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML | 7179 | Python |
-| 835 | [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) | Python Telegram bot api. | 8801 | Python |
-| 836 | [awesome-short-drama-skill](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) | AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex 等智能体可用  Curated agent skills for AI short drama, micro drama / microdrama, vertical drama ... | 2883 | HTML |
-| 837 | [ElatoAI](https://github.com/akdeb/ElatoAI) | Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets & Edge Functions for AI Toys, Desk Companions and Devices | 2126 | TypeScript |
-| 838 | [OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | The open document intelligence platform for builders and hackers - DMS for the agentic world | 1555 | Python |
-| 839 | [stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) | Stealth browser automation for AI agents over MCP and the Chrome DevTools Protocol: navigation, network hooks, DOM extraction, and pixel-accurate UI cloning. | 3389 | Python |
-| 840 | [xemu](https://github.com/xemu-project/xemu) | Original Xbox Emulator for Windows, macOS, and Linux (Active Development) | 4323 | C |
-| 841 | [autocut](https://github.com/mli/autocut) | 用文本编辑器剪视频 | 7853 | Python |
-| 842 | [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code  GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 | 36154 | JavaScript |
-| 843 | [twscrape](https://github.com/vladkens/twscrape) | Python library and CLI for X/Twitter scraping with multi-account rotation and built-in rate-limit handling. | 3000 | Python |
-| 844 | [awesome-manim](https://github.com/ManimCommunity/awesome-manim) | A database with many Manim users and content creators | 550 | 无 |
-| 845 | [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | An autonomous agent that conducts deep research on any data using any LLM providers | 30918 | Python |
-| 846 | [agent-skills](https://github.com/apify/agent-skills) | Collection of Apify agent skills | 2519 | Python |
-| 847 | [nanobrowser](https://github.com/nanobrowser/nanobrowser) | Open-source AI agent for web automation. Use your real, logged-in browser to automate daily tasks. | 14396 | TypeScript |
-| 848 | [jesse](https://github.com/jesse-ai/jesse) | An advanced trading bot written in Python | 8837 | Python |
-| 849 | [res-downloader](https://github.com/putyy/res-downloader) | 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! | 21586 | Go |
-| 850 | [justhtml](https://github.com/EmilStenstrom/justhtml) | A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn. | 1161 | Python |
-| 851 | [LearnPrompt](https://github.com/LearnPrompt/LearnPrompt) | 永久免费开源的 AIGC 课程, 目前已支持Claude Code，Codex，Hermes，OpenClaw，Obsidian，Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型 | 2761 | MDX |
-| 852 | [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) | Fast data visualization and GUI tools for scientific / engineering applications | 4449 | Python |
-| 853 | [VoxWeave](https://github.com/CheshireMew/VoxWeave) | Local-first high-quality offline RVC voice conversion workstation | 252 | Python |
-| 854 | [Gemini](https://github.com/kyegomez/Gemini) | The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google | 468 | Python |
-| 855 | [fundrive](https://github.com/farfarfun-drive/fundrive) | 统一的网盘/云存储操作接口框架 - 一套 API 打通 20+ 服务，涵盖 Google Drive、OneDrive、S3、百度网盘、阿里云盘、蓝奏云、WebDAV 等 | 79 | Python |
-| 856 | [web-check](https://github.com/lissy93/web-check) | 🕵️‍♂️ All-in-one OSINT tool for analysing any website | 35655 | TypeScript |
-| 857 | [RAG-Anything](https://github.com/HKUDS/RAG-Anything) | "RAG-Anything: All-in-One RAG Framework" | 24833 | Python |
-| 858 | [KeymouseGo](https://github.com/taojy123/KeymouseGo) | 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入  automate mouse clicks and keyboard input | 10673 | Python |
-| 859 | [awesome-math](https://github.com/rossant/awesome-math) | A curated list of awesome mathematics resources | 17004 | Python |
-| 860 | [codeapp](https://github.com/thebaselab/codeapp) | Building a full-fledged code editor for iPad | 3997 | Swift |
-| 861 | [social-auto-upload](https://github.com/dreammis/social-auto-upload) | 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili | 17003 | Python |
-| 862 | [yarp](https://github.com/dotnet/yarp) | A toolkit for developing high-performance HTTP reverse proxy applications. | 9664 | C# |
-| 863 | [eigent](https://github.com/eigent-ai/eigent) | Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex | 15896 | TypeScript |
-| 864 | [owl](https://github.com/camel-ai/owl) | 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation | 20198 | Python |
-| 865 | [camel](https://github.com/camel-ai/camel) | 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org | 18069 | Python |
-| 866 | [immersive-translate](https://github.com/immersive-translate/immersive-translate) | 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension  | 19894 | 无 |
-| 867 | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog... | 58526 | Python |
-| 868 | [Windows-Toasts](https://github.com/DatGuy1/Windows-Toasts) | Python library used to send toast notifications on Windows machines | 145 | Python |
-| 869 | [croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another :crocodile: :package: | 41055 | Go |
-| 870 | [DeepCode](https://github.com/HKUDS/DeepCode) | "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)" | 16871 | Python |
-| 871 | [ZCode](https://github.com/zai-org/ZCode) | Z.ai's coding agent harness. Powerful, intelligent, extensible. | 8927 | TypeScript |
-| 872 | [easy_proxies](https://github.com/jasonwong1991/easy_proxies) | A proxy node pool management tool based on sing-box, supporting multiple protocols, automatic failover and load balancing.  基于 sing-box 的代理节点池管理工具，支持多协议、多节点自动故障转移和负载均衡。 | 1878 | Go |
-| 873 | [searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. | 39892 | Python |
-| 874 | [handraw-style](https://github.com/yang0/handraw-style) | 手绘风格编号画廊与双语提示词 Skill | 8173 | HTML |
-| 875 | [jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. | 46179 | Rust |
-| 876 | [pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. | 11856 | Python |
-| 877 | [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials | 290526 | Python |
-| 878 | [presenton](https://github.com/presenton/presenton) | Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative) | 12056 | TypeScript |
-| 879 | [CS-Notes](https://github.com/CyC2018/CS-Notes) | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 | 186599 | JavaScript |
-| 880 | [sql-generator](https://github.com/liyupi/sql-generator) | 结构化复杂 SQL 生成器（SQL Generator）是由程序员鱼皮开源的纯前端在线工具，支持用 JSON 模板以类似函数调用与嵌套传参的方式编写结构化语句并一键生成完整的复杂 SQL，也可作为通用重复代码生成器使用。项目面向大数据离线分析、Hive 与 Spark 数仓开发及日常 MySQL 查询场景，内置静态参数替换、参数透传、括号嵌套子查询解析与可视化调用树分析功能，有效降低上千行重复 S... | 3412 | Vue |
-| 881 | [huashu-design](https://github.com/alchaincyf/huashu-design) | Huashu Design 3.4 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / App Store 宣传图 / 小红书图文 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 92 种带样张的风格库 · 该是图的地方放真图 · HTML-native design skill for Claude Code, Codex, Cursor & a... | 31031 | HTML |
-| 882 | [requestium](https://github.com/lordjabez/requestium) | Integration layer between Requests and Selenium for automation of web actions. | 1837 | Python |
-| 883 | [crawl4ai](https://github.com/unclecode/crawl4ai) | Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe... | 87969 | Python |
-| 884 | [WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs. | 11304 | Python |
-| 885 | [markmap](https://github.com/markmap/markmap) | Build mindmaps with plain text | 13299 | TypeScript |
-| 886 | [ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | 310975 | JavaScript |
-| 887 | [99AI](https://github.com/vastxie/99AI) | 开源、可私有化部署的 Web Agent 底座，支持多用户、隔离沙箱，以及 Skills 和 MCP 扩展。Open-source, self-hostable Web Agent foundation with multi-user support, isolated sandboxes, and extensibility through Skills and MCP. | 1039 | TypeScript |
-| 888 | [responsively-app](https://github.com/responsively-org/responsively-app) | A modified web browser that helps in responsive web development. A web developer's must have dev-tool. | 25590 | TypeScript |
-| 889 | [tiled](https://github.com/mapeditor/tiled) | Flexible level editor | 13094 | C++ |
-| 890 | [sphinx](https://github.com/sphinx-doc/sphinx) | The Sphinx documentation generator | 8104 | Python |
-| 891 | [esp-labs-web](https://github.com/agharsallah/esp-labs-web) | The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages. | 1017 | TypeScript |
-| 892 | [lobe-icons](https://github.com/lobehub/lobe-icons) | 🥨 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies. | 2735 | TypeScript |
-| 893 | [ComfyUI-WorkFlow](https://github.com/A719689614/ComfyUI-WorkFlow) | 一些我自己的工作流参数 | 99 | 无 |
-| 894 | [yutto](https://github.com/yutto-dev/yutto) | :ice_cube: 一个可爱且任性的 B 站视频下载器 | 2177 | Python |
-| 895 | [pyxel](https://github.com/kitao/pyxel) | A retro game engine for Python | 18675 | Rust |
-| 896 | [curl_cffi](https://github.com/lexiforest/curl_cffi) | Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints. | 6928 | Python |
-| 897 | [ChatLab](https://github.com/ChatLab/ChatLab) | Local-first chat history analyzer with AI.  本地优先的 AI 聊天记录分析工具 | 7697 | TypeScript |
-| 898 | [SafeLine](https://github.com/chaitin/SafeLine) | SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. | 23456 | Go |
-| 899 | [Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) | YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控 | 5135 | Python |
-| 900 | [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) | Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included! | 5301 | CSS |
-| 901 | [rybbit](https://github.com/rybbit-io/rybbit) | 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. | 13362 | TypeScript |
-| 902 | [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) | Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:  | 24835 | C++ |
-| 903 | [Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) | Full-featured Social Engineering Framework with Page Cloning, MITM Proxy, Credential Capture, Session Extraction, and Real-time Monitoring. | 6478 | PHP |
-| 904 | [awesome-agents](https://github.com/kyrolabs/awesome-agents) | 🤖 Awesome list of AI Agents | 3018 | 无 |
-| 905 | [Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) | Easily download and manage single-player game cheats for your convenience | 17019 | C++ |
-| 906 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | 501567 | Python |
-| 907 | [river](https://github.com/online-ml/river) | 🌊 Online machine learning in Python | 6159 | Python |
-| 908 | [Memoh](https://github.com/felinics/Memoh) | ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so... | 2828 | Go |
-| 909 | [learngo](https://github.com/inancgumus/learngo) | ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs. | 20193 | Go |
-| 910 | [manuskript](https://github.com/olivierkes/manuskript) | A open-source tool for writers | 2485 | Python |
-| 911 | [docs-mcp-server](https://github.com/arabold/docs-mcp-server) | Grounded Docs MCP Server: Open-Source Alternative to Context7, Nia, and Ref.Tools | 1919 | TypeScript |
-| 912 | [pyinstaller](https://github.com/pyinstaller/pyinstaller) | Freeze (package) Python programs into stand-alone executables | 13166 | Python |
-| 913 | [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) | Decrypt and export passwords, cookies, history and more from 20 browsers on Windows, macOS and Linux. For authorized security research, incident response and DFIR. | 14754 | Go |
-| 914 | [automate-faceless-content](https://github.com/cporter202/automate-faceless-content) | Learn how to automate faceless short-form + long-form video content and dominate YouTube, TikTok, Facebook & Instagram on autopilot — from idea → script → video → scheduled posts. | 3357 | 无 |
-| 915 | [binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) | Automated Binance trading bot with pluggable strategies, historical backtesting, a live dashboard, and connect an AI agent over MCP | 5626 | TypeScript |
-| 916 | [wrong-notebook](https://github.com/margrop/wrong-notebook) | AI 智能错题本：拍照识题、解答、知识点标签、举一反三、组卷打印与掌握度跟踪，可自托管 / AI-powered self-hosted notebook for mistakes | 686 | TypeScript |
-| 917 | [WechatExporter](https://github.com/BlueMatthew/WechatExporter) | Wechat Chat History Exporter 微信聊天记录导出备份程序 | 8629 | C++ |
-| 918 | [awesome-javascript](https://github.com/sorrycc/awesome-javascript) | 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. | 35037 | 无 |
-| 919 | [python-pinyin](https://github.com/mozillazg/python-pinyin) | 汉字转拼音(pypinyin) | 5401 | Python |
-| 920 | [domain-admin](https://github.com/dromara/domain-admin) | 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.  | 2457 | Python |
-| 921 | [document](https://github.com/ranuts/document) | Local-first browser editor for Word, Excel, PowerPoint and PDF, with an experimental AI assistant. No Office installation or account required. | 2038 | TypeScript |
-| 922 | [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. | 287357 | TypeScript |
-| 923 | [PyTorch_Tutorial](https://github.com/TingsongYu/PyTorch_Tutorial) | 《Pytorch模型训练实用教程》中配套代码 | 8031 | Python |
-| 924 | [SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. | 36106 | JavaScript |
-| 925 | [she-love-me](https://github.com/863401402/she-love-me) | 她不一样   恋情分析室 — 微信聊天记录恋爱分析 Agent Skill  （曾用名：她爱我吗？） | 1041 | Python |
-| 926 | [PPTist](https://github.com/pipipi-pikachu/PPTist) | PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It als... | 9513 | Vue |
-| 927 | [nixopus](https://github.com/nixopus/nixopus) | Run production apps without thinking about infrastructure. On your server or ours. Fully agentic. | 1474 | Go |
-| 928 | [we-mp-rss](https://github.com/rachelos/we-mp-rss) | ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公... | 5265 | Python |
-| 929 | [SimplePyScripts](https://github.com/gil9red/SimplePyScripts) | Collection of various python script's. | 153 | Python |
-| 930 | [CodePilot](https://github.com/op7418/CodePilot) | A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js. | 6523 | TypeScript |
-| 931 | [chatgpt-web-midjourney-pr](https://github.com/Dooy/chatgpt-web-midjourney-proxy) | One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform | 6804 | JavaScript |
-| 932 | [pygubu](https://github.com/alejandroautalan/pygubu) | A simple GUI builder for the python tkinter module | 2169 | Python |
-| 933 | [ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 199065 | JavaScript |
-| 934 | [fingerprint-browser](https://github.com/zhaotoday/fingerprint-browser) | 指纹浏览器（防关联浏览器 / 反检测浏览器 / Antidetect Browser）与住宅代理 IP 选型指南及开源资源汇总：整理 27 款主流指纹浏览器与 28 家代理 IP 的套餐价格，收录 Chromium 指纹定制、Camoufox、Patchright、反检测自动化与指纹检测工具。 | 822 | 无 |
-| 935 | [Atom_notebook](https://github.com/leondgarse/Atom_notebook) | Personal atom notebook | 95 | Python |
-| 936 | [sentrysearch](https://github.com/ssrajadh/sentrysearch) | Semantic search over videos using Gemini Embedding 2 or Qwen3-VL. | 4595 | Python |
-| 937 | [TinUI](https://github.com/Smart-Space/TinUI) | Tkinter UI Engine | 37 | Python |
-| 938 | [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can't refuse | 29619 | Python |
-| 939 | [Peekaboo](https://github.com/openclaw/Peekaboo) | Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo... | 5540 | Swift |
-| 940 | [pytorch-image-models](https://github.com/huggingface/pytorch-image-models) | The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)... | 37312 | Python |
-| 941 | [LiveTerm](https://github.com/Cveinnt/LiveTerm) | 💻 Build terminal styled websites in minutes! | 5389 | TypeScript |
-| 942 | [v86](https://github.com/copy/v86) | x86 PC emulator and x86-to-wasm JIT, running in the browser | 23741 | JavaScript |
-| 943 | [daily](https://github.com/dailydotdev/daily) | daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source. | 20162 | JavaScript |
-| 944 | [godogen](https://github.com/htdt/godogen) | Skills for Claude Code, Codex and Antigravity to build games, and anything else a game engine renders well | 7421 | Python |
-| 945 | [ui](https://github.com/vlang/ui) | A cross-platform UI library written in V | 2540 | V |
-| 946 | [open-mcp-client](https://github.com/CopilotKit/open-mcp-client) | 无 | 1653 | TypeScript |
-| 947 | [Iosevka](https://github.com/be5invis/Iosevka) | Versatile typeface for code, from code. | 23332 | JavaScript |
-| 948 | [LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 | 41380 | JavaScript |
-| 949 | [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 | 108774 | 无 |
-| 950 | [awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) | 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型）  Summary of the world's best LLM resources.  | 9108 | 无 |
-| 951 | [assttyys_autojs](https://github.com/zzliux/assttyys_autojs) | 痒痒鼠安卓辅助，基于Auto.js Pro开发。支持御魂、御灵、业原火、突破、狗粮、百鬼夜行、抽厕纸、逢魔日常、地鬼日常、妖气自动排队、斗技、喂蛋、合结界卡、六道之门、定时寄养等 | 497 | TypeScript |
-| 952 | [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) | 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。 | 1020 | Vue |
-| 953 | [pm2](https://github.com/Unitech/pm2) | Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer. | 43344 | JavaScript |
-| 954 | [krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) | Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required. | 10956 | Python |
-| 955 | [mlc-llm](https://github.com/mlc-ai/mlc-llm) | Universal LLM Deployment Engine with ML Compilation | 23484 | Python |
-| 956 | [WebGAL](https://github.com/OpenWebGAL/WebGAL) | A brand new web Visual Novel engine  全新的网页端视觉小说引擎 | 4053 | TypeScript |
-| 957 | [awesome-systematic-tradin](https://github.com/paperswithbacktest/awesome-systematic-trading) | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. | 15707 | Python |
-| 958 | [claude-code-router](https://github.com/musistudio/claude-code-router) | One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control. | 38373 | TypeScript |
-| 959 | [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. | 39070 | Python |
-| 960 | [wr.do](https://github.com/oiov/wr.do) | 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署 | 2300 | TypeScript |
-| 961 | [huobao-drama](https://github.com/chatfire-AI/huobao-drama) | 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video" | 18018 | TypeScript |
-| 962 | [Open-Source-Face-Recognit](https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK) | Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face... | 3203 | Python |
-| 963 | [Agent-Skills-for-Context-](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe... | 18432 | Python |
-| 964 | [WeFlow](https://github.com/hicccc77/WeFlow) | WeFlow - 一个本地的微信聊天记录导出和年度报告应用 | 16217 | 无 |
-| 965 | [zcf](https://github.com/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex | 6066 | TypeScript |
-| 966 | [Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) | Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, clone-tuning, caption timestamps, SSML, websockets, optional readalong w... | 5739 | Python |
-| 967 | [Hy-Memory](https://github.com/Tencent-Hunyuan/Hy-Memory) | 无 | 2116 | Python |
-| 968 | [TrendRadar](https://github.com/sansan0/TrendRadar) | ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报... | 63894 | Python |
-| 969 | [Ultroid](https://github.com/TeamUltroid/Ultroid) | Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib. | 2984 | Python |
-| 970 | [pdfplumber](https://github.com/jsvine/pdfplumber) | Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables. | 10933 | Python |
-| 971 | [codecombat](https://github.com/codecombat/codecombat) | Game for learning how to code. | 8589 | JavaScript |
-| 972 | [claude-howto](https://github.com/luongnv89/claude-howto) | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. | 47607 | Python |
-| 973 | [awesome-nlp](https://github.com/keon/awesome-nlp) | :book: A curated list of resources dedicated to Natural Language Processing (NLP) | 19184 | 无 |
-| 974 | [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) | AutoHotkey - macro-creation and automation-oriented scripting utility for Windows. | 13547 | C++ |
-| 975 | [Douyin_TikTok_Download_AP](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。 Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MCP server for AI agen... | 21577 | Python |
-| 976 | [chroma](https://github.com/chroma-core/chroma) | Search infrastructure for AI | 29788 | Rust |
-| 977 | [sygil-webui](https://github.com/Sygil-Dev/sygil-webui) | Stable Diffusion web UI | 7856 | Python |
-| 978 | [extract_otp_secrets](https://github.com/scito/extract_otp_secrets) | Extract one time password (OTP) secrets from QR codes exported by two-factor authentication (2FA) apps such as "Google Authenticator". The exported QR codes from authentication apps can be captured by... | 1708 | Python |
-| 979 | [webhacklist](https://github.com/irsdl/webhacklist) | Independent web hacking research archive: official Top 10 nominees and winners since 2006, plus additional discoveries, preserved articles and English translations. | 923 | Python |
-| 980 | [Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | Advanced UX and interoperability extension for Wand (WeMod) app | 33639 | C# |
-| 981 | [rpaframework](https://github.com/robocorp/rpaframework) | Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python | 1586 | Python |
-| 982 | [FFmpeg](https://github.com/antatura/FFmpeg) | FFmpeg学习资料 | 5 | Python |
-| 983 | [marvin](https://github.com/PrefectHQ/marvin) | an ambient intelligence library | 6204 | Python |
-| 984 | [faker](https://github.com/joke2k/faker) | Faker is a Python package that generates fake data for you. | 19505 | Python |
-| 985 | [picoclaw](https://github.com/sipeed/picoclaw) | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity | 30170 | Go |
-| 986 | [niubigeo](https://github.com/Albert-Weasker/niubigeo) | Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/  Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing | 10213 | TypeScript |
-| 987 | [sanic](https://github.com/sanic-org/sanic) |  Accelerate your web app development   Build fast. Run fast. | 18638 | Python |
-| 988 | [aseprite](https://github.com/aseprite/aseprite) | Animated sprite editor & pixel art tool (Windows, macOS, Linux) | 41172 | C++ |
-| 989 | [gfwlist](https://github.com/gfwlist/gfwlist) | The one and only one gfwlist here | 25751 | 无 |
-| 990 | [best-of-python](https://github.com/lukasmasuch/best-of-python) | 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly. | 4665 | 无 |
-| 991 | [best-of-web-python](https://github.com/ml-tooling/best-of-web-python) | 🏆  A ranked list of awesome python libraries for web development. Updated weekly. | 2785 | 无 |
-| 992 | [web-builder](https://github.com/biaogebusy/web-builder) | AI 驱动 UI 生成和发布的低代码平台，基于TailwindCss，通过拖拽可视化快速构建现代化响应式UI、动态自定义组件、多主题、多语言的网站应用。AI-powered UI generation and publishing low code platform, built on TailwindCSS, enabling rapid drag-and-drop visual creatio... | 586 | TypeScript |
-| 993 | [jupyter](https://github.com/jupyter/jupyter) | Jupyter metapackage for installation and documentation | 15357 | Python |
-| 994 | [libsql](https://github.com/tursodatabase/libsql) | libSQL is a fork of SQLite that is both Open Source, and Open Contributions. | 17381 | C |
-| 995 | [marker](https://github.com/datalab-to/marker) | Convert PDF to markdown + JSON quickly with high accuracy | 41085 | Python |
-| 996 | [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, ... | 22900 | TypeScript |
-| 997 | [CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ | 66024 | Python |
-| 998 | [bggg-skills](https://github.com/binggandata/bggg-skills) | Open-source Codex skills from BGGG | 639 | Python |
-| 999 | [psutil](https://github.com/giampaolo/psutil) | Cross-platform lib for process and system monitoring in Python | 11336 | Python |
-| 1000 | [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) | 非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3.6-max、qwen3.6-plus、百川、讯飞星火、商汤senseChat等商用模型， 以及step3.5-flash、kimi-k2.... | 6531 | 无 |
-| 1001 | [ppt-master](https://github.com/hugohe3/ppt-master) | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support... | 80394 | Python |
-| 1002 | [wechat-selkies](https://github.com/nickrunning/wechat-selkies) | 基于Selkies的Linux网页版微信/QQ/Telegram，支持本地中文输入法，支持三方应用，支持AMD64和ARM64。 | 4519 | Python |
-| 1003 | [OpenGeometry](https://github.com/OpenGeometry-io/OpenGeometry) | Geometry CAD Kernel for Humans and AI Agents | 561 | Rust |
-| 1004 | [teldrive](https://github.com/tgdrive/teldrive) | Teldrive | 3197 | TypeScript |
-| 1005 | [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) | Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN... | 17275 | C++ |
-| 1006 | [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir... | 33594 | C# |
-| 1007 | [baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 无 | 27897 | TypeScript |
-| 1008 | [codex-windows-fast-patch-](https://github.com/chen0416ccc-cpu/codex-windows-fast-patch-skill) | 此skills用于指导智能体在 Windows 上恢复 Codex Desktop 升级后失效的本地补丁和能力开关。（Computer Use，插件，破限，codex强制汉化，fast mode，手机远控，会话消失等问题）支持每次使用前自动将skills更新到最新版。/These skills are designed to guide the agent in restoring local p... | 1352 | PowerShell |
-| 1009 | [MCP-rednote-assistant](https://github.com/cloudy-sfu/MCP-rednote-assistant) | MCP server which collects data from www.xiaohongshu.com social media | 4 | Python |
-| 1010 | [xiaogpt](https://github.com/yihong0618/xiaogpt) | Play ChatGPT and other LLM with Xiaomi AI Speaker | 7080 | Python |
-| 1011 | [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. | 29424 | Python |
-| 1012 | [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) | Edit Banana: A framework for converting statistical formats into editable. | 5511 | Python |
-| 1013 | [reactive-resume](https://github.com/reactive-resume/reactive-resume) | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! | 46123 | TypeScript |
-| 1014 | [wenzi-xiaohongshu-workflo](https://github.com/wenziai/wenzi-xiaohongshu-workflow) | 文子的小红书工作流：从账号定位、选题标题、真人化改稿、图文规划到排期复盘的一套可安装 Agent Skills。 | 217 | 无 |
-| 1015 | [youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) | 🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval,... | 5381 | JavaScript |
-| 1016 | [weekly](https://github.com/ljinkai/weekly) | 独立开发产品变现周刊，每周五发布。 | 3861 | 无 |
-| 1017 | [AndroidMic](https://github.com/teamclouday/AndroidMic) | Use your Android phone as a microphone for your PC | 1770 | Rust |
-| 1018 | [rzweb](https://github.com/IndAlok/rzweb) | A complete browser-based reverse engineering platform built on Rizin, running entirely client-side via WebAssembly. | 771 | TypeScript |
-| 1019 | [BetterGravity](https://github.com/YashjitPal/BetterGravity) | The extensible power-user platform for Google Antigravity. Adds a native In-App Browser, animated Desktop Pets, revamped Gemini UI, and custom BYOK Gemini Pro keys. | 245 | JavaScript |
-| 1020 | [best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) | 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly. | 1249 | 无 |
-| 1021 | [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 | 39887 | CSS |
-| 1022 | [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | 无 | 7806 | HTML |
-| 1023 | [Decepticon](https://github.com/BitterSecurity/Decepticon) | Autonomous Hacking Agent for Red Team | 6792 | Python |
-| 1024 | [spark](https://github.com/sparkjsdev/spark) | :sparkles:  An advanced 3D Gaussian Splatting renderer for THREE.js | 3969 | TypeScript |
-| 1025 | [humanizer](https://github.com/blader/humanizer) | Agent skill that removes signs of AI-generated writing from text | 73795 | Python |
-| 1026 | [act](https://github.com/nektos/act) | Run your GitHub Actions locally 🚀 | 72801 | Go |
-| 1027 | [supersplat](https://github.com/playcanvas/supersplat) | 3D Gaussian Splat Editor | 10731 | TypeScript |
-| 1028 | [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) | A private messenger for Windows, macOS, and Linux. | 16734 | TypeScript |
-| 1029 | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | Shadowsocks GUI client for mac OS | 32869 | Swift |
-| 1030 | [whichllm](https://github.com/Andyyyy64/whichllm) | Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. | 6872 | Python |
-| 1031 | [1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) | 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。 | 4164 | HTML |
-| 1032 | [garden-skills](https://github.com/ConardLi/garden-skills) | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. | 15834 | JavaScript |
-| 1033 | [pdf-bunny](https://github.com/ksharindam/pdf-bunny) | Poppler based fast pdf viewer written in PyQt5 | 12 | Python |
-| 1034 | [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i... | 34229 | C++ |
-| 1035 | [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) | Converts .py to .exe using a simple graphical interface  | 5005 | JavaScript |
-| 1036 | [5ire](https://github.com/nanbingxyz/5ire) | 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers . | 5375 | TypeScript |
-| 1037 | [open-vibecoding](https://github.com/mileson/open-vibecoding) | 面向 Vibe Coding 的能力增强型协作框架（Harness），让 Vibe Coding 看得见，可审查、可学习、可进化。 | 147 | JavaScript |
-| 1038 | [alist-encrypt](https://github.com/traceless/alist-encrypt) | 这个项目主要是对 alist 的服务进行代理，提供 webdav 的加解密功能。支持 alist 网页在线播放加密的视频，查看加密的图片等功能，同时在 webdav 下的操作透明，自动实现文件资源的加解密。 | 1507 | JavaScript |
-| 1039 | [sql.js](https://github.com/sql-js/sql.js) | A javascript library to run SQLite on the web.   | 13691 | JavaScript |
-| 1040 | [ASCILINE](https://github.com/YusufB5/ASCILINE) | A high-performance ASCII video rendering engine featuring real-time WebSocket binary streaming and an isolated compiler for serverless static generation. Built for low-latency 30 FPS playback on HTML5... | 2818 | Python |
-| 1041 | [Seedream_MCP](https://github.com/tengmmvp/Seedream_MCP) | Doubao-Seedream生图MCP（即梦生图MCP） | 26 | Python |
-| 1042 | [onetake](https://github.com/feitangyuan/onetake) | Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. Product launch films and feature demos, made with a codi... | 4499 | Python |
-| 1043 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | 565655 | Markdown |
-| 1044 | [so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) | so-vits-svc fork with realtime support, improved interface and more features. | 9320 | Python |
-| 1045 | [pyotp](https://github.com/pyauth/pyotp) | Python One-Time Password Library | 3349 | Python |
-| 1046 | [goclaw](https://github.com/nextlevelbuilder/goclaw) | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety. | 3723 | Go |
-| 1047 | [acme.sh](https://github.com/acmesh-official/acme.sh) | A pure Unix shell script ACME client for SSL / TLS certificate automation | 47992 | Shell |
-| 1048 | [Gooey](https://github.com/chriskiehl/Gooey) | Turn (almost) any Python command line program into a full GUI application with one line | 21900 | Python |
-| 1049 | [SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) | Multi-purpose proxy service management system | 10451 | PHP |
-| 1050 | [azure-quickstart-template](https://github.com/Azure/azure-quickstart-templates) | Azure Quickstart Templates | 14920 | Bicep |
-| 1051 | [Open-Interface](https://github.com/AmberSahdev/Open-Interface) | Control Any Computer Using LLMs. | 2747 | Python |
-| 1052 | [dsh-blender-plugin](https://github.com/sixtysevenlf/dsh-blender-plugin) | DSH × Blender 直连插件 v3.0.6：15 个模型工具让 AI 驱动 GUI Blender（视口 / 自定义视角 / 无头 worker / 作业层 / 事务回滚 / 配方库），34 family / 228 op 契约层；npm 安装 + addon zip，GUI 优先、无头备用；dsh-TUI 选中 chip / @ 提及 / /blender，随包建模 skill，支持 W... | 2287 | Python |
-| 1053 | [anydoc](https://github.com/firecrawl/anydoc) | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. | 23719 | Rust |
-| 1054 | [Operit](https://github.com/AAswordman/Operit) | The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent | 9866 | Kotlin |
-| 1055 | [ai-toolkit](https://github.com/ostris/ai-toolkit) | The ultimate training toolkit for finetuning diffusion models | 12719 | Python |
-| 1056 | [playwright-mcp](https://github.com/microsoft/playwright-mcp) | Playwright MCP server | 40163 | TypeScript |
-| 1057 | [python-markdownify](https://github.com/matthewwithanm/python-markdownify) | Convert HTML to Markdown | 2263 | Python |
-| 1058 | [robotframework](https://github.com/robotframework/robotframework) | Generic automation framework for acceptance testing and RPA | 11999 | Python |
-| 1059 | [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞 | 53993 | 无 |
-| 1060 | [RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) | Converts text to speech in realtime | 4060 | Python |
-| 1061 | [FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid) | FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议 | 5904 | C |
-| 1062 | [edge-tts](https://github.com/rany2/edge-tts) | Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge | 12649 | Python |
-| 1063 | [khazix-skills](https://github.com/KKKKhazix/khazix-skills) | 数字生命卡兹克开源的 AI Skills 合集  Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents | 22560 | Python |
-| 1064 | [open-notebook](https://github.com/lfnovo/open-notebook) | An Open Source implementation of Notebook LM with more flexibility and features | 42236 | TypeScript |
-| 1065 | [LearnDeck](https://github.com/LearnAIHubC/LearnDeck) | LearnDeck: AI PPT generator for Codex that turns topics, notes, course material, and outlines into polished, editable PowerPoint decks. | 26 | JavaScript |
-| 1066 | [linux-command](https://github.com/jaywcjlove/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux | 37335 | Markdown |
-| 1067 | [classifier-dev](https://github.com/mrmps/classifier-dev) | Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server. https://classifier.dev | 440 | TypeScript |
-| 1068 | [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) | Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation. | 35864 | Python |
-| 1069 | [pylingual](https://github.com/syssec-utd/pylingual) | Python decompiler for modern Python versions. | 1452 | Python |
-| 1070 | [FLARE](https://github.com/EndemicMedia/FLARE) | FLARE: Fractal Language for Autonomous Recursive Expansion | 4 | HTML |
-| 1071 | [wecom-cli](https://github.com/WecomTeam/wecom-cli) | 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信 | 3382 | Rust |
-| 1072 | [hermes-desktop](https://github.com/fathah/hermes-desktop) | Desktop Companion for Hermes Agent | 14637 | TypeScript |
-| 1073 | [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 | 7725 | JavaScript |
-| 1074 | [darwin-skill](https://github.com/alchaincyf/darwin-skill) | 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚  Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert. | 7071 | HTML |
-| 1075 | [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | 145775 | Python |
-| 1076 | [JJYB_AI_VideoAutoCut](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut) | JJYB_AI 智剪 - 智能视频自动剪辑与AI解说工具（离线TTS、原创解说、混剪、AI配音） | 1280 | HTML |
-| 1077 | [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project. | 12198 | Python |
-| 1078 | [manga-image-translator](https://github.com/zyddnys/manga-image-translator) | Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ https://greasyfork.org/en/scripts/437569-cotrans-manga-image-translator-regular-edition | 10644 | Python |
-| 1079 | [chatbox](https://github.com/chatboxai/chatbox) | Powerful AI Client | 42544 | TypeScript |
-| 1080 | [Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) | 收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools） | 2494 | 无 |
-| 1081 | [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer | 97175 | JavaScript |
-| 1082 | [music21](https://github.com/cuthbertLab/music21) | music21: a Toolkit for Computer-Aided Musical Analysis and Computational Musicology | 2635 | Python |
-| 1083 | [awesome-frida](https://github.com/dweinstein/awesome-frida) | Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida) | 3570 | 无 |
-| 1084 | [ollama-python](https://github.com/ollama/ollama-python) | Ollama Python library | 10743 | Python |
-| 1085 | [subtitle-translator](https://github.com/rockbenben/subtitle-translator) | Translate a whole season of subtitles in one pass — .srt/.ass/.vtt/.lrc, 120+ languages, 27 LLM providers, timing untouched ｜ 整季字幕一次译完，时轴不动，支持 120+ 语言 | 1210 | TypeScript |
-| 1086 | [Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) | The AI local media metadata crawler | 7449 | Python |
-| 1087 | [drawio-desktop](https://github.com/jgraph/drawio-desktop) | Official electron build of draw.io | 64166 | JavaScript |
-| 1088 | [autocad-mcp](https://github.com/puran-water/autocad-mcp) | MCP server for AutoCAD LT v3.1: freehand AutoLISP execution, 8 consolidated tools, File IPC + ezdxf backends, focus-free dispatch, undo/redo, P&ID symbols, and robust IPC with ESC prefix and UTF-8 fal... | 704 | Python |
-| 1089 | [jquery](https://github.com/jquery/jquery) | jQuery JavaScript Library | 60168 | JavaScript |
-| 1090 | [vscode-drawio](https://github.com/hediet/vscode-drawio) | This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code. | 9518 | TypeScript |
-| 1091 | [agenticSeek](https://github.com/Fosowl/agenticSeek) | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. | 27702 | Python |
-| 1092 | [hive](https://github.com/aden-hive/hive) | Multi-Agent Harness for Production AI | 11181 | Python |
-| 1093 | [voice-changer](https://github.com/w-okada/voice-changer) | リアルタイムボイスチェンジャー Realtime Voice Changer | 21458 | Python |
-| 1094 | [h4cker](https://github.com/The-Art-of-Hacking/h4cker) | This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vu... | 30391 | Jupyter Notebook |
-| 1095 | [vibe-coding-prompt-templa](https://github.com/KhazP/vibe-coding-prompt-template) | Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs | 3274 | TypeScript |
-| 1096 | [zip.js](https://github.com/gildas-lormeau/zip.js) | JavaScript library to zip and unzip files supporting parallel compression, web streams, pluggable compression engines, zip64, split files, data encryption, and deflate64 decompression. | 3915 | JavaScript |
-| 1097 | [AiNiee](https://github.com/NEKOparapa/AiNiee) | 一款专注于 AI 多模态翻译的工具，一键自动翻译 RPG/SLG 游戏、Epub/TXT 小说、PDF/Word/MD 文档、Srt/Ass/Vtt 字幕，以及漫画图片、音频与视频等内容。 | 6539 | Python |
-| 1098 | [django-ninja](https://github.com/vitalik/django-ninja) | 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs | 9259 | Python |
-| 1099 | [Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) | 译幕（Zimoo）是字幕翻译工具，支持 .srt / .ass / .vtt 文件，提供网页版和 macOS / Windows 桌面版，可使用 DeepSeek、Gemini、GPT、Claude、Kimi、智谱等 AI 模型，核心卖点（和其他产品的主要区别）：用户配置自己的 API Key，好处是这样价格最低。 | 2639 | 无 |
-| 1100 | [Easel](https://github.com/ZJU-REAL/Easel) | An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内... | 4948 | Python |
-| 1101 | [threeui](https://github.com/MengTo/threeui) | Open-source ThreeUI Community catalog with live interactive components and complete Community source. | 7480 | HTML |
-| 1102 | [PicGo](https://github.com/Molunerfinn/PicGo) | :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d... | 27525 | TypeScript |
-| 1103 | [self-llm](https://github.com/datawhalechina/self-llm) | 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程 | 32871 | Jupyter Notebook |
-| 1104 | [dbskill](https://github.com/dontbesilent2025/dbskill) | dontbesilent 的商业诊断 Skills | 11580 | Python |
-| 1105 | [awesome-python](https://github.com/vinta/awesome-python) | The definitive list that answers "I want to do X in Python, which tool should I use?" | 337234 | Python |
-| 1106 | [python-sdk](https://github.com/modelcontextprotocol/python-sdk) | The official Python SDK for Model Context Protocol servers and clients | 24976 | Python |
-| 1107 | [AugLy](https://github.com/facebookresearch/AugLy) | A data augmentations library for audio, image, text, and video. | 5098 | Python |
-| 1108 | [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 18 Lessons to Get Started Building AI Agents | 81021 | Jupyter Notebook |
-| 1109 | [DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) | An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations. | 1639 | Go |
-| 1110 | [html-video](https://github.com/nexu-io/html-video) | Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An... | 4930 | HTML |
-| 1111 | [flow2api](https://github.com/TheSmallHanCat/flow2api) | 无限次数的banana pro！逆向账号池，支持负载均衡、AT自动刷新、缓存策略、代理等。Q交流群1073237297 | 3202 | Python |
-| 1112 | [echomimic](https://github.com/antgroup/echomimic) | [AAAI 2025] EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning | 4337 | Python |
-| 1113 | [lanhu-mcp](https://github.com/dsphper/lanhu-mcp) | ⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图 | 2603 | Python |
-| 1114 | [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | Coding articles to level up your development skills | 129619 | JavaScript |
-| 1115 | [picoshare](https://github.com/mtlynch/picoshare) | MOVED: https://codefloe.com/mtlynch/picoshare | 3067 | Go |
-| 1116 | [shai](https://github.com/ovh/shai) | shai is a coding agent, your pair programming buddy that lives in the terminal. Written in rust with love <3 | 634 | Rust |
-| 1117 | [models](https://github.com/tensorflow/models) | Models and examples built with TensorFlow | 77635 | Python |
-| 1118 | [PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial) | 可能是最好的PySide6中文教程！用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享！ | 1882 | Python |
-| 1119 | [chandra](https://github.com/datalab-to/chandra) | OCR model that handles complex tables, forms, handwriting with full layout. | 12778 | Python |
-| 1120 | [fg-data-profiling](https://github.com/Data-Centric-AI-Community/fg-data-profiling) | 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.  | 13761 | Python |
-| 1121 | [opencode-dynamic-context-](https://github.com/Tarquinen/opencode-dynamic-context-pruning) | Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage | 4530 | TypeScript |
-| 1122 | [httpx](https://github.com/encode/httpx) | A next generation HTTP client for Python. 🦋 | 15861 | Python |
-| 1123 | [QZoneExport](https://github.com/ShunCai/QZoneExport) | QQ空间导出助手，用于备份QQ空间的说说、日志、私密日记、相册、视频、留言板、QQ好友、收藏夹、分享、最近访客为文件，便于迁移与保存 | 1932 | TypeScript |
-| 1124 | [WeClone](https://github.com/xming521/WeClone) | Build a portrait of your life. Assistants that know you better. Clones that sound more like you. | 18442 | Python |
-| 1125 | [awesome-open-source-games](https://github.com/michelpereira/awesome-open-source-games) | Collection of Games that have the source code available on GitHub | 3449 | 无 |
-| 1126 | [skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | 200775 | Python |
-| 1127 | [DSH-Creator](https://github.com/Jackywxsz/DSH-Creator) | Jacky Creator：面向内容创作者的 DeepSeek Harness 本地内容与运营工作台 | 133 | TypeScript |
-| 1128 | [glider](https://github.com/nadoo/glider) | glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features. | 3708 | Go |
-| 1129 | [Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection | 15369 | Python |
-| 1130 | [OpenUtau](https://github.com/openutau/OpenUtau) | Open singing synthesis platform / Open source UTAU successor | 4653 | C# |
-| 1131 | [EasySpider](https://github.com/NaiboWang/EasySpider) | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 | 44805 | JavaScript |
-| 1132 | [search-plugins](https://github.com/qbittorrent/search-plugins) | Search plugins for qBittorrent search feature | 7289 | Python |
-| 1133 | [kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU. | 12690 | C |
-| 1134 | [indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) | 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。 | 3928 | 无 |
-| 1135 | [ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) | 无 | 3159 | Java |
-| 1136 | [Shadowsocks-Tutorial](https://github.com/zhaoweih/Shadowsocks-Tutorial) | 🐱给小白的Shadowsocks翻墙教程-Easy-to-follow tutorials for beginners on using Shadowsocks to bypass internet restrictions. | 2709 | Shell |
-| 1137 | [FileCodeBox](https://github.com/vastsa/FileCodeBox) | 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files） | 8824 | Python |
-| 1138 | [pythonnet](https://github.com/pythonnet/pythonnet) | Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developer... | 5543 | C# |
-| 1139 | [skills](https://github.com/antfu/skills) | Anthony Fu's curated collection of agent skills. | 6098 | TypeScript |
-| 1140 | [OpenMontage](https://github.com/OpenMontageInc/OpenMontage) | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc... | 83498 | Python |
-| 1141 | [jianhao-travel-planner](https://github.com/awangwang123/jianhao-travel-planner) | 出行路书工作流 skill：联网实查 + 多源交叉验证，产出可核验、能执行的旅行攻略。覆盖吃住行游拍避全维度，附美食情报卡、基准骨架与校验工具，支持一键部署在线版。 | 452 | Python |
-| 1142 | [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. | 32827 | Python |
-| 1143 | [v2ray-core](https://github.com/v2ray/v2ray-core) | A platform for building proxies to bypass network restrictions. | 46906 | Go |
-| 1144 | [WhoShitsonMyC](https://github.com/Kami958/WhoShitsonMyC) | 磁盘空间变化对比轻量小工具；A lightweight disk space change comparison tool.  | 1309 | Python |
-| 1145 | [anything-analyzer](https://github.com/Mouseww/anything-analyzer) | 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE     All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & M... | 3920 | TypeScript |
-| 1146 | [grafanimate](https://github.com/grafana-toolbox/grafanimate) | Animate timeseries data with Grafana. | 61 | Python |
-| 1147 | [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | MCP server to provide Figma layout information to AI coding agents like Cursor | 16316 | TypeScript |
-| 1148 | [skillsgate](https://github.com/skillsgate/skillsgate) | 无 | 1462 | TypeScript |
-| 1149 | [Vb6Tkinter](https://github.com/cdhigh/Vb6Tkinter) | An add-in for VB6 designed for Tkinter (直接使用VB6设计Tkinter GUI界面) | 574 | Visual Basic 6.0 |
-| 1150 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! | 71272 | Jupyter Notebook |
-| 1151 | [fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) | Unmaintained. Use datamodel-code-generator instead. Generates FastAPI apps from OpenAPI files. | 1408 | Python |
-| 1152 | [you-get](https://github.com/soimort/you-get) | :arrow_double_down: Dumb downloader that scrapes the web | 56854 | Python |
-| 1153 | [python-for-android](https://github.com/kivy/python-for-android) | Turn your Python application into an Android APK | 8950 | Python |
-| 1154 | [cose](https://github.com/doocs/cose) | 😃 md 编辑器使用的浏览器扩展，支持一键将文章同步到多个内容平台。 | 782 | JavaScript |
-| 1155 | [wrong-notebook-question-b](https://github.com/margrop/wrong-notebook-question-bank) | 智能错题本共享题库：小学/初中/高中多学科 JSON 题库包与索引 | 10 | Python |
-| 1156 | [Win11Debloat](https://github.com/Raphire/Win11Debloat) | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi... | 63746 | PowerShell |
-| 1157 | [Monogatari](https://github.com/Monogatari/Monogatari) | Monogatari is a simple web visual novel engine, created to bring Visual Novels to the web. | 896 | TypeScript |
-| 1158 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Get 10X more out of Claude Code, Codex or any coding agent | 28826 | Rust |
-| 1159 | [screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) | 81447 | Python |
-| 1160 | [GridFlow](https://github.com/d8349565/GridFlow) | 面向 Windows 桌面端的专业本地表格合并与分析工具：专为日常办公中繁重复杂的多表汇总需求设计，无需编写脚本或复杂公式，通过可视化直观操作，将分散、异构的多份 Excel / CSV 快速合并为规范母表，并直接在本地完成数据清洗、多维汇总统计与图表分析。 | 175 | Rust |
-| 1161 | [deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) | AI deep-research agent that turns any question into a cited report: plans searches, reads real sources, verifies evidence. Self-hosted, multi-provider, Docker-ready. | 2232 | TypeScript |
-| 1162 | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 | 80930 | Python |
-| 1163 | [skills](https://github.com/emilkowalski/skills) | Skills for Designers and Engineers. | 59814 | Markdown |
-| 1164 | [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) | A modern and customizable python UI-library based on Tkinter | 13625 | Python |
-| 1165 | [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。 | 3889 | TypeScript |
-| 1166 | [QQNT_Export](https://github.com/Tealina28/QQNT_Export) | 解密、读取并导出 QQNT 数据库中的聊天记录 | 87 | Python |
-| 1167 | [steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | 乔布斯.skill — Steve Jobs的认知操作系统。6个心智模型 + 8条决策启发式 + 完整表达DNA。由女娲.skill生成。 | 987 | 无 |
-| 1168 | [huasheng_editor](https://github.com/alchaincyf/huasheng_editor) | 花生公众号排版器 | 809 | JavaScript |
-| 1169 | [WebRPA](https://github.com/pmh1314520/WebRPA) | A powerful no-code automation tool. Build workflows via drag-and-drop modules for web scraping, form filling and automated testing.  一款功能强大的自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写任何代码即可实现网页数据采集、表单填写、自动化测试等任务。... | 1919 | Python |
-| 1170 | [LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) | 无 | 9763 | Python |
-| 1171 | [oh-my-wechat](https://github.com/chclt/oh-my-wechat) | 微信备份阅读器 | 671 | TypeScript |
-| 1172 | [163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) | 云音乐歌词获取处理工具【网易云、QQ音乐、汽水音乐】 | 4245 | C# |
-| 1173 | [dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) | Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes. | 6149 | Ruby |
-| 1174 | [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, ... | 45284 | PowerShell |
-| 1175 | [TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 | 33084 | Python |
-| 1176 | [MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) | A knowledge graph server that uses the Model Context Protocol (MCP) to provide structured memory persistence for AI models. | 355 | TypeScript |
-| 1177 | [opentwitter-mcp](https://github.com/6551Team/opentwitter-mcp) | Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking | 1446 | Python |
-| 1178 | [DearPyGui](https://github.com/hoffstadt/DearPyGui) | Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies | 15670 | C++ |
-| 1179 | [miaomiao-notes](https://github.com/onblog/miaomiao-notes) | Miaomiao Notes — a cute, local-first Markdown notes app for macOS, synced through iCloud Drive. 喵喵笔记：一只喵喵的本地 Markdown 笔记应用，通过 iCloud Drive 同步。 | 423 | JavaScript |
-| 1180 | [fish-speech](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS | 33876 | Python |
-| 1181 | [docsify](https://github.com/docsifyjs/docsify) | 🃏 A magical documentation site generator. | 31610 | JavaScript |
-| 1182 | [my-awesomes-collection](https://github.com/yzfly/my-awesomes-collection) | Curated Collection of Awesome Resources Repositories: A comprehensive resource hub featuring the best dev-related projects, applications, and guides from across the GitHub community. | 32 | 无 |
-| 1183 | [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) | This repo includes Claude prompt curation to use Claude better. | 5602 | 无 |
-| 1184 | [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients | 7869 | 无 |
-| 1185 | [pydantic-sqlalchemy](https://github.com/tiangolo/pydantic-sqlalchemy) | Tools to convert SQLAlchemy models to Pydantic models | 1410 | Python |
-| 1186 | [prompts](https://github.com/immersive-translate/prompts) | Prompts for Immersive Translate | 245 | 无 |
-| 1187 | [Adblock4limbo](https://github.com/limbopro/Adblock4limbo) | 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.导航 2.通过 JS/CSS 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91... | 4588 | JavaScript |
-| 1188 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 | 23124 | Java |
-| 1189 | [jsPDF](https://github.com/parallax/jsPDF) | Client-side JavaScript PDF generation for everyone. | 31318 | JavaScript |
-| 1190 | [pentagi](https://github.com/vxcontrol/pentagi) | Fully autonomous AI Agents system capable of performing complex penetration testing tasks | 35071 | Go |
-| 1191 | [rich](https://github.com/Textualize/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. | 57889 | Python |
-| 1192 | [logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) | A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library. | 7823 | HTML |
-| 1193 | [GEOFlow](https://github.com/yaojingang/GEOFlow) | Open-source GEO content engineering and multi-site distribution platform with AI quality inspection, illustrated admin help, hosted sites, browser-assisted publishing, and signed updates. | 4215 | PHP |
-| 1194 | [UserScripts](https://github.com/hoothin/UserScripts) | Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集 | 4385 | JavaScript |
-| 1195 | [surya](https://github.com/datalab-to/surya) | OCR, layout analysis, reading order, table recognition in 90+ languages | 21626 | Python |
-| 1196 | [pdfarranger](https://github.com/pdfarranger/pdfarranger) | Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface. | 6085 | Python |
-| 1197 | [novel](https://github.com/evilwk/novel) | 抓取小说生成 ePub | 11 | Python |
-| 1198 | [jev-engineering-zh](https://github.com/yibie/jev-engineering-zh) | 《Jev 工程学：为 coding agent 而作》完整中文翻译 — 保留原结构与 7 张插图 | 240 | 无 |
-| 1199 | [MuMuAINovel](https://github.com/xiamuceer-j/MuMuAINovel) | 一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事 | 3359 | Python |
-| 1200 | [yara-python](https://github.com/VirusTotal/yara-python) | The Python interface for YARA | 759 | C |
-| 1201 | [hyper-mcp-shell](https://github.com/BigSweetPotatoStudio/hyper-mcp-shell) | 无 | 4 | JavaScript |
-| 1202 | [bootstrap-flask](https://github.com/helloflask/bootstrap-flask) | Bootstrap 4 & 5 helper for your Flask projects. | 1192 | SCSS |
-| 1203 | [hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | 88001 | Python |
-| 1204 | [novel](https://github.com/201206030/novel) | novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。 | 5865 | Java |
-| 1205 | [OpenCodex](https://github.com/RyensX/OpenCodex) | OpenCodex is a middleware layer for Codex/ChatGPT Desktop. It lets you use a phone, tablet, or another computer to access and operate Codex on a target machine through a browser, making it suitable fo... | 735 | JavaScript |
-| 1206 | [CookieCloud](https://github.com/easychen/CookieCloud) | CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports... | 3232 | JavaScript |
-| 1207 | [VideoLingo](https://github.com/Huanshere/VideoLingo) | Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team  Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 | 19398 | Python |
-| 1208 | [GmgnTwitterTgAlert](https://github.com/Tech-Melon/GmgnTwitterTgAlert) | 只要gmgn不倒闭，就能拥有自己的推特追踪器 | 155 | Python |
-| 1209 | [grapesjs](https://github.com/GrapesJS/grapesjs) | Free and Open source Web Builder Framework. Next generation tool for building templates without coding | 26434 | TypeScript |
-| 1210 | [gmgn-skills](https://github.com/GMGNAI/gmgn-skills) | GMGN OpenAPI skills for AI Agent — query tokens, wallets, and market data, and execute on-chain trades across Solana, BSC, and Base. | 744 | Python |
-| 1211 | [pixelfx](https://github.com/patch-gg/pixelfx) | 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own. | 9355 | JavaScript |
-| 1212 | [Bark](https://github.com/Finb/Bark) | Bark is an iOS App which allows you to push custom notifications to your iPhone | 9632 | Swift |
-| 1213 | [ai-avatar-system](https://github.com/PunithVT/ai-avatar-system) | 🎭 AI Avatar / digital human platform — upload a photo, clone a voice, talk to any face in real time with lip-sync video. Open-source, self-hosted. Claude · Whisper · Chatterbox · MuseTalk. | 588 | Python |
-| 1214 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python | 226482 | Python |
-| 1215 | [video-autopilot-kit](https://github.com/Hao0321/video-autopilot-kit) | Fill-in-your-own-data framework for YouTube / short-form video automation: CapCut JSON + ffmpeg tooling + an onboarding questionnaire. Ships with zero private data. | 2364 | Python |
-| 1216 | [BEpusdt](https://github.com/v03413/BEpusdt) | 一款更好用的个人加密货币收款网关 | 2406 | Go |
-| 1217 | [agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) | Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts. | 5997 | Python |
-| 1218 | [HyperChat](https://github.com/BigSweetPotatoStudio/HyperChat) | HyperChat is a Chat client that strives for openness, utilizing APIs from various LLMs to achieve the best Chat experience, as well as implementing productivity tools through the MCP protocol. | 708 | TypeScript |
-| 1219 | [EasyOCR](https://github.com/JaidedAI/EasyOCR) | Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc. | 30175 | Python |
-| 1220 | [python-whydo](https://github.com/chinesehuazhou/python-whydo) | Explore Python's charms by asking WHY questions | 1935 | 无 |
-| 1221 | [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) | ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary. | 6033 | Rust |
-| 1222 | [data](https://github.com/meta-pytorch/data) | A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries. | 1267 | Python |
-| 1223 | [Python](https://github.com/walter201230/Python) | 小白 python 教程 | 28670 | Python |
-| 1224 | [x-tweet-fetcher](https://github.com/ythx-101/x-tweet-fetcher) | Fetch X/Twitter tweets, replies, timelines, search, Lists and X Articles without login or API keys. Python CLI + library for AI agents: FxTwitter / Nitter / browser backends with auto fallback, unifie... | 1016 | Python |
-| 1225 | [BB-Video](https://github.com/BubbleBrainBB/BB-Video) | An agent skill that makes videos in pure code — narrated explainers and product promos in 37 visual styles (whiteboard, ink-wash, shadow puppets, pixel art, isometric worlds, movie trailers, manga, an... | 219 | JavaScript |
-| 1226 | [ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) | LTX-Video Support for ComfyUI | 4289 | Python |
-| 1227 | [binance-skills-hub](https://github.com/binance/binance-skills-hub) | Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto | 1234 | Python |
-| 1228 | [three-gtvbao](https://github.com/norio/three-gtvbao) | GT-VBAO ambient occlusion for three.js WebGPU and WebGL2 (TSL) | 89 | TypeScript |
-| 1229 | [vitepress](https://github.com/vuejs/vitepress) | Vite & Vue powered static site generator. | 18526 | TypeScript |
-| 1230 | [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP. | 13589 | Python |
-| 1231 | [hand-drawn-styles](https://github.com/threerocks/hand-drawn-styles) | Claude Code skill：把内容套进内置手绘画风配方,产出可直接复制的生图提示词。内置儿童涂色/极简线条/蜡笔童涂/吉卜力/小豆人涂鸦 5 种已验证画风。 | 2749 | Python |
-| 1232 | [tesserocr](https://github.com/sirfz/tesserocr) | A Python wrapper for the tesseract-ocr API | 2182 | Python |
-| 1233 | [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | A reliable coding agent for complex software engineering tasks. | 36072 | Go |
-| 1234 | [lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) | Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。 | 7000 | HTML |
-| 1235 | [autoharness](https://github.com/tigerless-labs/autoharness) | Building the self-learning layer next-gen agents will ship with, learning skills from real work. | 11126 | Python |
-| 1236 | [qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) | 🚀 QQ聊天记录、表情包导出工具  自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ  | 6318 | Rust |
-| 1237 | [gitstars](https://github.com/cfour-hi/gitstars) | Github Starred Repositories Manager | 1800 | JavaScript |
-| 1238 | [awesome-gamedev-agent-ski](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) | Make games with your AI coding agent: 79 game-dev skills and a router for Godot, Unity, Unreal, Roblox, three.js, Phaser and 6 more engines. Checked on the real engines. | 11422 | Python |
-| 1239 | [repobrain](https://github.com/study8677/repobrain) | 🧠 RepoBrain (formerly Antigravity) — Give your repo a brain. ChatGPT for your codebase: works in Claude Code, Cursor, Codex, Windsurf & more. | 1363 | Python |
-| 1240 | [TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | 无 | 18461 | 无 |
-| 1241 | [chatmcp](https://github.com/daodao97/chatmcp) | ChatMCP is an AI chat client implementing the Model Context Protocol (MCP). | 2226 | Dart |
-| 1242 | [awesome-dataviz](https://github.com/hal9ai/awesome-dataviz) | A curated list of awesome data visualization libraries and resources. | 4470 | JavaScript |
-| 1243 | [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。 | 14890 | JavaScript |
-| 1244 | [capsule-render](https://github.com/kyechan99/capsule-render) | 🌈 Dynamic Coloful Image Render | 1861 | TypeScript |
-| 1245 | [free-stockdb](https://github.com/hello245m/free-stockdb) | 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。 | 3203 | HTML |
-| 1246 | [jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) | JupyterLab desktop application, based on Electron. | 4344 | TypeScript |
-| 1247 | [RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) | A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription. | 10263 | Python |
-| 1248 | [GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) | 64271 | Python |
-| 1249 | [simple-jev](https://github.com/featherless-ai/simple-jev) | Turn any open model into a classifier/jev endpoint | 661 | Python |
-| 1250 | [Microsoft-Activation-Scri](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. | 201027 | Batchfile |
-| 1251 | [html-to-pdfmake](https://github.com/Aymkdn/html-to-pdfmake) | This module permits to convert HTML to the PDFMake format | 642 | JavaScript |
-| 1252 | [JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型 | 48637 | Java |
-| 1253 | [awesome-indiehackers](https://github.com/johackim/awesome-indiehackers) | Awesome list about indie hackers | 675 | 无 |
-| 1254 | [GEORank](https://github.com/yaojingang/GEORank) | Open-source GEO ranking and generative engine optimization platform. | 549 | Python |
-| 1255 | [llm-swarm-router](https://github.com/matthewdcage/llm-swarm-router) | Run the LLM Swarm Router on machines to distribute Local Ai to the Swarm - More Machines - MORE SPEED | 27 | Python |
-| 1256 | [videosos](https://github.com/timoncool/videosos) | AI video production in the browser — text-to-video, image-to-video, lip sync, 100+ models. Google Veo 3.1, FLUX, Gemini, Imagen 4. Free, open-source, private. | 1421 | TypeScript |
-| 1257 | [grok2api](https://github.com/chenyme/grok2api) | Multi-account API gateway for Grok Build, Grok Web, and Grok Console | 7914 | Go |
-| 1258 | [highlight.js](https://github.com/highlightjs/highlight.js) | JavaScript syntax highlighter with language auto-detection and zero dependencies. | 25020 | JavaScript |
-| 1259 | [HermesOffice](https://github.com/criptogus/HermesOffice) | Free, open-source AI Office suite (Word, Excel, PowerPoint, PDF, Markdown) — macOS build, one-click install | 640 | TypeScript |
-| 1260 | [awesome-healthcare](https://github.com/kakoni/awesome-healthcare) | Curated list of awesome open source healthcare software, libraries, tools and resources. | 4068 | 无 |
-| 1261 | [Chat2DB](https://github.com/OtterMind/Chat2DB) | Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your o... | 28374 | Java |
-| 1262 | [wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) | :traffic_light:小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具 | 51139 | TypeScript |
-| 1263 | [WAAS](https://github.com/schibsted/WAAS) | Whisper as a Service (GUI and API with queuing for OpenAI Whisper) | 2072 | JavaScript |
-| 1264 | [ChinaStudyFree](https://github.com/tanle-mtr/ChinaStudyFree) | 聪聪学堂 · 四端（Web/桌面/安卓/iOS）+ 四学段（小学/初中/高中/大学）免费公益 AI 学习平台，MIT 开源。免费 EdgeTTS 语音、148 本教材互动课程。 | 215 | TypeScript |
-| 1265 | [beercss](https://github.com/beercss/beercss) | Build material design interfaces in record time... without stress for devs... 🍺💛 | 2648 | Vue |
-| 1266 | [moonshine](https://github.com/moonshine-ai/moonshine) | Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces | 11607 | C++ |
-| 1267 | [d3-book](https://github.com/scotthmurray/d3-book) | Code examples for “Interactive Data Visualization for the Web” | 2429 | HTML |
-| 1268 | [litgpt](https://github.com/Lightning-AI/litgpt) | 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale. | 13768 | Python |
-| 1269 | [videos](https://github.com/3b1b/videos) | Code for the manim-generated scenes used in 3blue1brown videos | 11544 | Python |
-| 1270 | [neko-master](https://github.com/foru17/neko-master) | A modern and elegant dashboard for network traffic visualization and analysis. | 4447 | TypeScript |
-| 1271 | [serviette](https://github.com/pathwaycom/serviette) | A no-code RAG server that keeps answers in sync with your documents. Works with 8 vector databases. Built on Pathway. | 58676 | Python |
-| 1272 | [python](https://github.com/flypythoncom/python) | Open-source Python challenge courses — your AI coding agent teaches, verify.py decides when you're done. | 4203 | Python |
-| 1273 | [Halfrost-Field](https://github.com/halfrost/Halfrost-Field) | ✍🏻 Source Code Deep Dives, System Design & Engineering Blogs  Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记  | 13261 | Go |
-| 1274 | [frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | 110812 | Go |
-| 1275 | [SmartGaokaoPastPapers](https://github.com/guorentao/SmartGaokaoPastPapers) | 高考真题智能题库：知识图谱 + 2010-2022 九科真题 2653 道 + 学情诊断与巩固卷 + 试卷下载（含小学 1-6 年级题库） | 1 | Python |
-| 1276 | [KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) | 史上最大规模1.4亿中文知识图谱开源下载 | 5226 | Python |
-| 1277 | [QQHistoryExport](https://github.com/Hakuuyosei/QQHistoryExport) | 安卓设备QQ聊天记录导出，支持图片/视频/音频/引用/文件 大部分消息，支持几乎所有的重要消息类型，支持PDF导出，未来将支持html导出 | 306 | Python |
-| 1278 | [sourcery](https://github.com/sourcery-ai/sourcery) | Instant AI code reviews | 1890 | 无 |
-| 1279 | [Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API) | A CLI tool and an API for fetching data from Twitter for free! | 906 | TypeScript |
-| 1280 | [CheatEngine.Mcp](https://github.com/CheatEngineNet/CheatEngine.Mcp) | Automate Cheat Engine using MCP protocol for use with AI! | 104 | C# |
-| 1281 | [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy. | 40965 | Shell |
-| 1282 | [pedalboard](https://github.com/spotify/pedalboard) | 🎛 🔊 A Python library for audio. | 6514 | C++ |
-| 1283 | [nannou](https://github.com/nannou-org/nannou) | A Creative Coding Framework for Rust. | 6794 | Rust |
-| 1284 | [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | An AI Hedge Fund Team | 64861 | Python |
-| 1285 | [meme-radar](https://github.com/nhovongoc0-max/meme-radar) | Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具 | 579 | JavaScript |
-| 1286 | [shuohao-skills](https://github.com/eternityspring/shuohao-skills) | AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜  Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex. | 7165 | JavaScript |
-| 1287 | [textual](https://github.com/Textualize/textual) | The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. | 37741 | Python |
-| 1288 | [python-dotenv](https://github.com/theskumar/python-dotenv) | Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles. | 8920 | Python |
-| 1289 | [yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) | YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills. | 2742 | Python |
-| 1290 | [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | A collection of GPT system prompts and various prompt injection/leaking knowledge. | 10867 | HTML |
-| 1291 | [llm-space](https://github.com/deer-flow/llm-space) | A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents. | 2154 | TypeScript |
-| 1292 | [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | See, hear, and interact on your local devices. | 27204 | Python |
-| 1293 | [VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning | 43001 | Python |
-| 1294 | [picx](https://github.com/XPoet/picx) | 🏞️ PicX，免费、安全的一站式在线图片处理平台。 | 5097 | TypeScript |
-| 1295 | [VirtualApp](https://github.com/asLody/VirtualApp) | Virtual Engine for Android(Support 14.0 in business version) | 11144 | Java |
-| 1296 | [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) | 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。 | 13189 | TypeScript |
-| 1297 | [ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) | ChatGPT DAN, Jailbreaks prompt | 13392 | 无 |
-| 1298 | [pelican](https://github.com/getpelican/pelican) | Static site generator that supports Markdown and reST syntax. Powered by Python. | 13381 | Python |
-| 1299 | [agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a... | 170330 | Shell |
-| 1300 | [pydoll](https://github.com/autoscrape-labs/pydoll) | Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.  | 7155 | HTML |
-| 1301 | [pm-skills](https://github.com/phuryn/pm-skills) | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. | 28335 | 无 |
-| 1302 | [Qwen3-TTS-Pinokio](https://github.com/SUP3RMASS1VE/Qwen3-TTS-Pinokio) | Qwen3-TTS is an open-source series of TTS models developed by the Qwen team | 25 | JavaScript |
-| 1303 | [re0-web](https://github.com/re-zero-khis/re0-web) | Re0：从零开始的异世界生活 （WEB版） | 2031 | HTML |
-| 1304 | [pywinauto](https://github.com/pywinauto/pywinauto) | Windows GUI Automation with Python (based on text properties) | 6470 | Python |
-| 1305 | [PromptFill](https://github.com/TanShilongMario/PromptFill) | designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help users quickly build, manage, and iterate complex prompts through a visual "fill-in-the-blank" interaction.  通过可视化的"填空"交... | 1957 | JavaScript |
-| 1306 | [AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) | AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它... | 4655 | Python |
-| 1307 | [V2rayU](https://github.com/yanue/V2rayU) | V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等 | 20202 | 无 |
-| 1308 | [armory](https://github.com/armory3d/armory) | 3D Engine with Blender Integration | 3374 | C++ |
-| 1309 | [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | real time face swap and one-click video deepfake with only a single image | 98943 | Python |
-| 1310 | [vue-admin-better](https://github.com/zxwk1998/vue-admin-better) | 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro  | 18933 | Vue |
-| 1311 | [remake](https://github.com/VickScarlet/remake) | やり直すんだ。そして、次はうまくやる。 | 10445 | TypeScript |
-| 1312 | [pyodbc](https://github.com/mkleehammer/pyodbc) | Python ODBC bridge | 3089 | C++ |
-| 1313 | [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3) | Vue3+Vite+Ts+Pinia+....一个快速开发vue3的模板框架，快速搭建前台应用 | 1932 | Vue |
-| 1314 | [penmentor](https://github.com/AbdullahAlhariri/penmentor) | AI mentor that corrects your written math visually with local harnesses. | 241 | Python |
-| 1315 | [BabelDOC](https://github.com/funstory-ai/BabelDOC) | Yet Another Document Translator | 9910 | Rust |
-| 1316 | [ultrajson](https://github.com/ultrajson/ultrajson) | Ultra fast JSON decoder and encoder written in C with Python bindings | 4501 | C++ |
-| 1317 | [OpenCLI](https://github.com/jackwener/OpenCLI) | Make Any Website into CLI & Use your logged-in browser by AI agent.  | 31304 | JavaScript |
-| 1318 | [jev-search](https://github.com/superagents-lab/jev-search) | Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API. | 562 | TypeScript |
-| 1319 | [coding-interview-universi](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | 365085 | 无 |
-| 1320 | [Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) | 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts. | 3731 | Jupyter Notebook |
-| 1321 | [awesome-ai-tools](https://github.com/pingan8787/awesome-ai-tools) | Finding the AI tools you need! | 372 | 无 |
-| 1322 | [HanLP](https://github.com/hankcs/HanLP) | 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理 | 36546 | Python |
-| 1323 | [teacher-to-skills](https://github.com/JuneYaooo/teacher-to-skills) | Distill your teacher into a source-backed Skill that teaches you until you can work on your own. | 493 | Python |
-| 1324 | [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all | 92497 | Jupyter Notebook |
-| 1325 | [markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | 198540 | Python |
-| 1326 | [exo](https://github.com/exo-explore/exo) | Run frontier AI locally. | 48623 | Python |
-| 1327 | [python-patterns](https://github.com/faif/python-patterns) | A collection of design patterns/idioms in Python | 43120 | Python |
-| 1328 | [code2prompt](https://github.com/mufeedvh/code2prompt) | A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. | 7768 | Rust |
-| 1329 | [Ciphey](https://github.com/bee-san/Ciphey) | ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡ | 21799 | Rust |
-| 1330 | [postbot](https://github.com/gitcoffee-os/postbot) | PostBot 内容同步助手 一款开源的多平台内容同步分发生产力工具。 支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。覆盖微信/微博/今日头条/小红书/知乎/百家号/企鹅号/视频号/抖音/快手/哔哩哔哩（B站）等国内主流媒体平台，可轻松扩展兼容 X（Twitter）、Facebook、Instagram、TikTok、YouTube、LinkedIn 等国际媒体平台。 | 1735 | TypeScript |
-| 1331 | [opcode](https://github.com/winfunc/opcode) | A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. | 22467 | TypeScript |
-| 1332 | [Geogebra-WebChat](https://github.com/liangdabiao/Geogebra-WebChat) | 发布教育领域的AI新产品：一句话搞定数学几何绘图GeoGebra。Geogebra-WebChat只保留核心链路：**聊天 + AI + GeoGebra 画图**。简单普通 Web 应用，但是功能齐全。 | 52 | JavaScript |
-| 1333 | [winlibs_mingw](https://github.com/brechtsanders/winlibs_mingw) | winlibs standalone build of GCC compiler and MinGW-w64 | 1386 | 无 |
-| 1334 | [dayjs](https://github.com/iamkun/dayjs) | ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API | 48640 | JavaScript |
-| 1335 | [gemini-skill](https://github.com/WJZ-P/gemini-skill) | gemini drawing MCP & skill through browser, can be used in openclaw or any agent that supports MCP. Gemini画图 MCP和sill，支持龙虾或任何agent使用٩(๑>◡<๑)۶ | 835 | JavaScript |
-| 1336 | [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) | 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~ | 16631 | TypeScript |
-| 1337 | [native-subtitle-quote-ima](https://github.com/chengyi-ai/native-subtitle-quote-image) | 保留视频内嵌字幕，精确取帧并生成 3:4 社交长图的 Agent Skill | 2998 | Python |
-| 1338 | [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | 141661 | Python |
-| 1339 | [chaojifeng-video-design](https://github.com/mileson/chaojifeng-video-design) | 超级峰的视频设计方法论｜面向 AI Agent 的视频主线、分镜、声画节奏、制作与交付验收 Skill | 557 | HTML |
-| 1340 | [anidoodle](https://github.com/alexgreensh/anidoodle) | Art and animation, written as code. Illustrations, loops, interactive web art, launch-videos and scored films in dozens of styles, identical on every render. | 2060 | TypeScript |
-| 1341 | [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS  聊天辅助决策工具：先看懂对方... | 8519 | Kotlin |
-| 1342 | [django-channels-chat](https://github.com/narrowfail/django-channels-chat) | A simple Django-Channels web chat! | 707 | Python |
-| 1343 | [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap) | Modern themes for Tkinter.  Sleek, responsive styles inspired by Bootstrap. Includes ready-to-use widgets, 30+ themes, and tools for building beautiful, cross-platform desktop apps with ease. | 2666 | Python |
-| 1344 | [pywechat](https://github.com/Hello-Mr-Crab/pywechat) | 仍然可用的微信RPA！支持4.0系列微信pywechat是一个基于pywinauto实现的windows桌面微信自动化操作工具，基本实现了PC微信内置的各项操作。 | 2139 | Python |
-| 1345 | [REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program | 4432 | Batchfile |
-| 1346 | [pyWhat](https://github.com/bee-san/pyWhat) | 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️ | 7360 | Python |
-| 1347 | [Grok-Mirror](https://github.com/dairoot/Grok-Mirror) | 🚀 一键部署个人的 Grok 镜像站 | 912 | Shell |
-| 1348 | [termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. | 65741 | Java |
-| 1349 | [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers | 49647 | TypeScript |
-| 1350 | [easydiffusion](https://github.com/easydiffusion/easydiffusion) | An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and ... | 10486 | JavaScript |
-| 1351 | [openui](https://github.com/wandb/openui) | OpenUI let's you describe UI using your imagination, then see it rendered live. | 22773 | TypeScript |
-| 1352 | [fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) | MCP server for fetch web page content using Playwright headless browser. | 1087 | TypeScript |
-| 1353 | [AionUi](https://github.com/iOfficeAI/AionUi) | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent  Customize your assistants  Team them up｜Star if you like it! | 34518 | TypeScript |
-| 1354 | [wiki-graph](https://github.com/oomol-lab/wiki-graph) | distill any book down to its spine | 430 | TypeScript |
-| 1355 | [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) | :beers: awesome cheatsheet | 8708 | Python |
-| 1356 | [AutoEq](https://github.com/jaakkopasanen/AutoEq) | Automatic headphone equalization from frequency responses | 16505 | Python |
-| 1357 | [Claw3D](https://github.com/iamlukethedev/Claw3D) | Claw3D is an open source 3D engine built on OpenClaw for creating games, simulations, and high-performance 3D applications. | 2492 | TypeScript |
-| 1358 | [agentskills](https://github.com/agentskills/agentskills) | Specification and documentation for Agent Skills | 27649 | Python |
-| 1359 | [nofx](https://github.com/NoFxAiOS/nofx) | Your AI trading terminal assistant for US stocks, commodities, forex, and crypto. | 13349 | Go |
-| 1360 | [AIMedia](https://github.com/Anning01/AIMedia) | AIMedia 是一款自动抓取热点，AI创作文章，自动发布的集成软件。支持头条，小红书，公众号等 | 2630 | TypeScript |
-| 1361 | [RWKV-LM](https://github.com/BlinkDL/RWKV-LM) | RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a... | 14795 | Python |
-| 1362 | [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) | BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili  YouTube  Tweet丨TikTok丨Dropbox丨Google Drive丨Local files  Websites丨Podcasts  Meetings  Lectures, etc. 音视频内容... | 6293 | TypeScript |
-| 1363 | [sd-webui-prompt-all-in-on](https://github.com/Physton/sd-webui-prompt-all-in-one) | This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides auto... | 3240 | Python |
-| 1364 | [GSAP](https://github.com/greensock/GSAP) | GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web | 31282 | JavaScript |
-| 1365 | [NodeToCode](https://github.com/protospatial/NodeToCode) | Translate Unreal Engine Blueprints to C++ in seconds. Not hours. | 785 | C++ |
-| 1366 | [dev-browser](https://github.com/SawyerHood/dev-browser) | A Claude Skill to give your agent the ability to use a web browser | 6758 | TypeScript |
-| 1367 | [pybuilder](https://github.com/pybuilder/pybuilder) | Software build automation tool for Python. | 2078 | Python |
-| 1368 | [awesome-vue](https://github.com/vuejs/awesome-vue) | 🎉 A curated list of awesome things related to Vue.js | 73456 | 无 |
-| 1369 | [easy-writing](https://github.com/yilujian/easy-writing) | 易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。 | 981 | Vue |
-| 1370 | [AutoJs6](https://github.com/SuperMonster003/AutoJs6) | 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目) | 6701 | Kotlin |
-| 1371 | [monkey](https://github.com/guardicore/monkey) | Infection Monkey - An open-source adversary emulation platform | 7129 | Python |
-| 1372 | [form-create](https://github.com/xaboy/form-create) | :fire::fire::fire: 强大的低代码动态表单组件，通过 JSON 数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。 | 7120 | JavaScript |
-| 1373 | [Pythonista-Tools](https://github.com/Pythonista-Tools/Pythonista-Tools) | Gathering code and links to projects specially developed for Pythonista for iOS. | 1163 | 无 |
-| 1374 | [xhs_ai_publisher](https://github.com/BetaStreetOmnis/xhs_ai_publisher) | AI-powered Xiaohongshu/Rednote content creation and publishing tool with PyQt desktop UI, FastAPI service, login-state reuse, preview publish, and automated browser workflows. | 2099 | Python |
-| 1375 | [scylla](https://github.com/MikeChongCan/scylla) | Intelligent proxy pool for Humans™ to extract content from the internet and build your own Large Language Models in this new AI era | 4020 | Python |
-| 1376 | [magicgui](https://github.com/pyapp-kit/magicgui) | build GUIs from type annotations | 510 | Python |
-| 1377 | [anime](https://github.com/juliangarnier/anime) | JavaScript animation engine | 75093 | JavaScript |
-| 1378 | [whisper-plus](https://github.com/kadirnar/whisper-plus) | WhisperPlus: Faster, Smarter, and More Capable 🚀 | 1944 | Python |
-| 1379 | [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) | Python GUIs for Humans! Create any GUI simple or complicated in a way that's intuitive.  Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into a simple... | 13824 | Python |
-| 1380 | [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) | Socket.IO integration for Flask applications. | 5505 | Python |
-| 1381 | [caz](https://github.com/zce/caz) | A simple yet powerful template-based Scaffolding tools. | 2484 | TypeScript |
-| 1382 | [LTX-Video](https://github.com/Lightricks/LTX-Video) | Official repository for LTX-Video | 11496 | Python |
-| 1383 | [requests](https://github.com/psf/requests) | A simple, yet elegant, HTTP library. | 54767 | Python |
-| 1384 | [FofaMap](https://github.com/asaotomo/FofaMap) | 证据驱动的 AI 资产测绘与安全研判工具。以自然语言串联资产发现、AI 反思、授权验证与报告交付，将 FOFA、Nuclei 与 AI 助手融入同一工作流。原生支持 CLI / MCP / Skill / REST API。 | 770 | Python |
-| 1385 | [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) | A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm... | 6505 | TypeScript |
-| 1386 | [diagrams](https://github.com/mingrammer/diagrams) | :art: Diagram as Code for prototyping cloud system architectures | 42835 | Python |
-| 1387 | [refly](https://github.com/refly-ai/refly) | The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are inf... | 7566 | TypeScript |
-| 1388 | [OpenManus](https://github.com/FoundationAgents/OpenManus) | No fortress, purely open ground.  OpenManus is Coming. | 59040 | Python |
-| 1389 | [WatermarkRemover-AI](https://github.com/D-Ogi/WatermarkRemover-AI) | AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos, including AI-generated content from Sora, Runway, and others. Features a modern PyWebview GUI. | 2165 | Python |
-| 1390 | [ECDICT](https://github.com/skywind3000/ECDICT) | Free English to Chinese Dictionary Database | 8679 | Python |
-| 1391 | [FDE-the-Guidance-Book-of-](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） | 5683 | 无 |
-| 1392 | [QQDecrypt](https://github.com/QQBackup/QQDecrypt) | 解密并导出 PCQQ / QQ NT 等软件的聊天记录数据库的教程网站 | 247 | 无 |
-| 1393 | [harness2](https://github.com/google-research/harness2) | 无 | 25285 | Python |
-| 1394 | [crm](https://github.com/trycompai/crm) | Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM. | 12291 | TypeScript |
-| 1395 | [flask-wtf](https://github.com/pallets-eco/flask-wtf) | Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration. | 1509 | Python |
-| 1396 | [aci](https://github.com/aipotheosis-labs/aci) | ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps. | 4943 | Python |
-| 1397 | [looseleaf](https://github.com/kevintngo/looseleaf) | shadcn/ui, drawn by hand: 123 accessible React components that look drawn on paper, with a shadcn registry. | 764 | TypeScript |
-| 1398 | [yichen-skills](https://github.com/mcncarl/yichen-skills) | 无 | 5407 | Python |
-| 1399 | [wechat-assistant](https://github.com/yzqzy/wechat-assistant) | 微信助手，支持群发消息、定时任务、消息防撤回等功能 | 741 | 无 |
-| 1400 | [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) | A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again. | 8175 | Python |
-| 1401 | [YuE](https://github.com/multimodal-art-projection/YuE) | YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. | 13750 | Python |
-| 1402 | [neo-chat](https://github.com/u14app/neo-chat) | A local-first AI chat workspace for models, agents, skills, plugins, search, RAG, voice, memory, and artifacts. | 1885 | TypeScript |
-| 1403 | [any-agent](https://github.com/mozilla-ai/any-agent) | A single interface to use and evaluate different agent frameworks  | 1262 | Python |
-| 1404 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. | 191369 | Python |
-| 1405 | [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series (2 published editions) on the JS language. | 184849 | 无 |
-| 1406 | [autoresearch](https://github.com/uditgoenka/autoresearch) | Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever. | 6870 | Shell |
-| 1407 | [digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy … | 2181 | TypeScript |
-| 1408 | [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers | 82212 | Python |
-| 1409 | [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The essential checklist for modern web development, for humans and AI agents | 74825 | MDX |
-| 1410 | [91Writing](https://github.com/ponysb/91Writing) | 一个基于 Vue 3 + Element Plus 的智能Ai小说创作工具，集成多种 AI 模型，助力作者高效创作 | 1602 | Vue |
-| 1411 | [vscodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | 34278 | Shell |
-| 1412 | [UFO](https://github.com/microsoft/UFO) | UFO³: Weaving the Digital Agent Galaxy | 10243 | Python |
-| 1413 | [videoflow](https://github.com/videoflow/videoflow) | Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment. | 1045 | Python |
-| 1414 | [web3.py](https://github.com/ApeWorX/web3.py) | A python interface for interacting with the Ethereum blockchain and ecosystem. | 5542 | Python |
-| 1415 | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF | 82972 | Python |
-| 1416 | [flask](https://github.com/pallets/flask) | The Python micro framework for building web applications. | 75287 | Python |
-| 1417 | [awesome-python](https://github.com/uhub/awesome-python) | A curated list of awesome Python frameworks, libraries and software. | 1201 | 无 |
-| 1418 | [SuperSQLInjection](https://github.com/shack2/SuperSQLInjection) | 超级SQL注入工具（SSQLInjection）是一款基于HTTP协议自组包的SQL注入工具支持各种类型的SQL注入，支持HTTPS模式注入；支持以盲注、错误显示、Union注入等方式来获取数据；支持常见数据库，可以采用自动化模式和手动模式，全新V2版本，包含命令行版本，桌面端版本，ai调用技能包。  | 1275 | C |
-| 1419 | [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) | 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对 | 8274 | HTML |
-| 1420 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | 30462 | HTML |
-| 1421 | [SNETCracker](https://github.com/shack2/SNETCracker) | 超级弱口令检查工具是一款Windows平台的弱口令审计工具，支持批量多线程检查，可快速发现弱密码、弱口令账号，密码支持和用户名结合进行检查，大大提高成功率，支持自定义服务端口和字典。 | 2761 | C# |
-| 1422 | [ccNexus](https://github.com/lich0821/ccNexus) | Intelligent API gateway for Claude Code and Codex CLI - rotate endpoints, monitor usage, and seamlessly integrate OpenAI, Gemini, and other platforms. | 964 | Go |
-| 1423 | [AI-reads-books-page-by-pa](https://github.com/echohive42/AI-reads-books-page-by-page) | AI reads books: Page-by-Page PDF Knowledge Extractor & Summarizer. script performs an intelligent page-by-page analysis of PDF books, methodically extracting knowledge points and generating progressiv... | 3469 | Python |
-| 1424 | [a-picture-is-worth-a-1000](https://github.com/girliemac/a-picture-is-worth-a-1000-words) | I am trying to describe complex matters in simple doodles! | 11400 | 无 |
-| 1425 | [weekly](https://github.com/howie6879/weekly) | 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。 | 1044 | Python |
-| 1426 | [ruia](https://github.com/howie6879/ruia) | Async Python 3.6+ web scraping micro-framework based on asyncio | 1737 | Python |
-| 1427 | [magic_google](https://github.com/howie6879/magic_google) | Google search results crawler, get google search results that you need | 400 | Python |
-| 1428 | [asciichart](https://github.com/kroitor/asciichart) | Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies | 2109 | Python |
-| 1429 | [art](https://github.com/sepandhaghighi/art) | 🎨 ASCII art library for Python | 2519 | Python |
-| 1430 | [prompt-layer-library](https://github.com/MagnivOrg/prompt-layer-library) | 🍰 PromptLayer - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions. | 791 | Python |
-| 1431 | [faraday](https://github.com/infobyte/faraday) | Open-source and AI-powered cybersecurity tools for offensive security, vulnerability management, and autonomous pentesting. Built by hackers in Latin America, used worldwide. | 6890 | Python |
-| 1432 | [MultiWeChatManager](https://github.com/wfql1024/MultiWeChatManager) | 懒得点？懒得扫码？那就交给它！🛠️  这是一款能管理微信、企业微信、QQ等平台多开及免扫码登录的自动化管理工具，支持 多号一键登录、全局多开、自启动登录、防撤回 等功能，是让你省心的好工具！🚀  | 572 | Java |
-| 1433 | [Qv2ray](https://github.com/Qv2ray/Qv2ray) | :star: Linux / Windows / macOS 跨平台 V2Ray 客户端  支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5  使用 C++ / Qt 开发  可拓展插件式设计 :star: | 16858 | C++ |
-| 1434 | [WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding) | WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval. | 1835 | Python |
-| 1435 | [python-office](https://github.com/CoderWanFeng/python-office) | pip install python-office 自动化办公专用库 | 1374 | Python |
-| 1436 | [continuous-claude](https://github.com/AnandChowdhary/continuous-claude) | 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging | 1389 | Shell |
-| 1437 | [cult-ui](https://github.com/nolly-studio/cult-ui) | Animated components for design engineers. 150+ free shadcn/ui components, built with Tailwind CSS and Motion. MIT licensed. | 7703 | TypeScript |
-| 1438 | [urldb](https://github.com/ctwj/urldb) | 一个现代化的网盘资源数据库，支持多网盘自动化转存分享，支持百度网盘，阿里云盘，夸克网盘， 天翼云盘，迅雷云盘，123云盘，115网盘，UC网盘  | 496 | Go |
-| 1439 | [yagooglesearch](https://github.com/opsdisk/yagooglesearch) | Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches. | 292 | Python |
-| 1440 | [dayu_widgets](https://github.com/phenom-films/dayu_widgets) | UI components library for PySide | 500 | Python |
-| 1441 | [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. | 129151 | 无 |
-| 1442 | [spleeter](https://github.com/deezer/spleeter) | Deezer source separation library including pretrained models. | 28538 | Python |
-| 1443 | [SkyAR](https://github.com/jiupinjia/SkyAR) | Official Pytorch implementation of the preprint paper "Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos", in arXiv:2010.11800. | 2028 | Python |
-| 1444 | [fintwit-bot](https://github.com/StephanAkkerman/fintwit-bot) |  FinTwit-Bot is a Discord bot designed to track and analyze financial markets by pulling data from platforms like Twitter, Reddit, and Binance. It features customizable tools for sentiment analysis, m... | 168 | Python |
-| 1445 | [typecho](https://github.com/typecho/typecho) | A PHP Blogging Platform. Simple and Powerful. | 12464 | PHP |
-| 1446 | [MultiApp](https://github.com/WaxMoon/MultiApp) | A customizable virtual Android container/一款可定制的虚拟安卓容器 | 1007 | Kotlin |
-| 1447 | [pyprobml](https://github.com/probml/pyprobml) | Python code for "Probabilistic Machine learning" book by Kevin Murphy | 7194 | Jupyter Notebook |
-| 1448 | [NCE](https://github.com/iChochy/NCE) | 《新概念英语》全四册在线课文朗读、单句点读、中英对照 | 4528 | JavaScript |
+| 1 | [AIHOT](https://github.com/KKKKhazix/AIHOT) | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 | 11463 | TypeScript |
+| 2 | [d2](https://github.com/d2lang/d2) | D2 is a modern diagram scripting language that turns text to diagrams. | 25928 | Go |
+| 3 | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. | 71141 | TypeScript |
+| 4 | [LocalAI](https://github.com/mudler/LocalAI) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. | 50565 | Go |
+| 5 | [webpack](https://github.com/webpack/webpack) | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM... | 66018 | JavaScript |
+| 6 | [mastra](https://github.com/mastra-ai/mastra) | Mastra is the modern TypeScript framework for AI-powered applications and agents. | 29841 | TypeScript |
+| 7 | [craft-anything](https://github.com/storytold/craft-anything) | Craft Anything: understand how any software works, and craft your own. | 44116 | Rust |
+| 8 | [y-agent](https://github.com/luohy15/y-agent) | A simple personal agent app | 218 | Python |
+| 9 | [cpython](https://github.com/python/cpython) | The Python programming language | 78474 | Python |
+| 10 | [openwork](https://github.com/different-ai/openwork) | The open-source alternative to Claude Cowork (powered by opencode) | 24612 | TypeScript |
+| 11 | [posthog](https://github.com/PostHog/posthog) | :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c... | 41168 | Python |
+| 12 | [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | 195835 | TypeScript |
+| 13 | [litellm](https://github.com/BerriAI/litellm) | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi... | 63971 | Python |
+| 14 | [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀 | 33635 | Rust |
+| 15 | [opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | 229402 | TypeScript |
+| 16 | [SurfSense](https://github.com/MODSetter/SurfSense) | Air-gapped, private AI for confidential documents. Open-source NotebookLM alternative that runs on your computer. Join our Discord: https://discord.gg/ejRNvftDp9 | 16987 | Python |
+| 17 | [pytorch](https://github.com/pytorch/pytorch) | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 105786 | Python |
+| 18 | [wechat-selkies](https://github.com/nickrunning/wechat-selkies) | 基于Selkies的Linux网页版微信/QQ，支持AI Agent Skills操作微信，支持本地中文输入法，支持AMD64和ARM64。 | 4533 | Python |
+| 19 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | 97535 | TypeScript |
+| 20 | [wechaty](https://github.com/wechaty/wechaty) | Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt | 23621 | TypeScript |
+| 21 | [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... | 29104 | Python |
+| 22 | [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged document management system: scan, index and archive all your documents | 48676 | Python |
+| 23 | [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  | 169370 | Python |
+| 24 | [freebuff](https://github.com/CodebuffAI/freebuff) | The free coding agent | 14332 | TypeScript |
+| 25 | [electerm](https://github.com/electerm/electerm) | Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS) | 15725 | JavaScript |
+| 26 | [hummingbot](https://github.com/hummingbot/hummingbot) | Open source software that helps you create and deploy high-frequency crypto trading bots | 21411 | Python |
+| 27 | [pydantic-ai](https://github.com/pydantic/pydantic-ai) | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end. | 21415 | Python |
+| 28 | [core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | 92580 | Python |
+| 29 | [unsloth](https://github.com/unslothai/unsloth) | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more. | 80310 | Python |
+| 30 | [project-maya](https://github.com/mw00/project-maya) | Run GLM-5.3 (744B), DeepSeek-V4.1-Flash (748B), MiniMax-M3.1-Flash (428B), GLM-5.3-Flash (321B), Hy4-Flash (220B) and Inkling 2 Mini (26B) on your own GPUs - from 8 GB of VRAM, NVIDIA and AMD, one das... | 3399 | Cuda |
+| 31 | [pytorch-image-models](https://github.com/huggingface/pytorch-image-models) | The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)... | 37313 | Python |
+| 32 | [metabase](https://github.com/metabase/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | 50598 | Clojure |
+| 33 | [speech-to-speech](https://github.com/huggingface/speech-to-speech) | Build voice agents with open-source models | 13796 | Python |
+| 34 | [kepler.gl](https://github.com/keplergl/kepler.gl) | Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets. | 12114 | TypeScript |
+| 35 | [cherry-studio](https://github.com/CherryHQ/cherry-studio) | Your AI workspace for models, agents, and productivity. | 53907 | TypeScript |
+| 36 | [erpnext](https://github.com/frappe/erpnext) | Free and Open Source Enterprise Resource Planning (ERP) | 41662 | Python |
+| 37 | [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | 24171 | Python |
+| 38 | [v](https://github.com/vlang/v) | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io | 38156 | V |
+| 39 | [pollinations](https://github.com/pollinations/pollinations) | Your Friendly Open-Source Gen-AI Platform | 5336 | TypeScript |
+| 40 | [browser-use](https://github.com/browser-use/browser-use) | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. | 122151 | Python |
+| 41 | [onlook](https://github.com/onlook-dev/onlook) | The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers an... | 27985 | TypeScript |
+| 42 | [openclaw](https://github.com/openclaw/openclaw) | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  | 395300 | TypeScript |
+| 43 | [browser](https://github.com/lightpanda-io/browser) | Lightpanda: the headless browser designed for AI and automation | 42621 | Zig |
+| 44 | [actual](https://github.com/actualbudget/actual) | A local-first personal finance app | 30474 | TypeScript |
+| 45 | [fastmcp](https://github.com/PrefectHQ/fastmcp) | 🚀 The fast, Pythonic way to build MCP servers and clients. | 28770 | Python |
+| 46 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | Teams-first Multi-agent orchestration for Claude Code | 41083 | TypeScript |
+| 47 | [CompanyOS](https://github.com/kortix-ai/CompanyOS) | Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any ... | 20807 | TypeScript |
+| 48 | [oh-my-pi](https://github.com/can1357/oh-my-pi) | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. | 39967 | TypeScript |
+| 49 | [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | ⚚ The ultrawork agent with AI coworkers wired into you | 6066 | Python |
+| 50 | [LibreChat](https://github.com/LibreChat-AI/LibreChat) | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me... | 47563 | TypeScript |
+| 51 | [best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) | 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly. | 1249 | 无 |
+| 52 | [hyperframes](https://github.com/heygen-com/hyperframes) | Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen. | 90843 | TypeScript |
+| 53 | [odoo](https://github.com/odoo/odoo) | Odoo. Open Source Apps To Grow Your Business. | 56126 | Python |
+| 54 | [beeai-framework](https://github.com/i-am-bee/beeai-framework) | Build production-ready AI agents in both Python and Typescript. | 3459 | Python |
+| 55 | [penguin-harness](https://github.com/Prism-Shadow/penguin-harness) | 🐧 Unified and Stable RSI Platform | 3337 | TypeScript |
+| 56 | [openpilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. | 64237 | Python |
+| 57 | [rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | 479727 | TypeScript |
+| 58 | [spyder](https://github.com/spyder-ide/spyder) | Official repository for Spyder - The Scientific Python Development Environment | 9405 | Python |
+| 59 | [woocommerce](https://github.com/woocommerce/woocommerce) | A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine. | 10610 | PHP |
+| 60 | [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) | Run agents in Obsidian - OpenCode, Codex, Claude Code etc. | 8053 | TypeScript |
+| 61 | [omniget](https://github.com/tonhowtf/omniget) | Local MCP server that lets Claude Code, Codex, Cursor and Gemini CLI use your own computer and your own logged-in accounts: chats, feeds, browser, files and downloads. Also a downloader for video, mus... | 14727 | Rust |
+| 62 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | 266378 | Python |
+| 63 | [goose](https://github.com/aaif-goose/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | 57040 | Rust |
+| 64 | [genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) | Simulation platform for general-purpose robotics & embodied AI learning. | 30323 | Python |
+| 65 | [OmniRoute](https://github.com/cheaper-inference/OmniRoute) | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline... | 90559 | TypeScript |
+| 66 | [pi](https://github.com/earendil-works/pi) | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | 124070 | TypeScript |
+| 67 | [anki-pipeline](https://github.com/CHNragdoll/anki-pipeline) | 考研资料下载，涵盖数学、英语、政治、408、199 管综和 396 经综。提供历年真题、答案与详解、考试大纲、做题本、答题卡、Anki 卡包、英语词汇及《27考研政治背诵笔记》。各科固定 Release 提供下载和更新记录。 | 74 | Python |
+| 68 | [renpy](https://github.com/renpy/renpy) | The Ren'Py Visual Novel Engine | 7065 | Ren'Py |
+| 69 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++ | 136390 | C++ |
+| 70 | [free-chat](https://github.com/CNSeniorious000/free-chat) | An elegant LLM chat UI forked from chatgpt-demo of @anse-app. Index site at https://free-chat.asia | 192 | TypeScript |
+| 71 | [aiohttp](https://github.com/aio-libs/aiohttp) | Asynchronous HTTP client/server framework for asyncio and Python | 16624 | Python |
+| 72 | [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | 212299 | TypeScript |
+| 73 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | 118886 | Python |
+| 74 | [agno](https://github.com/agno-agi/agno) | The self-managing agent platform | 43316 | Python |
+| 75 | [better-auth](https://github.com/better-auth/better-auth) | The most comprehensive authentication framework | 30895 | TypeScript |
+| 76 | [Pagekin](https://github.com/EthanYoQ/Pagekin) | Pagekin，免费 AI 小说写作软件，适合长篇小说和网文写作。用章节蓝图、人物时间线和伏笔追踪推进连载，支持续写、审稿和修稿。作品存在本机，模型自行配置。Pagekin (formerly AI Novel Writer) is a free, open-source desktop app for long-form fiction and web novels. Windows and m... | 2928 | TypeScript |
+| 77 | [superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | 75702 | Python |
+| 78 | [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | 57006 | 无 |
+| 79 | [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou... | 11503 | Python |
+| 80 | [swarms](https://github.com/kyegomez/swarms) | The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai | 7404 | Python |
+| 81 | [aTrain](https://github.com/aTrainTranscription/aTrain) | A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models. | 1245 | Python |
+| 82 | [handcalcs](https://github.com/connorferster/handcalcs) | Python library for converting Python calculations into rendered latex. | 5816 | Python |
+| 83 | [loopx](https://github.com/loopx-project/loopx) | The control plane for 24/7 always-on agents. Turn long-horizon goals into verifiable results across Codex, Claude Code, and custom runtimes—from local SQLite to team scale. | 6767 | Python |
+| 84 | [codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal | 136582 | Rust |
+| 85 | [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 | 25705 | JavaScript |
+| 86 | [darling](https://github.com/darlinghq/darling) | Darwin/macOS emulation layer for Linux | 13848 | Objective-C |
+| 87 | [auto-editor](https://github.com/WyattBlue/auto-editor) | Effort free video editing! | 6165 | Nim |
+| 88 | [Awesome-REA](https://github.com/reacher-z/Awesome-REA) | Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese. | 3596 | Python |
+| 89 | [build123d](https://github.com/gumyr/build123d) | A python CAD programming library | 3869 | Python |
+| 90 | [marker](https://github.com/datalab-to/marker) | Convert PDF to markdown + JSON quickly with high accuracy | 41087 | Python |
+| 91 | [taste-skill](https://github.com/Leonxlnx/taste-skill) | Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages | 121968 | JavaScript |
+| 92 | [markdown](https://github.com/Python-Markdown/markdown) | A Python implementation of John Gruber’s Markdown with Extension support. | 4259 | Python |
+| 93 | [qwen-code](https://github.com/QwenLM/qwen-code) | An open-source AI coding agent that lives in your terminal. | 30962 | TypeScript |
+| 94 | [fast-anything](https://github.com/EL4CTEO/fast-anything) | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same. | 4221 | Rust |
+| 95 | [sentry](https://github.com/getsentry/sentry) | Developer-first error tracking and performance monitoring | 45888 | Python |
+| 96 | [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero | 38691 | Python |
+| 97 | [hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns | 63699 | Python |
+| 98 | [FunASR](https://github.com/modelscope/FunASR) | Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving. | 21139 | Python |
+| 99 | [strix](https://github.com/usestrix/strix) | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. | 77799 | Python |
+| 100 | [pyenv](https://github.com/pyenv/pyenv) | Simple Python version management | 45186 | Shell |
+| 101 | [CoWork-OS](https://github.com/CoWork-OS/CoWork-OS) | Rent the model. Own everything else. Free, open-source AI app for real work. | 554 | TypeScript |
+| 102 | [stemdeck](https://github.com/stemdeckapp/stemdeck) | Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative aud... | 4637 | JavaScript |
+| 103 | [quivr](https://github.com/The-Vibe-Company/quivr) | An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules. | 39667 | Go |
+| 104 | [claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ... | 157212 | TypeScript |
+| 105 | [rectg](https://github.com/rooktwo/rectg) | Telegram频道群组推荐 | 9437 | Python |
+| 106 | [langflow](https://github.com/langflow-ai/langflow) | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | 156973 | Python |
+| 107 | [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 181530 | Dart |
+| 108 | [liteparse](https://github.com/run-llama/liteparse) | A fast, helpful, and open-source document parser | 13408 | Rust |
+| 109 | [eliza](https://github.com/elizaOS/eliza) | Open source agentic operating system | 19925 | Java |
+| 110 | [awesome-javascript](https://github.com/sorrycc/awesome-javascript) | 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. | 35038 | 无 |
+| 111 | [Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) | Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, clone-tuning, caption timestamps, SSML, websockets, optional readalong w... | 5742 | Python |
+| 112 | [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | A collection of MCP servers. | 98539 | 无 |
+| 113 | [buzz](https://github.com/block/buzz) | A hive mind communication platform | 37789 | Rust |
+| 114 | [GitNexus](https://github.com/abhigyanpatwari/GitNexus) | GitNexus: The Zero-Server Code Intelligence Engine  | 48922 | TypeScript |
+| 115 | [backstage](https://github.com/backstage/backstage) | Backstage is an open framework for building developer portals | 34940 | TypeScript |
+| 116 | [sokuji](https://github.com/kizuna-ai-lab/sokuji) | Real-time two-way speech translation for bilingual meetings — auto-detects the spoken language and translates both directions, cloud or fully offline on-device. Desktop (Windows · macOS · Linux) + bro... | 1526 | TypeScript |
+| 117 | [supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. | 115555 | TypeScript |
+| 118 | [PyMuPDF](https://github.com/pymupdf/PyMuPDF) | Layout-aware document engine for AI and a feature-rich Python toolkit for extracting, rendering and editing PDFs and other documents. Since version 2.0, its ML-based layout analysis turns PDFs and Off... | 11204 | Python |
+| 119 | [batocera.linux](https://github.com/batocera-linux/batocera.linux) | batocera.linux | 3324 | Python |
+| 120 | [shadPS4](https://github.com/shadps4-emu/shadPS4) | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ | 34399 | C++ |
+| 121 | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Production-grade Rust-native trading engine with deterministic event-driven architecture | 31845 | Rust |
+| 122 | [python-chess](https://github.com/niklasf/python-chess) | A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine comm... | 2913 | Python |
+| 123 | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | Shadowsocks GUI client for mac OS | 32869 | Swift |
+| 124 | [fastllm](https://github.com/ztxz16/fastllm) | fastllm是后端无依赖的高性能大模型推理库，帮助您在大部分设备上高效推理大模型！ | 5135 | C++ |
+| 125 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | 459674 | TypeScript |
+| 126 | [firecrawl](https://github.com/firecrawl/firecrawl) | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. | 210900 | TypeScript |
+| 127 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | 154622 | Python |
+| 128 | [openshot-qt](https://github.com/OpenShot/openshot-qt) | OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world. | 6845 | Python |
+| 129 | [lobehub](https://github.com/lobehub/lobehub) | 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week. | 86184 | TypeScript |
+| 130 | [windmill](https://github.com/windmill-labs/windmill) | Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control wh... | 18737 | Rust |
+| 131 | [screenpipe](https://github.com/screenpipe/screenpipe) | YC (S26)  Screenpipe finds the work worth automating  Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use. | 22559 | Rust |
+| 132 | [fast-agent](https://github.com/evalstate/fast-agent) | Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support | 3980 | Python |
+| 133 | [pytudes](https://github.com/norvig/pytudes) | Python programs, usually short, of considerable difficulty, to perfect particular skills. | 24437 | Jupyter Notebook |
+| 134 | [monty](https://github.com/pydantic/monty) | A secure Python sandbox, written in Rust, for code written by AI. | 9012 | Rust |
+| 135 | [clashfree](https://github.com/free-nodes/clashfree) | clash节点、免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅地址、clash免费节点每日更新 | 17444 | 无 |
+| 136 | [docling](https://github.com/docling-project/docling) | Get your documents ready for gen AI | 71109 | Python |
+| 137 | [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cm... | 7593 | HTML |
+| 138 | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | A self-improving RLM agent for coding workflows and long-running autonomous tasks. | 22934 | Rust |
+| 139 | [reactive-resume](https://github.com/reactive-resume/reactive-resume) | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! | 46133 | TypeScript |
+| 140 | [codex2api](https://github.com/james-6-23/codex2api) | Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目 | 2395 | Go |
+| 141 | [tools](https://github.com/alesha-pro/tools) | Tools, ComfyUI workflows and benchmark configs from a 4x RTX 3090 local-inference rig | 756 | HTML |
+| 142 | [sunnypilot](https://github.com/sunnypilot/sunnypilot) | sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 350 supported car makes and models with modified behaviors of driving assist enga... | 2185 | Python |
+| 143 | [Snap](https://github.com/jmoenig/Snap) | a visual programming language inspired by Scratch | 1623 | JavaScript |
+| 144 | [pypdf](https://github.com/py-pdf/pypdf) | A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files | 10320 | Python |
+| 145 | [authentik](https://github.com/goauthentik/authentik) | The authentication glue you need. | 26478 | Python |
+| 146 | [dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) | DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated a... | 1509 | Python |
+| 147 | [cognee](https://github.com/topoteretes/cognee) | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free | 33653 | Python |
+| 148 | [mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) | Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI, Telegram or More. | 4075 | TypeScript |
+| 149 | [ntfy](https://github.com/binwiederhier/ntfy) | Send push notifications to your phone or desktop using PUT/POST | 35774 | Go |
+| 150 | [awesome-jev-projects](https://github.com/logicrw/awesome-jev-projects) | Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync | 742 | JavaScript |
+| 151 | [Agent-S](https://github.com/simular-ai/Agent-S) | Agent S: the state-of-the-art open source computer use agents | 13062 | Python |
+| 152 | [egui](https://github.com/emilk/egui) | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native | 32519 | Rust |
+| 153 | [Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the <canvas> tag | 67824 | JavaScript |
+| 154 | [ag2](https://github.com/ag2ai/ag2) | AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x | 5092 | Python |
+| 155 | [nuxt](https://github.com/nuxt/nuxt) | The full-stack Vue framework. | 61108 | TypeScript |
+| 156 | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. | 148766 | Python |
+| 157 | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary | 75719 | Python |
+| 158 | [pandas](https://github.com/pandas-dev/pandas) | Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more | 50654 | Python |
+| 159 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla... | 119978 | TypeScript |
+| 160 | [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. | 33853 | TypeScript |
+| 161 | [Nuitka](https://github.com/Nuitka/Nuitka) | Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens... | 15264 | Python |
+| 162 | [reflex](https://github.com/reflex-dev/reflex) | 🕸️ Web apps in pure Python 🐍 | 29051 | Python |
+| 163 | [v2rayNG](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, support Xray core and v2fly core | 66614 | Kotlin |
+| 164 | [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 | 39893 | CSS |
+| 165 | [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e... | 153841 | Python |
+| 166 | [maxun](https://github.com/getmaxun/maxun) | Turn any website into a structured API. Extract, automate, search and monitor the web. | 18570 | TypeScript |
+| 167 | [matplotlib](https://github.com/matplotlib/matplotlib) | matplotlib: plotting with Python | 23510 | Python |
+| 168 | [Pillow](https://github.com/python-pillow/Pillow) | Python Imaging Library (fork) | 14022 | Python |
+| 169 | [TwitterInternalAPIDocumen](https://github.com/fa0311/TwitterInternalAPIDocument) | Twitter Internal API Document | 725 | Python |
+| 170 | [flet](https://github.com/flet-dev/flet) | Build realtime web, mobile and desktop apps in Python only. No frontend experience required. | 17592 | Python |
+| 171 | [oppia](https://github.com/oppia/oppia) | A free, online learning platform to make quality education accessible for all. | 7013 | Python |
+| 172 | [TypeScript](https://github.com/microsoft/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | 111917 | Go |
+| 173 | [ToolJet](https://github.com/ToolJet/ToolJet) | Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla... | 41308 | HTML |
+| 174 | [LibreCAD](https://github.com/LibreCAD/LibreCAD) | LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customi... | 6646 | C++ |
+| 175 | [happy](https://github.com/slopus/happy) | Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for. | 24852 | Swift |
+| 176 | [odysseus](https://github.com/odysseus-dev/odysseus) | Self-hosted AI workspace.  | 95997 | Python |
+| 177 | [stagehand](https://github.com/browserbase/stagehand) | The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more. | 26160 | TypeScript |
+| 178 | [pysheeet](https://github.com/crazyguitar/pysheeet) | Python Cheat Sheet | 8161 | Python |
+| 179 | [hermes-webui](https://github.com/nesquena/hermes-webui) | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! | 19643 | Python |
+| 180 | [Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. | 46826 | C# |
+| 181 | [logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV | 45717 | Clojure |
+| 182 | [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | 124119 | C++ |
+| 183 | [Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) | MDC - The AI local media metadata crawler | 7449 | Python |
+| 184 | [open-mcp-client](https://github.com/CopilotKit/open-mcp-client) | 无 | 1653 | TypeScript |
+| 185 | [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 | 132759 | Python |
+| 186 | [promptfoo](https://github.com/promptfoo/promptfoo) | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line ... | 27719 | TypeScript |
+| 187 | [three.js](https://github.com/mrdoob/three.js) | JavaScript 3D Library. | 119475 | JavaScript |
+| 188 | [developer-roadmap](https://github.com/nilbuild/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 372837 | TypeScript |
+| 189 | [pywebview](https://github.com/r0x0r/pywebview) | Build GUI for your Python program with JavaScript, HTML, and CSS | 6182 | Python |
+| 190 | [vuetify](https://github.com/vuetifyjs/vuetify) | 🐉 Vue Component Framework | 41044 | TypeScript |
+| 191 | [agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | 26881 | Rust |
+| 192 | [tinygrad](https://github.com/tinygrad/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️  | 33990 | Python |
+| 193 | [meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | 60020 | Rust |
+| 194 | [gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA | 142741 | TypeScript |
+| 195 | [CloudBot](https://github.com/TotallyNotRobots/CloudBot) | CloudBot - The simple, fast, expandable, open-source Python IRC Bot! | 183 | Python |
+| 196 | [netdata](https://github.com/netdata/netdata) | Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfi... | 81655 | Go |
+| 197 | [eigent](https://github.com/eigent-ai/eigent) | Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex | 15898 | TypeScript |
+| 198 | [wrong-notebook](https://github.com/margrop/wrong-notebook) | AI 智能错题本：拍照识题、解答、知识点标签、举一反三、组卷打印与掌握度跟踪，可自托管 / AI-powered self-hosted notebook for mistakes | 690 | TypeScript |
+| 199 | [mygo](https://github.com/egoist/mygo) | Develop desktop apps with native UI or web frontend in Go | 6921 | Go |
+| 200 | [rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies | 87951 | Rust |
+| 201 | [puppeteer](https://github.com/puppeteer/puppeteer) | JavaScript API for Chrome and Firefox | 95911 | TypeScript |
+| 202 | [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | 155837 | C |
+| 203 | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click | 44596 | TypeScript |
+| 204 | [gumroad](https://github.com/antiwork/gumroad) | See what sticks | 10220 | Ruby |
+| 205 | [pytest](https://github.com/pytest-dev/pytest) | The pytest framework makes it easy to write small tests, yet scales to support complex functional testing | 14767 | Python |
+| 206 | [QuantDinger](https://github.com/OpenByteInc/QuantDinger) | The most complete open-source, self-hosted Agentic Trading OS—AI research, Python strategies, factor discovery, backtesting, optimization, paper/live multi-asset execution, risk controls, monitoring, ... | 14011 | Python |
+| 207 | [deepagents](https://github.com/langchain-ai/deepagents) | The batteries-included agent harness. | 31622 | Python |
+| 208 | [pycryptodome](https://github.com/Legrandin/pycryptodome) | Self-contained cryptographic library for Python, classical and post-quantum | 3296 | Python |
+| 209 | [awesome-REA-cases](https://github.com/songshikang0111/awesome-REA-cases) | A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours. | 471 | Python |
+| 210 | [PowerToys](https://github.com/microsoft/PowerToys) | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | 141441 | C |
+| 211 | [beercss](https://github.com/beercss/beercss) | Build material design interfaces in record time... without stress for devs... 🍺💛 | 2648 | Vue |
+| 212 | [hashcat](https://github.com/hashcat/hashcat) | World's fastest and most advanced password recovery utility | 27431 | C |
+| 213 | [awesome-nano-banana-pro-p](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source. | 13879 | TypeScript |
+| 214 | [go](https://github.com/golang/go) | The Go programming language | 140156 | Go |
+| 215 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. | 119518 | Swift |
+| 216 | [supermemory](https://github.com/supermemoryai/supermemory) | Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era. | 31841 | TypeScript |
+| 217 | [diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | 73820 | HTML |
+| 218 | [penpot](https://github.com/penpot/penpot) | Penpot: The open-source design platform for Product teams that need scalable collaboration. | 62790 | Clojure |
+| 219 | [video-recap-skills](https://github.com/zenstory-ai/video-recap-skills) | AI 视频解说 Agent 技能包：自动切镜、看画面写解说词、配音混音合成成片，可导出剪映/CapCut 草稿，无需 GPU ｜ Agent skills for narrated video recaps & CapCut drafts | 657 | Python |
+| 220 | [julia](https://github.com/JuliaLang/julia) | The Julia Programming Language | 49308 | Julia |
+| 221 | [meteor](https://github.com/meteor/meteor) | Meteor, the JavaScript App Platform | 44790 | JavaScript |
+| 222 | [python](https://github.com/kubernetes-client/python) | Official Python client library for kubernetes | 7714 | Python |
+| 223 | [ollama](https://github.com/ollama/ollama) | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | 188241 | Go |
+| 224 | [ccxt](https://github.com/ccxt/ccxt) | A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust | 45004 | Python |
+| 225 | [cli](https://github.com/cli/cli) | GitHub’s official command line tool | 47234 | Go |
+| 226 | [searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. | 39910 | Python |
+| 227 | [streamlit](https://github.com/streamlit/streamlit) | Streamlit — The agent-native framework for data apps and dashboards. | 46516 | Python |
+| 228 | [public-apis](https://github.com/marcelscruz/public-apis) | A collaborative list of public APIs for developers | 9782 | JavaScript |
+| 229 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | scikit-learn: machine learning in Python | 68351 | Python |
+| 230 | [misskey](https://github.com/misskey-dev/misskey) | 🌎 A completely free and open interplanetary-microblogging platform 🚀 | 11404 | TypeScript |
+| 231 | [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. | 80484 | 无 |
+| 232 | [LangBot](https://github.com/langbot-app/LangBot) | Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integr... | 19233 | Python |
+| 233 | [paperclip](https://github.com/paperclipai/paperclip) | The open-source app everyone uses to manage agents at work | 117376 | TypeScript |
+| 234 | [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins. | 50394 | Python |
+| 235 | [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | 77264 | C++ |
+| 236 | [netch](https://github.com/netchx/netch) | A simple proxy client | 17826 | C# |
+| 237 | [x402](https://github.com/x402-foundation/x402) | A payments protocol for the internet. Built on HTTP. | 6833 | TypeScript |
+| 238 | [skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | 23552 | Python |
+| 239 | [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative | 65620 | TypeScript |
+| 240 | [DS-Bot](https://github.com/Fei-Craft/DS-Bot) | A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. | 9007 | JavaScript |
+| 241 | [frappe](https://github.com/frappe/frappe) | Low code web framework for real world applications, in Python and Javascript | 11165 | Python |
+| 242 | [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) | 非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3.6-max、qwen3.6-plus、百川、讯飞星火、商汤senseChat等商用模型， 以及step3.5-flash、kimi-k2.... | 6532 | 无 |
+| 243 | [termux-packages](https://github.com/termux/termux-packages) | A package build system for Termux. | 17457 | Shell |
+| 244 | [vscode-drawio](https://github.com/hediet/vscode-drawio) | This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code. | 9518 | TypeScript |
+| 245 | [AutoMonkey](https://github.com/MihailCosmin/AutoMonkey) | Python Automation using Mouse and Keyboard, for the masses | 23 | Python |
+| 246 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | 59501 | TypeScript |
+| 247 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | 188205 | Python |
+| 248 | [opengame](https://github.com/nexu-io/opengame) | The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish... | 787 | TypeScript |
+| 249 | [ds-harness-remote](https://github.com/liguobao/ds-harness-remote) | 基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solu... | 3828 | TypeScript |
+| 250 | [autogluon](https://github.com/autogluon/autogluon) | Fast and Accurate ML in 3 Lines of Code | 10849 | Python |
+| 251 | [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia | 80986 | TypeScript |
+| 252 | [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) | Python Telegram bot api. | 8801 | Python |
+| 253 | [chinese-independent-devel](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | 62320 | 无 |
+| 254 | [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t... | 41394 | C# |
+| 255 | [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | 91270 | TypeScript |
+| 256 | [wechat-on-airflow](https://github.com/claude89757/wechat-on-airflow) | 基于 Apache Airflow 的微信智能应用编排框架，通过可视化工作流驱动 AI 与数据自动化任务。支持 智能客服（多轮对话/知识库）、AI 图文/短视频生成、智能提醒等应用，灵活扩展多模态交互与大模型能力。 | 96 | Python |
+| 257 | [WeChatAuto.SDK](https://github.com/scottfly189/WeChatAuto.SDK) | WeChatAuto.SDK 是一款面向 AI 的微信RPA自动化SDK，这是一个面向开发者的微信自动化开发工具包，帮助你构建自己的微信机器人、微信助手和企业系统集成; | 329 | C# |
+| 258 | [disktree](https://github.com/tobi/disktree) | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. | 4337 | Rust |
+| 259 | [pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes. | 31467 | Python |
+| 260 | [RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. | 105288 | Rust |
+| 261 | [jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present)  Interactive Historical Atlas of China across 18 dynasties, 200+ territory snapshots, ancient-to-modern place genealogy & classical poetry routes | 9362 | JavaScript |
+| 262 | [open-design](https://github.com/nexu-io/open-design) | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha... | 109670 | TypeScript |
+| 263 | [cadcraft](https://github.com/storytold/cadcraft) | CADCraft: computer-aided design and drafting — an open-source, clean-room CAD application in pure Rust | 8521 | Rust |
+| 264 | [ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | Autonomous AI development loop for Claude Code with intelligent exit detection | 9741 | Shell |
+| 265 | [electron-builder](https://github.com/electron-userland/electron-builder) | A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box | 14727 | TypeScript |
+| 266 | [marketingskills](https://github.com/coreyhaines31/marketingskills) | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. | 62845 | JavaScript |
+| 267 | [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | 120888 | C++ |
+| 268 | [playwright-python](https://github.com/microsoft/playwright-python) | Python version of the Playwright testing and automation library. | 15132 | Python |
+| 269 | [zvec](https://github.com/alibaba/zvec) | A lightweight, lightning-fast, in-process vector database | 16296 | C++ |
+| 270 | [skills](https://github.com/google/skills) | Agent Skills for Google products and technologies | 24709 | Python |
+| 271 | [BeefTV](https://github.com/glanderness/BeefTV) | High-performance · Lightweight · AI Native Video workspace. 面向 AI 时代的视频创作工作台。 在画布中，和Agent一起自由连接创意和素材。 | 2673 | TypeScript |
+| 272 | [obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas. | 53988 | Shell |
+| 273 | [opentui](https://github.com/anomalyco/opentui) | OpenTUI is a library to build terminal user interfaces (TUI) | 13932 | TypeScript |
+| 274 | [FxEmbed](https://github.com/FxEmbed/FxEmbed) | Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others | 5991 | TypeScript |
+| 275 | [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | 120198 | TypeScript |
+| 276 | [OpenViking](https://github.com/volcengine/OpenViking) | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. | 42873 | Python |
+| 277 | [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | 47409 | TypeScript |
+| 278 | [sdnext](https://github.com/vladmandic/sdnext) | SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing | 7384 | Python |
+| 279 | [worldmonitor](https://github.com/koala73/worldmonitor) | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface | 91226 | TypeScript |
+| 280 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | "Vibe-Trading: Your Personal Trading Agent" | 38992 | Python |
+| 281 | [coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers. | 66586 | PHP |
+| 282 | [colibri](https://github.com/JustVugg/colibri) | A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. | 53594 | C |
+| 283 | [passivbot](https://github.com/enarjord/passivbot) | Trading bot running on Bybit, Bitget, OKX, GateIO, Binance, Kucoin, WEEX and Hyperliquid | 2192 | Python |
+| 284 | [docusaurus](https://github.com/meta/docusaurus) | Easy to maintain open source documentation websites. | 66813 | TypeScript |
+| 285 | [mimik](https://github.com/westpoint-io/mimik) | 🎬 A browser extension and desktop app that turns your clicks into step-by-step guides with annotated screenshots 📖 | 1943 | TypeScript |
+| 286 | [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  | 101136 | TypeScript |
+| 287 | [zvec-grep](https://github.com/zvec-ai/zvec-grep) | Local-first search across your workspace, built for humans and AI agents. | 4384 | Rust |
+| 288 | [vyper](https://github.com/vyperlang/vyper) | Pythonic Smart Contract Language for the EVM | 5186 | Python |
+| 289 | [picoclaw](https://github.com/sipeed/picoclaw) | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity | 30170 | Go |
+| 290 | [PhoneGo](https://github.com/HKUDS/PhoneGo) | PhoneGo: Personal AI Agent on Your Phone | 1488 | Python |
+| 291 | [clawhub](https://github.com/openclaw/clawhub) | Skill + Plugin Registry for OpenClaw | 9566 | TypeScript |
+| 292 | [dataease](https://github.com/dataease/dataease) | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. | 24749 | Java |
+| 293 | [mypy](https://github.com/python/mypy) | Optional static typing for Python | 20739 | Python |
+| 294 | [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) | Decrypt and export passwords, cookies, history and more from 20 browsers on Windows, macOS and Linux. For authorized security research, incident response and DFIR. | 14754 | Go |
+| 295 | [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie... | 59550 | Go |
+| 296 | [magictools](https://github.com/ellisonleao/magictools) | :video_game: :pencil: A list of Game Development resources to make magic happen. | 17878 | Markdown |
+| 297 | [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服 | 33392 | Rust |
+| 298 | [Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | 58861 | TypeScript |
+| 299 | [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) | Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation. | 35917 | Python |
+| 300 | [search-plugins](https://github.com/qbittorrent/search-plugins) | Search plugins for qBittorrent search feature | 7290 | Python |
+| 301 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ | 47591 | Python |
+| 302 | [dsh-market](https://github.com/dsh-market/dsh-market) | The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场 | 13581 | TypeScript |
+| 303 | [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | 12841 | JavaScript |
+| 304 | [munder-difflin](https://github.com/HarnessMD/munder-difflin) | Coolest app to use agents. A local, multi provider and open source grok bot alternative. Build custom worlds for your claude code and codex like agents | 9944 | TypeScript |
+| 305 | [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience | 160924 | TypeScript |
+| 306 | [opc-skills](https://github.com/ReScienceLab/opc-skills) | Agent Skills for Solopreneurs | 1940 | Python |
+| 307 | [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) | Pure python3 implementation for working with iDevices (iPhone, etc...). | 3098 | Python |
+| 308 | [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) | List of libraries, tools and APIs for web scraping and data processing. | 8249 | JavaScript |
+| 309 | [numpy](https://github.com/numpy/numpy) | The fundamental package for scientific computing with Python. | 33488 | Python |
+| 310 | [NCE](https://github.com/iChochy/NCE) | 《新概念英语》全四册在线课文朗读、单句点读、中英对照 | 4530 | JavaScript |
+| 311 | [deepchat](https://github.com/ThinkInAIXYZ/deepchat) | 🐬DeepChat - A smart assistant that connects powerful AI to your personal world | 6409 | TypeScript |
+| 312 | [FastGPT](https://github.com/labring/FastGPT) | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti... | 30108 | TypeScript |
+| 313 | [autoclip](https://github.com/zhouxiaoka/autoclip) | AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Sho... | 16899 | Python |
+| 314 | [notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agen... | 20385 | Python |
+| 315 | [E2B](https://github.com/e2b-dev/E2B) | Open-source, secure environment with real-world tools for enterprise-grade agents. | 15033 | Python |
+| 316 | [pytorch3d](https://github.com/facebookresearch/pytorch3d) | PyTorch3D is FAIR's library of reusable components for deep learning with 3D data | 10010 | Python |
+| 317 | [markdown-online-editor](https://github.com/nicejade/markdown-online-editor) | 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site | 3997 | CSS |
+| 318 | [facefusion](https://github.com/facefusion/facefusion) | Industry leading face manipulation platform | 30832 | Python |
+| 319 | [Skills](https://github.com/MengTo/Skills) | Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents | 8398 | HTML |
+| 320 | [cryptography](https://github.com/pyca/cryptography) | cryptography is a package designed to expose cryptographic primitives and recipes to Python developers. | 7865 | Python |
+| 321 | [astron-agent](https://github.com/iflytek/astron-agent) | Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents. | 8931 | Python |
+| 322 | [fastembed](https://github.com/qdrant/fastembed) | Fast, Accurate, Lightweight Python library to make State of the Art Embedding | 3313 | Python |
+| 323 | [sub2api](https://github.com/Wei-Shaw/sub2api) | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | 46671 | Go |
+| 324 | [DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | 63253 | Python |
+| 325 | [wecom-bot-mcp-server](https://github.com/loonghao/wecom-bot-mcp-server) | A Python server implementation for WeCom (WeChat Work) bot that follows the Model Context Protocol (MCP). This server provides a standardized interface for handling automated messaging and context-awa... | 106 | Python |
+| 326 | [ui](https://github.com/shadcn-ui/ui) | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. | 129170 | TypeScript |
+| 327 | [uni-ui](https://github.com/dcloudio/uni-ui) | 基于uni-app的、全端兼容的、高性能UI框架 | 2089 | JavaScript |
+| 328 | [pwndbg](https://github.com/pwndbg/pwndbg) | Exploit Development and Reverse Engineering with GDB & LLDB Made Easy | 11252 | Python |
+| 329 | [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams | 136365 | TypeScript |
+| 330 | [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | 113215 | Rust |
+| 331 | [remotion](https://github.com/remotion-dev/remotion) | 🎥      Make videos programmatically with React | 75962 | TypeScript |
+| 332 | [xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) | 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。 | 8416 | Python |
+| 333 | [codon](https://github.com/exaloop/codon) | A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support | 16863 | Python |
+| 334 | [httpx](https://github.com/encode/httpx) | A next generation HTTP client for Python. 🦋 | 15864 | Python |
+| 335 | [LongMemory](https://github.com/CaviraOSS/LongMemory) | Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc. | 4589 | TypeScript |
+| 336 | [Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) | Web application generating interactive and highly customizable maps | 6245 | TypeScript |
+| 337 | [openless](https://github.com/Open-Less/openless) | Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字) | 4176 | Rust |
+| 338 | [deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta... | 85856 | Python |
+| 339 | [agent-zero](https://github.com/agent0ai/agent-zero) | Agent Zero AI framework | 20001 | Python |
+| 340 | [ouroboros-desktop](https://github.com/joi-lab/ouroboros-desktop) | Archived: official Ouroboros moved to https://github.com/razzant/ouroboros | 209 | Python |
+| 341 | [ouroboros](https://github.com/joi-lab/ouroboros) | Archived mirror of https://github.com/razzant/ouroboros. Current code, releases, issues, and discussions live there. | 894 | Python |
+| 342 | [ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) | ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this ... | 16954 | Python |
+| 343 | [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能... | 34192 | Rust |
+| 344 | [datasets](https://github.com/huggingface/datasets) | 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools | 22191 | Python |
+| 345 | [openmotion](https://github.com/nexu-io/openmotion) | The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A fu... | 16707 | TypeScript |
+| 346 | [manim](https://github.com/ManimCommunity/manim) | A community-maintained Python framework for creating mathematical animations.  | 42952 | Python |
+| 347 | [croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another :crocodile: :package: | 41061 | Go |
+| 348 | [shaders](https://github.com/shader-effects-inc/shaders) | WebGPU components for React, Vue, Svelte, Solid, JS & Framer | 6054 | TypeScript |
+| 349 | [telegram-crawler](https://github.com/MarshalX/telegram-crawler) | Tracks changes to Telegram's sites, beta apps and servers | 370 | Python |
+| 350 | [USearch](https://github.com/unum-cloud/USearch) | One proximity graph for vector search, sparse products & attention across RAM, VRAM & NVMe, over dense vectors, sequences, shapes & geospatial sets in 14 languages 🔍 | 4394 | C++ |
+| 351 | [sanoTTS](https://github.com/Ampixa/sanoTTS) | sanoTTS (सानो = 'small' in Nepali): 294k–2.27M-parameter neural TTS that runs on a $3 chip, in the browser, or in Python with low-latency streaming. | 858 | C |
+| 352 | [flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | ServerBox - high performance server toolbox app & server written in Flutter & Rust. | 9078 | Dart |
+| 353 | [cefpython](https://github.com/cztomczak/cefpython) | Python bindings for the Chromium Embedded Framework (CEF) | 3237 | Cython |
+| 354 | [Octop](https://github.com/TencentCloud/Octop) | A smarter, self-hosted AI assistant — multi-user, multi-agent. | 12525 | Python |
+| 355 | [teldrive](https://github.com/tgdrive/teldrive) | Teldrive | 3197 | TypeScript |
+| 356 | [AutoControlGUI](https://github.com/Jeffrey-Automations/AutoControlGUI) | A framework for GUI automation | 62 | Python |
+| 357 | [ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) | 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves | 8721 | Python |
+| 358 | [patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 | 13880 | Python |
+| 359 | [dify](https://github.com/langgenius/dify) | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb... | 161957 | Python |
+| 360 | [rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | 131655 | Rust |
+| 361 | [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | An AI prompt optimizer for writing better prompts and getting better AI results. | 42602 | TypeScript |
+| 362 | [claude-code-templates](https://github.com/davila7/claude-code-templates) | Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods | 34227 | Python |
+| 363 | [OpenHands](https://github.com/OpenHands/OpenHands) | 🙌 OpenHands: AI-Driven Development | 94418 | TypeScript |
+| 364 | [weekly](https://github.com/ljinkai/weekly) | 独立开发产品变现周刊，每周五发布。 | 3861 | 无 |
+| 365 | [cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io | 157422 | Rust |
+| 366 | [wigolo](https://github.com/KnockOutEZ/wigolo) | The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. | 5567 | TypeScript |
+| 367 | [fingerprint-browser](https://github.com/zhaotoday/fingerprint-browser) | 指纹浏览器（防关联浏览器 / 反检测浏览器 / Antidetect Browser）与住宅代理 IP 选型指南及开源资源汇总：整理 27 款主流指纹浏览器与 28 家代理 IP 的套餐价格，收录 Chromium 指纹定制、Camoufox、Patchright、反检测自动化与指纹检测工具。 | 822 | 无 |
+| 368 | [Wox](https://github.com/Wox-launcher/Wox) | A cross-platform launcher that simply works | 27703 | Go |
+| 369 | [starship](https://github.com/starship/starship) | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! | 60946 | Rust |
+| 370 | [openinterpreter](https://github.com/openinterpreter/openinterpreter) | A coding agent for open models like Kimi K3.1 and GLM 5.3 | 68973 | Rust |
+| 371 | [podman](https://github.com/podman-container-tools/podman) | Podman: A tool for managing OCI containers and pods. | 33399 | Go |
+| 372 | [Iosevka](https://github.com/be5invis/Iosevka) | Versatile typeface for code, from code. | 23411 | JavaScript |
+| 373 | [freellmapi](https://github.com/tashfeenahmed/freellmapi) | 10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted ... | 58856 | TypeScript |
+| 374 | [tick-stock-panel](https://github.com/shy3130/tick-stock-panel) | TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台   LLM能力驱使策略定制+个股分析+复盘  自由接入第三方数据源与个性化扩展数据  | 8323 | Python |
+| 375 | [Codewhale](https://github.com/codewhale-hq/Codewhale) | Open-source Rust coding agent for terminal, web, and desktop. Any model, multi-agent fleets, MCP & plugins, OS sandboxing, and session receipts. | 41218 | Rust |
+| 376 | [upx](https://github.com/upx/upx) | UPX - the Ultimate Packer for eXecutables | 18035 | C++ |
+| 377 | [maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from 6K websites | 41317 | Python |
+| 378 | [ruflo](https://github.com/ruvnet/ruflo) | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa... | 82505 | TypeScript |
+| 379 | [melonJS](https://github.com/melonjs/melonJS) | A modern & fully featured HTML5 game engine (2D & 3D) for JavaScript/TypeScript, with WebGL/WebGPU rendering, built-in physics, Tiled map & glTF support and WebAudio. | 6528 | JavaScript |
+| 380 | [pyxel](https://github.com/kitao/pyxel) | A retro game engine for Python | 18672 | Rust |
+| 381 | [directus](https://github.com/directus/directus) | The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. | 38689 | TypeScript |
+| 382 | [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) | Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome... | 4961 | Python |
+| 383 | [krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) | Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required. | 10957 | Python |
+| 384 | [django](https://github.com/django/django) | The Web framework for perfectionists with deadlines. | 91923 | Python |
+| 385 | [pyvideotrans](https://github.com/jianchang512/pyvideotrans) | Translate the video from one language to another and embed dubbing & subtitles. | 19850 | Python |
+| 386 | [pywechat](https://github.com/Hello-Mr-Crab/pywechat) | 仍然可用的微信RPA！支持4.0系列微信pywechat是一个基于pywinauto实现的windows桌面微信自动化操作工具，基本实现了PC微信内置的各项操作。 | 2140 | Python |
+| 387 | [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s... | 31213 | TypeScript |
+| 388 | [jev-search](https://github.com/superagents-lab/jev-search) | Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API. | 562 | TypeScript |
+| 389 | [Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | The only downloader you need. 下载器的集大成者。 | 19079 | Python |
+| 390 | [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software | 196165 | Go |
+| 391 | [uni-api](https://github.com/yym68686/uni-api) | This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancin... | 1275 | Rust |
+| 392 | [soul.md](https://github.com/aeonfun/soul.md) | The best way to build a personality for your agent. Let Claude Code / OpenClaw ingest your data & build your AI soul. | 716 | JavaScript |
+| 393 | [ten-framework](https://github.com/TEN-framework/ten-framework) |  Open-source framework for conversational voice AI agents | 11248 | Python |
+| 394 | [univer](https://github.com/dream-num/univer) | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. | 31967 | TypeScript |
+| 395 | [acme.sh](https://github.com/acmesh-official/acme.sh) | A pure Unix shell script ACME client for SSL / TLS certificate automation | 47999 | Shell |
+| 396 | [best-of-python](https://github.com/lukasmasuch/best-of-python) | 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly. | 4664 | 无 |
+| 397 | [vnote](https://github.com/vnotex/vnote) | A pleasant note-taking platform with native speed, majoring in Markdown, MindMap, Typst, and plain text. | 13072 | C++ |
+| 398 | [iii](https://github.com/iii-hq/iii) | Effortlessly compose, extend, observe, discover, and react to every service in real-time for the first time ever. | 18977 | Rust |
+| 399 | [midscene](https://github.com/web-infra-dev/midscene) | See interfaces like a human. E2E testing in natural language. | 15785 | TypeScript |
+| 400 | [SmartKBS](https://github.com/youufis/SmartKBS) | 面向小学·初中·高中的通用学科 AI 教学平台（以信息科技、通用技术为例）。题库与智能组卷、考试、练习、作业、自动批改、课堂闯关/抢答/抽问/投票/分组讨论/协作白板、点名考勤与 12 级称号积分、学情分析、成长档案与 AI 画像等60+功能。FastAPI + React，DashScope/DeepSeek/Ollama，本地 SQLite，可完全离线部署，AGPL-3.0。 | 113 | Python |
+| 401 | [core](https://github.com/vuejs/core) | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | 55156 | TypeScript |
+| 402 | [repobrain](https://github.com/study8677/repobrain) | 🧠 RepoBrain (formerly Antigravity) — Give your repo a brain. ChatGPT for your codebase: works in Claude Code, Cursor, Codex, Windsurf & more. | 1363 | Python |
+| 403 | [cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 中小学 10 学科知识图谱查漏补缺：4,068 个知识点、6,429 条先修关系、16,419 道题。按国家课程标准逐条核对，诊断定位真正没学会的前置知识点，给出补学路径。 | 9282 | Python |
+| 404 | [memmy-agent](https://github.com/MemTensor/memmy-agent) | 🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, ... | 2357 | TypeScript |
+| 405 | [gorse](https://github.com/gorse-io/gorse) | AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding | 9928 | Go |
+| 406 | [EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI) | A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents. | 3794 | Rust |
+| 407 | [editor](https://github.com/pascalorg/editor) | Open-source 3D architecture software for AECO, scan-to-BIM. Agent-friendly, browser-first, MCP, CLI. | 25785 | TypeScript |
+| 408 | [claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. | 194726 | Rust |
+| 409 | [gradio](https://github.com/gradio-app/gradio) | Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work! | 44162 | Python |
+| 410 | [postbot](https://github.com/gitcoffee-os/postbot) | PostBot 内容同步助手 一款开源的多平台内容同步分发生产力工具。 支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。覆盖微信/微博/今日头条/小红书/知乎/百家号/企鹅号/视频号/抖音/快手/哔哩哔哩（B站）等国内主流媒体平台，可轻松扩展兼容 X（Twitter）、Facebook、Instagram、TikTok、YouTube、LinkedIn 等国际媒体平台。 | 1736 | TypeScript |
+| 411 | [alist-tvbox](https://github.com/power721/alist-tvbox) | AList proxy server for TvBox, support playlist and search.  | 3187 | Java |
+| 412 | [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google An... | 72706 | Python |
+| 413 | [TrendRadar](https://github.com/sansan0/TrendRadar) | ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报... | 63902 | TypeScript |
+| 414 | [note-gen](https://github.com/codexu/note-gen) | Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI. | 13058 | TypeScript |
+| 415 | [repomix](https://github.com/yamadashy/repomix) | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C... | 29456 | TypeScript |
+| 416 | [element-plus](https://github.com/element-plus/element-plus) | 🎉 A Vue.js 3 UI Library made by Element team | 27880 | TypeScript |
+| 417 | [rea-video](https://github.com/JuneYaooo/rea-video) | Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。 | 13670 | Python |
+| 418 | [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) | Client-side HTML-to-PDF rendering using pure JS. | 4938 | JavaScript |
+| 419 | [foam](https://github.com/foambubble/foam) | A personal knowledge management and sharing system for VSCode | 17502 | TypeScript |
+| 420 | [openclaude](https://github.com/Twigpine/openclaude) | runs anywhere. uses anything | 34552 | TypeScript |
+| 421 | [md](https://github.com/doocs/md) | ✍ WeChat Markdown Editor  一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性 | 13565 | TypeScript |
+| 422 | [kudu](https://github.com/AdventDevInc/kudu) | Free Windows, Mac and Linux cleaner, scanner, and more. | 4505 | TypeScript |
+| 423 | [novel](https://github.com/201206030/novel) | novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。 | 5865 | Java |
+| 424 | [AIWriteX](https://github.com/iniwap/AIWriteX) | AIWriteX - 微信公众号全自动AI工具：全网热搜舆情聚合+趋势分析+爆款选题+文章采集+一键生成排版发布  AI自动配图  去AI味、过朱雀检测  支持小红书/百家号/头条等多平台  洗稿润色支持多账号  专家赛道  小绿书贴图  短视频文案  手机控制  小说连载  短剧剧本  爆文10w+神器 | 2332 | Python |
+| 425 | [py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) | Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction. | 3563 | Python |
+| 426 | [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) | Enjoy the magic of Diffusion models! | 13442 | Python |
+| 427 | [blockly](https://github.com/RaspberryPiFoundation/blockly) | The web-based visual programming editor. | 13623 | TypeScript |
+| 428 | [opensquilla](https://github.com/TokenRhythm/opensquilla) | OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density | 7167 | Python |
+| 429 | [html2image](https://github.com/vgalin/html2image) | A package acting as a wrapper around the headless mode of existing web browsers to generate images from URLs and from HTML+CSS strings or files. | 455 | Python |
+| 430 | [qwerty-learner](https://github.com/RealKai42/qwerty-learner) | 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers | 23909 | TypeScript |
+| 431 | [CowAgent](https://github.com/zhayujie/CowAgent) | Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-lin... | 48091 | Python |
+| 432 | [yao](https://github.com/YaoApp/yao) | ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted. | 8351 | Go |
+| 433 | [tardis-machine](https://github.com/tardis-dev/tardis-machine) | Locally runnable server with built-in data caching, providing both tick-level historical and consolidated real-time cryptocurrency market data via HTTP and WebSocket APIs | 314 | TypeScript |
+| 434 | [LiveTalking](https://github.com/lipku/LiveTalking) | Real time interactive streaming digital human | 11339 | Python |
+| 435 | [vision](https://github.com/pytorch/vision) | Datasets, Transforms and Models specific to Computer Vision | 18032 | Python |
+| 436 | [superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | 327453 | Shell |
+| 437 | [changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin... | 36053 | Python |
+| 438 | [daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | 43016 | JavaScript |
+| 439 | [Janus](https://github.com/janus-sh/Janus) | A free coding agent in your terminal. It runs on the smartest free model that is up today. | 6556 | JavaScript |
+| 440 | [LunaTranslator](https://github.com/HIllya51/LunaTranslator) | 视觉小说翻译器 / Visual Novel Translator | 14310 | C++ |
+| 441 | [SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi... | 74979 | PHP |
+| 442 | [Data-Analysis-Agent](https://github.com/Zafer-Liu/Data-Analysis-Agent) | 🚀你的私人数据分析助手。通过对话式交互，自动生成可视化报表与商业洞察，让数据决策变得像聊天一样简单。  🚀 Your personal data analysis assistant. Say goodbye to complex SQL and Excel formulas.  An LLM-powered data analysis agent. Chat with your data to ... | 2635 | JavaScript |
+| 443 | [Hexis](https://github.com/QuixiAI/Hexis) | 无 | 627 | Python |
+| 444 | [brightdata-mcp](https://github.com/brightdata/brightdata-mcp) | A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access. | 2739 | JavaScript |
+| 445 | [obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) | Agent-native AI assistant — chat, write, whiteboard, learning, all in one. | 1397 | TypeScript |
+| 446 | [kun](https://github.com/kunchenguid/kun) | Think and build like a principal engineer. Leverage Kun's experience, knowledge, tools, workflows, and skills to help you get shit done. | 509 | JavaScript |
+| 447 | [design-resources-for-deve](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more | 67474 | 无 |
+| 448 | [XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等 | 3636 | Python |
+| 449 | [mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) | Automate real Microsoft Excel with AI via MCP Server or CLI — Power Query, DAX, VBA, PivotTables, and charts. | 969 | C# |
+| 450 | [MaxKB](https://github.com/1Panel-dev/MaxKB) | 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 | 23218 | Python |
+| 451 | [vue-xiuxiangame](https://github.com/setube/vue-xiuxiangame) | 文字游戏: 我的文字修仙全靠刷 | 1800 | Vue |
+| 452 | [Handy](https://github.com/cjpais/Handy) | A free, open source, and extensible speech-to-text application that works completely offline. | 40371 | Rust |
+| 453 | [agentscope](https://github.com/agentscope-ai/agentscope) | Build and run agents you can see, understand and trust. | 36767 | Python |
+| 454 | [qingjian](https://github.com/qingjian-team/qingjian) | 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词 | 8159 | Rust |
+| 455 | [PyGithub](https://github.com/PyGithub/PyGithub) | Typed interactions with the GitHub API v3 | 7824 | Python |
+| 456 | [jumpserver](https://github.com/jumpserver/jumpserver) | JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databa... | 32055 | Python |
+| 457 | [langchain](https://github.com/langchain-ai/langchain) | The agent engineering platform. | 150038 | Python |
+| 458 | [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. | 34217 | JavaScript |
+| 459 | [jsxgraph](https://github.com/jsxgraph/jsxgraph) | JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser. | 1507 | JavaScript |
+| 460 | [saber](https://github.com/saber-notes/saber) | The cross-platform open-source app built for handwriting | 5085 | Dart |
+| 461 | [tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) | 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。 | 7975 | Python |
+| 462 | [whisper.cpp](https://github.com/ggml-org/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ | 55564 | C++ |
+| 463 | [1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. 1Panel 是专门为 AI 服务器打造的管理面板。 | 37533 | Go |
+| 464 | [videospeed](https://github.com/igrigorik/videospeed) | HTML5 video speed controller (for Google Chrome) | 4487 | JavaScript |
+| 465 | [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format | 72211 | C++ |
+| 466 | [cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) | 🍒 This is the mobile version of Cherry Studio. | 4095 | TypeScript |
+| 467 | [cline](https://github.com/cline/cline) | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. | 71926 | TypeScript |
+| 468 | [koodo-reader](https://github.com/koodo-reader/koodo-reader) | A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web | 28995 | JavaScript |
+| 469 | [skills](https://github.com/scenario-labs/skills) | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus e... | 4044 | Python |
+| 470 | [new-term-radar](https://github.com/zhuyansen/new-term-radar) | Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them. | 2243 | Python |
+| 471 | [lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | A toolbox of film styles made in code for Claude Code: 99 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Le... | 21569 | JavaScript |
+| 472 | [sail-riscv](https://github.com/riscv/sail-riscv) | Sail RISC-V model | 818 | Sail |
+| 473 | [explainroo](https://github.com/vincentsch/explainroo) | Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4. | 1473 | JavaScript |
+| 474 | [full-stack-fastapi-templa](https://github.com/fastapi/full-stack-fastapi-template) | Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose. | 46342 | TypeScript |
+| 475 | [airi](https://github.com/moeru-ai/airi) | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf... | 51825 | TypeScript |
+| 476 | [any-auto-register](https://github.com/zc-zhangchen/any-auto-register) | 无 | 3626 | Python |
+| 477 | [sqlmodel](https://github.com/fastapi/sqlmodel) | SQL databases in Python, designed for simplicity, compatibility, and robustness. | 18679 | Python |
+| 478 | [typer](https://github.com/fastapi/typer) | Typer, build great CLIs. Easy to code. Based on Python type hints. | 20447 | Python |
+| 479 | [maccms10](https://github.com/magicblack/maccms10) | 苹果CMS v10 · MacCMS v10 — 开源内容管理系统：视频 / 分集剧情 / 文章 / 漫画 / 图片 / 网址导航. Open-source PHP CMS for video, articles, manga, images & site navigation. | 2933 | PHP |
+| 480 | [Rich-Address-Wallet](https://github.com/Pymmdrza/Rich-Address-Wallet) | All Rich Address Wallet Cryptocurrency [Bitcoin , Ethereum , Dogecoin, Dash, Litecoin, Polkadot, TRON, ZCASH, BCH] | 400 | 无 |
+| 481 | [infOS](https://github.com/Astrmira/infOS) | 基于操作系统思维构建的AI Agent底座：用长记忆引擎造就「陪伴」；用精美客户端打造「体验」；用深度拓展探索「无限边界」。只为打造最懂你的AI伙伴 | 169 | TypeScript |
+| 482 | [laya](https://github.com/NandhaKishorM/laya) | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque... | 35994 | Python |
+| 483 | [excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) | Excel MCP server: let AI (Claude, Cursor, Codex) create and edit Excel files with charts, PivotTables, slicers and formulas. No Excel required. | 4327 | Python |
+| 484 | [dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 | 36907 | TypeScript |
+| 485 | [private-gpt](https://github.com/zylon-ai/private-gpt) | Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server. | 57662 | Python |
+| 486 | [OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) | 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件）  Local-first open-source cross-platform AI content discovery agent: understands you, th... | 3814 | Python |
+| 487 | [cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) | Creates standalone executables from Python scripts with the same performance as the original script. It is cross-platform and should work on any platform that Python runs on. | 1565 | Python |
+| 488 | [esProc](https://github.com/SPLWare/esProc) | esProc SPL is a JVM-based programming language designed for structured data computation, serving as both a data analysis tool and an embedded computing engine. | 4675 | Java |
+| 489 | [AutoSwarm](https://github.com/HKUDS/AutoSwarm) | AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You. | 2700 | Python |
+| 490 | [uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. | 92720 | Rust |
+| 491 | [WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) | 微信 4.x 数据库解密与分析，支持实时更新、聊天记录与朋友圈导出、年度总结。 | 4429 | Python |
+| 492 | [nano-banana-prompt-studio](https://github.com/lissettecarlr/nano-banana-prompt-studio) | 一个支持nano-banana、gpt-image-2和千问的文生图模型的提示词结构化与优化工具集。 它帮助你快速构建高质量的提示词，并一键调用接口生成图片，让「想法 → 好图」变得更简单、更可控。 | 124 | Python |
+| 493 | [hamuleite](https://github.com/hoochanlon/hamuleite) | 🌊深度整合全球顶尖学术、金融与教育资源：学术板块汇聚 JSTOR、Taylor & Francis、剑桥大学出版社等权威平台的论文，并接入 Z-Library 影子图书馆的海量电子书；教育板块收录香港、新加坡从小学到高中以及大学学科教科书；金融板块则聚合香橼、摩根、野村等顶级机构的深度研报，只为打破信息孤岛，构建知识平权普惠知识库。 | 10151 | Jupyter Notebook |
+| 494 | [plugins](https://github.com/cursor/plugins) | Cursor plugin specification and official plugins | 19776 | TypeScript |
+| 495 | [SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) | Modular SenseNova skills for building AI-powered office assistants and productivity workflows | 6115 | JavaScript |
+| 496 | [minimind](https://github.com/jingyaogong/minimind) | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. | 71600 | Python |
+| 497 | [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | An MCP-based chatbot  一个基于MCP的聊天机器人 | 33863 | C++ |
+| 498 | [preact](https://github.com/preactjs/preact) | ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM. | 39020 | JavaScript |
+| 499 | [Inkeys](https://github.com/Alan-CRL/Inkeys) | Inkeys is a free, open-source Windows app for desktop annotation, free-form whiteboarding, and slide markup—featuring smooth, responsive ink, smart drawing tools, and a sleek, customizable interface. | 1222 | C++ |
+| 500 | [350-layout-compositions](https://github.com/nevertoday/350-layout-compositions) | 350 layout composition references across visual principles, editorial design, typography, grids, web UI, film, Chinese art, and presentations. | 908 | JavaScript |
+| 501 | [AiToEarn](https://github.com/yikart/AiToEarn) | Let's use AI to Earn! | 28759 | TypeScript |
+| 502 | [AIClient2API](https://github.com/justlovemaki/AIClient2API) | Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Buil... | 9006 | JavaScript |
+| 503 | [antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) | 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows.  专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。 | 5903 | C++ |
+| 504 | [issrc](https://github.com/jrsoftware/issrc) | Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizatio... | 5785 | Pascal |
+| 505 | [impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. | 117515 | Rust |
+| 506 | [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot | 57312 | Python |
+| 507 | [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) | 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享 | 16338 | Python |
+| 508 | [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | An open source re-implementation of RollerCoaster Tycoon 2 🎢 | 16612 | C++ |
+| 509 | [prefect](https://github.com/PrefectHQ/prefect) | Prefect is a workflow orchestration framework for building resilient data pipelines in Python. | 24250 | Python |
+| 510 | [kdenlive](https://github.com/KDE/kdenlive) | Free and open source video editor, based on MLT Framework and KDE Frameworks | 6193 | C++ |
+| 511 | [PageIndex](https://github.com/VectifyAI/PageIndex) | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | 40796 | Python |
+| 512 | [openai-python](https://github.com/openai/openai-python) | The official Python library for the OpenAI API | 32257 | Python |
+| 513 | [TradingView-Webhook-Bot](https://github.com/fabston/TradingView-Webhook-Bot) | 📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email.  | 1920 | Python |
+| 514 | [upptime](https://github.com/upptime/upptime) | ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary | 17213 | Markdown |
+| 515 | [taro](https://github.com/NervJS/taro) | 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。 | 37765 | TypeScript |
+| 516 | [fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) | Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns. | 12077 | Python |
+| 517 | [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official, Anthropic-managed directory of high quality Claude Code Plugins. | 48347 | Python |
+| 518 | [Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to... | 11636 | Python |
+| 519 | [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) | Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. | 10549 | Rust |
+| 520 | [Paddle](https://github.com/PaddlePaddle/Paddle) | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） | 24157 | C++ |
+| 521 | [BrowserSkill](https://github.com/Tencent/BrowserSkill) | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. | 10758 | TypeScript |
+| 522 | [prompts.chat](https://github.com/f/prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | 178594 | MDX |
+| 523 | [MuseAI-Skills](https://github.com/win4r/MuseAI-Skills) | muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive. | 706 | HTML |
+| 524 | [zulip](https://github.com/zulip/zulip) | Zulip server and web application. Open-source team chat that helps teams stay productive and focused. | 26312 | Python |
+| 525 | [Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) | 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建 | 2532 | Go |
+| 526 | [MemOS](https://github.com/MemTensor/MemOS) | Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support. | 12520 | TypeScript |
+| 527 | [bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | 175137 | JavaScript |
+| 528 | [nexrender](https://github.com/inlife/nexrender) | 📹  Data-driven render automation for After Effects | 1867 | JavaScript |
+| 529 | [MinerU](https://github.com/opendatalab/MinerU) | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. | 84378 | Python |
+| 530 | [czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. | 35552 | Fluent |
+| 531 | [westore](https://github.com/Tencent/westore) | 小程序MVVM分层架构 | 4278 | JavaScript |
+| 532 | [xzs](https://github.com/mindskip/xzs) | 在线考试系统 | 3922 | JavaScript |
+| 533 | [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android... | 16261 | C++ |
+| 534 | [wemod-launcher](https://github.com/DeckCheatz/wemod-launcher) | Tool to launch the Game Trainer / Cheat tool WeMod along with your game made for Linux mainly for steam | 660 | Python |
+| 535 | [libreget](https://github.com/OpenSelena/libreget) | Open-source download manager for courses (Udemy/Hotmart), YouTube, music & 1,800+ sites. Built with Tauri 2.0, Rust & Svelte. | 7367 | Rust |
+| 536 | [pandoc](https://github.com/jgm/pandoc) | Universal markup converter | 47099 | Haskell |
+| 537 | [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记  评论爬虫、抖音视频  评论爬虫、快手视频  评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫   知乎问答文章｜评论爬虫 | 71849 | Python |
+| 538 | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. | 145864 | Python |
+| 539 | [toga](https://github.com/beeware/toga) | A Python native, OS native GUI toolkit. | 5429 | Python |
+| 540 | [awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) | 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI im... | 10422 | 无 |
+| 541 | [new-api](https://github.com/QuantumNous/new-api) | Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting. | 52604 | Go |
+| 542 | [ego-lite](https://github.com/citrolabs/ego-lite) | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf... | 24666 | JavaScript |
+| 543 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Qt 上位机/机械设计）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。 | 22342 | Shell |
+| 544 | [datasette](https://github.com/simonw/datasette) | An open source multi-tool for exploring and publishing data | 11676 | Python |
+| 545 | [fuint](https://github.com/fushengqian/fuint) | fuint会员营销系统是基于Java开发，集线上商城、线下门店收银管理与会员营销的系统，整合 POS 收银、二级分销、线上积分商城、会员营销能力，支持小程序H5商城。具有会员分享奖励、优惠券、预存卡、实体卡、次卡、储值卡、电子券、会员积分、会员等级、员工提成、分销裂变等完整营销工具。系统采用SpringBoot3、Vue3、Uniapp主流技术栈，支持微信小程序、H5端、后台管理端。适用生鲜、零售... | 1812 | Java |
+| 546 | [keras](https://github.com/keras-team/keras) | Deep Learning for humans | 64454 | Python |
+| 547 | [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) | A curated list of awesome Jupyter projects, libraries and resources | 4703 | 无 |
+| 548 | [generativeart](https://github.com/jdxyw/generativeart) | Generative Art in Go | 955 | Go |
+| 549 | [docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) | Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs | 1311 | Vue |
+| 550 | [tvbox](https://github.com/qist/tvbox) | OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 | 13343 | JavaScript |
+| 551 | [agentmemory](https://github.com/rohitg00/agentmemory) | #1 Persistent memory for AI coding agents based on real-world benchmarks | 30610 | TypeScript |
+| 552 | [ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version ... | 8111 | CSS |
+| 553 | [sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | 118088 | Python |
+| 554 | [tencentcloud-sdk-python](https://github.com/TencentCloud/tencentcloud-sdk-python) | Tencent Cloud API 3.0 SDK for Python | 717 | Python |
+| 555 | [agents-radar](https://github.com/duanyytop/agents-radar) | Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions. | 1167 | TypeScript |
+| 556 | [nanobot](https://github.com/HKUDS/nanobot) | Your lightweight open-source personal agent. | 50366 | Python |
+| 557 | [vxe-table](https://github.com/x-extends/vxe-table) | vxe table 支持 vue2, vue3 的表格解决方案 | 8632 | TypeScript |
+| 558 | [Github-Ranking](https://github.com/EvanLi/Github-Ranking) | :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily.  Github仓库排名，每日自动更新 | 13185 | Python |
+| 559 | [mempalace](https://github.com/MemPalace/mempalace) | The best-benchmarked open-source AI memory system. And it's free. | 60730 | Python |
+| 560 | [genoffice](https://github.com/genspark-ai/genoffice) | Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and... | 12996 | TypeScript |
+| 561 | [openstory](https://github.com/openstory-so/openstory) | Open-source AI-powered video sequence platform built with TanStack Start | 729 | TypeScript |
+| 562 | [pyglet](https://github.com/pyglet/pyglet) | pyglet is a cross-platform windowing and multimedia library for Python, for developing games and other visually rich applications. | 2231 | Python |
+| 563 | [vditor](https://github.com/Vanessa219/vditor) | ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes. | 11461 | TypeScript |
+| 564 | [generative-ai-for-beginne](https://github.com/microsoft/generative-ai-for-beginners) | 21 Lessons, Get Started Building with Generative AI  | 124338 | Jupyter Notebook |
+| 565 | [paywall-gallery](https://github.com/paywallpro/paywall-gallery) | Top iOS app subscription paywall and onboarding gallery with screenshots, videos, pricing models, patterns, and monetization signals. | 934 | 无 |
+| 566 | [WeKnora](https://github.com/Tencent/WeKnora) | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | 38290 | Go |
+| 567 | [a2ui](https://github.com/a2ui-project/a2ui) | Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose. | 18790 | TypeScript |
+| 568 | [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! | 105524 | C++ |
+| 569 | [moyin-creator](https://github.com/MemeCalculate/moyin-creator) | AI 影视生产级工具  支持 Seedance 2.0  剧本到成片全流程批量化  AI-powered film production tool with Seedance 2.0 support | 4879 | TypeScript |
+| 570 | [mcp-use](https://github.com/mcp-use/mcp-use) | The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents. | 11014 | TypeScript |
+| 571 | [clash-freenode](https://github.com/OpenRunner/clash-freenode) | 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY | 6546 | 无 |
+| 572 | [short-video-factory](https://github.com/YILS-LIN/short-video-factory) | 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool | 6303 | TypeScript |
+| 573 | [openscad](https://github.com/openscad/openscad) | OpenSCAD - The Programmers Solid 3D CAD Modeller   | 10747 | C++ |
+| 574 | [codefever](https://github.com/PGYER/codefever) | CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)! | 2748 | PHP |
+| 575 | [open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,... | 56631 | Go |
+| 576 | [upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. | 53285 | TypeScript |
+| 577 | [v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others | 121525 | C# |
+| 578 | [cc-connect](https://github.com/chenhg5/cc-connect) | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from... | 16503 | Go |
+| 579 | [crewAI](https://github.com/crewAIInc/crewAI) | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 61306 | Python |
+| 580 | [FreeVideo](https://github.com/FlashML-org/FreeVideo) | Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware. | 5069 | Python |
+| 581 | [cesium](https://github.com/CesiumGS/cesium) | An open-source JavaScript library for world-class 3D globes and maps :earth_americas: | 15991 | JavaScript |
+| 582 | [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed. | 33091 | Python |
+| 583 | [archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Curso... | 100555 | JavaScript |
+| 584 | [FeHelper](https://github.com/zxlie/FeHelper) | 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!） | 5691 | JavaScript |
+| 585 | [AlgoXY](https://github.com/liuxinyu95/AlgoXY) | Book of Elementary Functional Algorithms and Data structures | 6330 | TeX |
+| 586 | [SmsForwarder](https://github.com/pppscn/SmsForwarder) | 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是... | 29042 | Kotlin |
+| 587 | [agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 | 6644 | TypeScript |
+| 588 | [gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | 109194 | TypeScript |
+| 589 | [hyperforge](https://github.com/PlayHyperia/hyperforge) | MMORPG for humans and agents. In development. Powered by ElizaOS | 102 | TypeScript |
+| 590 | [test_code](https://github.com/ysoftman/test_code) | test code | 3 | HTML |
+| 591 | [xzs-mysql](https://github.com/mindskip/xzs-mysql) | 学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。 | 3603 | JavaScript |
+| 592 | [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) | A markdown version emoji cheat sheet | 13837 | TypeScript |
+| 593 | [wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go | 37212 | Go |
+| 594 | [adss](https://github.com/clion007/adss) | 全自动 DNS 智能脚本（ADSS），重新启用，项目更名为ADSS，进行重大调整升级后镜像至gitcode和gitee，方便国内网络环境使用。 | 154 | Shell |
+| 595 | [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | 144768 | TypeScript |
+| 596 | [Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks... | 105993 | Python |
+| 597 | [Horizon](https://github.com/Thysrael/Horizon) | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese.  用 AI 构建你专属的新闻雷达 | 15158 | Python |
+| 598 | [piskel](https://github.com/piskelapp/piskel) | A simple web-based tool for Spriting and Pixel art. | 13020 | TypeScript |
+| 599 | [deepflow](https://github.com/deepflowio/deepflow) | eBPF Observability - Distributed Tracing and Profiling | 4329 | Go |
+| 600 | [AI-Novel-Writing-Assistan](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) | 面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-d... | 3565 | TypeScript |
+| 601 | [osiris](https://github.com/simplifaisoul/osiris) | Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -                            2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump  | 11887 | TypeScript |
+| 602 | [susi_builder_web](https://github.com/susiai/susi_builder_web) | 无 | 1033 | CSS |
+| 603 | [OpenBB](https://github.com/openbq-org/OpenBB) | Open Data Platform for analysts, quants and AI agents. | 75778 | Python |
+| 604 | [proxypin](https://github.com/wanghongenpin/proxypin) | Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems | 14489 | Dart |
+| 605 | [Strata](https://github.com/Niko1221/Strata) | Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input. | 48430 | C++ |
+| 606 | [salt](https://github.com/saltstack/salt) | Software to automate the management and configuration of infrastructure and applications at scale. | 15769 | Python |
+| 607 | [tambo](https://github.com/tambo-ai/tambo) | Generative UI SDK for React | 11225 | TypeScript |
+| 608 | [PraisonAI](https://github.com/MervinPraison/PraisonAI) | Private AI agents for highly regulated teams, and for anyone who wants AI on their own computer. Open-source Python agent framework that runs fully offline. | 9385 | Python |
+| 609 | [Pallaidium](https://github.com/tin2tin/Pallaidium) | PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back. | 1563 | Python |
+| 610 | [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | A modern framework for E2E testing, web scraping, and CAPTCHA-bypass. | 13288 | Python |
+| 611 | [tabler-icons](https://github.com/tabler/tabler-icons) | A set of over 6500 free MIT-licensed high-quality SVG icons for you to use in your web projects. | 22842 | JavaScript |
+| 612 | [jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | LIST OF ALL MY JAILBREAKS | 20972 | 无 |
+| 613 | [vis-timeline](https://github.com/visjs/vis-timeline) | 📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges. | 2585 | JavaScript |
+| 614 | [vim](https://github.com/vim/vim) | The official Vim repository | 41393 | Vim Script |
+| 615 | [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | 143752 | HTML |
+| 616 | [openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) | OpenClaw Supermemory lets to have long-term memory and recall for your openclaw agent. | 800 | TypeScript |
+| 617 | [marked](https://github.com/markedjs/marked) | A markdown parser and compiler. Built for speed. | 37327 | TypeScript |
+| 618 | [shannon](https://github.com/KeygraphHQ/shannon) | Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. | 52358 | TypeScript |
+| 619 | [Applio](https://github.com/IAHispano/Applio) | A simple, high-quality voice conversion tool focused on ease of use and performance. | 4083 | Python |
+| 620 | [gpt4free](https://github.com/xtekky/gpt4free) | The official gpt4free repository  various collection of powerful language models  opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3 | 67114 | Python |
+| 621 | [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。 | 6689 | JavaScript |
+| 622 | [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) | Make bilingual epub books Using AI translate | 9954 | Python |
+| 623 | [BotBrowser](https://github.com/botswin/BotBrowser) | Advanced Privacy Browser Core with Unified Fingerprint Defense: Cloudflare, Akamai, Kasada, Shape, DataDome, PerimeterX, hCaptcha, FunCaptcha, Imperva, reCAPTCHA, ThreatMetrix, Adscore | 2672 | TypeScript |
+| 624 | [obscura](https://github.com/h4ckf0r0day/obscura) | The headless browser for AI agents and web scraping | 37483 | Rust |
+| 625 | [pluggy](https://github.com/pytest-dev/pluggy) | A minimalist production ready plugin system | 1721 | Python |
+| 626 | [Leaflet](https://github.com/Leaflet/Leaflet) | 🍃 number one JavaScript library for interactive maps 🇺🇦 | 45998 | JavaScript |
+| 627 | [rpcs3](https://github.com/RPCS3/rpcs3) | PlayStation 3 emulator and debugger | 20525 | C++ |
+| 628 | [darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | 22630 | TypeScript |
+| 629 | [Fabric](https://github.com/danielmiessler/Fabric) | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. | 44779 | Go |
+| 630 | [echarts](https://github.com/apache/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser | 67808 | TypeScript |
+| 631 | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill to stop your coding agent from burying the answer. ADHD-friendly output. | 62610 | Python |
+| 632 | [pydantic](https://github.com/pydantic/pydantic) | Data validation using Python type hints | 29674 | Python |
+| 633 | [fearless](https://github.com/zce/fearless) | A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite. | 1307 | TypeScript |
+| 634 | [computer](https://github.com/cloudflare/computer) | Give your agent a computer 👾 | 9969 | TypeScript |
+| 635 | [nodeskclaw](https://github.com/NoDeskAI/nodeskclaw) | Humans and AI work together ❤️ | 757 | Python |
+| 636 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | Faster Whisper transcription with CTranslate2 | 27045 | Python |
+| 637 | [reveric](https://github.com/looplj/reveric) | Agent Native 一站式 AI 小说，短剧桌面创作工作台 | 1013 | Dart |
+| 638 | [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | MCP for xiaohongshu.com | 17345 | Go |
+| 639 | [scrapy](https://github.com/scrapy/scrapy) | Scrapy, a fast high-level web crawling & scraping framework for Python. | 65648 | Python |
+| 640 | [cyber-doctor](https://github.com/ZeroTang05/cyber-doctor) | 赛博医生项目——”赛博华佗“，基于多模态大模型的多功能智能体，一键搭建本地多模态大模型。接入医疗健康相关的知识图谱和知识库后可以进行疾病初诊，病历分析，专业知识问答等功能，成为你的私人医生。赛博华佗项目能帮助实现医疗资源的跨地域传播，让更多人借助大模型改善健康水平。"Cyber ​​Huatuo" - Easy to build a personal doctor agent based on L... | 522 | Python |
+| 641 | [microstudio](https://github.com/pmgl/microstudio) | Free, open source game engine online | 1198 | JavaScript |
+| 642 | [kiss-translator](https://github.com/fishjar/kiss-translator) | A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) | 13548 | JavaScript |
+| 643 | [screenity](https://github.com/alyssaxuu/screenity) | The free and privacy-friendly screen recorder with no limits 🎥 | 19008 | JavaScript |
+| 644 | [speechbrain](https://github.com/speechbrain/speechbrain) | A PyTorch-based Speech Toolkit | 11951 | Python |
+| 645 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | 402346 | Python |
+| 646 | [nicegui](https://github.com/zauberzeug/nicegui) | Create web-based user interfaces with Python. The nice way. | 16357 | Python |
+| 647 | [livebook](https://github.com/derekfuture/livebook) | 让课本活起来：在书页上，亲手探索课本里的知识。 | 208 | JavaScript |
+| 648 | [chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) | 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 agent harness｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill | 5609 | JavaScript |
+| 649 | [enaml](https://github.com/nucleic/enaml) | Declarative User Interfaces for Python | 1580 | Python |
+| 650 | [ai-engineering-from-scrat](https://github.com/rohitg00/ai-engineering-from-scratch) | Learn AI Engineering! Learn it. Build it. Ship it for others. | 80601 | Python |
+| 651 | [crawlab](https://github.com/crawlab-team/crawlab) | Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架 | 12299 | Go |
+| 652 | [A2A](https://github.com/a2aproject/A2A) | Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. | 26703 | Shell |
+| 653 | [tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. | 98849 | TypeScript |
+| 654 | [switch-frame-tap](https://github.com/TomasUribe/switch-frame-tap) | Play your Nintendo Switch or Switch Lite on your PC: stream games at up to 1080p60 with sound over USB-C or the network, no dock or capture card. Record MP4, take native-resolution screenshots, or use... | 429 | C++ |
+| 655 | [one-skill-to-rule-them-al](https://github.com/rebelytics/one-skill-to-rule-them-all) | The meta-skill that improves your skills, including itself. Turns the corrections, judgement calls and repeated workflows of your sessions (autonomous or human-led) into small skill updates and new sk... | 4041 | Markdown |
+| 656 | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software. | 74918 | Python |
+| 657 | [JMComic-qt](https://github.com/tonquer/JMComic-qt) | 禁漫天堂，18comic，使用qt实现的PC客户端，支持Windows，Linux，MacOS | 4261 | Python |
+| 658 | [epusdt](https://github.com/GMWalletApp/epusdt) | 开源优雅的跨平台收款网关 GM Pay(formerly known as EPUSDT) | 3992 | Go |
+| 659 | [lossless-cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing | 46458 | TypeScript |
+| 660 | [wukong-robot](https://github.com/wzpan/wukong-robot) | 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。 | 7139 | Python |
+| 661 | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) | A Python module for creating Excel XLSX files. | 3999 | Python |
+| 662 | [outlines](https://github.com/dottxt-ai/outlines) | Structured Outputs | 16027 | Python |
+| 663 | [ChatterBot](https://github.com/gunthercox/ChatterBot) | ChatterBot is a machine learning, conversational dialog engine for creating chat bots | 14522 | Python |
+| 664 | [remove-bg](https://github.com/brilam/remove-bg) | A Python API wrapper for removing background using remove.bg's API | 865 | Python |
+| 665 | [webdav](https://github.com/hacdias/webdav) | A simple and standalone WebDAV server. | 6006 | Go |
+| 666 | [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it. | 7084 | TypeScript |
+| 667 | [Pake](https://github.com/tw93/Pake) | Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux. | 64062 | Rust |
+| 668 | [konva](https://github.com/konvajs/konva) | Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag and drop, transforms, animations, and export. | 15019 | TypeScript |
+| 669 | [kev](https://github.com/jaredpalmer/kev) | Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own | 10135 | Python |
+| 670 | [qrbtf](https://github.com/latentcat/qrbtf) | AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com | 7042 | TypeScript |
+| 671 | [mvt](https://github.com/mvt-project/mvt) | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. | 16208 | Python |
+| 672 | [skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | 333580 | Shell |
+| 673 | [briefcase](https://github.com/beeware/briefcase) | Tools to support converting a Python project into a standalone native application. | 3378 | Python |
+| 674 | [img2threejs](https://github.com/img2threejs/img2threejs) | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. | 21975 | Python |
+| 675 | [Multi-Agent-Custom-Automa](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator) | The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven system that manages a group of AI agents to accomplish tasks based on user input. Powered by Microsoft Agent Framework, Az... | 900 | Python |
+| 676 | [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) | 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具 | 13429 | JavaScript |
+| 677 | [skill-recorder](https://github.com/microsoft/skill-recorder) | Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots... | 5925 | TypeScript |
+| 678 | [potpie](https://github.com/potpie-ai/potpie) | Context Graph for AI Native SDLC | 5804 | Python |
+| 679 | [teardown](https://github.com/elvarofficial/teardown) | A Claude Code skill that turns any machine into a 3D simulator you can take apart | 4257 | JavaScript |
+| 680 | [cloudreve](https://github.com/cloudreve/cloudreve) | 🌩 Self-hosted file management and sharing system, supports multiple storage providers | 29019 | Go |
+| 681 | [Feeder](https://github.com/spacecowboy/Feeder) | Android feed reader app | 3145 | Kotlin |
+| 682 | [mem0](https://github.com/mem0ai/mem0) | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. | 69513 | Python |
+| 683 | [psd-tools](https://github.com/psd-tools/psd-tools) | Python package for reading Adobe Photoshop PSD files | 1492 | Python |
+| 684 | [HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 | 77708 | HTML |
+| 685 | [professional-programming](https://github.com/charlax/professional-programming) | A collection of learning resources for curious software engineers | 51707 | Python |
+| 686 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps | 51563 | 无 |
+| 687 | [anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. C... | 3670 | TypeScript |
+| 688 | [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) ... | 22770 | TypeScript |
+| 689 | [anything_about_game](https://github.com/killop/anything_about_game) | A wonderful list of Game Development resources. | 4220 | 无 |
+| 690 | [hypit](https://github.com/hypit-ai/hypit) | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views. | 31574 | TypeScript |
+| 691 | [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | 101446 | Java |
+| 692 | [OctoBot](https://github.com/Drakkar-Software/OctoBot) | Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15+ exchanges, with a simple interface. | 6991 | Python |
+| 693 | [wtfibought](https://github.com/mamawai/wtfibought) | A live arena where LLM agents trade real market data with virtual money — every thought, tool call, thesis and post-mortem is public. Bring your own model and key. | 147 | Java |
+| 694 | [memsearch](https://github.com/zilliztech/memsearch) | A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus. | 2946 | Python |
+| 695 | [xdm](https://github.com/subhra74/xdm) | Fast, reliable download accelerator and video downloader since 2013 | 8862 | Kotlin |
+| 696 | [claudian](https://github.com/YishenTu/claudian) | An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault. | 16082 | TypeScript |
+| 697 | [kivy](https://github.com/kivy/kivy) | Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS | 19033 | Python |
+| 698 | [png2svg](https://github.com/xyproto/png2svg) | :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2 | 361 | Go |
+| 699 | [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | Uncensored AI Image & Video Generator — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. | 36453 | JavaScript |
+| 700 | [ns-emu-tools](https://github.com/triwinds/ns-emu-tools) | 一个用于安装/更新 NS 模拟器的工具 | 4988 | Rust |
+| 701 | [akshare](https://github.com/akfamily/akshare) | AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库 | 23490 | Python |
+| 702 | [PaddleX](https://github.com/PaddlePaddle/PaddleX) | All-in-One Development Tool based on PaddlePaddle | 6305 | Python |
+| 703 | [yomiyasu](https://github.com/nanaism/yomiyasu) | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese | 3539 | Python |
+| 704 | [PriceAI](https://github.com/dimthink/PriceAI) | AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。 | 6126 | TypeScript |
+| 705 | [hello-uniapp](https://github.com/dcloudio/hello-uniapp) | uni-app框架演示示例 | 3048 | Vue |
+| 706 | [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | 35412 | Python |
+| 707 | [amphtml](https://github.com/ampproject/amphtml) | The AMP web component framework. | 14906 | JavaScript |
+| 708 | [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Making large AI models cheaper, faster and more accessible | 41426 | Python |
+| 709 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Towards Agentic Finance Research | 123844 | TypeScript |
+| 710 | [voicebox](https://github.com/jamiepine/voicebox) | The open-source AI voice studio. Clone, dictate, create. | 61348 | Python |
+| 711 | [seafile](https://github.com/haiwen/seafile) | Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views | 15502 | C |
+| 712 | [up](https://github.com/byoungd/up) | 人生进阶指南 韩先凯的人生进阶指南 AI时代中英双语终身学习指南：学习 、创业、财富、爱情、人生与AI | 70928 | JavaScript |
+| 713 | [black](https://github.com/psf/black) | The uncompromising Python code formatter | 42218 | Python |
+| 714 | [Sana](https://github.com/NVlabs/Sana) | SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, World Modeling and Robotics  | 9908 | Python |
+| 715 | [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,... | 94594 | TypeScript |
+| 716 | [inspector](https://github.com/modelcontextprotocol/inspector) | Deterministic testing tools for MCP servers | 11370 | TypeScript |
+| 717 | [x-algorithm](https://github.com/xai-org/x-algorithm) | Algorithm powering the For You feed on X | 34440 | Rust |
+| 718 | [Jellyfish](https://github.com/Forget-C/Jellyfish) | 开源 AI短剧生成与短剧制作工作台，支持剧本拆解、短剧分镜、角色一致性管理和视频生成。Open-source AI short drama studio for storyboarding and video generation. | 7351 | Python |
+| 719 | [awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。 | 8903 | Python |
+| 720 | [Trader-Archives](https://github.com/suoha888/Trader-Archives) | 🏛️ 推特顶级实战派交易员推文公开收录大典 · 剥离噪音，沉淀真金白银实盘认知体系与全量开源数据湖，完全开源免费 by 梭哈.AI | 393 | HTML |
+| 721 | [cython](https://github.com/cython/cython) | The most widely used Python to C compiler | 10900 | Cython |
+| 722 | [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | 64420 | TypeScript |
+| 723 | [m3e-canvas](https://github.com/lnkiai/m3e-canvas) | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. | 10927 | TypeScript |
+| 724 | [servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol Reference Servers | 92283 | TypeScript |
+| 725 | [pygubu-designer](https://github.com/alejandroautalan/pygubu-designer) | A simple GUI designer for the python tkinter module | 1068 | Python |
+| 726 | [reddit-mcp-buddy](https://github.com/karanb192/reddit-mcp-buddy) | Clean, LLM-optimized Reddit MCP server. Browse posts, search content, analyze users. No fluff, just Reddit data. | 912 | TypeScript |
+| 727 | [novel-to-game](https://github.com/zenstory-ai/novel-to-game) | 小说改游戏 Agent 技能包：通读拆书、玩法与美术策划、代码构建与盲玩验收，支持网页、互动影游与微信/抖音/TapTap 小游戏 ｜ Agent skills for adapting novels into playable games | 1275 | Markdown |
+| 728 | [hapi](https://github.com/tiann/hapi) | App for Codex / Claude Code / Pi / OpenCode / Kimi Code / Grok Build, vibe coding anytime, anywhere | 5463 | TypeScript |
+| 729 | [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | 75607 | TypeScript |
+| 730 | [html-to-image](https://github.com/bubkoo/html-to-image) | ✂️ Generates an image from a DOM node using HTML5 canvas and SVG. | 7276 | TypeScript |
+| 731 | [satori](https://github.com/vercel/satori) | Enlightened library to convert HTML and CSS to SVG | 14219 | TypeScript |
+| 732 | [Liyuan](https://github.com/weidu12123/Liyuan) | 梨园 Liyuan — 以 rp agent为主体的ai角色扮演应用 | 299 | TypeScript |
+| 733 | [light-c](https://github.com/Chunyu33/light-c) | A free, minimalist, lightweight, and high-performance C-drive cleanup tool. | 4231 | Rust |
+| 734 | [MuseBot](https://github.com/yincongcyincong/MuseBot) | Agent for Telegram, Discord, Slack, Lark（飞书），dingding（钉钉）, 企业微信, QQ, 微信（wechat） | 1820 | Go |
+| 735 | [Phoenix](https://github.com/wxWidgets/Phoenix) | wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before. | 2640 | Python |
+| 736 | [mlx-audio](https://github.com/Neywa-Labs/mlx-audio) | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. | 8340 | Python |
+| 737 | [OpenCreator](https://github.com/krillinai/OpenCreator) | Formerly KrillinAI, VideoTranslation and Dubbing Tool for 120+ Languages. Open-source AI workspace for creators, powered by Codex. Video downloader, video translation, create videos, images, audios, a... | 14554 | TypeScript |
+| 738 | [claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | 无 | 8650 | Python |
+| 739 | [deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) | DSH Tauri 桌面版  Better DSH desktop, zero environment setup, preset plugins, Windows / macOS / Linux. | 3752 | TypeScript |
+| 740 | [OpenSpec](https://github.com/Fission-AI/OpenSpec) | Spec-driven development (SDD) for AI coding assistants. | 75816 | TypeScript |
+| 741 | [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Open-Source Product for Controlled Data Agents | 20340 | Python |
+| 742 | [banana-slides](https://github.com/Anionex/banana-slides) | 一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana/gpt-image🏞️ | 16094 | Python |
+| 743 | [Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) | DataBackup for Android 7.0+ | 7635 | Kotlin |
+| 744 | [claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) | Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents | 3636 | Python |
+| 745 | [gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini... | 5799 | JavaScript |
+| 746 | [heyform](https://github.com/heyform/heyform) | Open-Source Form Builder | 9085 | TypeScript |
+| 747 | [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) | :movie_camera: Python and OpenCV-based scene cut/transition detection program & library. | 5665 | Python |
+| 748 | [morphic](https://github.com/miurla/morphic) | An AI-powered search engine with a generative UI | 9366 | TypeScript |
+| 749 | [OmniParser](https://github.com/microsoft/OmniParser) | A simple screen parsing tool towards pure vision based GUI agent | 25649 | Jupyter Notebook |
+| 750 | [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 | 19773 | TypeScript |
+| 751 | [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. | 6348 | JavaScript |
+| 752 | [PyAV](https://github.com/PyAV-Org/PyAV) | ﻿﻿Pythonic bindings for FFmpeg's libraries. | 3349 | Python |
+| 753 | [streamlink](https://github.com/streamlink/streamlink) | Streamlink is a CLI utility which pipes video streams from various services into a video player | 12002 | Python |
+| 754 | [quickemu](https://github.com/quickemu-project/quickemu) | Quickly create and run optimised Windows, macOS and Linux virtual machines | 16809 | Shell |
+| 755 | [was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui) | WAS-NS v3 Reborn; Tools for image processing, filters, masking, text, logic, numbers, latents, files, 3D scenes, and animation. | 1904 | Python |
+| 756 | [wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking. | 2832 | Python |
+| 757 | [android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) | Android backup extractor | 2613 | Java |
+| 758 | [simple-icons](https://github.com/simple-icons/simple-icons) | SVG icons for popular brands | 26284 | JavaScript |
+| 759 | [morphik-core](https://github.com/morphik-org/morphik-core) | Open-source multimodal retrieval engine (Morphik Core) | 3722 | Python |
+| 760 | [mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) | Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloa... | 4373 | Python |
+| 761 | [anything-llm](https://github.com/Mintplex-Labs/anything-llm) | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience  | 68672 | JavaScript |
+| 762 | [sqlmap](https://github.com/sqlmapproject/sqlmap) | Automatic SQL injection and database takeover tool | 39057 | Python |
+| 763 | [pyright](https://github.com/microsoft/pyright) | Static Type Checker for Python | 15763 | Python |
+| 764 | [hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) | Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents | 3331 | Python |
+| 765 | [WeasyPrint](https://github.com/Kozea/WeasyPrint) | The awesome document factory | 9810 | Python |
+| 766 | [tinydb](https://github.com/msiemens/tinydb) | TinyDB is a lightweight document oriented database optimized for your happiness :) | 7583 | Python |
+| 767 | [PixelRAG](https://github.com/StarTrail-org/PixelRAG) | https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/ | 11075 | Python |
+| 768 | [book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. | 39105 | Python |
+| 769 | [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) | The Database Toolkit for Python | 12312 | Python |
+| 770 | [scikit-image](https://github.com/scikit-image/scikit-image) | Image processing in Python | 6642 | Python |
+| 771 | [pylance-release](https://github.com/microsoft/pylance-release) | Documentation and issues for Pylance | 2171 | Python |
+| 772 | [ejs](https://github.com/mde/ejs) | Embedded JavaScript templates -- http://ejs.co | 8135 | JavaScript |
+| 773 | [bend](https://github.com/bendlang/bend) | Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh  sh | 25927 | TypeScript |
+| 774 | [mobilerun](https://github.com/droidrun/mobilerun) | Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖 | 10129 | Python |
+| 775 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | 210974 | Python |
+| 776 | [oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) | 网文写作 Agent 技能包：扫榜、拆文、大纲细纲、长短篇连载、伏笔追踪、去AI味与封面生成，适配 Claude Code / Codex 等 ｜ Agent skills for writing web novels | 8965 | JavaScript |
+| 777 | [dyad](https://github.com/dyad-sh/dyad) | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it! | 22461 | TypeScript |
+| 778 | [googleads-mobile-android-](https://github.com/googleads/googleads-mobile-android-examples) | googleads-mobile-android | 1888 | Java |
+| 779 | [melty](https://github.com/meltylabs/melty) | Chat first code editor. To download the packaged app: | 5459 | TypeScript |
+| 780 | [LTX-2](https://github.com/Lightricks/LTX-2) | Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model. | 10423 | Python |
+| 781 | [vega-lite](https://github.com/vega/vega-lite) | A concise grammar of interactive graphics, built on Vega. | 5566 | TypeScript |
+| 782 | [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot | 12171 | TypeScript |
+| 783 | [habitica](https://github.com/HabitRPG/habitica) | A habit tracker app which treats your goals like a Role Playing Game. | 14342 | JavaScript |
+| 784 | [earthworm](https://github.com/cuixueshe/earthworm) | Open-source origin of Julebu (julebu.ai / julebu.co) — learn English like a game by typing whole sentences, dictation, and active recall. | 11267 | TypeScript |
+| 785 | [fyne](https://github.com/fyne-io/fyne) | Cross platform GUI toolkit in Go inspired by Material Design | 28875 | Go |
+| 786 | [drama-skills](https://github.com/zenstory-ai/drama-skills) | AI 短剧与漫剧制作 Agent 技能包：小说改剧本、视觉设定、分镜、生图/生视频提示词与剪辑成片，适配 Claude Code / Codex 等 ｜ Agent skills for AI short dramas & motion comics | 5079 | Python |
+| 787 | [pdfmake](https://github.com/bpampuch/pdfmake) | Client/server side PDF printing in pure JavaScript | 12368 | JavaScript |
+| 788 | [Recordly](https://github.com/webadderallorg/Recordly) | Create polished demo videos without editing skills. Mac/Windows/Linux | 37529 | TypeScript |
+| 789 | [wechatauto-replica](https://github.com/fanyuantaier/wechatauto-replica) | Windows WeChat automation for Windows (non-web), wxauto replica supporting WeChat 4.x - Windows 微信客户端自动化（非网页版）复刻版 | 728 | Python |
+| 790 | [Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) | AIHawk: AI job application bot, automated job search, job hunting, auto-apply to resume-matching jobs while you sleep. | 32660 | Python |
+| 791 | [localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | 101038 | Dart |
+| 792 | [Papermorph](https://github.com/DozenTwelve/Papermorph) | An AI skill that turns books into animated, narrated, interactive web experiences | 2131 | JavaScript |
+| 793 | [tabula-py](https://github.com/chezou/tabula-py) | Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame | 2314 | Python |
+| 794 | [agents](https://github.com/wshobson/agents) | Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida... | 42928 | Python |
+| 795 | [mobile-mcp](https://github.com/mobile-next/mobile-mcp) | Mobile MCP: let AI agents drive your iOS and Android apps. MCP server for simulators, emulators and real devices. Works with Claude Code, Codex, Cursor and any MCP client. | 10913 | TypeScript |
+| 796 | [certd](https://github.com/certd/certd) | 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署 | 5158 | JavaScript |
+| 797 | [vscode-language-renpy](https://github.com/renpy/vscode-language-renpy) | Ren'Py extension for Visual Studio Code | 151 | TypeScript |
+| 798 | [Python](https://github.com/geekcomputers/Python) | My Python Examples | 35524 | Python |
+| 799 | [rembg](https://github.com/danielgatis/rembg) | Rembg is a tool to remove images background | 25690 | Python |
+| 800 | [parlant](https://github.com/emcie-co/parlant) | Parlant lets you build and operate reliable CX and support agents from your own AI coding agents. | 18349 | Python |
+| 801 | [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | 强大的哔哩哔哩增强脚本 | 31227 | TypeScript |
+| 802 | [beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) | README design skill for Claude Code & Codex. 帮你把 GitHub README 做得好看又好懂。 | 2020 | Python |
+| 803 | [nonebot2](https://github.com/nonebot/nonebot2) | 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python | 7786 | Python |
+| 804 | [WeChatBridge](https://github.com/freestylefly/WeChatBridge) | 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具 | 2493 | Swift |
+| 805 | [mcp-crypto-price](https://github.com/truss44/mcp-crypto-price) | A Model Context Protocol (MCP) server that provides real-time cryptocurrency analysis via CoinCap's API. Enables Claude and other MCP clients to fetch crypto prices, analyze market trends, and track h... | 42 | TypeScript |
+| 806 | [AutoX](https://github.com/aiselp/AutoX) | A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具) | 2015 | C++ |
+| 807 | [Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) | Create Epic Math and Physics Animations & Study Notes From Text and Images. | 2932 | Python |
+| 808 | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | 115050 | Python |
+| 809 | [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages! | 20675 | Python |
+| 810 | [thonny](https://github.com/thonny/thonny) | Python IDE for beginners | 4021 | Python |
+| 811 | [AI-tutor](https://github.com/qiyuxi24/AI-tutor) | 知识图谱驱动的导学 Agent：知识地图 + 学习路径 + 学情画像 + AI 出题。413 条用例全绿 / L1–L4 四层真实 API 评测 7/7 / BM25 门控 + RRF 混合检索 | 4 | Python |
+| 812 | [SeeCode](https://github.com/Aryanutkarsh/SeeCode) | Animated, explorable diagrams for Claude and other coding agents, from a short JSON spec. | 1030 | JavaScript |
+| 813 | [fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 105064 | Python |
+| 814 | [locust](https://github.com/locustio/locust) | Write scalable load tests in plain Python 🚗💨 | 28312 | Python |
+| 815 | [screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) | Professional agent skills for screenwriting, television writing and dramaturgy | 2191 | Python |
+| 816 | [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | A list of awesome beginners-friendly projects. | 91809 | 无 |
+| 817 | [awesome-css](https://github.com/awesome-css-group/awesome-css) | :art: A curated contents of amazing CSS :) | 5671 | 无 |
+| 818 | [magika](https://github.com/google/magika) | Fast and accurate AI powered file content types detection  | 18870 | Rust |
+| 819 | [layui](https://github.com/layui/layui) | 一套遵循浏览器原生态开发模式的 Web UI 组件库。 | 30595 | JavaScript |
+| 820 | [LandPPT](https://github.com/sligter/LandPPT) | 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。 | 3653 | Python |
+| 821 | [ha_wechat](https://github.com/shaonianzhentan/ha_wechat) | 使用微信控制HomeAssistant | 32 | Python |
+| 822 | [PaddleFormers](https://github.com/PaddlePaddle/PaddleFormers) | PaddleFormers is an easy-to-use library of pre-trained large language model zoo based on PaddlePaddle. | 12971 | Python |
+| 823 | [DiPlay](https://github.com/shihabal3amri/DiPlay) | Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview. | 14250 | Kotlin |
+| 824 | [waveterm](https://github.com/wavetermdev/waveterm) | An open-source, AI-integrated, cross-platform terminal for seamless workflows | 22750 | Go |
+| 825 | [greenbubbles](https://github.com/bojieli/greenbubbles) | Enable your AI agents to access your WeChat history in real time | 429 | Rust |
+| 826 | [invoice2data](https://github.com/invoice-x/invoice2data) | Extract structured data from PDF invoices | 2254 | Python |
+| 827 | [wechat-decrypt](https://github.com/freanocank/wechat-decrypt) | Agent Skill — WeChat 4.x chat decrypt & query (macOS + Windows): MCP read/search, export, voice transcription. | 107 | Python |
+| 828 | [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | Harness engineering beginner tutorial, from 0 to 1 | 26170 | TypeScript |
+| 829 | [frontend-hard-mode-interv](https://github.com/coffe1891/frontend-hard-mode-interview) | 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。 | 3516 | JavaScript |
+| 830 | [overtls](https://github.com/ShadowsocksR-Live/overtls) | A minimalist proxy tunnel for bypassing the GFW. | 469 | Rust |
+| 831 | [openhuman](https://github.com/tinyhumansai/openhuman) | The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS. | 42860 | Rust |
+| 832 | [agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | 120608 | JavaScript |
+| 833 | [licia](https://github.com/liriliri/licia) | Useful utility collection with zero dependencies | 2382 | JavaScript |
+| 834 | [flask-admin](https://github.com/pallets-eco/flask-admin) | Simple and extensible administrative interface framework for Flask | 6076 | Python |
+| 835 | [cherry-markdown](https://github.com/Tencent/cherry-markdown) | ✨ A Markdown Editor | 4937 | TypeScript |
+| 836 | [ip2region](https://github.com/lionsoul2014/ip2region) | Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programmi... | 19988 | Go |
+| 837 | [xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix) | 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台 | 3007 | Python |
+| 838 | [Fomantic-UI](https://github.com/fomantic/Fomantic-UI) | Fomantic-UI is the official community fork of Semantic-UI | 3772 | JavaScript |
+| 839 | [MTranServer](https://github.com/xxnuo/MTranServer) | Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器 | 4760 | C++ |
+| 840 | [logic_vsi](https://github.com/wxflogic/logic_vsi) | 牛津通识读本 Logic: A Very Short Introduction 新译本（补充了第2版新增的两章） | 443 | Python |
+| 841 | [stickman-video-director](https://github.com/kaomei/stickman-video-director) | AI Agent Skill (Claude Code, Codex & more): Turn any script into animated stickman videos for faceless YouTube, Shorts & TikTok. 20+ styles with voiceover, captions & SFX. Free & open-source (MIT). | 8522 | JavaScript |
+| 842 | [holiday-cn](https://github.com/NateScarlet/holiday-cn) | 📅🇨🇳中国法定节假日数据 自动每日抓取国务院公告 | 2302 | Python |
+| 843 | [md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 面向 AI Agent 的微信公众号创作与发布 CLI：Markdown 排版、AI 配图、预览与草稿创建；支持由浏览器 Agent 保存知乎、CSDN、头条未发布草稿。 | 3829 | Go |
+| 844 | [Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | ehviewer，用爱发电，快乐前行 | 29618 | C |
+| 845 | [xgo](https://github.com/goplus/xgo) | XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw... | 9495 | Go |
+| 846 | [RSSHub-python](https://github.com/hillerliao/RSSHub-python) | A RSSHub for Pythonista | 190 | Python |
+| 847 | [bulma](https://github.com/jgthms/bulma) | Modern CSS framework based on Flexbox | 50031 | CSS |
+| 848 | [vega](https://github.com/vega/vega) | A visualization grammar. | 12053 | JavaScript |
+| 849 | [gpt-load](https://github.com/tbphp/gpt-load) | Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。 | 7253 | Go |
+| 850 | [heretic](https://github.com/p-e-w/heretic) | Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more | 43327 | Python |
+| 851 | [illa-builder](https://github.com/illacloud/illa-builder) | Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL... | 12368 | TypeScript |
+| 852 | [mcp-feedback-enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) | Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detec... | 3747 | JavaScript |
+| 853 | [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) | Power CLI and Workflow manager for LLMs (core package) | 3716 | Python |
+| 854 | [d3](https://github.com/d3/d3) | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: | 114020 | Shell |
+| 855 | [organize](https://github.com/tfeldmann/organize) | The file management automation tool. | 3221 | Python |
+| 856 | [codegraph](https://github.com/colbymchenry/codegraph) | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca... | 78781 | TypeScript |
+| 857 | [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | 34312 | Python |
+| 858 | [ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud ... | 71640 | Python |
+| 859 | [pyarmor](https://github.com/dashingsoft/pyarmor) | A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts. | 5232 | Python |
+| 860 | [xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf) | A library for converting HTML into PDFs using ReportLab | 2403 | Python |
+| 861 | [zeal](https://github.com/zealdocs/zeal) | Offline documentation browser. Your personal reference library, searchable in an instant. | 12888 | C++ |
+| 862 | [pyzo](https://github.com/pyzo/pyzo) | Python to the people | 319 | Python |
+| 863 | [favorite-link](https://github.com/guanguans/favorite-link) | ❤️ 每天收集喜欢的开源项目。 | 3364 | PHP |
+| 864 | [pdfminer.six](https://github.com/pdfminer/pdfminer.six) | Community maintained fork of pdfminer - we fathom PDF | 7059 | Python |
+| 865 | [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | Python sample codes and textbook for robotics algorithms. | 30988 | Python |
+| 866 | [PyQtDarkTheme](https://github.com/5yutan5/PyQtDarkTheme) | A flat dark theme for PySide and PyQt. | 757 | Python |
+| 867 | [lairdubois-opencutlist-sk](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension) | OpenCutList is a SketchUp Extension for automating the generation of cut lists for woodworking projects. | 630 | Ruby |
+| 868 | [page-agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent. Control web interfaces with natural language. | 29770 | TypeScript |
+| 869 | [Dango-Translator](https://github.com/PantsuDango/Dango-Translator) | 梦想是做出最棒的生肉翻译软件喵 | 8861 | Python |
+| 870 | [plasticity](https://github.com/nkallen/plasticity) | 无 | 3418 | TypeScript |
+| 871 | [json-render](https://github.com/vercel-labs/json-render) | The Generative UI framework | 19853 | TypeScript |
+| 872 | [anyrouter-check-in](https://github.com/millylee/anyrouter-check-in) | 支持 AnyRouter、AgentRouter 的多平台多账号签到，理论兼容所有基于 NewAPI、OneAPI 的平台。 | 1453 | Python |
+| 873 | [trafilatura](https://github.com/adbar/trafilatura) | Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML | 7182 | Python |
+| 874 | [awesome-short-drama-skill](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) | AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex 等智能体可用  Curated agent skills for AI short drama, micro drama / microdrama, vertical drama ... | 2893 | HTML |
+| 875 | [ElatoAI](https://github.com/akdeb/ElatoAI) | Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets & Edge Functions for AI Toys, Desk Companions and Devices | 2126 | TypeScript |
+| 876 | [OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | The open document intelligence platform for builders and hackers - DMS for the agentic world | 1555 | Python |
+| 877 | [stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) | Stealth browser automation for AI agents over MCP and the Chrome DevTools Protocol: navigation, network hooks, DOM extraction, and pixel-accurate UI cloning. | 3389 | Python |
+| 878 | [xemu](https://github.com/xemu-project/xemu) | Original Xbox Emulator for Windows, macOS, and Linux (Active Development) | 4326 | C |
+| 879 | [autocut](https://github.com/mli/autocut) | 用文本编辑器剪视频 | 7856 | Python |
+| 880 | [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code  GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 | 36163 | JavaScript |
+| 881 | [twscrape](https://github.com/vladkens/twscrape) | Python library and CLI for X/Twitter scraping with multi-account rotation and built-in rate-limit handling. | 3001 | Python |
+| 882 | [awesome-manim](https://github.com/ManimCommunity/awesome-manim) | A database with many Manim users and content creators | 550 | 无 |
+| 883 | [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | An autonomous agent that conducts deep research on any data using any LLM providers | 30935 | Python |
+| 884 | [agent-skills](https://github.com/apify/agent-skills) | Collection of Apify agent skills | 2520 | Python |
+| 885 | [nanobrowser](https://github.com/nanobrowser/nanobrowser) | Open-source AI agent for web automation. Use your real, logged-in browser to automate daily tasks. | 14400 | TypeScript |
+| 886 | [jesse](https://github.com/jesse-ai/jesse) | An advanced trading bot written in Python | 8839 | Python |
+| 887 | [res-downloader](https://github.com/putyy/res-downloader) | 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! | 21589 | Go |
+| 888 | [justhtml](https://github.com/EmilStenstrom/justhtml) | A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn. | 1161 | Python |
+| 889 | [LearnPrompt](https://github.com/LearnPrompt/LearnPrompt) | 永久免费开源的 AIGC 课程, 目前已支持Claude Code，Codex，Hermes，OpenClaw，Obsidian，Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型 | 2761 | MDX |
+| 890 | [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) | Fast data visualization and GUI tools for scientific / engineering applications | 4449 | Python |
+| 891 | [VoxWeave](https://github.com/CheshireMew/VoxWeave) | Local-first high-quality offline RVC voice conversion workstation | 252 | Python |
+| 892 | [Gemini](https://github.com/kyegomez/Gemini) | The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google | 468 | Python |
+| 893 | [fundrive](https://github.com/farfarfun-drive/fundrive) | 统一的网盘/云存储操作接口框架 - 一套 API 打通 20+ 服务，涵盖 Google Drive、OneDrive、S3、百度网盘、阿里云盘、蓝奏云、WebDAV 等 | 79 | Python |
+| 894 | [web-check](https://github.com/lissy93/web-check) | 🕵️‍♂️ All-in-one OSINT tool for analysing any website | 35661 | TypeScript |
+| 895 | [RAG-Anything](https://github.com/HKUDS/RAG-Anything) | "RAG-Anything: All-in-One RAG Framework" | 24844 | Python |
+| 896 | [KeymouseGo](https://github.com/taojy123/KeymouseGo) | 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入  automate mouse clicks and keyboard input | 10672 | Python |
+| 897 | [awesome-math](https://github.com/rossant/awesome-math) | A curated list of awesome mathematics resources | 17007 | Python |
+| 898 | [codeapp](https://github.com/thebaselab/codeapp) | Building a full-fledged code editor for iPad | 3997 | Swift |
+| 899 | [social-auto-upload](https://github.com/dreammis/social-auto-upload) | 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili | 17010 | Python |
+| 900 | [yarp](https://github.com/dotnet/yarp) | A toolkit for developing high-performance HTTP reverse proxy applications. | 9665 | C# |
+| 901 | [owl](https://github.com/camel-ai/owl) | 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation | 20198 | Python |
+| 902 | [camel](https://github.com/camel-ai/camel) | 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org | 18071 | Python |
+| 903 | [immersive-translate](https://github.com/immersive-translate/immersive-translate) | 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension  | 19896 | 无 |
+| 904 | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog... | 58580 | Python |
+| 905 | [Windows-Toasts](https://github.com/DatGuy1/Windows-Toasts) | Python library used to send toast notifications on Windows machines | 145 | Python |
+| 906 | [DeepCode](https://github.com/HKUDS/DeepCode) | "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)" | 16872 | Python |
+| 907 | [ZCode](https://github.com/zai-org/ZCode) | Z.ai's coding agent harness. Powerful, intelligent, extensible. | 8934 | TypeScript |
+| 908 | [easy_proxies](https://github.com/jasonwong1991/easy_proxies) | A proxy node pool management tool based on sing-box, supporting multiple protocols, automatic failover and load balancing.  基于 sing-box 的代理节点池管理工具，支持多协议、多节点自动故障转移和负载均衡。 | 1879 | Go |
+| 909 | [handraw-style](https://github.com/yang0/handraw-style) | 手绘风格编号画廊与双语提示词 Skill | 8202 | HTML |
+| 910 | [jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. | 46210 | Rust |
+| 911 | [pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. | 11856 | Python |
+| 912 | [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials | 290546 | Python |
+| 913 | [presenton](https://github.com/presenton/presenton) | Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative) | 12062 | TypeScript |
+| 914 | [CS-Notes](https://github.com/CyC2018/CS-Notes) | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 | 186602 | JavaScript |
+| 915 | [sql-generator](https://github.com/liyupi/sql-generator) | 结构化复杂 SQL 生成器（SQL Generator）是由程序员鱼皮开源的纯前端在线工具，支持用 JSON 模板以类似函数调用与嵌套传参的方式编写结构化语句并一键生成完整的复杂 SQL，也可作为通用重复代码生成器使用。项目面向大数据离线分析、Hive 与 Spark 数仓开发及日常 MySQL 查询场景，内置静态参数替换、参数透传、括号嵌套子查询解析与可视化调用树分析功能，有效降低上千行重复 S... | 3412 | Vue |
+| 916 | [huashu-design](https://github.com/alchaincyf/huashu-design) | Huashu Design 3.4 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / App Store 宣传图 / 小红书图文 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 92 种带样张的风格库 · 该是图的地方放真图 · HTML-native design skill for Claude Code, Codex, Cursor & a... | 31059 | HTML |
+| 917 | [requestium](https://github.com/lordjabez/requestium) | Integration layer between Requests and Selenium for automation of web actions. | 1837 | Python |
+| 918 | [crawl4ai](https://github.com/unclecode/crawl4ai) | Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe... | 87986 | Python |
+| 919 | [WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs. | 11305 | Python |
+| 920 | [markmap](https://github.com/markmap/markmap) | Build mindmaps with plain text | 13303 | TypeScript |
+| 921 | [ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | 311286 | JavaScript |
+| 922 | [99AI](https://github.com/vastxie/99AI) | 开源、可私有化部署的 Web Agent 底座，支持多用户、隔离沙箱，以及 Skills 和 MCP 扩展。Open-source, self-hostable Web Agent foundation with multi-user support, isolated sandboxes, and extensibility through Skills and MCP. | 1039 | TypeScript |
+| 923 | [responsively-app](https://github.com/responsively-org/responsively-app) | A modified web browser that helps in responsive web development. A web developer's must have dev-tool. | 25592 | TypeScript |
+| 924 | [tiled](https://github.com/mapeditor/tiled) | Flexible level editor | 13097 | C++ |
+| 925 | [sphinx](https://github.com/sphinx-doc/sphinx) | The Sphinx documentation generator | 8104 | Python |
+| 926 | [esp-labs-web](https://github.com/agharsallah/esp-labs-web) | The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages. | 1022 | TypeScript |
+| 927 | [lobe-icons](https://github.com/lobehub/lobe-icons) | 🥨 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies. | 2737 | TypeScript |
+| 928 | [ComfyUI-WorkFlow](https://github.com/A719689614/ComfyUI-WorkFlow) | 一些我自己的工作流参数 | 99 | 无 |
+| 929 | [yutto](https://github.com/yutto-dev/yutto) | :ice_cube: 一个可爱且任性的 B 站视频下载器 | 2178 | Python |
+| 930 | [curl_cffi](https://github.com/lexiforest/curl_cffi) | Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints. | 6930 | Python |
+| 931 | [ChatLab](https://github.com/ChatLab/ChatLab) | Local-first chat history analyzer with AI.  本地优先的 AI 聊天记录分析工具 | 7698 | TypeScript |
+| 932 | [SafeLine](https://github.com/chaitin/SafeLine) | SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. | 23460 | Go |
+| 933 | [Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) | YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控 | 5141 | Python |
+| 934 | [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) | Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included! | 5301 | CSS |
+| 935 | [rybbit](https://github.com/rybbit-io/rybbit) | 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. | 13363 | TypeScript |
+| 936 | [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) | Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:  | 24836 | C++ |
+| 937 | [Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) | Full-featured Social Engineering Framework with Page Cloning, MITM Proxy, Credential Capture, Session Extraction, and Real-time Monitoring. | 6481 | PHP |
+| 938 | [awesome-agents](https://github.com/kyrolabs/awesome-agents) | 🤖 Awesome list of AI Agents | 3018 | 无 |
+| 939 | [Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) | Easily download and manage single-player game cheats for your convenience | 17040 | C++ |
+| 940 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | 501663 | Python |
+| 941 | [river](https://github.com/online-ml/river) | 🌊 Online machine learning in Python | 6156 | Python |
+| 942 | [Memoh](https://github.com/felinics/Memoh) | ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so... | 2829 | Go |
+| 943 | [learngo](https://github.com/inancgumus/learngo) | ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs. | 20191 | Go |
+| 944 | [manuskript](https://github.com/olivierkes/manuskript) | A open-source tool for writers | 2485 | Python |
+| 945 | [docs-mcp-server](https://github.com/arabold/docs-mcp-server) | Grounded Docs MCP Server: Open-Source Alternative to Context7, Nia, and Ref.Tools | 1921 | TypeScript |
+| 946 | [pyinstaller](https://github.com/pyinstaller/pyinstaller) | Freeze (package) Python programs into stand-alone executables | 13166 | Python |
+| 947 | [automate-faceless-content](https://github.com/cporter202/automate-faceless-content) | Learn how to automate faceless short-form + long-form video content and dominate YouTube, TikTok, Facebook & Instagram on autopilot — from idea → script → video → scheduled posts. | 3357 | 无 |
+| 948 | [binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) | Automated Binance trading bot with pluggable strategies, historical backtesting, a live dashboard, and connect an AI agent over MCP | 5627 | TypeScript |
+| 949 | [WechatExporter](https://github.com/BlueMatthew/WechatExporter) | Wechat Chat History Exporter 微信聊天记录导出备份程序 | 8632 | C++ |
+| 950 | [python-pinyin](https://github.com/mozillazg/python-pinyin) | 汉字转拼音(pypinyin) | 5401 | Python |
+| 951 | [domain-admin](https://github.com/dromara/domain-admin) | 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.  | 2458 | Python |
+| 952 | [document](https://github.com/ranuts/document) | Local-first browser editor for Word, Excel, PowerPoint and PDF, with an experimental AI assistant. No Office installation or account required. | 2039 | TypeScript |
+| 953 | [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. | 287599 | TypeScript |
+| 954 | [PyTorch_Tutorial](https://github.com/TingsongYu/PyTorch_Tutorial) | 《Pytorch模型训练实用教程》中配套代码 | 8031 | Python |
+| 955 | [SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. | 36122 | JavaScript |
+| 956 | [she-love-me](https://github.com/863401402/she-love-me) | 她不一样   恋情分析室 — 微信聊天记录恋爱分析 Agent Skill  （曾用名：她爱我吗？） | 1044 | Python |
+| 957 | [PPTist](https://github.com/pipipi-pikachu/PPTist) | PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It als... | 9512 | Vue |
+| 958 | [nixopus](https://github.com/nixopus/nixopus) | Run production apps without thinking about infrastructure. On your server or ours. Fully agentic. | 1474 | Go |
+| 959 | [we-mp-rss](https://github.com/rachelos/we-mp-rss) | ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公... | 5269 | Python |
+| 960 | [SimplePyScripts](https://github.com/gil9red/SimplePyScripts) | Collection of various python script's. | 153 | Python |
+| 961 | [CodePilot](https://github.com/op7418/CodePilot) | A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js. | 6524 | TypeScript |
+| 962 | [chatgpt-web-midjourney-pr](https://github.com/Dooy/chatgpt-web-midjourney-proxy) | One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform | 6804 | JavaScript |
+| 963 | [pygubu](https://github.com/alejandroautalan/pygubu) | A simple GUI builder for the python tkinter module | 2169 | Python |
+| 964 | [ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | 199344 | JavaScript |
+| 965 | [Atom_notebook](https://github.com/leondgarse/Atom_notebook) | Personal atom notebook | 95 | Python |
+| 966 | [sentrysearch](https://github.com/ssrajadh/sentrysearch) | Semantic search over videos using Gemini Embedding 2 or Qwen3-VL. | 4595 | Python |
+| 967 | [TinUI](https://github.com/Smart-Space/TinUI) | Tkinter UI Engine | 37 | Python |
+| 968 | [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can't refuse | 29616 | Python |
+| 969 | [Peekaboo](https://github.com/openclaw/Peekaboo) | Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo... | 5541 | Swift |
+| 970 | [LiveTerm](https://github.com/Cveinnt/LiveTerm) | 💻 Build terminal styled websites in minutes! | 5389 | TypeScript |
+| 971 | [v86](https://github.com/copy/v86) | x86 PC emulator and x86-to-wasm JIT, running in the browser | 23742 | JavaScript |
+| 972 | [daily](https://github.com/dailydotdev/daily) | daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source. | 20163 | JavaScript |
+| 973 | [godogen](https://github.com/htdt/godogen) | Skills for Claude Code, Codex and Antigravity to build games, and anything else a game engine renders well | 7427 | Python |
+| 974 | [ui](https://github.com/vlang/ui) | A cross-platform UI library written in V | 2540 | V |
+| 975 | [LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 | 41403 | JavaScript |
+| 976 | [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 | 108790 | 无 |
+| 977 | [awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) | 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型）  Summary of the world's best LLM resources.  | 9109 | 无 |
+| 978 | [assttyys_autojs](https://github.com/zzliux/assttyys_autojs) | 痒痒鼠安卓辅助，基于Auto.js Pro开发。支持御魂、御灵、业原火、突破、狗粮、百鬼夜行、抽厕纸、逢魔日常、地鬼日常、妖气自动排队、斗技、喂蛋、合结界卡、六道之门、定时寄养等 | 497 | TypeScript |
+| 979 | [PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) | 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。 | 1020 | Vue |
+| 980 | [pm2](https://github.com/Unitech/pm2) | Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer. | 43344 | JavaScript |
+| 981 | [mlc-llm](https://github.com/mlc-ai/mlc-llm) | Universal LLM Deployment Engine with ML Compilation | 23499 | Python |
+| 982 | [WebGAL](https://github.com/OpenWebGAL/WebGAL) | A brand new web Visual Novel engine  全新的网页端视觉小说引擎 | 4054 | TypeScript |
+| 983 | [awesome-systematic-tradin](https://github.com/paperswithbacktest/awesome-systematic-trading) | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. | 15781 | Python |
+| 984 | [claude-code-router](https://github.com/musistudio/claude-code-router) | One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control. | 38377 | TypeScript |
+| 985 | [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. | 39098 | Python |
+| 986 | [wr.do](https://github.com/oiov/wr.do) | 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署 | 2300 | TypeScript |
+| 987 | [huobao-drama](https://github.com/chatfire-AI/huobao-drama) | 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video" | 18024 | TypeScript |
+| 988 | [Open-Source-Face-Recognit](https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK) | Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face... | 3207 | Python |
+| 989 | [Agent-Skills-for-Context-](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe... | 18434 | Python |
+| 990 | [WeFlow](https://github.com/hicccc77/WeFlow) | WeFlow - 一个本地的微信聊天记录导出和年度报告应用 | 16219 | 无 |
+| 991 | [zcf](https://github.com/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex | 6066 | TypeScript |
+| 992 | [Hy-Memory](https://github.com/Tencent-Hunyuan/Hy-Memory) | 无 | 1938 | Python |
+| 993 | [Ultroid](https://github.com/TeamUltroid/Ultroid) | Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib. | 2984 | Python |
+| 994 | [pdfplumber](https://github.com/jsvine/pdfplumber) | Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables. | 10933 | Python |
+| 995 | [codecombat](https://github.com/codecombat/codecombat) | Game for learning how to code. | 8589 | JavaScript |
+| 996 | [claude-howto](https://github.com/luongnv89/claude-howto) | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. | 47621 | Python |
+| 997 | [awesome-nlp](https://github.com/keon/awesome-nlp) | :book: A curated list of resources dedicated to Natural Language Processing (NLP) | 19184 | 无 |
+| 998 | [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) | AutoHotkey - macro-creation and automation-oriented scripting utility for Windows. | 13548 | C++ |
+| 999 | [Douyin_TikTok_Download_AP](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。 Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MCP server for AI agen... | 21584 | Python |
+| 1000 | [chroma](https://github.com/chroma-core/chroma) | Search infrastructure for AI | 29793 | Rust |
+| 1001 | [sygil-webui](https://github.com/Sygil-Dev/sygil-webui) | Stable Diffusion web UI | 7856 | Python |
+| 1002 | [extract_otp_secrets](https://github.com/scito/extract_otp_secrets) | Extract one time password (OTP) secrets from QR codes exported by two-factor authentication (2FA) apps such as "Google Authenticator". The exported QR codes from authentication apps can be captured by... | 1708 | Python |
+| 1003 | [webhacklist](https://github.com/irsdl/webhacklist) | Independent web hacking research archive: official Top 10 nominees and winners since 2006, plus additional discoveries, preserved articles and English translations. | 923 | Python |
+| 1004 | [Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | Advanced UX and interoperability extension for Wand (WeMod) app | 33639 | C# |
+| 1005 | [rpaframework](https://github.com/robocorp/rpaframework) | Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python | 1586 | Python |
+| 1006 | [FFmpeg](https://github.com/antatura/FFmpeg) | FFmpeg学习资料 | 5 | Python |
+| 1007 | [marvin](https://github.com/PrefectHQ/marvin) | an ambient intelligence library | 6204 | Python |
+| 1008 | [faker](https://github.com/joke2k/faker) | Faker is a Python package that generates fake data for you. | 19505 | Python |
+| 1009 | [niubigeo](https://github.com/Albert-Weasker/niubigeo) | Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/  Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing | 10205 | TypeScript |
+| 1010 | [sanic](https://github.com/sanic-org/sanic) |  Accelerate your web app development   Build fast. Run fast. | 18638 | Python |
+| 1011 | [aseprite](https://github.com/aseprite/aseprite) | Animated sprite editor & pixel art tool (Windows, macOS, Linux) | 41182 | C++ |
+| 1012 | [gfwlist](https://github.com/gfwlist/gfwlist) | The one and only one gfwlist here | 25750 | 无 |
+| 1013 | [best-of-web-python](https://github.com/ml-tooling/best-of-web-python) | 🏆  A ranked list of awesome python libraries for web development. Updated weekly. | 2785 | 无 |
+| 1014 | [web-builder](https://github.com/biaogebusy/web-builder) | AI 驱动 UI 生成和发布的低代码平台，基于TailwindCss，通过拖拽可视化快速构建现代化响应式UI、动态自定义组件、多主题、多语言的网站应用。AI-powered UI generation and publishing low code platform, built on TailwindCSS, enabling rapid drag-and-drop visual creatio... | 586 | TypeScript |
+| 1015 | [jupyter](https://github.com/jupyter/jupyter) | Jupyter metapackage for installation and documentation | 15357 | Python |
+| 1016 | [libsql](https://github.com/tursodatabase/libsql) | libSQL is a fork of SQLite that is both Open Source, and Open Contributions. | 17386 | C |
+| 1017 | [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) | 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, ... | 22928 | TypeScript |
+| 1018 | [CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ | 66332 | Python |
+| 1019 | [bggg-skills](https://github.com/binggandata/bggg-skills) | Open-source Codex skills from BGGG | 639 | Python |
+| 1020 | [psutil](https://github.com/giampaolo/psutil) | Cross-platform lib for process and system monitoring in Python | 11336 | Python |
+| 1021 | [ppt-master](https://github.com/hugohe3/ppt-master) | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support... | 80497 | Python |
+| 1022 | [OpenGeometry](https://github.com/OpenGeometry-io/OpenGeometry) | Geometry CAD Kernel for Humans and AI Agents | 561 | Rust |
+| 1023 | [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) | Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN... | 17275 | C++ |
+| 1024 | [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir... | 33604 | C# |
+| 1025 | [baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 无 | 27901 | TypeScript |
+| 1026 | [codex-windows-fast-patch-](https://github.com/chen0416ccc-cpu/codex-windows-fast-patch-skill) | 此skills用于指导智能体在 Windows 上恢复 Codex Desktop 升级后失效的本地补丁和能力开关。（Computer Use，插件，破限，codex强制汉化，fast mode，手机远控，会话消失等问题）支持每次使用前自动将skills更新到最新版。/These skills are designed to guide the agent in restoring local p... | 1352 | PowerShell |
+| 1027 | [MCP-rednote-assistant](https://github.com/cloudy-sfu/MCP-rednote-assistant) | MCP server which collects data from www.xiaohongshu.com social media | 4 | Python |
+| 1028 | [xiaogpt](https://github.com/yihong0618/xiaogpt) | Play ChatGPT and other LLM with Xiaomi AI Speaker | 7080 | Python |
+| 1029 | [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. | 29429 | Python |
+| 1030 | [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) | Edit Banana: A framework for converting statistical formats into editable. | 5511 | Python |
+| 1031 | [wenzi-xiaohongshu-workflo](https://github.com/wenziai/wenzi-xiaohongshu-workflow) | 文子的小红书工作流：从账号定位、选题标题、真人化改稿、图文规划到排期复盘的一套可安装 Agent Skills。 | 217 | 无 |
+| 1032 | [youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) | 🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval,... | 5393 | JavaScript |
+| 1033 | [AndroidMic](https://github.com/teamclouday/AndroidMic) | Use your Android phone as a microphone for your PC | 1770 | Rust |
+| 1034 | [rzweb](https://github.com/IndAlok/rzweb) | A complete browser-based reverse engineering platform built on Rizin, running entirely client-side via WebAssembly. | 771 | TypeScript |
+| 1035 | [BetterGravity](https://github.com/YashjitPal/BetterGravity) | The extensible power-user platform for Google Antigravity. Adds a native In-App Browser, animated Desktop Pets, revamped Gemini UI, and custom BYOK Gemini Pro keys. | 246 | JavaScript |
+| 1036 | [os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | 无 | 7805 | HTML |
+| 1037 | [Decepticon](https://github.com/BitterSecurity/Decepticon) | Autonomous Hacking Agent for Red Team | 6833 | Python |
+| 1038 | [spark](https://github.com/sparkjsdev/spark) | :sparkles:  An advanced 3D Gaussian Splatting renderer for THREE.js | 3977 | TypeScript |
+| 1039 | [humanizer](https://github.com/blader/humanizer) | Agent skill that removes signs of AI-generated writing from text | 73979 | Python |
+| 1040 | [act](https://github.com/nektos/act) | Run your GitHub Actions locally 🚀 | 72806 | Go |
+| 1041 | [supersplat](https://github.com/playcanvas/supersplat) | 3D Gaussian Splat Editor | 10733 | TypeScript |
+| 1042 | [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) | A private messenger for Windows, macOS, and Linux. | 16736 | TypeScript |
+| 1043 | [whichllm](https://github.com/Andyyyy64/whichllm) | Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. | 6875 | Python |
+| 1044 | [1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) | 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。 | 4164 | HTML |
+| 1045 | [garden-skills](https://github.com/ConardLi/garden-skills) | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. | 15862 | JavaScript |
+| 1046 | [pdf-bunny](https://github.com/ksharindam/pdf-bunny) | Poppler based fast pdf viewer written in PyQt5 | 12 | Python |
+| 1047 | [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i... | 34246 | C++ |
+| 1048 | [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) | Converts .py to .exe using a simple graphical interface  | 5005 | JavaScript |
+| 1049 | [5ire](https://github.com/nanbingxyz/5ire) | 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers . | 5375 | TypeScript |
+| 1050 | [open-vibecoding](https://github.com/mileson/open-vibecoding) | 面向 Vibe Coding 的能力增强型协作框架（Harness），让 Vibe Coding 看得见，可审查、可学习、可进化。 | 148 | JavaScript |
+| 1051 | [alist-encrypt](https://github.com/traceless/alist-encrypt) | 这个项目主要是对 alist 的服务进行代理，提供 webdav 的加解密功能。支持 alist 网页在线播放加密的视频，查看加密的图片等功能，同时在 webdav 下的操作透明，自动实现文件资源的加解密。 | 1508 | JavaScript |
+| 1052 | [sql.js](https://github.com/sql-js/sql.js) | A javascript library to run SQLite on the web.   | 13691 | JavaScript |
+| 1053 | [ASCILINE](https://github.com/YusufB5/ASCILINE) | A high-performance ASCII video rendering engine featuring real-time WebSocket binary streaming and an isolated compiler for serverless static generation. Built for low-latency 30 FPS playback on HTML5... | 2817 | Python |
+| 1054 | [Seedream_MCP](https://github.com/tengmmvp/Seedream_MCP) | Doubao-Seedream生图MCP（即梦生图MCP） | 26 | Python |
+| 1055 | [onetake](https://github.com/feitangyuan/onetake) | Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. Product launch films and feature demos, made with a codi... | 4511 | Python |
+| 1056 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | 565767 | Markdown |
+| 1057 | [so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) | so-vits-svc fork with realtime support, improved interface and more features. | 9320 | Python |
+| 1058 | [pyotp](https://github.com/pyauth/pyotp) | Python One-Time Password Library | 3349 | Python |
+| 1059 | [goclaw](https://github.com/nextlevelbuilder/goclaw) | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety. | 3723 | Go |
+| 1060 | [Gooey](https://github.com/chriskiehl/Gooey) | Turn (almost) any Python command line program into a full GUI application with one line | 21901 | Python |
+| 1061 | [SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) | Multi-purpose proxy service management system | 10450 | PHP |
+| 1062 | [azure-quickstart-template](https://github.com/Azure/azure-quickstart-templates) | Azure Quickstart Templates | 14920 | Bicep |
+| 1063 | [Open-Interface](https://github.com/AmberSahdev/Open-Interface) | Control Any Computer Using LLMs. | 2747 | Python |
+| 1064 | [dsh-blender-plugin](https://github.com/sixtysevenlf/dsh-blender-plugin) | DSH × Blender 直连插件 v3.0.6：15 个模型工具让 AI 驱动 GUI Blender（视口 / 自定义视角 / 无头 worker / 作业层 / 事务回滚 / 配方库），34 family / 228 op 契约层；npm 安装 + addon zip，GUI 优先、无头备用；dsh-TUI 选中 chip / @ 提及 / /blender，随包建模 skill，支持 W... | 2296 | Python |
+| 1065 | [anydoc](https://github.com/firecrawl/anydoc) | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings. | 23723 | Rust |
+| 1066 | [Operit](https://github.com/AAswordman/Operit) | The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent | 9872 | Kotlin |
+| 1067 | [ai-toolkit](https://github.com/ostris/ai-toolkit) | The ultimate training toolkit for finetuning diffusion models | 12721 | Python |
+| 1068 | [playwright-mcp](https://github.com/microsoft/playwright-mcp) | Playwright MCP server | 40183 | TypeScript |
+| 1069 | [python-markdownify](https://github.com/matthewwithanm/python-markdownify) | Convert HTML to Markdown | 2263 | Python |
+| 1070 | [robotframework](https://github.com/robotframework/robotframework) | Generic automation framework for acceptance testing and RPA | 12000 | Python |
+| 1071 | [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞 | 54001 | 无 |
+| 1072 | [RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) | Converts text to speech in realtime | 4060 | Python |
+| 1073 | [FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid) | FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议 | 5904 | C |
+| 1074 | [edge-tts](https://github.com/rany2/edge-tts) | Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge | 12651 | Python |
+| 1075 | [khazix-skills](https://github.com/KKKKhazix/khazix-skills) | 数字生命卡兹克开源的 AI Skills 合集  Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents | 22572 | Python |
+| 1076 | [open-notebook](https://github.com/lfnovo/open-notebook) | An Open Source implementation of Notebook LM with more flexibility and features | 42249 | TypeScript |
+| 1077 | [LearnDeck](https://github.com/LearnAIHubC/LearnDeck) | LearnDeck: AI PPT generator for Codex that turns topics, notes, course material, and outlines into polished, editable PowerPoint decks. | 26 | JavaScript |
+| 1078 | [linux-command](https://github.com/jaywcjlove/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux | 37337 | Markdown |
+| 1079 | [classifier-dev](https://github.com/mrmps/classifier-dev) | Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server. https://classifier.dev | 440 | TypeScript |
+| 1080 | [pylingual](https://github.com/syssec-utd/pylingual) | Python decompiler for modern Python versions. | 1452 | Python |
+| 1081 | [FLARE](https://github.com/EndemicMedia/FLARE) | FLARE: Fractal Language for Autonomous Recursive Expansion | 4 | HTML |
+| 1082 | [wecom-cli](https://github.com/WecomTeam/wecom-cli) | 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信 | 3381 | Rust |
+| 1083 | [hermes-desktop](https://github.com/fathah/hermes-desktop) | Desktop Companion for Hermes Agent | 14638 | TypeScript |
+| 1084 | [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 | 7759 | JavaScript |
+| 1085 | [darwin-skill](https://github.com/alchaincyf/darwin-skill) | 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚  Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert. | 7074 | HTML |
+| 1086 | [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | 145841 | Python |
+| 1087 | [JJYB_AI_VideoAutoCut](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut) | JJYB_AI 智剪 - 智能视频自动剪辑与AI解说工具（离线TTS、原创解说、混剪、AI配音） | 1281 | HTML |
+| 1088 | [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project. | 12199 | Python |
+| 1089 | [manga-image-translator](https://github.com/zyddnys/manga-image-translator) | Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ https://greasyfork.org/en/scripts/437569-cotrans-manga-image-translator-regular-edition | 10653 | Python |
+| 1090 | [chatbox](https://github.com/chatboxai/chatbox) | Powerful AI Client | 42548 | TypeScript |
+| 1091 | [Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) | 收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools） | 2494 | 无 |
+| 1092 | [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer | 97175 | JavaScript |
+| 1093 | [music21](https://github.com/cuthbertLab/music21) | music21: a Toolkit for Computer-Aided Musical Analysis and Computational Musicology | 2636 | Python |
+| 1094 | [awesome-frida](https://github.com/dweinstein/awesome-frida) | Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida) | 3570 | 无 |
+| 1095 | [ollama-python](https://github.com/ollama/ollama-python) | Ollama Python library | 10743 | Python |
+| 1096 | [subtitle-translator](https://github.com/rockbenben/subtitle-translator) | Translate a whole season of subtitles in one pass — .srt/.ass/.vtt/.lrc, 120+ languages, 27 LLM providers, timing untouched ｜ 整季字幕一次译完，时轴不动，支持 120+ 语言 | 1212 | TypeScript |
+| 1097 | [drawio-desktop](https://github.com/jgraph/drawio-desktop) | Official electron build of draw.io | 64168 | JavaScript |
+| 1098 | [autocad-mcp](https://github.com/puran-water/autocad-mcp) | MCP server for AutoCAD LT v3.1: freehand AutoLISP execution, 8 consolidated tools, File IPC + ezdxf backends, focus-free dispatch, undo/redo, P&ID symbols, and robust IPC with ESC prefix and UTF-8 fal... | 707 | Python |
+| 1099 | [jquery](https://github.com/jquery/jquery) | jQuery JavaScript Library | 60179 | JavaScript |
+| 1100 | [agenticSeek](https://github.com/Fosowl/agenticSeek) | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. | 27704 | Python |
+| 1101 | [hive](https://github.com/aden-hive/hive) | Multi-Agent Harness for Production AI | 11183 | Python |
+| 1102 | [voice-changer](https://github.com/w-okada/voice-changer) | リアルタイムボイスチェンジャー Realtime Voice Changer | 21461 | Python |
+| 1103 | [h4cker](https://github.com/The-Art-of-Hacking/h4cker) | This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vu... | 30399 | Jupyter Notebook |
+| 1104 | [vibe-coding-prompt-templa](https://github.com/KhazP/vibe-coding-prompt-template) | Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs | 3274 | TypeScript |
+| 1105 | [zip.js](https://github.com/gildas-lormeau/zip.js) | JavaScript library to zip and unzip files supporting parallel compression, web streams, pluggable compression engines, zip64, split files, data encryption, and deflate64 decompression. | 3915 | JavaScript |
+| 1106 | [AiNiee](https://github.com/NEKOparapa/AiNiee) | 一款专注于 AI 多模态翻译的工具，一键自动翻译 RPG/SLG 游戏、Epub/TXT 小说、PDF/Word/MD 文档、Srt/Ass/Vtt 字幕，以及漫画图片、音频与视频等内容。 | 6543 | Python |
+| 1107 | [django-ninja](https://github.com/vitalik/django-ninja) | 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs | 9260 | Python |
+| 1108 | [Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) | 译幕（Zimoo）是字幕翻译工具，支持 .srt / .ass / .vtt 文件，提供网页版和 macOS / Windows 桌面版，可使用 DeepSeek、Gemini、GPT、Claude、Kimi、智谱等 AI 模型，核心卖点（和其他产品的主要区别）：用户配置自己的 API Key，好处是这样价格最低。 | 2640 | 无 |
+| 1109 | [Easel](https://github.com/ZJU-REAL/Easel) | An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内... | 4952 | Python |
+| 1110 | [threeui](https://github.com/MengTo/threeui) | Open-source ThreeUI Community catalog with live interactive components and complete Community source. | 7493 | HTML |
+| 1111 | [PicGo](https://github.com/Molunerfinn/PicGo) | :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d... | 27524 | TypeScript |
+| 1112 | [self-llm](https://github.com/datawhalechina/self-llm) | 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程 | 32872 | Jupyter Notebook |
+| 1113 | [dbskill](https://github.com/dontbesilent2025/dbskill) | dontbesilent 的商业诊断 Skills | 11587 | Python |
+| 1114 | [awesome-python](https://github.com/vinta/awesome-python) | The definitive list that answers "I want to do X in Python, which tool should I use?" | 337358 | Python |
+| 1115 | [python-sdk](https://github.com/modelcontextprotocol/python-sdk) | The official Python SDK for Model Context Protocol servers and clients | 24981 | Python |
+| 1116 | [AugLy](https://github.com/facebookresearch/AugLy) | A data augmentations library for audio, image, text, and video. | 5097 | Python |
+| 1117 | [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 18 Lessons to Get Started Building AI Agents | 81048 | Jupyter Notebook |
+| 1118 | [DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) | An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations. | 1640 | Go |
+| 1119 | [html-video](https://github.com/nexu-io/html-video) | Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An... | 4932 | HTML |
+| 1120 | [flow2api](https://github.com/TheSmallHanCat/flow2api) | 无限次数的banana pro！逆向账号池，支持负载均衡、AT自动刷新、缓存策略、代理等。Q交流群1073237297 | 3206 | Python |
+| 1121 | [echomimic](https://github.com/antgroup/echomimic) | [AAAI 2025] EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning | 4339 | Python |
+| 1122 | [lanhu-mcp](https://github.com/dsphper/lanhu-mcp) | ⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图 | 2603 | Python |
+| 1123 | [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | Coding articles to level up your development skills | 129618 | JavaScript |
+| 1124 | [picoshare](https://github.com/mtlynch/picoshare) | MOVED: https://codefloe.com/mtlynch/picoshare | 3067 | Go |
+| 1125 | [shai](https://github.com/ovh/shai) | shai is a coding agent, your pair programming buddy that lives in the terminal. Written in rust with love <3 | 634 | Rust |
+| 1126 | [models](https://github.com/tensorflow/models) | Models and examples built with TensorFlow | 77634 | Python |
+| 1127 | [PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial) | 可能是最好的PySide6中文教程！用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享！ | 1882 | Python |
+| 1128 | [chandra](https://github.com/datalab-to/chandra) | OCR model that handles complex tables, forms, handwriting with full layout. | 12781 | Python |
+| 1129 | [fg-data-profiling](https://github.com/Data-Centric-AI-Community/fg-data-profiling) | 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.  | 13762 | Python |
+| 1130 | [opencode-dynamic-context-](https://github.com/Tarquinen/opencode-dynamic-context-pruning) | Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage | 4532 | TypeScript |
+| 1131 | [QZoneExport](https://github.com/ShunCai/QZoneExport) | QQ空间导出助手，用于备份QQ空间的说说、日志、私密日记、相册、视频、留言板、QQ好友、收藏夹、分享、最近访客为文件，便于迁移与保存 | 1933 | TypeScript |
+| 1132 | [WeClone](https://github.com/xming521/WeClone) | Build a portrait of your life. Assistants that know you better. Clones that sound more like you. | 18443 | Python |
+| 1133 | [awesome-open-source-games](https://github.com/michelpereira/awesome-open-source-games) | Collection of Games that have the source code available on GitHub | 3450 | 无 |
+| 1134 | [skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | 201023 | Python |
+| 1135 | [DSH-Creator](https://github.com/Jackywxsz/DSH-Creator) | Jacky Creator：面向内容创作者的 DeepSeek Harness 本地内容与运营工作台 | 133 | TypeScript |
+| 1136 | [glider](https://github.com/nadoo/glider) | glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features. | 3709 | Go |
+| 1137 | [Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection | 15370 | Python |
+| 1138 | [OpenUtau](https://github.com/openutau/OpenUtau) | Open singing synthesis platform / Open source UTAU successor | 4657 | C# |
+| 1139 | [EasySpider](https://github.com/NaiboWang/EasySpider) | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 | 44806 | JavaScript |
+| 1140 | [kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU. | 12709 | C |
+| 1141 | [indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) | 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。 | 3931 | 无 |
+| 1142 | [ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) | 无 | 3162 | Java |
+| 1143 | [Shadowsocks-Tutorial](https://github.com/zhaoweih/Shadowsocks-Tutorial) | 🐱给小白的Shadowsocks翻墙教程-Easy-to-follow tutorials for beginners on using Shadowsocks to bypass internet restrictions. | 2709 | Shell |
+| 1144 | [FileCodeBox](https://github.com/vastsa/FileCodeBox) | 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files） | 8826 | Python |
+| 1145 | [pythonnet](https://github.com/pythonnet/pythonnet) | Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developer... | 5543 | C# |
+| 1146 | [skills](https://github.com/antfu/skills) | Anthony Fu's curated collection of agent skills. | 6100 | TypeScript |
+| 1147 | [OpenMontage](https://github.com/OpenMontageInc/OpenMontage) | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc... | 83641 | Python |
+| 1148 | [jianhao-travel-planner](https://github.com/awangwang123/jianhao-travel-planner) | 出行路书工作流 skill：联网实查 + 多源交叉验证，产出可核验、能执行的旅行攻略。覆盖吃住行游拍避全维度，附美食情报卡、基准骨架与校验工具，支持一键部署在线版。 | 452 | Python |
+| 1149 | [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. | 32848 | Python |
+| 1150 | [v2ray-core](https://github.com/v2ray/v2ray-core) | A platform for building proxies to bypass network restrictions. | 46906 | Go |
+| 1151 | [WhoShitsonMyC](https://github.com/Kami958/WhoShitsonMyC) | 磁盘空间变化对比轻量小工具；A lightweight disk space change comparison tool.  | 1310 | Python |
+| 1152 | [anything-analyzer](https://github.com/Mouseww/anything-analyzer) | 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE     All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & M... | 3921 | TypeScript |
+| 1153 | [grafanimate](https://github.com/grafana-toolbox/grafanimate) | Animate timeseries data with Grafana. | 61 | Python |
+| 1154 | [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | MCP server to provide Figma layout information to AI coding agents like Cursor | 16323 | TypeScript |
+| 1155 | [skillsgate](https://github.com/skillsgate/skillsgate) | 无 | 1462 | TypeScript |
+| 1156 | [Vb6Tkinter](https://github.com/cdhigh/Vb6Tkinter) | An add-in for VB6 designed for Tkinter (直接使用VB6设计Tkinter GUI界面) | 574 | Visual Basic 6.0 |
+| 1157 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! | 71279 | Jupyter Notebook |
+| 1158 | [fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) | Unmaintained. Use datamodel-code-generator instead. Generates FastAPI apps from OpenAPI files. | 1408 | Python |
+| 1159 | [you-get](https://github.com/soimort/you-get) | :arrow_double_down: Dumb downloader that scrapes the web | 56852 | Python |
+| 1160 | [python-for-android](https://github.com/kivy/python-for-android) | Turn your Python application into an Android APK | 8951 | Python |
+| 1161 | [cose](https://github.com/doocs/cose) | 😃 md 编辑器使用的浏览器扩展，支持一键将文章同步到多个内容平台。 | 782 | JavaScript |
+| 1162 | [wrong-notebook-question-b](https://github.com/margrop/wrong-notebook-question-bank) | 智能错题本共享题库：小学/初中/高中多学科 JSON 题库包与索引 | 11 | Python |
+| 1163 | [Win11Debloat](https://github.com/Raphire/Win11Debloat) | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi... | 63773 | PowerShell |
+| 1164 | [Monogatari](https://github.com/Monogatari/Monogatari) | Monogatari is a simple web visual novel engine, created to bring Visual Novels to the web. | 897 | TypeScript |
+| 1165 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Get 10X more out of Claude Code, Codex or any coding agent | 28833 | Rust |
+| 1166 | [screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) | 81458 | Python |
+| 1167 | [GridFlow](https://github.com/d8349565/GridFlow) | 面向 Windows 桌面端的专业本地表格合并与分析工具：专为日常办公中繁重复杂的多表汇总需求设计，无需编写脚本或复杂公式，通过可视化直观操作，将分散、异构的多份 Excel / CSV 快速合并为规范母表，并直接在本地完成数据清洗、多维汇总统计与图表分析。 | 175 | Rust |
+| 1168 | [deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) | AI deep-research agent that turns any question into a cited report: plans searches, reads real sources, verifies evidence. Self-hosted, multi-provider, Docker-ready. | 2232 | TypeScript |
+| 1169 | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 | 80948 | Python |
+| 1170 | [skills](https://github.com/emilkowalski/skills) | Skills for Designers and Engineers. | 60095 | Markdown |
+| 1171 | [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) | A modern and customizable python UI-library based on Tkinter | 13627 | Python |
+| 1172 | [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。 | 3889 | TypeScript |
+| 1173 | [QQNT_Export](https://github.com/Tealina28/QQNT_Export) | 解密、读取并导出 QQNT 数据库中的聊天记录 | 87 | Python |
+| 1174 | [steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | 乔布斯.skill — Steve Jobs的认知操作系统。6个心智模型 + 8条决策启发式 + 完整表达DNA。由女娲.skill生成。 | 988 | 无 |
+| 1175 | [huasheng_editor](https://github.com/alchaincyf/huasheng_editor) | 花生公众号排版器 | 808 | JavaScript |
+| 1176 | [WebRPA](https://github.com/pmh1314520/WebRPA) | A powerful no-code automation tool. Build workflows via drag-and-drop modules for web scraping, form filling and automated testing.  一款功能强大的自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写任何代码即可实现网页数据采集、表单填写、自动化测试等任务。... | 1919 | Python |
+| 1177 | [LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) | 无 | 9769 | Python |
+| 1178 | [oh-my-wechat](https://github.com/chclt/oh-my-wechat) | 微信备份阅读器 | 671 | TypeScript |
+| 1179 | [163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) | 云音乐歌词获取处理工具【网易云、QQ音乐、汽水音乐】 | 4244 | C# |
+| 1180 | [dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) | Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes. | 6150 | Ruby |
+| 1181 | [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, ... | 45300 | PowerShell |
+| 1182 | [TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 | 33090 | Python |
+| 1183 | [MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) | A knowledge graph server that uses the Model Context Protocol (MCP) to provide structured memory persistence for AI models. | 355 | TypeScript |
+| 1184 | [opentwitter-mcp](https://github.com/6551Team/opentwitter-mcp) | Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking | 1446 | Python |
+| 1185 | [DearPyGui](https://github.com/hoffstadt/DearPyGui) | Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies | 15671 | C++ |
+| 1186 | [miaomiao-notes](https://github.com/onblog/miaomiao-notes) | Miaomiao Notes — a cute, local-first Markdown notes app for macOS, synced through iCloud Drive. 喵喵笔记：一只喵喵的本地 Markdown 笔记应用，通过 iCloud Drive 同步。 | 423 | JavaScript |
+| 1187 | [fish-speech](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS | 33883 | Python |
+| 1188 | [docsify](https://github.com/docsifyjs/docsify) | 🃏 A magical documentation site generator. | 31612 | JavaScript |
+| 1189 | [my-awesomes-collection](https://github.com/yzfly/my-awesomes-collection) | Curated Collection of Awesome Resources Repositories: A comprehensive resource hub featuring the best dev-related projects, applications, and guides from across the GitHub community. | 32 | 无 |
+| 1190 | [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) | This repo includes Claude prompt curation to use Claude better. | 5604 | 无 |
+| 1191 | [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients | 7872 | 无 |
+| 1192 | [pydantic-sqlalchemy](https://github.com/tiangolo/pydantic-sqlalchemy) | Tools to convert SQLAlchemy models to Pydantic models | 1410 | Python |
+| 1193 | [prompts](https://github.com/immersive-translate/prompts) | Prompts for Immersive Translate | 245 | 无 |
+| 1194 | [Adblock4limbo](https://github.com/limbopro/Adblock4limbo) | 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.导航 2.通过 JS/CSS 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91... | 4588 | JavaScript |
+| 1195 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 | 23124 | Java |
+| 1196 | [jsPDF](https://github.com/parallax/jsPDF) | Client-side JavaScript PDF generation for everyone. | 31318 | JavaScript |
+| 1197 | [pentagi](https://github.com/vxcontrol/pentagi) | Fully autonomous AI Agents system capable of performing complex penetration testing tasks | 35112 | Go |
+| 1198 | [rich](https://github.com/Textualize/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. | 57894 | Python |
+| 1199 | [logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) | A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library. | 7874 | HTML |
+| 1200 | [GEOFlow](https://github.com/yaojingang/GEOFlow) | Open-source GEO content engineering and multi-site distribution platform with AI quality inspection, illustrated admin help, hosted sites, browser-assisted publishing, and signed updates. | 4214 | PHP |
+| 1201 | [UserScripts](https://github.com/hoothin/UserScripts) | Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集 | 4386 | JavaScript |
+| 1202 | [surya](https://github.com/datalab-to/surya) | OCR, layout analysis, reading order, table recognition in 90+ languages | 21629 | Python |
+| 1203 | [pdfarranger](https://github.com/pdfarranger/pdfarranger) | Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface. | 6085 | Python |
+| 1204 | [novel](https://github.com/evilwk/novel) | 抓取小说生成 ePub | 11 | Python |
+| 1205 | [jev-engineering-zh](https://github.com/yibie/jev-engineering-zh) | 《Jev 工程学：为 coding agent 而作》完整中文翻译 — 保留原结构与 7 张插图 | 240 | 无 |
+| 1206 | [MuMuAINovel](https://github.com/xiamuceer-j/MuMuAINovel) | 一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事 | 3361 | Python |
+| 1207 | [yara-python](https://github.com/VirusTotal/yara-python) | The Python interface for YARA | 759 | C |
+| 1208 | [hyper-mcp-shell](https://github.com/BigSweetPotatoStudio/hyper-mcp-shell) | 无 | 4 | JavaScript |
+| 1209 | [bootstrap-flask](https://github.com/helloflask/bootstrap-flask) | Bootstrap 4 & 5 helper for your Flask projects. | 1192 | SCSS |
+| 1210 | [hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | 88024 | Python |
+| 1211 | [OpenCodex](https://github.com/RyensX/OpenCodex) | OpenCodex is a middleware layer for Codex/ChatGPT Desktop. It lets you use a phone, tablet, or another computer to access and operate Codex on a target machine through a browser, making it suitable fo... | 735 | JavaScript |
+| 1212 | [CookieCloud](https://github.com/easychen/CookieCloud) | CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports... | 3233 | JavaScript |
+| 1213 | [VideoLingo](https://github.com/Huanshere/VideoLingo) | Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team  Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 | 19402 | Python |
+| 1214 | [GmgnTwitterTgAlert](https://github.com/Tech-Melon/GmgnTwitterTgAlert) | 只要gmgn不倒闭，就能拥有自己的推特追踪器 | 155 | Python |
+| 1215 | [grapesjs](https://github.com/GrapesJS/grapesjs) | Free and Open source Web Builder Framework. Next generation tool for building templates without coding | 26434 | TypeScript |
+| 1216 | [gmgn-skills](https://github.com/GMGNAI/gmgn-skills) | GMGN OpenAPI skills for AI Agent — query tokens, wallets, and market data, and execute on-chain trades across Solana, BSC, and Base. | 744 | Python |
+| 1217 | [pixelfx](https://github.com/patch-gg/pixelfx) | 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own. | 9411 | JavaScript |
+| 1218 | [Bark](https://github.com/Finb/Bark) | Bark is an iOS App which allows you to push custom notifications to your iPhone | 9636 | Swift |
+| 1219 | [ai-avatar-system](https://github.com/PunithVT/ai-avatar-system) | 🎭 AI Avatar / digital human platform — upload a photo, clone a voice, talk to any face in real time with lip-sync video. Open-source, self-hosted. Claude · Whisper · Chatterbox · MuseTalk. | 588 | Python |
+| 1220 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python | 226490 | Python |
+| 1221 | [video-autopilot-kit](https://github.com/Hao0321/video-autopilot-kit) | Fill-in-your-own-data framework for YouTube / short-form video automation: CapCut JSON + ffmpeg tooling + an onboarding questionnaire. Ships with zero private data. | 2368 | Python |
+| 1222 | [BEpusdt](https://github.com/v03413/BEpusdt) | 一款更好用的个人加密货币收款网关 | 2408 | Go |
+| 1223 | [agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) | Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts. | 6011 | Python |
+| 1224 | [HyperChat](https://github.com/BigSweetPotatoStudio/HyperChat) | HyperChat is a Chat client that strives for openness, utilizing APIs from various LLMs to achieve the best Chat experience, as well as implementing productivity tools through the MCP protocol. | 708 | TypeScript |
+| 1225 | [EasyOCR](https://github.com/JaidedAI/EasyOCR) | Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc. | 30176 | Python |
+| 1226 | [python-whydo](https://github.com/chinesehuazhou/python-whydo) | Explore Python's charms by asking WHY questions | 1935 | 无 |
+| 1227 | [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) | ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary. | 6033 | Rust |
+| 1228 | [data](https://github.com/meta-pytorch/data) | A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries. | 1267 | Python |
+| 1229 | [Python](https://github.com/walter201230/Python) | 小白 python 教程 | 28672 | Python |
+| 1230 | [x-tweet-fetcher](https://github.com/ythx-101/x-tweet-fetcher) | Fetch X/Twitter tweets, replies, timelines, search, Lists and X Articles without login or API keys. Python CLI + library for AI agents: FxTwitter / Nitter / browser backends with auto fallback, unifie... | 1017 | Python |
+| 1231 | [BB-Video](https://github.com/BubbleBrainBB/BB-Video) | An agent skill that makes videos in pure code — narrated explainers and product promos in 37 visual styles (whiteboard, ink-wash, shadow puppets, pixel art, isometric worlds, movie trailers, manga, an... | 220 | JavaScript |
+| 1232 | [ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) | LTX-Video Support for ComfyUI | 4290 | Python |
+| 1233 | [binance-skills-hub](https://github.com/binance/binance-skills-hub) | Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto | 1233 | Python |
+| 1234 | [three-gtvbao](https://github.com/norio/three-gtvbao) | GT-VBAO ambient occlusion for three.js WebGPU and WebGL2 (TSL) | 89 | TypeScript |
+| 1235 | [vitepress](https://github.com/vuejs/vitepress) | Vite & Vue powered static site generator. | 18530 | TypeScript |
+| 1236 | [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP. | 13594 | Python |
+| 1237 | [hand-drawn-styles](https://github.com/threerocks/hand-drawn-styles) | Claude Code skill：把内容套进内置手绘画风配方,产出可直接复制的生图提示词。内置儿童涂色/极简线条/蜡笔童涂/吉卜力/小豆人涂鸦 5 种已验证画风。 | 2751 | Python |
+| 1238 | [tesserocr](https://github.com/sirfz/tesserocr) | A Python wrapper for the tesseract-ocr API | 2182 | Python |
+| 1239 | [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | A reliable coding agent for complex software engineering tasks. | 36072 | Go |
+| 1240 | [lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) | Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。 | 7005 | HTML |
+| 1241 | [autoharness](https://github.com/tigerless-labs/autoharness) | Building the self-learning layer next-gen agents will ship with, learning skills from real work. | 10218 | Python |
+| 1242 | [qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) | 🚀 QQ聊天记录、表情包导出工具  自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ  | 6322 | Rust |
+| 1243 | [gitstars](https://github.com/cfour-hi/gitstars) | Github Starred Repositories Manager | 1800 | JavaScript |
+| 1244 | [awesome-gamedev-agent-ski](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) | Make games with your AI coding agent: 79 game-dev skills and a router for Godot, Unity, Unreal, Roblox, three.js, Phaser and 6 more engines. Checked on the real engines. | 11490 | Python |
+| 1245 | [TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | 无 | 18467 | 无 |
+| 1246 | [chatmcp](https://github.com/daodao97/chatmcp) | ChatMCP is an AI chat client implementing the Model Context Protocol (MCP). | 2225 | Dart |
+| 1247 | [awesome-dataviz](https://github.com/hal9ai/awesome-dataviz) | A curated list of awesome data visualization libraries and resources. | 4471 | JavaScript |
+| 1248 | [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。 | 14891 | JavaScript |
+| 1249 | [capsule-render](https://github.com/kyechan99/capsule-render) | 🌈 Dynamic Coloful Image Render | 1860 | TypeScript |
+| 1250 | [free-stockdb](https://github.com/hello245m/free-stockdb) | 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。 | 3205 | HTML |
+| 1251 | [jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) | JupyterLab desktop application, based on Electron. | 4345 | TypeScript |
+| 1252 | [RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) | A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription. | 10262 | Python |
+| 1253 | [GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) | 64273 | Python |
+| 1254 | [simple-jev](https://github.com/featherless-ai/simple-jev) | Turn any open model into a classifier/jev endpoint | 661 | Python |
+| 1255 | [Microsoft-Activation-Scri](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. | 201072 | Batchfile |
+| 1256 | [html-to-pdfmake](https://github.com/Aymkdn/html-to-pdfmake) | This module permits to convert HTML to the PDFMake format | 642 | JavaScript |
+| 1257 | [JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型 | 48637 | Java |
+| 1258 | [awesome-indiehackers](https://github.com/johackim/awesome-indiehackers) | Awesome list about indie hackers | 675 | 无 |
+| 1259 | [GEORank](https://github.com/yaojingang/GEORank) | Open-source GEO ranking and generative engine optimization platform. | 549 | Python |
+| 1260 | [llm-swarm-router](https://github.com/matthewdcage/llm-swarm-router) | Run the LLM Swarm Router on machines to distribute Local Ai to the Swarm - More Machines - MORE SPEED | 27 | Python |
+| 1261 | [videosos](https://github.com/timoncool/videosos) | AI video production in the browser — text-to-video, image-to-video, lip sync, 100+ models. Google Veo 3.1, FLUX, Gemini, Imagen 4. Free, open-source, private. | 1422 | TypeScript |
+| 1262 | [grok2api](https://github.com/chenyme/grok2api) | Multi-account API gateway for Grok Build, Grok Web, and Grok Console | 7914 | Go |
+| 1263 | [highlight.js](https://github.com/highlightjs/highlight.js) | JavaScript syntax highlighter with language auto-detection and zero dependencies. | 25020 | JavaScript |
+| 1264 | [HermesOffice](https://github.com/criptogus/HermesOffice) | Free, open-source AI Office suite (Word, Excel, PowerPoint, PDF, Markdown) — macOS build, one-click install | 640 | TypeScript |
+| 1265 | [awesome-healthcare](https://github.com/kakoni/awesome-healthcare) | Curated list of awesome open source healthcare software, libraries, tools and resources. | 4068 | 无 |
+| 1266 | [Chat2DB](https://github.com/OtterMind/Chat2DB) | Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your o... | 28374 | Java |
+| 1267 | [wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) | :traffic_light:小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具 | 51140 | TypeScript |
+| 1268 | [WAAS](https://github.com/schibsted/WAAS) | Whisper as a Service (GUI and API with queuing for OpenAI Whisper) | 2072 | JavaScript |
+| 1269 | [ChinaStudyFree](https://github.com/tanle-mtr/ChinaStudyFree) | 聪聪学堂 · 四端（Web/桌面/安卓/iOS）+ 四学段（小学/初中/高中/大学）免费公益 AI 学习平台，MIT 开源。免费 EdgeTTS 语音、148 本教材互动课程。 | 215 | TypeScript |
+| 1270 | [moonshine](https://github.com/moonshine-ai/moonshine) | Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces | 11613 | C++ |
+| 1271 | [d3-book](https://github.com/scotthmurray/d3-book) | Code examples for “Interactive Data Visualization for the Web” | 2429 | HTML |
+| 1272 | [litgpt](https://github.com/Lightning-AI/litgpt) | 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale. | 13768 | Python |
+| 1273 | [videos](https://github.com/3b1b/videos) | Code for the manim-generated scenes used in 3blue1brown videos | 11545 | Python |
+| 1274 | [neko-master](https://github.com/foru17/neko-master) | A modern and elegant dashboard for network traffic visualization and analysis. | 4450 | TypeScript |
+| 1275 | [serviette](https://github.com/pathwaycom/serviette) | A no-code RAG server that keeps answers in sync with your documents. Works with 8 vector databases. Built on Pathway. | 58675 | Python |
+| 1276 | [python](https://github.com/flypythoncom/python) | Open-source Python challenge courses — your AI coding agent teaches, verify.py decides when you're done. | 4203 | Python |
+| 1277 | [Halfrost-Field](https://github.com/halfrost/Halfrost-Field) | ✍🏻 Source Code Deep Dives, System Design & Engineering Blogs  Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记  | 13261 | Go |
+| 1278 | [frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | 110820 | Go |
+| 1279 | [SmartGaokaoPastPapers](https://github.com/guorentao/SmartGaokaoPastPapers) | 高考真题智能题库：知识图谱 + 2010-2022 九科真题 2653 道 + 学情诊断与巩固卷 + 试卷下载（含小学 1-6 年级题库） | 1 | Python |
+| 1280 | [KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) | 史上最大规模1.4亿中文知识图谱开源下载 | 5227 | Python |
+| 1281 | [QQHistoryExport](https://github.com/Hakuuyosei/QQHistoryExport) | 安卓设备QQ聊天记录导出，支持图片/视频/音频/引用/文件 大部分消息，支持几乎所有的重要消息类型，支持PDF导出，未来将支持html导出 | 306 | Python |
+| 1282 | [sourcery](https://github.com/sourcery-ai/sourcery) | Instant AI code reviews | 1890 | 无 |
+| 1283 | [Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API) | A CLI tool and an API for fetching data from Twitter for free! | 906 | TypeScript |
+| 1284 | [CheatEngine.Mcp](https://github.com/CheatEngineNet/CheatEngine.Mcp) | Automate Cheat Engine using MCP protocol for use with AI! | 104 | C# |
+| 1285 | [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy. | 41007 | Shell |
+| 1286 | [pedalboard](https://github.com/spotify/pedalboard) | 🎛 🔊 A Python library for audio. | 6516 | C++ |
+| 1287 | [nannou](https://github.com/nannou-org/nannou) | A Creative Coding Framework for Rust. | 6794 | Rust |
+| 1288 | [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | An AI Hedge Fund Team | 64864 | Python |
+| 1289 | [meme-radar](https://github.com/nhovongoc0-max/meme-radar) | Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具 | 579 | JavaScript |
+| 1290 | [shuohao-skills](https://github.com/eternityspring/shuohao-skills) | AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜  Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex. | 7188 | JavaScript |
+| 1291 | [textual](https://github.com/Textualize/textual) | The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. | 37747 | Python |
+| 1292 | [python-dotenv](https://github.com/theskumar/python-dotenv) | Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles. | 8920 | Python |
+| 1293 | [yao-meta-skill](https://github.com/yaojingang/yao-meta-skill) | YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills. | 2739 | Python |
+| 1294 | [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | A collection of GPT system prompts and various prompt injection/leaking knowledge. | 10867 | HTML |
+| 1295 | [llm-space](https://github.com/deer-flow/llm-space) | A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents. | 2157 | TypeScript |
+| 1296 | [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | See, hear, and interact on your local devices. | 27205 | Python |
+| 1297 | [VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning | 43013 | Python |
+| 1298 | [picx](https://github.com/XPoet/picx) | 🏞️ PicX，免费、安全的一站式在线图片处理平台。 | 5097 | TypeScript |
+| 1299 | [VirtualApp](https://github.com/asLody/VirtualApp) | Virtual Engine for Android(Support 14.0 in business version) | 11144 | Java |
+| 1300 | [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) | 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。 | 13189 | TypeScript |
+| 1301 | [ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) | ChatGPT DAN, Jailbreaks prompt | 13398 | 无 |
+| 1302 | [pelican](https://github.com/getpelican/pelican) | Static site generator that supports Markdown and reST syntax. Powered by Python. | 13382 | Python |
+| 1303 | [agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a... | 170429 | Shell |
+| 1304 | [pydoll](https://github.com/autoscrape-labs/pydoll) | Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.  | 7154 | HTML |
+| 1305 | [pm-skills](https://github.com/phuryn/pm-skills) | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. | 28340 | 无 |
+| 1306 | [Qwen3-TTS-Pinokio](https://github.com/SUP3RMASS1VE/Qwen3-TTS-Pinokio) | Qwen3-TTS is an open-source series of TTS models developed by the Qwen team | 25 | JavaScript |
+| 1307 | [re0-web](https://github.com/re-zero-khis/re0-web) | Re0：从零开始的异世界生活 （WEB版） | 2031 | HTML |
+| 1308 | [pywinauto](https://github.com/pywinauto/pywinauto) | Windows GUI Automation with Python (based on text properties) | 6471 | Python |
+| 1309 | [PromptFill](https://github.com/TanShilongMario/PromptFill) | designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help users quickly build, manage, and iterate complex prompts through a visual "fill-in-the-blank" interaction.  通过可视化的"填空"交... | 1957 | JavaScript |
+| 1310 | [AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) | AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它... | 4657 | Python |
+| 1311 | [V2rayU](https://github.com/yanue/V2rayU) | V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等 | 20204 | 无 |
+| 1312 | [armory](https://github.com/armory3d/armory) | 3D Engine with Blender Integration | 3374 | C++ |
+| 1313 | [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | real time face swap and one-click video deepfake with only a single image | 98957 | Python |
+| 1314 | [vue-admin-better](https://github.com/zxwk1998/vue-admin-better) | 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro  | 18935 | Vue |
+| 1315 | [remake](https://github.com/VickScarlet/remake) | やり直すんだ。そして、次はうまくやる。 | 10444 | TypeScript |
+| 1316 | [pyodbc](https://github.com/mkleehammer/pyodbc) | Python ODBC bridge | 3088 | C++ |
+| 1317 | [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3) | Vue3+Vite+Ts+Pinia+....一个快速开发vue3的模板框架，快速搭建前台应用 | 1932 | Vue |
+| 1318 | [penmentor](https://github.com/AbdullahAlhariri/penmentor) | AI mentor that corrects your written math visually with local harnesses. | 241 | Python |
+| 1319 | [BabelDOC](https://github.com/funstory-ai/BabelDOC) | Yet Another Document Translator | 9909 | Rust |
+| 1320 | [ultrajson](https://github.com/ultrajson/ultrajson) | Ultra fast JSON decoder and encoder written in C with Python bindings | 4501 | C++ |
+| 1321 | [OpenCLI](https://github.com/jackwener/OpenCLI) | Make Any Website into CLI & Use your logged-in browser by AI agent.  | 31310 | JavaScript |
+| 1322 | [coding-interview-universi](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | 365104 | 无 |
+| 1323 | [Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) | 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts. | 3731 | Jupyter Notebook |
+| 1324 | [awesome-ai-tools](https://github.com/pingan8787/awesome-ai-tools) | Finding the AI tools you need! | 372 | 无 |
+| 1325 | [HanLP](https://github.com/hankcs/HanLP) | Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification | 36545 | Python |
+| 1326 | [teacher-to-skills](https://github.com/JuneYaooo/teacher-to-skills) | Distill your teacher into a source-backed Skill that teaches you until you can work on your own. | 494 | Python |
+| 1327 | [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all | 92504 | Jupyter Notebook |
+| 1328 | [markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | 198608 | Python |
+| 1329 | [exo](https://github.com/exo-explore/exo) | Run frontier AI locally. | 48626 | Python |
+| 1330 | [python-patterns](https://github.com/faif/python-patterns) | A collection of design patterns/idioms in Python | 43120 | Python |
+| 1331 | [code2prompt](https://github.com/mufeedvh/code2prompt) | A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. | 7769 | Rust |
+| 1332 | [Ciphey](https://github.com/bee-san/Ciphey) | ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡ | 21800 | Rust |
+| 1333 | [opcode](https://github.com/winfunc/opcode) | A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. | 22467 | TypeScript |
+| 1334 | [Geogebra-WebChat](https://github.com/liangdabiao/Geogebra-WebChat) | 发布教育领域的AI新产品：一句话搞定数学几何绘图GeoGebra。Geogebra-WebChat只保留核心链路：**聊天 + AI + GeoGebra 画图**。简单普通 Web 应用，但是功能齐全。 | 52 | JavaScript |
+| 1335 | [winlibs_mingw](https://github.com/brechtsanders/winlibs_mingw) | winlibs standalone build of GCC compiler and MinGW-w64 | 1387 | 无 |
+| 1336 | [dayjs](https://github.com/iamkun/dayjs) | ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API | 48640 | JavaScript |
+| 1337 | [gemini-skill](https://github.com/WJZ-P/gemini-skill) | gemini drawing MCP & skill through browser, can be used in openclaw or any agent that supports MCP. Gemini画图 MCP和sill，支持龙虾或任何agent使用٩(๑>◡<๑)۶ | 835 | JavaScript |
+| 1338 | [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) | 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~ | 16632 | TypeScript |
+| 1339 | [native-subtitle-quote-ima](https://github.com/chengyi-ai/native-subtitle-quote-image) | 保留视频内嵌字幕，精确取帧并生成 3:4 社交长图的 Agent Skill | 3008 | Python |
+| 1340 | [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | 141665 | Python |
+| 1341 | [chaojifeng-video-design](https://github.com/mileson/chaojifeng-video-design) | 超级峰的视频设计方法论｜面向 AI Agent 的视频主线、分镜、声画节奏、制作与交付验收 Skill | 561 | HTML |
+| 1342 | [anidoodle](https://github.com/alexgreensh/anidoodle) | Art and animation, written as code. Illustrations, loops, interactive web art, launch-videos and scored films in dozens of styles, identical on every render. | 2080 | TypeScript |
+| 1343 | [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS  聊天辅助决策工具：先看懂对方... | 8525 | Kotlin |
+| 1344 | [django-channels-chat](https://github.com/narrowfail/django-channels-chat) | A simple Django-Channels web chat! | 706 | Python |
+| 1345 | [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap) | Modern themes for Tkinter.  Sleek, responsive styles inspired by Bootstrap. Includes ready-to-use widgets, 30+ themes, and tools for building beautiful, cross-platform desktop apps with ease. | 2666 | Python |
+| 1346 | [REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program | 4435 | Batchfile |
+| 1347 | [pyWhat](https://github.com/bee-san/pyWhat) | 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️ | 7361 | Python |
+| 1348 | [Grok-Mirror](https://github.com/dairoot/Grok-Mirror) | 🚀 一键部署个人的 Grok 镜像站 | 912 | Shell |
+| 1349 | [termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. | 65775 | Java |
+| 1350 | [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers | 49653 | TypeScript |
+| 1351 | [easydiffusion](https://github.com/easydiffusion/easydiffusion) | An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and ... | 10486 | JavaScript |
+| 1352 | [openui](https://github.com/wandb/openui) | OpenUI let's you describe UI using your imagination, then see it rendered live. | 22773 | TypeScript |
+| 1353 | [fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) | MCP server for fetch web page content using Playwright headless browser. | 1087 | TypeScript |
+| 1354 | [AionUi](https://github.com/iOfficeAI/AionUi) | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent  Customize your assistants  Team them up｜Star if you like it! | 34526 | TypeScript |
+| 1355 | [wiki-graph](https://github.com/oomol-lab/wiki-graph) | distill any book down to its spine | 430 | TypeScript |
+| 1356 | [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) | :beers: awesome cheatsheet | 8709 | Python |
+| 1357 | [AutoEq](https://github.com/jaakkopasanen/AutoEq) | Automatic headphone equalization from frequency responses | 16506 | Python |
+| 1358 | [Claw3D](https://github.com/iamlukethedev/Claw3D) | Claw3D is an open source 3D engine built on OpenClaw for creating games, simulations, and high-performance 3D applications. | 2493 | TypeScript |
+| 1359 | [agentskills](https://github.com/agentskills/agentskills) | Specification and documentation for Agent Skills | 27664 | Python |
+| 1360 | [nofx](https://github.com/NoFxAiOS/nofx) | Your AI trading terminal assistant for US stocks, commodities, forex, and crypto. | 13353 | Go |
+| 1361 | [AIMedia](https://github.com/Anning01/AIMedia) | AIMedia 是一款自动抓取热点，AI创作文章，自动发布的集成软件。支持头条，小红书，公众号等 | 2631 | TypeScript |
+| 1362 | [RWKV-LM](https://github.com/BlinkDL/RWKV-LM) | RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a... | 14796 | Python |
+| 1363 | [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) | BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili  YouTube  Tweet丨TikTok丨Dropbox丨Google Drive丨Local files  Websites丨Podcasts  Meetings  Lectures, etc. 音视频内容... | 6293 | TypeScript |
+| 1364 | [sd-webui-prompt-all-in-on](https://github.com/Physton/sd-webui-prompt-all-in-one) | This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides auto... | 3240 | Python |
+| 1365 | [GSAP](https://github.com/greensock/GSAP) | GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web | 31315 | JavaScript |
+| 1366 | [NodeToCode](https://github.com/protospatial/NodeToCode) | Translate Unreal Engine Blueprints to C++ in seconds. Not hours. | 786 | C++ |
+| 1367 | [dev-browser](https://github.com/SawyerHood/dev-browser) | A Claude Skill to give your agent the ability to use a web browser | 6758 | TypeScript |
+| 1368 | [pybuilder](https://github.com/pybuilder/pybuilder) | Software build automation tool for Python. | 2077 | Python |
+| 1369 | [awesome-vue](https://github.com/vuejs/awesome-vue) | 🎉 A curated list of awesome things related to Vue.js | 73457 | 无 |
+| 1370 | [easy-writing](https://github.com/yilujian/easy-writing) | 易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。 | 984 | Vue |
+| 1371 | [AutoJs6](https://github.com/SuperMonster003/AutoJs6) | 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目) | 6702 | Kotlin |
+| 1372 | [monkey](https://github.com/guardicore/monkey) | Infection Monkey - An open-source adversary emulation platform | 7129 | Python |
+| 1373 | [form-create](https://github.com/xaboy/form-create) | :fire::fire::fire: 强大的低代码动态表单组件，通过 JSON 数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。 | 7121 | JavaScript |
+| 1374 | [Pythonista-Tools](https://github.com/Pythonista-Tools/Pythonista-Tools) | Gathering code and links to projects specially developed for Pythonista for iOS. | 1163 | 无 |
+| 1375 | [xhs_ai_publisher](https://github.com/BetaStreetOmnis/xhs_ai_publisher) | AI-powered Xiaohongshu/Rednote content creation and publishing tool with PyQt desktop UI, FastAPI service, login-state reuse, preview publish, and automated browser workflows. | 2100 | Python |
+| 1376 | [scylla](https://github.com/MikeChongCan/scylla) | Intelligent proxy pool for Humans™ to extract content from the internet and build your own Large Language Models in this new AI era | 4020 | Python |
+| 1377 | [magicgui](https://github.com/pyapp-kit/magicgui) | build GUIs from type annotations | 510 | Python |
+| 1378 | [anime](https://github.com/juliangarnier/anime) | JavaScript animation engine | 75112 | JavaScript |
+| 1379 | [whisper-plus](https://github.com/kadirnar/whisper-plus) | WhisperPlus: Faster, Smarter, and More Capable 🚀 | 1944 | Python |
+| 1380 | [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) | Python GUIs for Humans! Create any GUI simple or complicated in a way that's intuitive.  Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into a simple... | 13825 | Python |
+| 1381 | [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) | Socket.IO integration for Flask applications. | 5505 | Python |
+| 1382 | [caz](https://github.com/zce/caz) | A simple yet powerful template-based Scaffolding tools. | 2484 | TypeScript |
+| 1383 | [LTX-Video](https://github.com/Lightricks/LTX-Video) | Official repository for LTX-Video | 11500 | Python |
+| 1384 | [requests](https://github.com/psf/requests) | A simple, yet elegant, HTTP library. | 54773 | Python |
+| 1385 | [FofaMap](https://github.com/asaotomo/FofaMap) | 证据驱动的 AI 资产测绘与安全研判工具。以自然语言串联资产发现、AI 反思、授权验证与报告交付，将 FOFA、Nuclei 与 AI 助手融入同一工作流。原生支持 CLI / MCP / Skill / REST API。 | 770 | Python |
+| 1386 | [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) | A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm... | 6506 | TypeScript |
+| 1387 | [diagrams](https://github.com/mingrammer/diagrams) | :art: Diagram as Code for prototyping cloud system architectures | 42834 | Python |
+| 1388 | [refly](https://github.com/refly-ai/refly) | The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are inf... | 7566 | TypeScript |
+| 1389 | [OpenManus](https://github.com/FoundationAgents/OpenManus) | No fortress, purely open ground.  OpenManus is Coming. | 59045 | Python |
+| 1390 | [WatermarkRemover-AI](https://github.com/D-Ogi/WatermarkRemover-AI) | AI-Powered Watermark Remover using Florence-2 and LaMA: Remove watermarks from images and videos, including AI-generated content from Sora, Runway, and others. Features a modern PyWebview GUI. | 2168 | Python |
+| 1391 | [ECDICT](https://github.com/skywind3000/ECDICT) | Free English to Chinese Dictionary Database | 8680 | Python |
+| 1392 | [FDE-the-Guidance-Book-of-](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） | 5685 | 无 |
+| 1393 | [QQDecrypt](https://github.com/QQBackup/QQDecrypt) | 解密并导出 PCQQ / QQ NT 等软件的聊天记录数据库的教程网站 | 247 | 无 |
+| 1394 | [harness2](https://github.com/google-research/harness2) | 无 | 25336 | Python |
+| 1395 | [crm](https://github.com/trycompai/crm) | Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM. | 12295 | TypeScript |
+| 1396 | [flask-wtf](https://github.com/pallets-eco/flask-wtf) | Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration. | 1509 | Python |
+| 1397 | [aci](https://github.com/aipotheosis-labs/aci) | ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps. | 4944 | Python |
+| 1398 | [looseleaf](https://github.com/kevintngo/looseleaf) | shadcn/ui, drawn by hand: 123 accessible React components that look drawn on paper, with a shadcn registry. | 766 | TypeScript |
+| 1399 | [yichen-skills](https://github.com/mcncarl/yichen-skills) | 无 | 5411 | Python |
+| 1400 | [wechat-assistant](https://github.com/yzqzy/wechat-assistant) | 微信助手，支持群发消息、定时任务、消息防撤回等功能 | 741 | 无 |
+| 1401 | [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) | A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again. | 8175 | Python |
+| 1402 | [YuE](https://github.com/multimodal-art-projection/YuE) | YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. | 13761 | Python |
+| 1403 | [neo-chat](https://github.com/u14app/neo-chat) | A local-first AI chat workspace for models, agents, skills, plugins, search, RAG, voice, memory, and artifacts. | 1884 | TypeScript |
+| 1404 | [any-agent](https://github.com/mozilla-ai/any-agent) | A single interface to use and evaluate different agent frameworks  | 1262 | Python |
+| 1405 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. | 191440 | Python |
+| 1406 | [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series (2 published editions) on the JS language. | 184843 | 无 |
+| 1407 | [autoresearch](https://github.com/uditgoenka/autoresearch) | Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever. | 6871 | Shell |
+| 1408 | [digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy … | 2223 | TypeScript |
+| 1409 | [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers | 82222 | Python |
+| 1410 | [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The essential checklist for modern web development, for humans and AI agents | 74831 | MDX |
+| 1411 | [91Writing](https://github.com/ponysb/91Writing) | 一个基于 Vue 3 + Element Plus 的智能Ai小说创作工具，集成多种 AI 模型，助力作者高效创作 | 1603 | Vue |
+| 1412 | [vscodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | 34285 | Shell |
+| 1413 | [UFO](https://github.com/microsoft/UFO) | UFO³: Weaving the Digital Agent Galaxy | 10242 | Python |
+| 1414 | [videoflow](https://github.com/videoflow/videoflow) | Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment. | 1045 | Python |
+| 1415 | [web3.py](https://github.com/ApeWorX/web3.py) | A python interface for interacting with the Ethereum blockchain and ecosystem. | 5542 | Python |
+| 1416 | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF | 82979 | Python |
+| 1417 | [flask](https://github.com/pallets/flask) | The Python micro framework for building web applications. | 75298 | Python |
+| 1418 | [awesome-python](https://github.com/uhub/awesome-python) | A curated list of awesome Python frameworks, libraries and software. | 1201 | 无 |
+| 1419 | [SuperSQLInjection](https://github.com/shack2/SuperSQLInjection) | 超级SQL注入工具（SSQLInjection）是一款基于HTTP协议自组包的SQL注入工具支持各种类型的SQL注入，支持HTTPS模式注入；支持以盲注、错误显示、Union注入等方式来获取数据；支持常见数据库，可以采用自动化模式和手动模式，全新V2版本，包含命令行版本，桌面端版本，ai调用技能包。  | 1275 | C |
+| 1420 | [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) | 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对 | 8277 | HTML |
+| 1421 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | 30483 | HTML |
+| 1422 | [SNETCracker](https://github.com/shack2/SNETCracker) | 超级弱口令检查工具是一款Windows平台的弱口令审计工具，支持批量多线程检查，可快速发现弱密码、弱口令账号，密码支持和用户名结合进行检查，大大提高成功率，支持自定义服务端口和字典。 | 2761 | C# |
+| 1423 | [ccNexus](https://github.com/lich0821/ccNexus) | Intelligent API gateway for Claude Code and Codex CLI - rotate endpoints, monitor usage, and seamlessly integrate OpenAI, Gemini, and other platforms. | 964 | Go |
+| 1424 | [AI-reads-books-page-by-pa](https://github.com/echohive42/AI-reads-books-page-by-page) | AI reads books: Page-by-Page PDF Knowledge Extractor & Summarizer. script performs an intelligent page-by-page analysis of PDF books, methodically extracting knowledge points and generating progressiv... | 3469 | Python |
+| 1425 | [a-picture-is-worth-a-1000](https://github.com/girliemac/a-picture-is-worth-a-1000-words) | I am trying to describe complex matters in simple doodles! | 11400 | 无 |
+| 1426 | [weekly](https://github.com/howie6879/weekly) | 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。 | 1044 | Python |
+| 1427 | [ruia](https://github.com/howie6879/ruia) | Async Python 3.6+ web scraping micro-framework based on asyncio | 1737 | Python |
+| 1428 | [magic_google](https://github.com/howie6879/magic_google) | Google search results crawler, get google search results that you need | 400 | Python |
+| 1429 | [asciichart](https://github.com/kroitor/asciichart) | Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies | 2109 | Python |
+| 1430 | [art](https://github.com/sepandhaghighi/art) | 🎨 ASCII art library for Python | 2519 | Python |
+| 1431 | [prompt-layer-library](https://github.com/MagnivOrg/prompt-layer-library) | 🍰 PromptLayer - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions. | 791 | Python |
+| 1432 | [faraday](https://github.com/infobyte/faraday) | Open-source and AI-powered cybersecurity tools for offensive security, vulnerability management, and autonomous pentesting. Built by hackers in Latin America, used worldwide. | 6890 | Python |
+| 1433 | [MultiWeChatManager](https://github.com/wfql1024/MultiWeChatManager) | 懒得点？懒得扫码？那就交给它！🛠️  这是一款能管理微信、企业微信、QQ等平台多开及免扫码登录的自动化管理工具，支持 多号一键登录、全局多开、自启动登录、防撤回 等功能，是让你省心的好工具！🚀  | 572 | Java |
+| 1434 | [Qv2ray](https://github.com/Qv2ray/Qv2ray) | :star: Linux / Windows / macOS 跨平台 V2Ray 客户端  支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5  使用 C++ / Qt 开发  可拓展插件式设计 :star: | 16858 | C++ |
+| 1435 | [WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding) | WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval. | 1836 | Python |
+| 1436 | [python-office](https://github.com/CoderWanFeng/python-office) | pip install python-office 自动化办公专用库 | 1374 | Python |
+| 1437 | [continuous-claude](https://github.com/AnandChowdhary/continuous-claude) | 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging | 1389 | Shell |
+| 1438 | [cult-ui](https://github.com/nolly-studio/cult-ui) | Animated components for design engineers. 150+ free shadcn/ui components, built with Tailwind CSS and Motion. MIT licensed. | 7708 | TypeScript |
+| 1439 | [urldb](https://github.com/ctwj/urldb) | 一个现代化的网盘资源数据库，支持多网盘自动化转存分享，支持百度网盘，阿里云盘，夸克网盘， 天翼云盘，迅雷云盘，123云盘，115网盘，UC网盘  | 496 | Go |
+| 1440 | [yagooglesearch](https://github.com/opsdisk/yagooglesearch) | Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches. | 292 | Python |
+| 1441 | [dayu_widgets](https://github.com/phenom-films/dayu_widgets) | UI components library for PySide | 500 | Python |
+| 1442 | [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. | 129220 | 无 |
+| 1443 | [spleeter](https://github.com/deezer/spleeter) | Deezer source separation library including pretrained models. | 28542 | Python |
+| 1444 | [SkyAR](https://github.com/jiupinjia/SkyAR) | Official Pytorch implementation of the preprint paper "Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos", in arXiv:2010.11800. | 2028 | Python |
+| 1445 | [fintwit-bot](https://github.com/StephanAkkerman/fintwit-bot) |  FinTwit-Bot is a Discord bot designed to track and analyze financial markets by pulling data from platforms like Twitter, Reddit, and Binance. It features customizable tools for sentiment analysis, m... | 168 | Python |
+| 1446 | [typecho](https://github.com/typecho/typecho) | A PHP Blogging Platform. Simple and Powerful. | 12464 | PHP |
+| 1447 | [MultiApp](https://github.com/WaxMoon/MultiApp) | A customizable virtual Android container/一款可定制的虚拟安卓容器 | 1007 | Kotlin |
+| 1448 | [pyprobml](https://github.com/probml/pyprobml) | Python code for "Probabilistic Machine learning" book by Kevin Murphy | 7194 | Jupyter Notebook |
 | 1449 | [console-chat-gpt](https://github.com/amidabuddha/console-chat-gpt) | Python CLI for AI Chat with MCP support | 157 | Python |
-| 1450 | [3d-model-anything](https://github.com/wesbos/3d-model-anything) | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser. | 3145 | Swift |
+| 1450 | [3d-model-anything](https://github.com/wesbos/3d-model-anything) | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser. | 3149 | Swift |
 | 1451 | [sqlcipher](https://github.com/sqlcipher/sqlcipher) | SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features. | 7336 | C |
 | 1452 | [youdaonote-pull](https://github.com/DeppWang/youdaonote-pull) | 📝 一个一键导出 / 备份「有道云笔记」所有笔记的 Python 脚本。 A Python script to export/backup all the notes of the "Youdao Note". | 1869 | Python |
-| 1453 | [learning-english](https://github.com/knowledgefxg/learning-english) | 精选优质英语学习资源合集，专注于听说读写等核心技能的提升。包含语法、词汇和媒体资源，助您更好地学习英语。 | 5098 | 无 |
-| 1454 | [DrissionPage](https://github.com/g1879/DrissionPage) | Python based web automation tool. Powerful and elegant. | 12595 | Python |
+| 1453 | [learning-english](https://github.com/knowledgefxg/learning-english) | 精选优质英语学习资源合集，专注于听说读写等核心技能的提升。包含语法、词汇和媒体资源，助您更好地学习英语。 | 5100 | 无 |
+| 1454 | [DrissionPage](https://github.com/g1879/DrissionPage) | Python based web automation tool. Powerful and elegant. | 12596 | Python |
 | 1455 | [WeChatPYAPI](https://github.com/mrsanshui/WeChatPYAPI) | 基于微信PC端的Python接口，开发者可通过Python轻松调用。实现微信机器人、群管理等强大的功能！3.9.10.19、4.0、4.x、x64、微信hook、微信接口 | 1088 | Python |
 | 1456 | [video-maker](https://github.com/filipedeschamps/video-maker) | Projeto open source para fazer vídeos automatizados | 2498 | JavaScript |
 | 1457 | [mitan](https://github.com/kkbo8005/mitan) | 密探渗透测试工具包含资产信息收集，子域名爆破，搜索语法，资产测绘（聚合测绘，FO FA，Hunter，Quake,Zoomeye,DayDayMap,censys,shodan, 零零信安），指纹识别，敏感信息采集，文件扫描、端口扫描、弱口令破解、jwt密钥爆破、Sessionkey,heapdump, 微信小程序，密码本，随机用户，社工字典,AI渗透（MCP、代码审计）等功能 | 2185 | 无 |
 | 1458 | [guietta](https://github.com/alfiopuglisi/guietta) | 无 | 1952 | Python |
 | 1459 | [root-word-animation](https://github.com/dongtaowei54-sys/root-word-animation) | 英语词根记忆短视频生成器：一条线 + 一颗球，把词根演成 9:16 记忆短片（design table → SVG 动画 → edge-tts → 逐帧渲染 → 五道校验） | 53 | HTML |
 | 1460 | [shadcn-themer](https://github.com/miketromba/shadcn-themer) | Shadcn Themer is a web application that lets you to create, customize, and share themes for shadcn/ui | 327 | TypeScript |
-| 1461 | [CAD-MCP](https://github.com/daobataotie/CAD-MCP) | CAD MCP Server | 739 | Python |
-| 1462 | [TRELLIS](https://github.com/microsoft/TRELLIS) | Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Spotlight). | 14405 | Python |
+| 1461 | [CAD-MCP](https://github.com/daobataotie/CAD-MCP) | CAD MCP Server | 741 | Python |
+| 1462 | [TRELLIS](https://github.com/microsoft/TRELLIS) | Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Spotlight). | 14410 | Python |
 | 1463 | [OneDragon](https://github.com/possib1e/OneDragon) | OneDragon 安全圈一条龙服务，全自动化挖洞，助力挖SRC的赏金猎人白帽子，一键实现子域名扫描，全端口扫描，目录扫描，漏洞扫描。 | 257 | Python |
-| 1464 | [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers | 126637 | 无 |
+| 1464 | [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers | 126674 | 无 |
 | 1465 | [Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN) | Python最佳实践指南。 The chinese translation of "Hitchhiker's Guide to Python". | 4466 | Batchfile |
-| 1466 | [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 中文小黑怪诞正文配图生成 Skill  16:9 白底手绘  少量红橙蓝批注  Codex Skill | 13360 | 无 |
+| 1466 | [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 中文小黑怪诞正文配图生成 Skill  16:9 白底手绘  少量红橙蓝批注  Codex Skill | 13365 | 无 |
 | 1467 | [tmall-miao](https://github.com/MonsterNone/tmall-miao) | 喵币助手：双十一天猫（淘宝）、京东任务一键完成。电脑版，支持Android和HarmonyOS Next | 4057 | Python |
 | 1468 | [AIForge](https://github.com/iniwap/AIForge) | 🚀 智能意图自适应执行引擎，只需一句话，让AI帮你搞定想做的事（数据分析与处理、高时效性内容创作、最新信息获取、数据可视化、系统交互、自动化工作流、代码开发等) | 62 | Python |
 | 1469 | [kui](https://github.com/abersheeran/kui) | An easy-to-use web framework. Supports both WSGI and ASGI modes. Gevent or asyncio, this is the question. | 297 | Python |
 | 1470 | [Software-planning-mcp](https://github.com/NightTrek/Software-planning-mcp) | An experiment in software planning using MCP | 399 | TypeScript |
-| 1471 | [tvbox](https://github.com/hl128k/tvbox) | 一个域名替换工具 | 817 | Python |
+| 1471 | [tvbox](https://github.com/hl128k/tvbox) | 一个域名替换工具 | 816 | Python |
 | 1472 | [hexo](https://github.com/hexojs/hexo) | A fast, simple & powerful blog framework, powered by Node.js. | 41781 | TypeScript |
 | 1473 | [OpenCursor](https://github.com/PawanOsman/OpenCursor) | Open-source Cursor-like AI coding agent for VS Code - agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support | 6050 | TypeScript |
-| 1474 | [DigUp](https://github.com/ARahim3/DigUp) | Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2. | 6552 | Swift |
+| 1474 | [DigUp](https://github.com/ARahim3/DigUp) | Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2. | 6558 | Swift |
 | 1475 | [kivy-ios](https://github.com/kivy/kivy-ios) | Toolchain for compiling Python / Kivy / other libraries for iOS | 855 | Python |
 | 1476 | [forsaken-mail](https://github.com/denghongcai/forsaken-mail) | a self-hosted disposable mail service | 1548 | TypeScript |
-| 1477 | [AI_Animation](https://github.com/Unclecheng-li/AI_Animation) | 本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。 | 1860 | HTML |
+| 1477 | [AI_Animation](https://github.com/Unclecheng-li/AI_Animation) | 本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。 | 1863 | HTML |
 | 1478 | [pyecharts](https://github.com/pyecharts/pyecharts) | 🎨 Python Echarts Plotting Library | 15781 | Python |
 | 1479 | [G4W](https://github.com/MoFrom-FG/G4W) | 运行在 Windows、Linux通过微信长期陪伴和执行任务的个人 AI 总管。 | 35 | Python |
 | 1480 | [cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) | auto sign cursor | 9707 | Python |
-| 1481 | [escrcpy](https://github.com/viarotel-org/escrcpy) | 📱 Display and control your Android device graphically with scrcpy. | 12482 | JavaScript |
-| 1482 | [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 所有小初高、大学PDF教材。 | 85102 | 无 |
-| 1483 | [gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally | 4972 | C |
+| 1481 | [escrcpy](https://github.com/viarotel-org/escrcpy) | 📱 Display and control your Android device graphically with scrcpy. | 12484 | JavaScript |
+| 1482 | [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 所有小初高、大学PDF教材。 | 85110 | 无 |
+| 1483 | [gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally | 4979 | C |
 | 1484 | [stash](https://github.com/ywangd/stash) | StaSh - Shell for Pythonista | 2001 | Python |
 | 1485 | [node-twitter-api-v2](https://github.com/plhery/node-twitter-api-v2) | Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js. | 1555 | TypeScript |
 | 1486 | [javascript-cheatsheet](https://github.com/wilfredinni/javascript-cheatsheet) | All-inclusive Javascript cheatsheet, Playground, and Visualization | 563 | TypeScript |
@@ -1491,135 +1491,135 @@
 | 1488 | [MNBVC](https://github.com/esbatmop/MNBVC) | MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。 | 4314 | 无 |
 | 1489 | [cdn](https://github.com/CoinTool-App/cdn) | cointool-cdn | 126 | HTML |
 | 1490 | [pysilk](https://github.com/synodriver/pysilk) | stream encoder/decoder for silk and pcm | 27 | Python |
-| 1491 | [kid-papercraft](https://github.com/kaomei/kid-papercraft) | Turn any child's birthday into a magical 30-second stop-motion origami video with popular animation heroes and Gemini Omni Flash. | 276 | 无 |
-| 1492 | [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | A Patch for GIMP 3+ for Photoshop Users | 18592 | Python |
+| 1491 | [kid-papercraft](https://github.com/kaomei/kid-papercraft) | Turn any child's birthday into a magical 30-second stop-motion origami video with popular animation heroes and Gemini Omni Flash. | 277 | 无 |
+| 1492 | [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | A Patch for GIMP 3+ for Photoshop Users | 18597 | Python |
 | 1493 | [tomd](https://github.com/elliotgao2/tomd) | Convert HTML to Markdown. | 529 | Python |
-| 1494 | [NarratoAI](https://github.com/linyqh/NarratoAI) | 利用 AI 大模型，一键解说并剪辑视频 | 11942 | Python |
-| 1495 | [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) | Proxy server to bypass Cloudflare protection | 16322 | Python |
-| 1496 | [MultiPost-Extension](https://github.com/leaperone/MultiPost-Extension) | A browser extension that helps users publish content to multiple social media platforms with one click. | 3949 | TypeScript |
+| 1494 | [NarratoAI](https://github.com/linyqh/NarratoAI) | 利用 AI 大模型，一键解说并剪辑视频 | 11943 | Python |
+| 1495 | [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) | Proxy server to bypass Cloudflare protection | 16326 | Python |
+| 1496 | [MultiPost-Extension](https://github.com/leaperone/MultiPost-Extension) | A browser extension that helps users publish content to multiple social media platforms with one click. | 3950 | TypeScript |
 | 1497 | [Tulpa](https://github.com/fumingyang2004/Tulpa) | 使用MCP，让你几乎所有的Agent访问QQ/微信/B站，甚至亲自下场水群和发消息！ | 547 | Python |
 | 1498 | [feedgrab](https://github.com/iBigQiang/feedgrab) | Universal content grabber — fetch, normalize, and digest content from 7+ platforms (WeChat, XHS, X/Twitter, YouTube, Bilibili, Telegram, RSS) | 625 | Python |
-| 1499 | [inkos](https://github.com/Narcooo/inkos) | Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content | 11445 | TypeScript |
-| 1500 | [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) | 100-Days-Of-ML-Code中文版 | 22234 | Python |
-| 1501 | [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀  | 62854 | Shell |
+| 1499 | [inkos](https://github.com/Narcooo/inkos) | Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content | 11459 | TypeScript |
+| 1500 | [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) | 100-Days-Of-ML-Code中文版 | 22235 | Python |
+| 1501 | [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀  | 62853 | Shell |
 | 1502 | [heurist-agent-framework](https://github.com/heurist-network/heurist-agent-framework) | A flexible multi-interface AI agent framework for building agents with reasoning, tool use, memory, deep research, blockchain interaction, MCP, and agents-as-a-service. | 827 | Python |
 | 1503 | [alphaclaw](https://github.com/chrysb/alphaclaw) | The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required. | 1488 | JavaScript |
-| 1504 | [stagehand-python](https://github.com/browserbase/stagehand-python) | ⚠️ No longer maintained  The official Stagehand Python source has moved here. Documentation can be found here  This version of the Stagehand Python SDK is no longer maintained and will not receive upd... | 515 | Python |
-| 1505 | [Hi3Dv1.0](https://github.com/hi3d-official/Hi3Dv1.0) | Official Hi3D v1.0: high-resolution 3D geometry refinement built on Sparc3D. Inference code, model weights, and documentation. | 772 | Python |
-| 1506 | [skills](https://github.com/vuejs-ai/skills) | Agent skills for Vue 3 development | 3380 | 无 |
-| 1507 | [SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill) | 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务 | 6496 | Python |
-| 1508 | [edulab](https://github.com/wy51ai/edulab) | 无 | 1861 | JavaScript |
+| 1504 | [stagehand-python](https://github.com/browserbase/stagehand-python) | ⚠️ No longer maintained  The official Stagehand Python source has moved here. Documentation can be found here  This version of the Stagehand Python SDK is no longer maintained and will not receive upd... | 514 | Python |
+| 1505 | [Hi3Dv1.0](https://github.com/hi3d-official/Hi3Dv1.0) | Official Hi3D v1.0: high-resolution 3D geometry refinement built on Sparc3D. Inference code, model weights, and documentation. | 773 | Python |
+| 1506 | [skills](https://github.com/vuejs-ai/skills) | Agent skills for Vue 3 development | 3382 | 无 |
+| 1507 | [SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill) | 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务 | 6499 | Python |
+| 1508 | [edulab](https://github.com/wy51ai/edulab) | 无 | 1862 | JavaScript |
 | 1509 | [flowchart.js](https://github.com/adrai/flowchart.js) | Draws simple SVG flow chart diagrams from textual representation of the diagram | 8701 | JavaScript |
-| 1510 | [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) | OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, ... | 3672 | C# |
+| 1510 | [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) | OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, ... | 3673 | C# |
 | 1511 | [material-design-icons](https://github.com/google/material-design-icons) | Material Design icons by Google (Material Symbols) | 54371 | 无 |
 | 1512 | [mochi](https://github.com/genmoai/mochi) | The best OSS video generation models, created by Genmo | 3770 | Python |
-| 1513 | [python-mastery](https://github.com/dabeaz-course/python-mastery) | Advanced Python Mastery (course by @dabeaz) | 13351 | Python |
-| 1514 | [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) | The JavaScript library for modern SVG graphics. | 14000 | JavaScript |
+| 1513 | [python-mastery](https://github.com/dabeaz-course/python-mastery) | Advanced Python Mastery (course by @dabeaz) | 13350 | Python |
+| 1514 | [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) | The JavaScript library for modern SVG graphics. | 14001 | JavaScript |
 | 1515 | [claudia](https://github.com/kbanc85/claudia) | Terminal-based AI chief of staff. Remembers relationships, tracks commitments, helps you think strategically. Runs on Claude Code. | 304 | Python |
 | 1516 | [cloudflare-edge-tts](https://github.com/DIYgod/cloudflare-edge-tts) | 无 | 206 | TypeScript |
-| 1517 | [easy-vibe](https://github.com/datawhalechina/easy-vibe) | 💻  Vibe Coding 101｜Your First Course For AI Product Builders. | 20522 | JavaScript |
-| 1518 | [kirara-ai](https://github.com/lss233/kirara-ai) | 🤖 可 DIY 的 多模态 AI 聊天机器人  🚀 快速接入 微信、 QQ、Telegram、等聊天平台  🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI  工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话   | 19306 | Python |
+| 1517 | [easy-vibe](https://github.com/datawhalechina/easy-vibe) | 💻  Vibe Coding 101｜Your First Course For AI Product Builders. | 20523 | JavaScript |
+| 1518 | [kirara-ai](https://github.com/lss233/kirara-ai) | 🤖 可 DIY 的 多模态 AI 聊天机器人  🚀 快速接入 微信、 QQ、Telegram、等聊天平台  🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI  工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话   | 19308 | Python |
 | 1519 | [dujiaoka](https://github.com/assimon/dujiaoka) | 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉 | 12115 | 无 |
-| 1520 | [python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) | A comprehensive Python cheat sheet with code examples, built-in functions, module references, and hands-on labs by LabEx. | 4973 | Vue |
-| 1521 | [codesandbox-client](https://github.com/codesandbox/codesandbox-client) | An online IDE for rapid web development | 13663 | JavaScript |
+| 1520 | [python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) | A comprehensive Python cheat sheet with code examples, built-in functions, module references, and hands-on labs by LabEx. | 4974 | Vue |
+| 1521 | [codesandbox-client](https://github.com/codesandbox/codesandbox-client) | An online IDE for rapid web development | 13661 | JavaScript |
 | 1522 | [luch-request](https://github.com/lei-mu/luch-request) | luch-request 是一个基于Promise 开发的uni-app跨平台、项目级别的请求库，它有更小的体积，易用的api，方便简单的自定义能力。 | 668 | TypeScript |
-| 1523 | [HowToHunt](https://github.com/KathanP19/HowToHunt) | Collection of methodology and test case for various web vulnerabilities. | 7399 | 无 |
-| 1524 | [vibesdk](https://github.com/cloudflare/vibesdk) | An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack  | 5488 | TypeScript |
+| 1523 | [HowToHunt](https://github.com/KathanP19/HowToHunt) | Collection of methodology and test case for various web vulnerabilities. | 7398 | 无 |
+| 1524 | [vibesdk](https://github.com/cloudflare/vibesdk) | An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack  | 5489 | TypeScript |
 | 1525 | [douyin-hot-hub](https://github.com/lonnyzhang423/douyin-hot-hub) | 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。 | 782 | Python |
 | 1526 | [PyAutoSRT](https://github.com/botbahlul/PyAutoSRT) | PySimpleGUI based DESKTOP APP to AUTO GENERATE SUBTITLE FILE (using free Google Speech Recognition API) and TRANSLATED SUBTITLE FILE (using unofficial online Google Translate API) for any video or aud... | 190 | Python |
 | 1527 | [fastrtc](https://github.com/gradio-app/fastrtc) | The python library for real-time communication | 4641 | JavaScript |
-| 1528 | [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 📜 33 JavaScript concepts every developer should know. | 66530 | JavaScript |
-| 1529 | [tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation | 7318 | JavaScript |
-| 1530 | [alist](https://github.com/AlistGo/alist) | 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 | 50492 | Go |
+| 1528 | [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 📜 33 JavaScript concepts every developer should know. | 66531 | JavaScript |
+| 1529 | [tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation | 7325 | JavaScript |
+| 1530 | [alist](https://github.com/AlistGo/alist) | 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 | 50489 | Go |
 | 1531 | [obsidian-chord-sheets](https://github.com/olvidalo/obsidian-chord-sheets) | Work with chord sheets (chords over lyrics or inline in brackets) in Obsidian: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll and more. Works in Live Preview and reading mode. | 179 | TypeScript |
 | 1532 | [stisla](https://github.com/stisla/stisla) | Component library built on constraint. | 3757 | CSS |
-| 1533 | [sqlchat](https://github.com/sqlchat/sqlchat) | Chat-based SQL Client and Editor for the next decade | 5854 | TypeScript |
-| 1534 | [gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) | 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML. | 4474 | HTML |
-| 1535 | [plyr](https://github.com/sampotts/plyr) | Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player. | 29975 | JavaScript |
+| 1533 | [sqlchat](https://github.com/sqlchat/sqlchat) | Chat-based SQL Client and Editor for the next decade | 5855 | TypeScript |
+| 1534 | [gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) | 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML. | 4477 | HTML |
+| 1535 | [plyr](https://github.com/sampotts/plyr) | Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player. | 29976 | JavaScript |
 | 1536 | [pyttsx3](https://github.com/nateshmbhat/pyttsx3) | Offline Text To Speech synthesis for python | 2536 | Python |
 | 1537 | [zcode-open-bridge](https://github.com/tizerluo/zcode-open-bridge) | 非官方社区项目，将 ZCode (智谱 Z.AI Agentic CLI) 接入开放 Agent 生态 (MCP / ACP) | 21 | Python |
 | 1538 | [solie](https://github.com/cunarist/solie) | GUI trading bot designed for targeting the futures markets of Binance | 60 | Python |
 | 1539 | [MioSub](https://github.com/corvo007/MioSub) | 一站式全自动字幕生成软件，下载、转录、翻译、压制全流程覆盖，无需人工介入 / One-stop automated subtitle generator. Handles downloading, transcription, translation, and hardcoding—zero human intervention required. | 845 | TypeScript |
 | 1540 | [free-api](https://github.com/fangzesheng/free-api) | 收集免费的接口服务,做一个api的搬运工 | 16305 | 无 |
-| 1541 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS... | 88985 | TypeScript |
-| 1542 | [POC](https://github.com/eeeeeeeeee-code/POC) | 备份的漏洞库，3月开始我们来维护 | 2293 | 无 |
+| 1541 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS... | 88983 | TypeScript |
+| 1542 | [POC](https://github.com/eeeeeeeeee-code/POC) | 备份的漏洞库，3月开始我们来维护 | 2294 | 无 |
 | 1543 | [reactpy](https://github.com/reactive-python/reactpy) | It's React, but in Python | 8149 | Python |
-| 1544 | [chathub](https://github.com/chathub-dev/chathub) | 无 | 10669 | TypeScript |
+| 1544 | [chathub](https://github.com/chathub-dev/chathub) | 无 | 10670 | TypeScript |
 | 1545 | [loop-engineering-orange-b](https://github.com/alchaincyf/loop-engineering-orange-book) | 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free. | 1147 | 无 |
 | 1546 | [huashu-cad](https://github.com/alchaincyf/huashu-cad) | 用自然语言出可编辑CAD：户型与平面布置（DXF）、齿轮减速器关节模组等机械装配（STEP），自动校验干涉与啮合，出交互爆炸图、运转视频和装配工程图。Agent skill. | 17 | Python |
-| 1547 | [resources](https://github.com/zero-to-mastery/resources) | Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of... | 2761 | HTML |
-| 1548 | [reg-factory](https://github.com/tiantianGPU/reg-factory) | 无 | 2118 | Python |
+| 1547 | [resources](https://github.com/zero-to-mastery/resources) | Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of... | 2762 | HTML |
+| 1548 | [reg-factory](https://github.com/tiantianGPU/reg-factory) | 无 | 2119 | Python |
 | 1549 | [push-button-stop-motion](https://github.com/raspberrypilearning/push-button-stop-motion) | Make your own stop motion animation video using Python and GPIO Zero | 14 | Python |
-| 1550 | [leanrea](https://github.com/aicodeking/leanrea) | One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper. | 4475 | Python |
+| 1550 | [leanrea](https://github.com/aicodeking/leanrea) | One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper. | 4480 | Python |
 | 1551 | [flair](https://github.com/flairNLP/flair) | A very simple framework for state-of-the-art Natural Language Processing (NLP) | 14400 | Python |
 | 1552 | [chatlog-web](https://github.com/sinyu1012/chatlog-web) | Chatlog Web 是 chatlog 项目的现代化 Web 管理界面，提供了强大的微信聊天记录可视化分析和管理功能。通过直观的图表和数据分析，帮助用户更好地理解和探索自己的聊天数据。 | 204 | JavaScript |
 | 1553 | [insightface](https://github.com/deepinsight/insightface) | State-of-the-art 2D and 3D Face Analysis Project | 30309 | Python |
-| 1554 | [editor](https://github.com/diffusionstudio/editor) | The VS Code of video editing, built for agents. | 3572 | TypeScript |
-| 1555 | [anatomy](https://github.com/wheresryan22/anatomy) | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. | 29302 | JavaScript |
+| 1554 | [editor](https://github.com/diffusionstudio/editor) | The VS Code of video editing, built for agents. | 3574 | TypeScript |
+| 1555 | [anatomy](https://github.com/wheresryan22/anatomy) | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. | 29371 | JavaScript |
 | 1556 | [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) | A sketch extractor for anime/illustration. | 2146 | Python |
 | 1557 | [UserScripts](https://github.com/indefined/UserScripts) | 基于Chrome下的Tampermonkey写的一些个人用户脚本 | 538 | JavaScript |
 | 1558 | [ag-kit](https://github.com/vudovn/ag-kit) | 无 | 8233 | TypeScript |
 | 1559 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | Crack LeetCode, not only how, but also why.  | 136100 | Markdown |
 | 1560 | [rimochan-nyamuru-manga-fo](https://github.com/sa-san10/rimochan-nyamuru-manga-forge) | 自然言語で頼むと漫画の原稿が出てくる Claude Code スキル — OMNY(ネームYAML)設計→作画→回収→検品→納品のパイプライン | 146 | Shell |
-| 1561 | [awesome-python-applicatio](https://github.com/mahmoud/awesome-python-applications) | 💿 Free software that works great, and also happens to be open-source Python.  | 18193 | Jupyter Notebook |
+| 1561 | [awesome-python-applicatio](https://github.com/mahmoud/awesome-python-applications) | 💿 Free software that works great, and also happens to be open-source Python.  | 18194 | Jupyter Notebook |
 | 1562 | [hanai-investment-dsh](https://github.com/hancao97/hanai-investment-dsh) | Local-first A-share research workbench for DeepSeek Harness: market dashboards, watchlists, valuation, four investor agents, versioned reports, and continuous post-report chat. | 127 | TypeScript |
-| 1563 | [Photon](https://github.com/s0md3v/Photon) | Incredibly fast crawler designed for OSINT. | 13421 | Python |
-| 1564 | [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. | 46710 | JavaScript |
-| 1565 | [lemo-wake](https://github.com/lemomo-ai/lemo-wake) | Claude Code plugin: turn one still image into a ~5 s seamless looping animation (MP4, GIF, WebP, Live Photo). · 把一张图做成约 5 秒的无缝循环动图。 | 395 | Python |
-| 1566 | [openscreen](https://github.com/siddharthvaddem/openscreen) | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. | 40035 | TypeScript |
+| 1563 | [Photon](https://github.com/s0md3v/Photon) | Incredibly fast crawler designed for OSINT. | 13426 | Python |
+| 1564 | [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. | 46713 | JavaScript |
+| 1565 | [lemo-wake](https://github.com/lemomo-ai/lemo-wake) | Claude Code plugin: turn one still image into a ~5 s seamless looping animation (MP4, GIF, WebP, Live Photo). · 把一张图做成约 5 秒的无缝循环动图。 | 396 | Python |
+| 1566 | [openscreen](https://github.com/siddharthvaddem/openscreen) | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. | 40036 | TypeScript |
 | 1567 | [docker-md](https://github.com/doocs/docker-md) | 🐋 doocs/md 项目 的 docker 镜像 | 74 | TypeScript |
-| 1568 | [TypeWords](https://github.com/zyronon/TypeWords) | Practice English, one strike, one step forward | 12341 | Vue |
-| 1569 | [binance-public-data](https://github.com/binance/binance-public-data) | Details on how to get Binance public data | 2579 | Python |
+| 1568 | [TypeWords](https://github.com/zyronon/TypeWords) | Practice English, one strike, one step forward | 12352 | Vue |
+| 1569 | [binance-public-data](https://github.com/binance/binance-public-data) | Details on how to get Binance public data | 2578 | Python |
 | 1570 | [easytrader](https://github.com/shidenggui/easytrader) | 提供同花顺客户端/miniqmt/雪球的股票量化交易，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合 | 10280 | Python |
 | 1571 | [colly](https://github.com/gocolly/colly) | Elegant Scraper and Crawler Framework for Golang | 25608 | Go |
-| 1572 | [Numerologist_skills](https://github.com/FANzR-arch/Numerologist_skills) | 🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数 AI skills。 | 2224 | Python |
+| 1572 | [Numerologist_skills](https://github.com/FANzR-arch/Numerologist_skills) | 🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数 AI skills。 | 2226 | Python |
 | 1573 | [Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) | An easy and fast way to create a Python GUI 🐍 | 10251 | Python |
-| 1574 | [BettaFish](https://github.com/666ghj/BettaFish) | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 | 42788 | Python |
-| 1575 | [MiroFish](https://github.com/666ghj/MiroFish) | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 | 86773 | Python |
+| 1574 | [BettaFish](https://github.com/666ghj/BettaFish) | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 | 42790 | Python |
+| 1575 | [MiroFish](https://github.com/666ghj/MiroFish) | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 | 86824 | Python |
 | 1576 | [LLM2Jev](https://github.com/Yinsongxu/LLM2Jev) | Turn local language models into Jev-style structured decision models. Get results from text and images with prefill alone—no token-by-token decoding required. | 495 | Python |
-| 1577 | [NanoJev](https://github.com/TianyuCodings/NanoJev) | A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline. | 2603 | Python |
-| 1578 | [VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) | Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtualbrowser.cc/?src=github | 3300 | Vue |
-| 1579 | [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) | Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics | 25554 | C# |
+| 1577 | [NanoJev](https://github.com/TianyuCodings/NanoJev) | A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline. | 2604 | Python |
+| 1578 | [VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) | Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtualbrowser.cc/?src=github | 3299 | Vue |
+| 1579 | [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) | Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics | 25555 | C# |
 | 1580 | [local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) | Fully local web research and report writing assistant | 9425 | Python |
 | 1581 | [megaparse](https://github.com/The-Vibe-Company/megaparse) | File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.  | 7418 | Python |
 | 1582 | [Easy-MCP-AutoCad](https://github.com/zh19980811/Easy-MCP-AutoCad) | 这个项目是一个基于Model Context Protocol (MCP)的AutoCAD集成服务器，它允许通过自然语言与AutoCAD进行交互。通过这个服务器，用户可以使用Claude等大型语言模型来创建、修改和分析AutoCAD图纸，同时还可以存储和查询CAD元素的相关数据。目前制作参考学习，仅实现端到端之间的通信，具体工具函数尚未晚上 | 290 | Python |
 | 1583 | [python-language-server](https://github.com/palantir/python-language-server) | An implementation of the Language Server Protocol for Python | 2702 | Python |
 | 1584 | [ce](https://github.com/jspreadsheet/ce) | Jspreadsheet is a lightweight JavaScript data grid component for creating interactive data grids with advanced spreadsheet controls. | 7247 | JavaScript |
-| 1585 | [pyJianYingDraft](https://github.com/GuanYixuan/pyJianYingDraft) | 轻量、灵活、易上手的Python剪映草稿生成及导出工具，构建全自动化视频剪辑/混剪流水线。本项目的CapCut版本正于 https://github.com/GuanYixuan/pyCapCut 内开发 | 5029 | Python |
+| 1585 | [pyJianYingDraft](https://github.com/GuanYixuan/pyJianYingDraft) | 轻量、灵活、易上手的Python剪映草稿生成及导出工具，构建全自动化视频剪辑/混剪流水线。本项目的CapCut版本正于 https://github.com/GuanYixuan/pyCapCut 内开发 | 5033 | Python |
 | 1586 | [whats-reader](https://github.com/rodrigogs/whats-reader) | Browse WhatsApp chat exports offline with AI-powered voice transcription. Privacy-first desktop/web app with bookmarks, search, and statistics. Built with SvelteKit and Electron. | 279 | TypeScript |
-| 1587 | [LSPosed](https://github.com/LSPosed/LSPosed) | LSPosed Framework | 25664 | Java |
-| 1588 | [GLM-OCR](https://github.com/zai-org/GLM-OCR) | GLM-OCR: Accurate ×  Fast × Comprehensive | 7613 | Python |
+| 1587 | [LSPosed](https://github.com/LSPosed/LSPosed) | LSPosed Framework | 25667 | Java |
+| 1588 | [GLM-OCR](https://github.com/zai-org/GLM-OCR) | GLM-OCR: Accurate ×  Fast × Comprehensive | 7614 | Python |
 | 1589 | [electron-pdf](https://github.com/fraserxu/electron-pdf) | 📄 A command line tool to generate PDF from URL, HTML or Markdown files. | 1292 | JavaScript |
 | 1590 | [nbnhhsh](https://github.com/itorr/nbnhhsh) | 😩「能不能好好说话？」 拼音首字母缩写翻译工具 | 6293 | JavaScript |
 | 1591 | [qq-win-db-key](https://github.com/QQBackup/qq-win-db-key) | 全平台 QQ 聊天数据库解密 | 1134 | Python |
-| 1592 | [awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) | A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly. | 16550 | 无 |
+| 1592 | [awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) | A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly. | 16590 | 无 |
 | 1593 | [xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab) | One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。 | 614 | JavaScript |
 | 1594 | [Live-Stream-TL](https://github.com/wattyven/Live-Stream-TL) | A real-time translation application that uses Vosk and the OpenAI API, with a user interface for starting and stopping translations, and supports logging of translations. | 22 | Python |
-| 1595 | [distilly](https://github.com/titanwings/distilly) | Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）. | 26883 | Python |
-| 1596 | [jev-trader](https://github.com/jarrodwatts/jev-trader) | One AI trade decision every Monad block. Jev on Kuru MON-USDC. | 3156 | TypeScript |
+| 1595 | [distilly](https://github.com/titanwings/distilly) | Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）. | 26885 | Python |
+| 1596 | [jev-trader](https://github.com/jarrodwatts/jev-trader) | One AI trade decision every Monad block. Jev on Kuru MON-USDC. | 3158 | TypeScript |
 | 1597 | [glowing-robot](https://github.com/perlygatekeeper/glowing-robot) | 无 | 3 | HTML |
-| 1598 | [remix-words-funny](https://github.com/SteveSuv/remix-words-funny) | 一个英语单词学习网站 | 1713 | TypeScript |
-| 1599 | [work_crawler](https://github.com/kanasimi/work_crawler) | Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalke... | 4403 | JavaScript |
-| 1600 | [fastbook](https://github.com/fastai/fastbook) | The fastai book, published as Jupyter Notebooks | 25516 | Jupyter Notebook |
+| 1598 | [remix-words-funny](https://github.com/SteveSuv/remix-words-funny) | 一个英语单词学习网站 | 1714 | TypeScript |
+| 1599 | [work_crawler](https://github.com/kanasimi/work_crawler) | Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalke... | 4405 | JavaScript |
+| 1600 | [fastbook](https://github.com/fastai/fastbook) | The fastai book, published as Jupyter Notebooks | 25520 | Jupyter Notebook |
 | 1601 | [nodejieba](https://github.com/yanyiwu/nodejieba) | "结巴"中文分词的Node.js版本 | 3233 | JavaScript |
-| 1602 | [system-prompts-and-models](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V... | 144879 | 无 |
+| 1602 | [system-prompts-and-models](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V... | 144890 | 无 |
 | 1603 | [jev-chat-jarvis-mac](https://github.com/jev-chat/jev-chat-jarvis-mac) | 聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。 | 543 | Python |
 | 1604 | [openclaw-qqbot](https://github.com/tencent-connect/openclaw-qqbot) | qqbot | 1555 | TypeScript |
-| 1605 | [learn_python3_spider](https://github.com/wistbean/learn_python3_spider) | python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式... | 22325 | Python |
+| 1605 | [learn_python3_spider](https://github.com/wistbean/learn_python3_spider) | python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式... | 22324 | Python |
 | 1606 | [pyquery](https://github.com/gawel/pyquery) | A jquery-like library for python | 2375 | Python |
 | 1607 | [Edu-Mutil-Agent](https://github.com/Pitchstripmining915/Edu-Mutil-Agent) | 🤖 Transform education with EduAgent, an AI-powered platform for intelligent homework grading, knowledge graph building, and smart Q&A services. | 5 | Python |
 | 1608 | [TerraForge3D](https://github.com/Jaysmito101/TerraForge3D) | Cross Platform Professional Procedural Terrain Generation & Texturing Tool | 1271 | C++ |
 | 1609 | [lanshu-create-ai-presente](https://github.com/cclank/lanshu-create-ai-presenter-video) | Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image. | 3083 | HTML |
 | 1610 | [eian-collage-broll](https://github.com/YIAN6557/eian-collage-broll) | 网点纸张拼贴风 B-roll 工作流：配音 → 视觉隐喻 → 动画素材包 · Editorial paper-collage B-roll workflow for AI agents | 55 | 无 |
 | 1611 | [cnchar](https://github.com/theajack/cnchar) | 🇨🇳 功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等) (Chinese character util) | 3110 | TypeScript |
-| 1612 | [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | MCP Server for Ghidra | 12054 | Java |
+| 1612 | [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | MCP Server for Ghidra | 12058 | Java |
 | 1613 | [SimpleKivy](https://github.com/ErgoCreate/SimpleKivy) | A new way to make user interfaces using a Simple approach and with all the power of Kivy | 14 | HTML |
 | 1614 | [PromptLens](https://github.com/binghe1980/PromptLens) | 一款把任意图片转换为专业生图提示词的 Chrome / Edge 浏览器插件。支持网页右键识图、本地上传与剪贴板粘贴，生成中文、英文和 JSON 提示词，并提供历史记录与收藏。 | 103 | 无 |
 | 1615 | [Eif-MAPT-PersonaMorph](https://github.com/Eifptaur/Eif-MAPT-PersonaMorph) | Windows 微信群聊机器人：按设定人设回复群消息，本地运行、接入你自己的模型 API。控制台为原生桌面窗口（27 个面板），发消息/切会话/发图/发表情走后台投递——不动鼠标、不要求微信窗口可见。非官方产品，与腾讯无关。 | 98 | Python |
-| 1616 | [DLX](https://github.com/OwO-Network/DLX) | DLX - Self-hosted translation API server. Unofficial; not affiliated with DeepL SE. | 8791 | Go |
-| 1617 | [chengfeng-videocut-skills](https://github.com/Agentchengfeng/chengfeng-videocut-skills) | 用 Claude Code Skills 做的视频剪辑 Agent | 3272 | JavaScript |
-| 1618 | [doubao-downloader](https://github.com/LauZzL/doubao-downloader) | 一键批量下载豆包/Dola无水印图片/视频资源、强制生成15秒视频的浏览器扩展/油猴脚本。 | 1801 | TypeScript |
-| 1619 | [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 | 20866 | Python |
+| 1616 | [DLX](https://github.com/OwO-Network/DLX) | DLX - Self-hosted translation API server. Unofficial; not affiliated with DeepL SE. | 8792 | Go |
+| 1617 | [chengfeng-videocut-skills](https://github.com/Agentchengfeng/chengfeng-videocut-skills) | 用 Claude Code Skills 做的视频剪辑 Agent | 3273 | JavaScript |
+| 1618 | [doubao-downloader](https://github.com/LauZzL/doubao-downloader) | 一键批量下载豆包/Dola无水印图片/视频资源、强制生成15秒视频的浏览器扩展/油猴脚本。 | 1802 | TypeScript |
+| 1619 | [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 | 20966 | Python |
 | 1620 | [vant-weapp](https://github.com/youzan/vant-weapp) | 轻量、可靠的小程序 UI 组件库 | 18487 | JavaScript |
 | 1621 | [All-Defense-Tool](https://github.com/Aabyss-Team/All-Defense-Tool) | 本项目集成了全网优秀的攻防工具项目，包含自动化利用，子域名、敏感目录、端口等扫描，各大中间件，cms漏洞利用工具以及应急响应等资料。 | 266 | 无 |
 | 1622 | [PotatoTool](https://github.com/potato-security/PotatoTool) | 这款工具是一款功能强大的网络安全综合工具，旨在为安全从业者、红蓝对抗人员和网络安全爱好者提供全面的网络安全解决方案。它集成了多种实用功能，包括解密、分析、扫描、溯源等，为用户提供了便捷的操作界面和丰富的功能选择。This tool offers robust network security solutions for professionals and enthusiasts. With fea... | 1235 | Java |
@@ -1630,138 +1630,138 @@
 | 1627 | [Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) | Dism++ Multi-language Support & BUG Report | 20853 | HTML |
 | 1628 | [uniapp-admin](https://github.com/lavieAll/uniapp-admin) | Muti-platform management system for uniapp, H5, Android, IOS, Min Program | 394 | Vue |
 | 1629 | [JiwuChat](https://github.com/KiWi233333/JiwuChat) | JiwuChat 🍂 - A lightweight cross-platform instant messaging app with integrated AI assistants (DeepSeek/Gemini/Kimi). Features real-time messaging, audio/video calls, multi-device sync, and customizab... | 753 | Vue |
-| 1630 | [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | 39595 | TypeScript |
-| 1631 | [llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It achieves SOTA performance across coding, robotics, and medi... | 3357 | Python |
-| 1632 | [video-use](https://github.com/browser-use/video-use) | Edit videos with coding agents | 31614 | Python |
+| 1630 | [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | 39594 | TypeScript |
+| 1631 | [llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier) | LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It achieves SOTA performance across coding, robotics, and medi... | 3356 | Python |
+| 1632 | [video-use](https://github.com/browser-use/video-use) | Edit videos with coding agents | 31635 | Python |
 | 1633 | [Cowart](https://github.com/zhongerxin/Cowart) | 无 | 6084 | JavaScript |
 | 1634 | [better-exceptions](https://github.com/Qix-/better-exceptions) | Pretty and useful exceptions in Python, automatically. | 4709 | Python |
-| 1635 | [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) | HunyuanVideo: A Systematic Framework For Large Video Generation Model | 12833 | Python |
-| 1636 | [yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) | Practical bilingual AI prompt library for prompt engineering, work, learning, content, marketing, and everyday use. | 2996 | Python |
-| 1637 | [VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | 57562 | Python |
+| 1635 | [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) | HunyuanVideo: A Systematic Framework For Large Video Generation Model | 12831 | Python |
+| 1636 | [yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) | Practical bilingual AI prompt library for prompt engineering, work, learning, content, marketing, and everyday use. | 2995 | Python |
+| 1637 | [VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | 57569 | Python |
 | 1638 | [Luban](https://github.com/Curzibn/Luban) | Luban 2（鲁班 2） —— 高效简洁的 Android 图片压缩工具库，像素级还原微信朋友圈压缩策略。(An efficient and concise Android image compression library that closely replicates the compression strategy of WeChat Moments.) | 13772 | C |
 | 1639 | [PrivHunterAI](https://github.com/Ed1s0nZ/PrivHunterAI) | 一款通过被动代理方式，利用主流 AI（如 Kimi、DeepSeek、GPT 等）检测越权漏洞的工具。其核心检测功能依托相关 AI 引擎的开放 API 构建，支持 HTTPS 协议的数据传输与交互。 | 405 | TypeScript |
 | 1640 | [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) | A Python library for automating interaction with websites. | 4900 | Python |
 | 1641 | [map-network-viz](https://github.com/sejaldua/map-network-viz) | A small wrapper for visualizing street networks and making artistic maps with OpenStreetMap and Networkx | 14 | Python |
 | 1642 | [toolz](https://github.com/pytoolz/toolz) | A functional standard library for Python. | 5161 | Python |
 | 1643 | [cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) | CC Workflow Studio | 5461 | TypeScript |
-| 1644 | [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) |  GUI for a Vocal Remover that uses Deep Neural Networks. | 27400 | Python |
+| 1644 | [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) |  GUI for a Vocal Remover that uses Deep Neural Networks. | 27410 | Python |
 | 1645 | [mmf](https://github.com/facebookresearch/mmf) | A modular framework for vision & language multimodal research from Facebook AI Research (FAIR) | 5634 | Python |
 | 1646 | [openchat-monorepo](https://github.com/akazwz/openchat-monorepo) | 一个现代化的全栈 AI Chatbot 应用，使用 React 和 Cloudflare Workers 结合 Connect RPC 构建，通过 Tauri 支持 Web、移动 App 和桌面端 | 563 | TypeScript |
-| 1647 | [djongo](https://github.com/doableware/djongo) | Django and MongoDB database connector | 1914 | Python |
+| 1647 | [djongo](https://github.com/doableware/djongo) | Django and MongoDB database connector | 1913 | Python |
 | 1648 | [claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) | Universal Claude Code workflow plugin with agents, skills, hooks, and commands | 1424 | Python |
 | 1649 | [sketchup-extension-vscode](https://github.com/SketchUp/sketchup-extension-vscode-project) | VSCode Project for SketchUp Extension Development | 77 | Ruby |
 | 1650 | [KouriChat](https://github.com/KouriChat/KouriChat) | 【禁止接入微信、QQ等腾讯系软件】接入第三方平台。基于LLM的更逼真的情感陪伴程序。More realistic emotional companionship program based LLM, meet the characters in your dream. | 3305 | Python |
-| 1651 | [Game-Save-Manager](https://github.com/dyang886/Game-Save-Manager) | Easily backup and restore your game saves anytime | 1623 | JavaScript |
-| 1652 | [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) | 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新 | 25968 | JavaScript |
-| 1653 | [taichi](https://github.com/taichi-dev/taichi) | Productive, portable, and performant GPU programming in Python. | 28480 | C++ |
+| 1651 | [Game-Save-Manager](https://github.com/dyang886/Game-Save-Manager) | Easily backup and restore your game saves anytime | 1624 | JavaScript |
+| 1652 | [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) | 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新 | 25969 | JavaScript |
+| 1653 | [taichi](https://github.com/taichi-dev/taichi) | Productive, portable, and performant GPU programming in Python. | 28479 | C++ |
 | 1654 | [machine-learning](https://github.com/ethen8181/machine-learning) | :earth_americas: machine learning tutorials (mainly in Python3)  | 3499 | HTML |
-| 1655 | [vox-director](https://github.com/Alisa0808/vox-director) | Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill. | 3202 | Python |
-| 1656 | [python-uncompyle6](https://github.com/rocky/python-uncompyle6) | A cross-version Python bytecode decompiler | 4334 | Python |
-| 1657 | [AriaNg](https://github.com/mayswind/AriaNg) | AriaNg, a modern web frontend making aria2 easier to use. | 13280 | JavaScript |
+| 1655 | [vox-director](https://github.com/Alisa0808/vox-director) | Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill. | 3216 | Python |
+| 1656 | [python-uncompyle6](https://github.com/rocky/python-uncompyle6) | A cross-version Python bytecode decompiler | 4333 | Python |
+| 1657 | [AriaNg](https://github.com/mayswind/AriaNg) | AriaNg, a modern web frontend making aria2 easier to use. | 13284 | JavaScript |
 | 1658 | [VibeVoiceFusion](https://github.com/zhao-kun/VibeVoiceFusion) | VibeVoiceFusion is a full-stack, multi-speaker voice generation web system featuring LoRA fine-tuning, batch generation, and VRAM optimization. Based on Microsoft's VibeVoice (AR + diffusion architect... | 502 | Python |
 | 1659 | [WePush](https://github.com/rememberber/WePush) | 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信 | 4691 | Java |
 | 1660 | [ai-aug-edu](https://github.com/HytidelLegend/ai-aug-edu) | 无 | 497 | Python |
-| 1661 | [mimiclaw](https://github.com/memovai/mimiclaw) | MimiClaw: Personal Agent on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS. On device Muse. | 5844 | C |
-| 1662 | [replica-skill](https://github.com/Jakeschincariol/replica-skill) | Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT. | 10704 | Python |
-| 1663 | [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) | A self-learning system for Claude Code that captures corrections, positive feedback, and preferences — then syncs them to CLAUDE.md and AGENTS.md. | 1987 | Python |
-| 1664 | [Memori](https://github.com/MemoriLabs/Memori) | Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori wo... | 17616 | Python |
+| 1661 | [mimiclaw](https://github.com/memovai/mimiclaw) | MimiClaw: Personal Agent on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS. On device Muse. | 5845 | C |
+| 1662 | [replica-skill](https://github.com/Jakeschincariol/replica-skill) | Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT. | 10742 | Python |
+| 1663 | [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) | A self-learning system for Claude Code that captures corrections, positive feedback, and preferences — then syncs them to CLAUDE.md and AGENTS.md. | 1988 | Python |
+| 1664 | [Memori](https://github.com/MemoriLabs/Memori) | Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori wo... | 17621 | Python |
 | 1665 | [awesome-typescript](https://github.com/semlinker/awesome-typescript) | A collection of awesome TypeScript resources for client-side and server-side development | 4049 | 无 |
-| 1666 | [robin](https://github.com/apurvsinghgautam/robin) | AI-Powered Dark Web OSINT Tool | 8110 | Python |
+| 1666 | [robin](https://github.com/apurvsinghgautam/robin) | AI-Powered Dark Web OSINT Tool | 8118 | Python |
 | 1667 | [company-brain](https://github.com/supermemoryai/company-brain) | Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work. | 1140 | TypeScript |
-| 1668 | [cangjie-skill](https://github.com/kangarooking/cangjie-skill) | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills） | 13346 | Python |
-| 1669 | [floorplan-3d](https://github.com/wy51ai/floorplan-3d) | 无 | 3954 | HTML |
+| 1668 | [cangjie-skill](https://github.com/kangarooking/cangjie-skill) | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills） | 13358 | Python |
+| 1669 | [floorplan-3d](https://github.com/wy51ai/floorplan-3d) | 无 | 3957 | HTML |
 | 1670 | [wxpushSkin](https://github.com/frankiejun/wxpushSkin) | 这是一个配合 WxPush 项目使用的消息推送皮肤项目 | 116 | JavaScript |
 | 1671 | [wxpush](https://github.com/frankiejun/wxpush) | 一个极简且免费的微信消息推送服务 | 1305 | JavaScript |
 | 1672 | [LocalSite-ai](https://github.com/weise25/LocalSite-ai) | Generate Web Pages and Components with text prompts, with Local Models. (or Cloud Models, if you want) | 401 | Svelte |
-| 1673 | [yao-geo-skills](https://github.com/yaojingang/yao-geo-skills) | An open-source Skill collection for GEO content and workflows, continuously updated. | 938 | HTML |
-| 1674 | [Ditto](https://github.com/sabrogden/Ditto) | Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time. | 7529 | C |
-| 1675 | [howdoi](https://github.com/gleitz/howdoi) | instant coding answers via the command line | 10841 | Python |
-| 1676 | [XX-Net](https://github.com/XX-net/XX-Net) | A proxy tool to bypass GFW. | 33494 | Python |
-| 1677 | [reveal.js](https://github.com/hakimel/reveal.js) | The HTML Presentation Framework | 72637 | JavaScript |
-| 1678 | [ViMax](https://github.com/HKUDS/ViMax) | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" | 13039 | Python |
+| 1673 | [yao-geo-skills](https://github.com/yaojingang/yao-geo-skills) | An open-source Skill collection for GEO content and workflows, continuously updated. | 939 | HTML |
+| 1674 | [Ditto](https://github.com/sabrogden/Ditto) | Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time. | 7532 | C |
+| 1675 | [howdoi](https://github.com/gleitz/howdoi) | instant coding answers via the command line | 10840 | Python |
+| 1676 | [XX-Net](https://github.com/XX-net/XX-Net) | A proxy tool to bypass GFW. | 33496 | Python |
+| 1677 | [reveal.js](https://github.com/hakimel/reveal.js) | The HTML Presentation Framework | 72641 | JavaScript |
+| 1678 | [ViMax](https://github.com/HKUDS/ViMax) | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" | 13040 | Python |
 | 1679 | [3dsMaxAndUnity](https://github.com/unitycoder/3dsMaxAndUnity) | Maxscripts for Unity3D workflows | 15 | MAXScript |
-| 1680 | [SenseVoice](https://github.com/QwenAudio/SenseVoice) | Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection. | 9822 | C |
-| 1681 | [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos ... | 79566 | Python |
+| 1680 | [SenseVoice](https://github.com/QwenAudio/SenseVoice) | Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection. | 9825 | C |
+| 1681 | [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos ... | 79604 | Python |
 | 1682 | [Vue.NetCore](https://github.com/cq-panda/Vue.NetCore) | (已支持sqlsugar).NetCore、.Net6、Vue2、Vue3、Vite、TypeScript、Element plus+uniapp前后端分离，全自动生成代码；支持移动端(ios/android/h5/微信小程序。http://www.volcore.xyz/ | 4234 | C# |
 | 1683 | [Tampermonkey](https://github.com/Ahaochan/Tampermonkey) | 油猴脚本集合 | 954 | JavaScript |
-| 1684 | [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | FFmpeg for browser, powered by WebAssembly | 17993 | C |
+| 1684 | [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | FFmpeg for browser, powered by WebAssembly | 17995 | C |
 | 1685 | [grok-build](https://github.com/xai-org/grok-build) | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. | 27863 | Rust |
 | 1686 | [shiny.semantic](https://github.com/Appsilon/shiny.semantic) | Shiny support for powerful Fomantic UI library. | 512 | R |
-| 1687 | [awesome-adb](https://github.com/mzlogin/awesome-adb) | ADB Usage Complete / ADB 用法大全 | 12560 | 无 |
+| 1687 | [awesome-adb](https://github.com/mzlogin/awesome-adb) | ADB Usage Complete / ADB 用法大全 | 12559 | 无 |
 | 1688 | [files](https://github.com/cyao2q/files) | TVBox开源版,盒子软件分享 | 3202 | JavaScript |
 | 1689 | [ubports-installer](https://github.com/ubports/ubports-installer) | A simple tool to install Ubuntu Touch on UBports devices | 669 | JavaScript |
 | 1690 | [JamTools](https://github.com/fandesfyf/JamTools) | JamTools是一个跨平台的小工具集类软件，支持Windows7/8/10/11、Macos、ubuntu系统(其他系统可以直接从源码编译打包)。包含了(滚动/区域)截屏、录屏、文字识别、多种语言互译、多媒体格式转换、鼠标键盘动作录制播放、局域网文件传输、聊天机器人等功能，完全开源! | 736 | Python |
 | 1691 | [threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills) | Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets. | 2905 | Python |
-| 1692 | [edict](https://github.com/cft0808/edict) | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails | 17133 | Python |
+| 1692 | [edict](https://github.com/cft0808/edict) | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails | 17134 | Python |
 | 1693 | [CS-Notes](https://github.com/wx-chevalier/CS-Notes) | :books: 编程语言语法基础与工程实践，JavaScript  Java  Python  Go  Rust  CPP  Swift | 696 | C |
 | 1694 | [Awesome-Methodologies](https://github.com/wx-chevalier/Awesome-Methodologies) | :books: Ultimate CheatSheets(Tutorials&MindMap), overview of syntax, features and practical tips, collection of useful code snippets, go from zero to hero at fly. :dizzy:  干货满满的全栈开发速学速查手册集锦 | 588 | HTML |
 | 1695 | [second-brain](https://github.com/henrydaum/second-brain) | Second Brain is an agentic framework that acts as an operating system, using local file intelligence, workflow automation, and LLMs to complete tasks and communicate over multiple modalities and messa... | 692 | Python |
-| 1696 | [500-AI-Machine-learning-D](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 AI Machine learning Deep learning Computer vision NLP Projects with code | 37907 | 无 |
-| 1697 | [algorithms](https://github.com/keon/algorithms) | Minimal examples of data structures and algorithms in Python | 25610 | Python |
+| 1696 | [500-AI-Machine-learning-D](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 AI Machine learning Deep learning Computer vision NLP Projects with code | 37914 | 无 |
+| 1697 | [algorithms](https://github.com/keon/algorithms) | Minimal examples of data structures and algorithms in Python | 25611 | Python |
 | 1698 | [iphone_backup_decrypt](https://github.com/jsharkey13/iphone_backup_decrypt) | Decrypt an encrypted local iOS backup on Windows or MacOS | 404 | Python |
 | 1699 | [es6tutorial](https://github.com/ruanyf/es6tutorial) | 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。 | 21410 | JavaScript |
 | 1700 | [x-made-easy-skill](https://github.com/baibanbao/x-made-easy-skill) | A Chinese Made Easy writing skill inspired by Calculus Made Easy | 178 | Python |
-| 1701 | [dexter](https://github.com/virattt/dexter) | An autonomous agent for deep financial research | 28042 | TypeScript |
-| 1702 | [SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. | 4982 | Python |
+| 1701 | [dexter](https://github.com/virattt/dexter) | An autonomous agent for deep financial research | 28044 | TypeScript |
+| 1702 | [SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. | 4983 | Python |
 | 1703 | [go-cursor-help](https://github.com/yuaotian/go-cursor-help) | 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine... | 25960 | Shell |
 | 1704 | [scribd-downloader](https://github.com/Phoenix124/scribd-downloader) | 无 | 434 | Python |
 | 1705 | [NovelForge](https://github.com/RhythmicWave/NovelForge) | AI辅助长篇小说创作，卡片式创作，支持基于 JSON Schema的结构化 AI 生成与上下文引用，可扩展性强。 | 1295 | Python |
-| 1706 | [leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | Collection of leaked system prompts | 15031 | 无 |
-| 1707 | [QAnything](https://github.com/netease-youdao/QAnything) | Question and Answer based on Anything. | 14224 | Python |
-| 1708 | [css-protips](https://github.com/AllThingsSmitty/css-protips) | A collection of tips to help take your CSS skills pro. 🕹  | 30311 | 无 |
-| 1709 | [python3-cookbook](https://github.com/yidao620c/python3-cookbook) | 《Python Cookbook》 3rd Edition Translation | 12030 | Jupyter Notebook |
-| 1710 | [story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) | Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track). | 2542 | HTML |
+| 1706 | [leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | Collection of leaked system prompts | 15034 | 无 |
+| 1707 | [QAnything](https://github.com/netease-youdao/QAnything) | Question and Answer based on Anything. | 14223 | Python |
+| 1708 | [css-protips](https://github.com/AllThingsSmitty/css-protips) | A collection of tips to help take your CSS skills pro. 🕹  | 30312 | 无 |
+| 1709 | [python3-cookbook](https://github.com/yidao620c/python3-cookbook) | 《Python Cookbook》 3rd Edition Translation | 12029 | Jupyter Notebook |
+| 1710 | [story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) | Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track). | 2547 | HTML |
 | 1711 | [deep-searcher](https://github.com/zilliztech/deep-searcher) | Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python. | 8407 | Python |
-| 1712 | [kimi-cli](https://github.com/MoonshotAI/kimi-cli) | [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code | 11400 | Python |
+| 1712 | [kimi-cli](https://github.com/MoonshotAI/kimi-cli) | [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code | 11399 | Python |
 | 1713 | [bili-note](https://github.com/Rimagination/bili-note) | Extract Bilibili videos into learning-oriented Markdown notes with full subtitle and comment archives | 363 | Python |
 | 1714 | [cheat.sh](https://github.com/chubin/cheat.sh) | the only cheat sheet you need | 41892 | Python |
 | 1715 | [undb](https://github.com/undb-io/undb) | Archived. Moved to Teable. | 2974 | TypeScript |
-| 1716 | [jev-seo](https://github.com/AgriciDaniel/jev-seo) | Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports. | 1046 | Python |
-| 1717 | [fastai](https://github.com/fastai/fastai) | The fastai deep learning library | 28282 | Jupyter Notebook |
-| 1718 | [waoowaoo](https://github.com/waooAI/waoowaoo) | 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows. | 14989 | TypeScript |
-| 1719 | [rnskill](https://github.com/Pluviobyte/rnskill) | 雪踏乌云的 AI Agent Skills 集合 | 1771 | Python |
+| 1716 | [jev-seo](https://github.com/AgriciDaniel/jev-seo) | Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports. | 1049 | Python |
+| 1717 | [fastai](https://github.com/fastai/fastai) | The fastai deep learning library | 28283 | Jupyter Notebook |
+| 1718 | [waoowaoo](https://github.com/waooAI/waoowaoo) | 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows. | 14988 | TypeScript |
+| 1719 | [rnskill](https://github.com/Pluviobyte/rnskill) | 雪踏乌云的 AI Agent Skills 集合 | 1772 | Python |
 | 1720 | [wenyan-mcp](https://github.com/caol64/wenyan-mcp) | 文颜 MCP Server 可以让 AI 自动将 Markdown 文章排版后发布至微信公众号。 | 1363 | JavaScript |
-| 1721 | [seedance2-skill](https://github.com/dexhunter/seedance2-skill) | skill to create best prompts for generating videos with seedance2.0 | 4583 | 无 |
+| 1721 | [seedance2-skill](https://github.com/dexhunter/seedance2-skill) | skill to create best prompts for generating videos with seedance2.0 | 4584 | 无 |
 | 1722 | [FGO-py](https://github.com/hgjazhgj/FGO-py) | 自动爬塔! 自动每周任务! 全自动免配置跨平台的Fate/Grand Order助手.启动脚本,上床睡觉,养肝护发,满加成圣诞了解一下? | 2065 | Python |
 | 1723 | [awesome-opensource-docume](https://github.com/44bits/awesome-opensource-documents) | :blue_book: A curated list of awesome open source or open source licensed documents, guides, books. | 2381 | 无 |
-| 1724 | [aisuite](https://github.com/andrewyng/aisuite) | Simple, unified interface to multiple Generative AI providers  | 16421 | Python |
-| 1725 | [TVBOX-](https://github.com/xianyuyimu/TVBOX-) | 一木TVBOX自用仓库 | 3129 | JavaScript |
-| 1726 | [chainlit](https://github.com/Chainlit/chainlit) | Build Conversational AI in minutes ⚡️ | 12500 | Python |
+| 1724 | [aisuite](https://github.com/andrewyng/aisuite) | Simple, unified interface to multiple Generative AI providers  | 16422 | Python |
+| 1725 | [TVBOX-](https://github.com/xianyuyimu/TVBOX-) | 一木TVBOX自用仓库 | 3128 | JavaScript |
+| 1726 | [chainlit](https://github.com/Chainlit/chainlit) | Build Conversational AI in minutes ⚡️ | 12501 | Python |
 | 1727 | [mcp-router](https://github.com/mcp-router/mcp-router) | MCP Router — development, support and security updates ended 2026-09-18. Historical source and final release for existing users. | 2123 | TypeScript |
-| 1728 | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | 80350 | Python |
+| 1728 | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | 80396 | Python |
 | 1729 | [ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) | Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀 | 1617 | Shell |
-| 1730 | [fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbati... | 8027 | TypeScript |
+| 1730 | [fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbati... | 8032 | TypeScript |
 | 1731 | [autoMate](https://github.com/yuruotong1/autoMate) | Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves | 4009 | Python |
-| 1732 | [amazing-qr](https://github.com/x-hw/amazing-qr) | 💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码） | 10865 | Python |
+| 1732 | [amazing-qr](https://github.com/x-hw/amazing-qr) | 💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码） | 10867 | Python |
 | 1733 | [generative-manim](https://github.com/marcelo-earth/generative-manim) | 🎨 GPT for video generation ⚡️ | 943 | Python |
 | 1734 | [Open-FileMarkd](https://github.com/ItusiAI/Open-FileMarkd) | FileMarkd 是一个 AI 驱动的文档转 Markdown 工具，支持 PDF / Word / PowerPoint / Excel / 图片 / EPUB / LaTeX / Jupyter / HTML / RTF / ODT / CSV / XML 等格式输入。AI 自动识别文字、表格、公式与文档层级结构，搭配置信度评分、表格结构还原与智能页眉页脚剥离。 | 243 | TypeScript |
 | 1735 | [To-Sheet-Music-Skill](https://github.com/kiri603/To-Sheet-Music-Skill) | Automatically transforms mixed song recordings into playable five-piece school band arrangements through audio separation, music transcription, arrangement, and difficulty adjustment. Outputs include ... | 250 | Python |
 | 1736 | [botdrop-android](https://github.com/zhixianio/botdrop-android) | Run AI agents on your Android phone — no terminal, no CLI, just a guided setup. | 397 | Java |
 | 1737 | [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) | GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI. | 15233 | Python |
-| 1738 | [xingcezhenti](https://github.com/ERRRC/xingcezhenti) | 2016-2026年中国公务员考试国考＋省考全部行测真题 | 2773 | 无 |
+| 1738 | [xingcezhenti](https://github.com/ERRRC/xingcezhenti) | 2016-2026年中国公务员考试国考＋省考全部行测真题 | 2776 | 无 |
 | 1739 | [typesafe-mario](https://github.com/fhshaik/typesafe-mario) | A TypeSafe/Jev agent that plays Super Mario Bros. from structured emulator state. | 465 | Python |
-| 1740 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. | 93291 | Python |
+| 1740 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. | 93317 | Python |
 | 1741 | [watchless](https://github.com/chenzixin1/watchless) | Codex Skill that turns videos into complete keyframe-led visual documents. | 150 | Python |
-| 1742 | [dirmap](https://github.com/H4ckForJob/dirmap) | An advanced web directory & file scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian.一个高级web目录、文件扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑。 | 3367 | Python |
+| 1742 | [dirmap](https://github.com/H4ckForJob/dirmap) | An advanced web directory & file scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian.一个高级web目录、文件扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑。 | 3366 | Python |
 | 1743 | [Mastering-GitHub-Copilot-](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) | A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource. | 8187 | Python |
-| 1744 | [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Automate the process of making money online. | 32542 | Python |
+| 1744 | [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Automate the process of making money online. | 32575 | Python |
 | 1745 | [agent-skills-platform](https://github.com/FrancyJGLisboa/agent-skills-platform) | Build tested agent skills and govern their lifecycle through a user-defined marketplace: evidence, discovery, updates, rollback, quarantine, and 17-platform distribution. | 2416 | Python |
 | 1746 | [easyChat](https://github.com/LTEnjoy/easyChat) | 微信助手（非web微信版）：定时发送信息；群发信息；自动回复等 | 1530 | Python |
 | 1747 | [ssr](https://github.com/wandou911/ssr) | ssr免费节点 | 1192 | CSS |
-| 1748 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 379312 | Python |
-| 1749 | [skid-homework](https://github.com/cubewhy/skid-homework) | Ergonomically designed, AI-powered homework solver.  符合人体工程学设计、人工智能驱动的作业助手  平庸者的苦工到此为止，这是来自外星的效率补丁 (by Gemini) | 1987 | TypeScript |
+| 1748 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 379364 | Python |
+| 1749 | [skid-homework](https://github.com/cubewhy/skid-homework) | Ergonomically designed, AI-powered homework solver.  符合人体工程学设计、人工智能驱动的作业助手  平庸者的苦工到此为止，这是来自外星的效率补丁 (by Gemini) | 1990 | TypeScript |
 | 1750 | [openclaw-weixin-cli](https://github.com/pzx521521/openclaw-weixin-cli) | 无 | 11 | Go |
-| 1751 | [CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) | PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 | 7160 | Python |
+| 1751 | [CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) | PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 | 7166 | Python |
 | 1752 | [Princess-connection-farm](https://github.com/SimonShi1994/Princess-connection-farm) | 国服PCR公主连结 多开自动农场脚本 基于opencv+UIAutomator | 675 | Python |
 | 1753 | [kaogongzhentizhengliu](https://github.com/ERRRC/kaogongzhentizhengliu) | 2016–2026 国考/省考/联考真题按考点重组的深度标注笔记的判断推理和资料分析部分 | 1160 | 无 |
 | 1754 | [opennews-mcp](https://github.com/6551Team/opennews-mcp) | News Aggregation · AI Ratings · Trading Signals · Real-time Updates | 2442 | Python |
-| 1755 | [wx-cli-again](https://github.com/jackwener/wx-cli-again) | WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli | 1102 | Rust |
+| 1755 | [wx-cli-again](https://github.com/jackwener/wx-cli-again) | WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli | 1109 | Rust |
 | 1756 | [curxy](https://github.com/ryoppippi/curxy) | Simple proxy worker for using ollama in cursor | 417 | TypeScript |
 | 1757 | [geekai](https://github.com/yangjian102621/geekai) | AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。 | 4725 | Vue |
 | 1758 | [Z3r0](https://github.com/yv1ing/Z3r0) | AI-native red-team workbench for authorized penetration testing and vulnerability research, with specialist agents, sandboxed tooling, evidence records, and replayable timelines. | 1021 | Python |
 | 1759 | [telegraph](https://github.com/0-RTT/telegraph) | 基于 Cloudflare Worker 和 Pages 的图床/视频床/文件床，轻松实现无服务器部署！ | 1084 | JavaScript |
-| 1760 | [dunhuang-aura-skill](https://github.com/govin-ai/dunhuang-aura-skill) | 无 | 109 | Python |
-| 1761 | [pinme](https://github.com/glitternetwork/pinme) | Deploy Your Frontend in a Single Command. Claude Code Skills supported. | 3765 | TypeScript |
+| 1760 | [dunhuang-aura-skill](https://github.com/govin-ai/dunhuang-aura-skill) | 无 | 110 | Python |
+| 1761 | [pinme](https://github.com/glitternetwork/pinme) | Deploy Your Frontend in a Single Command. Claude Code Skills supported. | 3766 | TypeScript |
 | 1762 | [review-notebook](https://github.com/lusouldepth-ai/review-notebook) | 无 | 123 | JavaScript |
 | 1763 | [n-skills](https://github.com/numman-ali/n-skills) | Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills | 1051 | TypeScript |
 | 1764 | [ml-stable-diffusion](https://github.com/apple-aiml-research/ml-stable-diffusion) | Stable Diffusion with Core ML on Apple Silicon | 17960 | Python |
@@ -1770,16 +1770,16 @@
 | 1767 | [qisi-video-remix](https://github.com/wyuzhi/qisi-video-remix) | 视频创意改编 Agent Skill：参考视频 → 剧本 → 分镜 → 分段生成提示词。By qisi. | 198 | 无 |
 | 1768 | [jsPDF-html2canvas](https://github.com/johnnywang1994/jsPDF-html2canvas) | A combine usage with jsPDF & html2canvas-pro, which translating html content to PDF file. | 88 | TypeScript |
 | 1769 | [wechatpayv3](https://github.com/minibear2021/wechatpayv3) | 微信支付 API v3 Python SDK | 1343 | Python |
-| 1770 | [LangGPT](https://github.com/langgptai/LangGPT) | LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式  Language of GPT  The pioneering framework for structured & meta-promp... | 12744 | Jupyter Notebook |
-| 1771 | [windows95](https://github.com/felixrieseberg/windows95) | Windows 95 in an app. Runs on macOS, Linux, and Windows. | 24320 | TypeScript |
+| 1770 | [LangGPT](https://github.com/langgptai/LangGPT) | LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式  Language of GPT  The pioneering framework for structured & meta-promp... | 12748 | Jupyter Notebook |
+| 1771 | [windows95](https://github.com/felixrieseberg/windows95) | Windows 95 in an app. Runs on macOS, Linux, and Windows. | 24322 | TypeScript |
 | 1772 | [haiming-app-monetization](https://github.com/HammingDev/haiming-app-monetization) | 海明Dev： App 商业化 Skill｜onboarding、付费墙、内购选项、竞品调研 | 269 | 无 |
-| 1773 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features... | 7802 | Python |
+| 1773 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features... | 7801 | Python |
 | 1774 | [pytermgui](https://github.com/bczsalba/pytermgui) | Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more! | 2662 | Python |
-| 1775 | [dream-loop](https://github.com/achimala/dream-loop) | Agent skill for impressive 3D visuals using Blender + image gen + subagent critic | 2569 | JavaScript |
-| 1776 | [reagent](https://github.com/Dryxio/reagent) | Reconstruct and validate C/C++ code from compiled programs with AI. | 2465 | Python |
-| 1777 | [magic-mcp](https://github.com/21st-dev/magic-mcp) | It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st M... | 6673 | TypeScript |
+| 1775 | [dream-loop](https://github.com/achimala/dream-loop) | Agent skill for impressive 3D visuals using Blender + image gen + subagent critic | 2579 | JavaScript |
+| 1776 | [reagent](https://github.com/Dryxio/reagent) | Reconstruct and validate C/C++ code from compiled programs with AI. | 2466 | Python |
+| 1777 | [magic-mcp](https://github.com/21st-dev/magic-mcp) | It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st M... | 6679 | TypeScript |
 | 1778 | [HTML2PDF](https://github.com/SanzarRehman/HTML2PDF) | World's fastest, leanest open source parallel HTML-to-PDF engine for serious server workloads. | 155 | HTML |
-| 1779 | [manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos | 96986 | Python |
+| 1779 | [manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos | 97008 | Python |
 | 1780 | [math-mastery](https://github.com/kenowong/math-mastery) | 中小学数学方法融会贯通 · 纯前端零依赖 · 参数化随机出题引擎 | 425 | HTML |
 | 1781 | [zede-zero-learning-roadma](https://github.com/ssuixinsuoyu/zede-zero-learning-roadmap) | 从原点出发，无限逼近真知。目标驱动、证据导向、可验证、可迭代的学习路线规划 Skill。 | 66 | Python |
 | 1782 | [learning-area](https://github.com/roy-tian/learning-area) | MDN 学习区示例中文版 | 831 | HTML |
@@ -1791,57 +1791,57 @@
 | 1788 | [video-Ai-note](https://github.com/Jehuge/video-Ai-note) | 一个智能视频笔记生成工具，支持自动提取视频音频、转写文字，并使用 AI 生成结构化笔记,新增bilibili 视频下载功能。  完全本地化处理，保护数据隐私 支持 Ollama 等本地大模型，无需联网即可使用。 | 128 | Python |
 | 1789 | [best-windows-apps](https://github.com/stackia/best-windows-apps) | 推荐好用、优秀的 Windows 应用 | 4172 | 无 |
 | 1790 | [MOSS](https://github.com/OpenMOSS/MOSS) | An open-source, tool-augmented conversational language model from Fudan University | 12386 | Python |
-| 1791 | [7days-golang](https://github.com/geektutu/7days-golang) | 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列 | 17038 | Go |
+| 1791 | [7days-golang](https://github.com/geektutu/7days-golang) | 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列 | 17039 | Go |
 | 1792 | [Xiaobai-Skills](https://github.com/0x-IHRR/Xiaobai-Skills) |  Open-source skill | 96 | Python |
 | 1793 | [Librian](https://github.com/RimoChan/Librian) | 【Librian】簡明強大的 Galgame  Visual Novel 引擎 | 788 | Python |
 | 1794 | [simpread](https://github.com/Kenshin/simpread) | 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展 | 8761 | JavaScript |
 | 1795 | [whiteboard-book-video-ski](https://github.com/nutllwhy/whiteboard-book-video-skill) | 白板火柴人拆书短视频工作流：脚本、分镜、配音、BGM、字幕与 HyperFrames 本地渲染 | 83 | Python |
-| 1796 | [weathernext](https://github.com/google-deepmind/weathernext) | 无 | 7759 | Python |
+| 1796 | [weathernext](https://github.com/google-deepmind/weathernext) | 无 | 7760 | Python |
 | 1797 | [QzoneArchive](https://github.com/Gaoshu705/QzoneArchive) | 将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。 | 1327 | 无 |
 | 1798 | [WriteHERE](https://github.com/principia-ai/WriteHERE) | An Open-Source AI Writing Project. | 977 | Python |
-| 1799 | [tweakcn](https://github.com/jnsahaj/tweakcn) | A visual no-code theme editor for shadcn/ui components | 10574 | TypeScript |
+| 1799 | [tweakcn](https://github.com/jnsahaj/tweakcn) | A visual no-code theme editor for shadcn/ui components | 10577 | TypeScript |
 | 1800 | [whiteboard-video-engine](https://github.com/gnipbao/whiteboard-video-engine) | 无 | 119 | Python |
-| 1801 | [js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp) | AI Agent-first JS 逆向 MCP Server：有头 Chrome 调试、断点、网络/WebSocket 分析、Patchright 反检测，可选 CloakBrowser。 | 3095 | TypeScript |
-| 1802 | [Awesome-Nano-Banana-image](https://github.com/PicoTrex/Awesome-Nano-Banana-images) | A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communit... | 24126 | 无 |
-| 1803 | [BidMaster-Pro](https://github.com/guangshu100/BidMaster-Pro) | 全流程 智能招投标 Agent：标书生成 · 招投标解读 · 标书检查 · 标书文档ai排版 · 商机发现 一键完成。 21 项合规检查 · 多模型切换 · RAG 知识库 · OCR 抽取。 从招标公告到可交付 docx 文档，全流程 AI 自动化。 | 481 | Python |
-| 1804 | [EmotiVoice](https://github.com/netease-youdao/EmotiVoice) | EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine | 8543 | Python |
+| 1801 | [js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp) | AI Agent-first JS 逆向 MCP Server：有头 Chrome 调试、断点、网络/WebSocket 分析、Patchright 反检测，可选 CloakBrowser。 | 3097 | TypeScript |
+| 1802 | [Awesome-Nano-Banana-image](https://github.com/PicoTrex/Awesome-Nano-Banana-images) | A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communit... | 24129 | 无 |
+| 1803 | [BidMaster-Pro](https://github.com/guangshu100/BidMaster-Pro) | 全流程 智能招投标 Agent：标书生成 · 招投标解读 · 标书检查 · 标书文档ai排版 · 商机发现 一键完成。 21 项合规检查 · 多模型切换 · RAG 知识库 · OCR 抽取。 从招标公告到可交付 docx 文档，全流程 AI 自动化。 | 482 | Python |
+| 1804 | [EmotiVoice](https://github.com/netease-youdao/EmotiVoice) | EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine | 8544 | Python |
 | 1805 | [generators-with-stylegan2](https://github.com/a312863063/generators-with-stylegan2) | Here is a series of face generators based on StyleGAN2 | 2493 | Python |
 | 1806 | [video-ai-talking](https://github.com/yizhi-chengzi/video-ai-talking) | 想做真人口播，又不必自己对着镜头念。上传一段真人出镜视频，写好字幕，本机配音并对口型，合成竖屏 MP4。密钥只留在浏览器里。 | 522 | TypeScript |
-| 1807 | [guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) | Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion... | 15826 | 无 |
+| 1807 | [guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) | Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion... | 15834 | 无 |
 | 1808 | [iwanthue](https://github.com/medialab/iwanthue) | Colors for data scientists. | 693 | HTML |
-| 1809 | [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) | 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap: | 12634 | Shell |
-| 1810 | [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY] | 67642 | 无 |
-| 1811 | [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | 543074 | 无 |
-| 1812 | [StreamCap](https://github.com/ihmily/StreamCap) | Multi-Platform Live Stream Automatic Recording Tool  多平台直播流自动录制客户端 · 基于FFmpeg · 支持监控/定时/转码 | 4473 | Python |
+| 1809 | [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) | 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap: | 12633 | Shell |
+| 1810 | [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY] | 67644 | 无 |
+| 1811 | [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | 543408 | 无 |
+| 1812 | [StreamCap](https://github.com/ihmily/StreamCap) | Multi-Platform Live Stream Automatic Recording Tool  多平台直播流自动录制客户端 · 基于FFmpeg · 支持监控/定时/转码 | 4477 | Python |
 | 1813 | [crxviewer](https://github.com/Rob--W/crxviewer) | Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files. | 1731 | JavaScript |
-| 1814 | [kokoro-onnx](https://github.com/thewh1teagle/kokoro-onnx) | TTS with kokoro and onnx runtime | 2926 | Python |
+| 1814 | [kokoro-onnx](https://github.com/thewh1teagle/kokoro-onnx) | TTS with kokoro and onnx runtime | 2929 | Python |
 | 1815 | [SearChat](https://github.com/yokingma/SearChat) | Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持... | 1063 | TypeScript |
 | 1816 | [Legend-of-Sword-and-Fairy](https://github.com/madeye/Legend-of-Sword-and-Fairy) | A complete Rust port of the PAL (Legend of Sword and Fairy) DOS engine, playable natively or in the browser via wasm | 197 | Rust |
-| 1817 | [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision | 113568 | Python |
+| 1817 | [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision | 113597 | Python |
 | 1818 | [qtawesome](https://github.com/spyder-ide/qtawesome) | Iconic fonts in PyQt and PySide applications | 943 | Python |
 | 1819 | [homeassistant-config](https://github.com/arsaboo/homeassistant-config) | 🏡 My Home Assistant Configs. Be sure to :star2: my repo to follow the updates! | 1965 | Python |
 | 1820 | [sketchup-ruby-api-tutoria](https://github.com/SketchUp/sketchup-ruby-api-tutorials) | SketchUp Ruby API Tutorials and Examples | 267 | Ruby |
-| 1821 | [twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) | Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具) | 2830 | TypeScript |
-| 1822 | [shiji-kb](https://github.com/baojie/shiji-kb) | 无 | 3850 | HTML |
+| 1821 | [twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) | Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具) | 2831 | TypeScript |
+| 1822 | [shiji-kb](https://github.com/baojie/shiji-kb) | 无 | 3853 | HTML |
 | 1823 | [Evasion-Hub](https://github.com/ybdt/Evasion-Hub) | Endpoint and Lateral Movement Evasion | 933 | C |
 | 1824 | [DeepGit](https://github.com/zamalali/DeepGit) | Deep research agent to help you find the best GitHub repositories 🕵️! | 928 | Python |
 | 1825 | [AutoDrawer](https://github.com/ChristopherBaim/AutoDrawer) | Auto Drawer is a simple freehand drawing tool using mouse automation. From a source image, it draws a binary image in applications that allow freehand mouse drawing (ex. Microsoft Paint or Roll20). | 42 | Python |
 | 1826 | [vivi-songwriting](https://github.com/Vivixiao980/vivi-songwriting) | 把普通人的真实故事写成可直接用于 AI 音乐工作台的原创歌词 Skill | 27 | 无 |
 | 1827 | [moemail](https://github.com/beilunyang/moemail) | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉  一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉   | 2837 | TypeScript |
-| 1828 | [Crash-Course-Computer-Sci](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) | 计算机速成课（播放量 509 万） （共40集，每一集 10 分钟）2018 年完成翻译。评论区有大量好评 | 10951 | JavaScript |
+| 1828 | [Crash-Course-Computer-Sci](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) | 计算机速成课（播放量 509 万） （共40集，每一集 10 分钟）2018 年完成翻译。评论区有大量好评 | 10952 | JavaScript |
 | 1829 | [handwrite](https://github.com/yashlamba/handwrite) | Handwrite generates a custom font based on your handwriting sample. | 555 | Python |
 | 1830 | [webot](https://github.com/GuMu599/webot) | 基于 AI 的微信群聊机器人 🤖 支持消息总结、@提问对话、Map‑Reduce 长文本分段、主动发言及长期记忆。兼容 DeepSeek/Claude多 AI 后端，内置 React Web 仪表盘、提示词沙箱与配置管理。键盘模拟发送，无需协议逆向。支持 Windows（单文件 EXE）与 macOS。 | 90 | Python |
-| 1831 | [prompt-eng-interactive-tu](https://github.com/anthropics/prompt-eng-interactive-tutorial) | Anthropic's Interactive Prompt Engineering Tutorial | 39803 | Jupyter Notebook |
-| 1832 | [wechat-spider](https://github.com/striver-ing/wechat-spider) | 开源微信爬虫：爬取公众号所有 文章、阅读量、点赞量和评论内容。易部署。持续维护！！！ | 3003 | Python |
-| 1833 | [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. ... | 47015 | JavaScript |
+| 1831 | [prompt-eng-interactive-tu](https://github.com/anthropics/prompt-eng-interactive-tutorial) | Anthropic's Interactive Prompt Engineering Tutorial | 39855 | Jupyter Notebook |
+| 1832 | [wechat-spider](https://github.com/striver-ing/wechat-spider) | 开源微信爬虫：爬取公众号所有 文章、阅读量、点赞量和评论内容。易部署。持续维护！！！ | 3004 | Python |
+| 1833 | [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. ... | 47013 | JavaScript |
 | 1834 | [pysqlcipher3](https://github.com/rotki/pysqlcipher3) | Configuration to build and publish pysqlcipher3 with wheels for rotki | 18 | C |
 | 1835 | [EGVSR](https://github.com/Thmen/EGVSR) | Efficient & Generic Video Super-Resolution | 955 | Python |
 | 1836 | [JIT](https://github.com/bingreeky/JIT) | JIT-Agent | 578 | Python |
 | 1837 | [TransformVetter](https://github.com/CassiopeiaCode/TransformVetter) | AI API gateway with protocol translation, inline moderation, streaming parity, and local moderation training. | 79 | Rust |
 | 1838 | [awesome-growth-hacking](https://github.com/bekatom/awesome-growth-hacking) | :cyclone: Awesome Growth Hacking resources | 550 | 无 |
-| 1839 | [moviepy](https://github.com/Zulko/moviepy) | Video editing with Python | 15213 | Python |
+| 1839 | [moviepy](https://github.com/Zulko/moviepy) | Video editing with Python | 15215 | Python |
 | 1840 | [AIPex](https://github.com/AIPexStudio/AIPex) | AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser | 1285 | TypeScript |
-| 1841 | [localGPT](https://github.com/PromtEngineer/localGPT) | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  | 22191 | Python |
+| 1841 | [localGPT](https://github.com/PromtEngineer/localGPT) | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  | 22192 | Python |
 | 1842 | [Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2) | 无 | 1798 | Python |
 | 1843 | [python_for_data_analysis_](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version) | 《利用Python进行数据分析·第2版》 | 9028 | 无 |
 | 1844 | [wonderful-prompts](https://github.com/langgptai/wonderful-prompts) | 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀 | 6394 | 无 |
@@ -1851,49 +1851,49 @@
 | 1848 | [natpass](https://github.com/lwch/natpass) | 🔥居家办公，远程开发神器 | 4440 | Go |
 | 1849 | [0xmagnolia-Respect](https://github.com/CheshireMew/0xmagnolia-Respect) | 0xmagnolia 24年4月后推文整理 | 93 | 无 |
 | 1850 | [Pix2Text](https://github.com/breezedeus/Pix2Text) | An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowerin... | 3290 | Jupyter Notebook |
-| 1851 | [NewConceptEnglish](https://github.com/andylee1890/NewConceptEnglish) | 新概念学习笔记、英语学习资料、英语学习工具分享。 | 2186 | 无 |
-| 1852 | [cai](https://github.com/aliasrobotics/cai) | Cybersecurity AI (CAI), the framework for AI Security | 9883 | Python |
+| 1851 | [NewConceptEnglish](https://github.com/andylee1890/NewConceptEnglish) | 新概念学习笔记、英语学习资料、英语学习工具分享。 | 2192 | 无 |
+| 1852 | [cai](https://github.com/aliasrobotics/cai) | Cybersecurity AI (CAI), the framework for AI Security | 9884 | Python |
 | 1853 | [Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) | Study Notes For Web Hacking / Web安全学习笔记 | 5599 | Python |
 | 1854 | [Noi](https://github.com/lencx/Noi) | 🚀 Less chaos. More flow. | 9079 | TypeScript |
-| 1855 | [pixel2motion](https://github.com/nolangz/pixel2motion) | AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence. | 2718 | Python |
+| 1855 | [pixel2motion](https://github.com/nolangz/pixel2motion) | AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence. | 2723 | Python |
 | 1856 | [feapder](https://github.com/Boris-code/feapder) | 🚀🚀🚀feapder is an easy to use, powerful crawler framework  feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便... | 3733 | Python |
 | 1857 | [pynsist](https://github.com/takluyver/pynsist) | Build Windows installers for Python applications | 993 | Python |
-| 1858 | [MaliangAINovalWriter](https://github.com/Deng-m1/MaliangAINovalWriter) | 马良写作 AINoval — AI novel writer for Chinese webnovels（网文） 多智能体AI小说创作平台：三级大纲、知识图谱一致性、30万字连载 | 911 | 无 |
-| 1859 | [vecto3d](https://github.com/lakshaybhushan/vecto3d) | A super simple tool to convert your SVG's to 3D models. | 1495 | TypeScript |
+| 1858 | [MaliangAINovalWriter](https://github.com/Deng-m1/MaliangAINovalWriter) | 马良写作 AINoval — AI novel writer for Chinese webnovels（网文） 多智能体AI小说创作平台：三级大纲、知识图谱一致性、30万字连载 | 913 | 无 |
+| 1859 | [vecto3d](https://github.com/lakshaybhushan/vecto3d) | A super simple tool to convert your SVG's to 3D models. | 1496 | TypeScript |
 | 1860 | [Inno-Setup-Chinese-Simpli](https://github.com/kira-96/Inno-Setup-Chinese-Simplified-Translation) | :earth_asia:  Inno Setup Chinese Simplified Translation | 416 | Inno Setup |
 | 1861 | [lingji-cut](https://github.com/yoqu/lingji-cut) | Open-source video creation tool | 438 | TypeScript |
 | 1862 | [MAI-UI](https://github.com/Tongyi-MAI/MAI-UI) | Qwen-UI-Agent: Towards Next-Generation Real-World Centric Foundation GUI Agent | 2435 | Jupyter Notebook |
 | 1863 | [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞 | 14957 | Python |
-| 1864 | [bigpeng-hot-gzh](https://github.com/BigPengSays/bigpeng-hot-gzh) | 从100 多篇爆款 AI 公众号文章中蒸馏出的 7 个爆款选题公式和 Skill。 | 290 | 无 |
-| 1865 | [dflash](https://github.com/z-lab/dflash) | DFlash: Block Diffusion for Flash Speculative Decoding | 6261 | Python |
-| 1866 | [bazi-skill](https://github.com/jinchenma94/bazi-skill) | 四柱八字命理分析 | 4272 | Python |
-| 1867 | [textgen](https://github.com/oobabooga/textgen) | Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private. | 47752 | Python |
-| 1868 | [awesome-flask](https://github.com/humiaozuzu/awesome-flask) | A curated list of awesome Flask resources and plugins | 12812 | 无 |
+| 1864 | [bigpeng-hot-gzh](https://github.com/BigPengSays/bigpeng-hot-gzh) | 从100 多篇爆款 AI 公众号文章中蒸馏出的 7 个爆款选题公式和 Skill。 | 291 | 无 |
+| 1865 | [dflash](https://github.com/z-lab/dflash) | DFlash: Block Diffusion for Flash Speculative Decoding | 6262 | Python |
+| 1866 | [bazi-skill](https://github.com/jinchenma94/bazi-skill) | 四柱八字命理分析 | 4278 | Python |
+| 1867 | [textgen](https://github.com/oobabooga/textgen) | Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private. | 47756 | Python |
+| 1868 | [awesome-flask](https://github.com/humiaozuzu/awesome-flask) | A curated list of awesome Flask resources and plugins | 12813 | 无 |
 | 1869 | [DeepImageSearch](https://github.com/TechyNilesh/DeepImageSearch) | DeepImageSearch is a Python library for fast and accurate image search. It offers seamless integration with Python, GPU support, and advanced capabilities for identifying complex image patterns using ... | 498 | Python |
-| 1870 | [Gepetto](https://github.com/JusticeRage/Gepetto) | IDA plugin which queries language models to speed up reverse-engineering | 3493 | Python |
-| 1871 | [TextAttack](https://github.com/QData/TextAttack) | TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/ | 3482 | Python |
+| 1870 | [Gepetto](https://github.com/JusticeRage/Gepetto) | IDA plugin which queries language models to speed up reverse-engineering | 3494 | Python |
+| 1871 | [TextAttack](https://github.com/QData/TextAttack) | TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/ | 3483 | Python |
 | 1872 | [nemo_go](https://github.com/hanc00l/nemo_go) | Nemo是用来进行自动化信息收集的一个简单平台，通过集成常用的信息收集工具和技术，实现对内网及互联网资产信息的自动收集，提高隐患排查和渗透测试的工作效率。 | 2115 | JavaScript |
 | 1873 | [derive-math-animations-sk](https://github.com/ssuixinsuoyu/derive-math-animations-skill) | 无 | 41 | Python |
 | 1874 | [gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) | Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file. | 3640 | Python |
 | 1875 | [Modlishka](https://github.com/drk1wi/Modlishka) | Modlishka. Reverse Proxy.   | 5455 | Go |
-| 1876 | [Yuedu](https://github.com/XIU2/Yuedu) | 📚「阅读」自用书源分享 | 12771 | 无 |
-| 1877 | [mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries) | MinGW-W64 compiler binaries | 5393 | 无 |
-| 1878 | [regex-vis](https://github.com/Bowen7/regex-vis) | 🎨 Regex visualizer & editor | 4445 | TypeScript |
+| 1876 | [Yuedu](https://github.com/XIU2/Yuedu) | 📚「阅读」自用书源分享 | 12776 | 无 |
+| 1877 | [mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries) | MinGW-W64 compiler binaries | 5394 | 无 |
+| 1878 | [regex-vis](https://github.com/Bowen7/regex-vis) | 🎨 Regex visualizer & editor | 4446 | TypeScript |
 | 1879 | [office-editor-mcp](https://github.com/theWDY/office-editor-mcp) | 基于MCP(Model Context Protocol)的Office文档处理助手，支持在MCP Client中创建和编辑Word、Excel、Powerpoint文档。 | 93 | Python |
 | 1880 | [tinypdf](https://github.com/Lulzx/tinypdf) | Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs. | 1929 | TypeScript |
 | 1881 | [coworker](https://github.com/accomplish-ai/coworker) | 无 | 10781 | 无 |
 | 1882 | [zhixin-companion](https://github.com/LotusDecoder/zhixin-companion) | 面向个人自我记录、复盘和认知梳理的伙伴型-提示词及agent配置文件：从具体线索出发，区分事实、感受和解释，在共情的同时保留现实检验。 | 131 | 无 |
-| 1883 | [scira](https://github.com/zaidmukaddam/scira) | Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! | 11961 | TypeScript |
+| 1883 | [scira](https://github.com/zaidmukaddam/scira) | Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! | 11962 | TypeScript |
 | 1884 | [statistical-learning-meth](https://github.com/wzyonggege/statistical-learning-method) | 《统计学习方法》笔记-基于Python算法实现 | 2202 | Jupyter Notebook |
-| 1885 | [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) | Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation a... | 12711 | Python |
+| 1885 | [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) | Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation a... | 12712 | Python |
 | 1886 | [wallbreaker](https://github.com/JailbrokenAI/wallbreaker) | 无 | 1582 | Python |
-| 1887 | [ReadYou](https://github.com/ReadYouApp/ReadYou) | An Android RSS reader presented in Material You style. | 7714 | Kotlin |
+| 1887 | [ReadYou](https://github.com/ReadYouApp/ReadYou) | An Android RSS reader presented in Material You style. | 7719 | Kotlin |
 | 1888 | [director](https://github.com/s1dashu/director) | Direct complete videos with multi-mode workflows for research, scripts, visual development, shot design, media generation, and delivery. | 887 | 无 |
 | 1889 | [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) | A repository of Generative AI prompts for product managers using agents such as ChatGPT, Claude, & Gemini | 1201 | Python |
 | 1890 | [luma-mcp](https://github.com/JochenYang/luma-mcp) | 多模型视觉理解 MCP 服务器，为不支持图片理解的 AI 编码模型提供视觉能力：分析截图、报错、UI 与文档，可接入多家主流视觉大模型。Multi-model vision MCP server that adds image understanding to AI coding models without native vision — analyze screenshots, errors,... | 116 | TypeScript |
 | 1891 | [py-googletrans](https://github.com/ssut/py-googletrans) | (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge. | 4304 | Python |
 | 1892 | [xianxia-visual-director](https://github.com/liyue-aigc/xianxia-visual-director) | Codex Skill for cinematic Eastern xianxia stills, celestial realms and sky megastructures. | 598 | 无 |
-| 1893 | [cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills) | 28 eval-informed mental models and critical-thinking skills for Claude Code, GitHub Copilot, Codex, Cursor, and other Agent Skills-compatible tools | 1772 | JavaScript |
+| 1893 | [cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills) | 28 eval-informed mental models and critical-thinking skills for Claude Code, GitHub Copilot, Codex, Cursor, and other Agent Skills-compatible tools | 1775 | JavaScript |
 | 1894 | [echo-flow](https://github.com/luzhenhua/echo-flow) | 英语音频文件在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。 | 2325 | JavaScript |
 | 1895 | [open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill) | 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor | 1594 | 无 |
 | 1896 | [mcp-server-docker](https://github.com/ckreiling/mcp-server-docker) | MCP server for Docker | 762 | Python |
@@ -1902,102 +1902,102 @@
 | 1899 | [maptoposter](https://github.com/originalankur/maptoposter) | Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. | 14347 | Python |
 | 1900 | [python3-source-code-analy](https://github.com/flaggo/python3-source-code-analysis) | 《Python 3 源码剖析》 | 1003 | Vue |
 | 1901 | [TkFontAwesome](https://github.com/israel-dryer/TkFontAwesome) | Use any of the 1k+ free FontAwesome icons in your tkinter application. | 82 | Python |
-| 1902 | [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | 57638 | Python |
+| 1902 | [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | 57640 | Python |
 | 1903 | [draw-your-font](https://github.com/danilo-znamerovszkij/draw-your-font) | Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill. | 891 | JavaScript |
-| 1904 | [starred](https://github.com/maguowei/starred) | Create and maintain your own Awesome-style list from GitHub stars! | 1968 | Python |
+| 1904 | [starred](https://github.com/maguowei/starred) | Create and maintain your own Awesome-style list from GitHub stars! | 1969 | Python |
 | 1905 | [cheatsheets](https://github.com/matplotlib/cheatsheets) | Official Matplotlib cheat sheets | 7754 | Python |
 | 1906 | [ai-trend-publish](https://github.com/liyown/ai-trend-publish) | TrendPublish: 全自动 AI 内容生成与发布系统  微信公众号自动化  多源数据抓取 (Twitter/X、网站)  DeepseekAI、千问、讯飞模型  智能内容分析排序  定时发布  多模板支持  Node.js  TypeScript  AI 技术趋势跟踪工具 | 3270 | TypeScript |
 | 1907 | [ComfyUI_MiniMaxH3_Directo](https://github.com/huangserva/ComfyUI_MiniMaxH3_Director) | ComfyUI MiniMax H3 Director workflow | 1581 | 无 |
-| 1908 | [svg.js](https://github.com/svgdotjs/svg.js) | The lightweight library for manipulating and animating SVG | 11962 | JavaScript |
-| 1909 | [Retrieval-based-Voice-Con](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) | Easily train a good VC model with voice data <= 10 mins! | 39312 | Python |
+| 1908 | [svg.js](https://github.com/svgdotjs/svg.js) | The lightweight library for manipulating and animating SVG | 11965 | JavaScript |
+| 1909 | [Retrieval-based-Voice-Con](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) | Easily train a good VC model with voice data <= 10 mins! | 39318 | Python |
 | 1910 | [seedance-prompt](https://github.com/zhouwei713/seedance-prompt) | Hermes skill for realistic AI video prompts for Seedance and text-to-video models. | 346 | 无 |
 | 1911 | [Fooocus-API](https://github.com/mrhan1993/Fooocus-API) | FastAPI powered API for Fooocus | 678 | Python |
-| 1912 | [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun... | 13927 | Python |
+| 1912 | [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun... | 13943 | Python |
 | 1913 | [qiaomu-seo](https://github.com/joeseesun/qiaomu-seo) | Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO,  | 481 | Python |
 | 1914 | [erdos](https://github.com/ShouqiaoW/erdos) | 无 | 232 | Lean |
 | 1915 | [whapa](https://github.com/B16f00t/whapa) | WhatsApp Parser Toolset v1.59 | 1713 | Python |
 | 1916 | [PairTranslate](https://github.com/Cookee24/PairTranslate) | 开源的沉浸式翻译，支持选段/查词/选词翻译  Open-source immersive translation, supporting segment/word lookup and selection translation | 489 | TypeScript |
 | 1917 | [PyQt-Frameless-Window](https://github.com/zhiyiYo/PyQt-Frameless-Window) | A cross-platform frameless window based on PyQt/PySide, support Win32, Linux and macOS. | 770 | Python |
-| 1918 | [khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI ... | 38261 | Python |
+| 1918 | [khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI ... | 38264 | Python |
 | 1919 | [siteproxy](https://github.com/netptop/siteproxy) | reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。支持DuckDuckGo AI Chat | 3191 | JavaScript |
 | 1920 | [TGcollector](https://github.com/ahuseyn/TGcollector) | Web GUI for collecting messages from Telegram channels | 115 | JavaScript |
 | 1921 | [kohya_ss](https://github.com/bmaltais/kohya_ss) | 无 | 12682 | Python |
 | 1922 | [XAgent](https://github.com/OpenBMB/XAgent) | An Autonomous LLM Agent for Complex Task Solving | 8547 | Python |
-| 1923 | [prettymaps](https://github.com/marceloprates/prettymaps) | Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely | 14382 | Python |
-| 1924 | [free-code](https://github.com/freecodexyz/free-code) | The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled. | 8838 | TypeScript |
-| 1925 | [gsap-skills](https://github.com/greensock/gsap-skills) | Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage. | 19089 | 无 |
-| 1926 | [autoscraper](https://github.com/alirezamika/autoscraper) | A Smart, Automatic, Fast and Lightweight Web Scraper for Python | 8141 | Python |
+| 1923 | [prettymaps](https://github.com/marceloprates/prettymaps) | Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely | 14383 | Python |
+| 1924 | [free-code](https://github.com/freecodexyz/free-code) | The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled. | 8840 | TypeScript |
+| 1925 | [gsap-skills](https://github.com/greensock/gsap-skills) | Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage. | 19114 | 无 |
+| 1926 | [autoscraper](https://github.com/alirezamika/autoscraper) | A Smart, Automatic, Fast and Lightweight Web Scraper for Python | 8140 | Python |
 | 1927 | [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 | 188031 | Jupyter Notebook |
 | 1928 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet) | Comprehensive Python Cheatsheet | 39021 | Python |
 | 1929 | [coze-studio](https://github.com/coze-dev/coze-studio) | An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation. | 21825 | TypeScript |
-| 1930 | [free-programming-books-zh](https://github.com/justjavac/free-programming-books-zh_CN) | :books: 免费的计算机编程类中文书籍，欢迎投稿 | 119725 | 无 |
+| 1930 | [free-programming-books-zh](https://github.com/justjavac/free-programming-books-zh_CN) | :books: 免费的计算机编程类中文书籍，欢迎投稿 | 119723 | 无 |
 | 1931 | [AGiXT](https://github.com/Josh-XT/AGiXT) | AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a... | 3213 | Python |
 | 1932 | [CodeToCAD](https://github.com/CodeToCAD/CodeToCAD) | Create models and simulations in your favorite modeling software using CodeToCAD! | 122 | Python |
-| 1933 | [python-guide](https://github.com/realpython/python-guide) | Python best practices guidebook, written for humans.  | 29932 | Batchfile |
-| 1934 | [BitNet](https://github.com/microsoft/BitNet) | Official inference framework for 1-bit LLMs | 42489 | C++ |
+| 1933 | [python-guide](https://github.com/realpython/python-guide) | Python best practices guidebook, written for humans.  | 29934 | Batchfile |
+| 1934 | [BitNet](https://github.com/microsoft/BitNet) | Official inference framework for 1-bit LLMs | 42502 | C++ |
 | 1935 | [pytablewriter](https://github.com/thombashi/pytablewriter) | pytablewriter is a Python library to write a table in various formats: AsciiDoc / CSV / Elasticsearch / HTML / JavaScript / JSON / LaTeX / LDJSON / LTSV / Markdown / MediaWiki / NumPy / Excel / Pandas... | 632 | Python |
-| 1936 | [alpha_vantage](https://github.com/RomelTorres/alpha_vantage) | A python wrapper for Alpha Vantage API for financial data. | 4942 | Python |
+| 1936 | [alpha_vantage](https://github.com/RomelTorres/alpha_vantage) | A python wrapper for Alpha Vantage API for financial data. | 4943 | Python |
 | 1937 | [IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP) | Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP | 2081 | Python |
 | 1938 | [wutong-reading-skill](https://github.com/xiewz123-coder/wutong-reading-skill) | Claude Code skill: 无痛阅读一本书，输出六份可直接分享和行动的成品 | 3 | 无 |
 | 1939 | [career-planning-skill](https://github.com/yutongcai0628/career-planning-skill) | Let‘s 共同探索你的职业道路！面向多 Agent 的持续职业规划 Skill，支持联网核验、HTML 报告与飞书文档。 | 38 | Python |
 | 1940 | [cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) | TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code, Codex) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically. | 7132 | JavaScript |
-| 1941 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | 196769 | JavaScript |
-| 1942 | [awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. | 17437 | Python |
+| 1941 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | 196766 | JavaScript |
+| 1942 | [awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. | 17439 | Python |
 | 1943 | [RPA-Python](https://github.com/tebelorg/RPA-Python) | Python package for doing RPA | 5502 | Python |
-| 1944 | [python-miio](https://github.com/rytilahti/python-miio) | Python library & console tool for controlling Xiaomi smart appliances | 4345 | Python |
-| 1945 | [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) | Modern JavaScript Tutorial  | 25537 | HTML |
+| 1944 | [python-miio](https://github.com/rytilahti/python-miio) | Python library & console tool for controlling Xiaomi smart appliances | 4346 | Python |
+| 1945 | [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) | Modern JavaScript Tutorial  | 25539 | HTML |
 | 1946 | [pycorrector](https://github.com/shibing624/pycorrector) | pycorrector is a toolkit for text error correction. 文本纠错，实现了Kenlm，T5，MacBERT，ChatGLM3，Qwen2.5等模型应用在纠错场景，开箱即用。 | 6548 | Python |
 | 1947 | [Cli2Gui](https://github.com/FHPythonUtils/Cli2Gui) | Use this module to convert a cli program to a gui | 104 | Python |
 | 1948 | [alice3](https://github.com/TheAliceProject/alice3) | The Alice 3 block-based IDE desktop application. Also contains a NetBeans plugin to extend development into java. | 181 | Java |
-| 1949 | [next-auth](https://github.com/nextauthjs/next-auth) | Authentication for the Web. | 28389 | TypeScript |
-| 1950 | [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) | PyInstaller Extractor | 4538 | Python |
+| 1949 | [next-auth](https://github.com/nextauthjs/next-auth) | Authentication for the Web. | 28388 | TypeScript |
+| 1950 | [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) | PyInstaller Extractor | 4539 | Python |
 | 1951 | [StoryMem](https://github.com/Kevin-thu/StoryMem) | Official code for StoryMem: Multi-shot Long Video Storytelling with Memory | 784 | Python |
 | 1952 | [grabzit](https://github.com/GrabzIt/grabzit) | GrabzIt enables you to convert HTML and URL's into JPG's, PNG's, DOCX's, videos, PDF's and more. Transform online videos into animated GIF's or convert HTML tables to JSON, CSV and Excel spreadsheets. | 70 | HTML |
 | 1953 | [photoshop-scripting-pytho](https://github.com/lohriialo/photoshop-scripting-python) | Scripting in Photoshop is used to automate a wide variety of repetitive task or as complex as an entire new feature | 532 | Python |
 | 1954 | [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) | 安卓版的AutoGLM，安卓Agent，欢迎共建~ | 395 | Kotlin |
-| 1955 | [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) | Creative Coding: Generative Art, Data visualization, Interaction Design, Resources. | 15660 | HTML |
+| 1955 | [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) | Creative Coding: Generative Art, Data visualization, Interaction Design, Resources. | 15662 | HTML |
 | 1956 | [ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) | Your AI Game Dev Hub. The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio, ... | 1400 | JavaScript |
-| 1957 | [vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) | 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates. | 8005 | Vue |
+| 1957 | [vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) | 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates. | 8008 | Vue |
 | 1958 | [eradicate](https://github.com/PyCQA/eradicate) | Removes commented-out code from Python files | 217 | Python |
 | 1959 | [mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) | Allow LLMs to control a browser with Browserbase and Stagehand | 3397 | TypeScript |
 | 1960 | [autopep8](https://github.com/hhatto/autopep8) | A tool that automatically formats Python code to conform to the PEP 8 style guide. | 4655 | Python |
 | 1961 | [wechat-aip-architect](https://github.com/chenjin-cmd/wechat-aip-architect) | 无 | 65 | HTML |
 | 1962 | [nuitka_simple_gui](https://github.com/ClericPy/nuitka_simple_gui) | A simple GUI app of nuitka | 87 | Python |
-| 1963 | [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) | ⚡️ Python client for the ChatGPT API with, conversation tracking, proxy support and more. | 4179 | Python |
+| 1963 | [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) | ⚡️ Python client for the ChatGPT API with, conversation tracking, proxy support and more. | 4180 | Python |
 | 1964 | [cell-architecture-studio](https://github.com/cclank/cell-architecture-studio) | Interactive 3D cell architecture gallery built with React and Three.js | 1760 | TypeScript |
 | 1965 | [maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition. | 7742 | TypeScript |
 | 1966 | [brainblast](https://github.com/DSB-117/brainblast) | Predict the silent integration traps an AI agent would ship (zero-revenue configs, auth bypasses, immutable wrong choices) — then enforce, in CI, that they stay fixed. Research skill + npx brainblast ... | 75 | TypeScript |
 | 1967 | [MobiAgent](https://github.com/IPADS-SAI/MobiAgent) | The Intelligent GUI Agent for Mobile Phones | 1938 | Python |
-| 1968 | [rachel-digital-human-prod](https://github.com/Jingyi-Wu-Richael/rachel-digital-human-production) | 无 | 1090 | Python |
+| 1968 | [rachel-digital-human-prod](https://github.com/Jingyi-Wu-Richael/rachel-digital-human-production) | 无 | 1091 | Python |
 | 1969 | [DbkeyHook](https://github.com/gzygood/DbkeyHook) | PC微信4.0.3.39以后版本HOOK获取dbkey | 369 | C++ |
-| 1970 | [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | 77057 | JavaScript |
+| 1970 | [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | 77056 | JavaScript |
 | 1971 | [gbro-cover-design](https://github.com/pyang5166/gbro-cover-design) | 公众号/小红书封面提示词生成 skill：3:4 竖版、10 种构图风格、三轮提问、真人出镜人脸一致性 | 1026 | 无 |
-| 1972 | [gbro-collage-broll](https://github.com/pyang5166/gbro-collage-broll) | 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画  Editorial halftone paper-collage B-roll agent skill | 2035 | Python |
+| 1972 | [gbro-collage-broll](https://github.com/pyang5166/gbro-collage-broll) | 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画  Editorial halftone paper-collage B-roll agent skill | 2039 | Python |
 | 1973 | [oh-my-claude](https://github.com/2lab-ai/oh-my-claude) | Claude Code plugin for AI-powered iterative development loops. Inspired by oh-my-opencode, ralph loop. | 37 | Python |
-| 1974 | [kotaemon](https://github.com/Cinnamon/kotaemon) | An open-source RAG-based tool for chatting with your documents. | 25936 | Python |
+| 1974 | [kotaemon](https://github.com/Cinnamon/kotaemon) | An open-source RAG-based tool for chatting with your documents. | 25939 | Python |
 | 1975 | [pinkbin](https://github.com/cccyd2003-qwq/pinkbin) | 扫盘 · 看懂 · 删除。磁盘扫描+清理Agent（Tauri 2 + React + Rust） | 1431 | TypeScript |
-| 1976 | [memvid](https://github.com/memvid/memvid) | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. | 17441 | Rust |
+| 1976 | [memvid](https://github.com/memvid/memvid) | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. | 17439 | Rust |
 | 1977 | [wooyun-legacy](https://github.com/tanweai/wooyun-legacy) | wooyun-legacy skill for claude code  | 1792 | 无 |
 | 1978 | [paperai](https://github.com/neuml/paperai) | 📄 🤖 AI for medical and scientific papers | 1795 | Python |
 | 1979 | [video-production-skills](https://github.com/Pluviobyte/video-production-skills) | Reusable AI video production skills library for creation, recreation, motion design, openers, and QA. | 725 | Python |
-| 1980 | [claude-code-infrastructur](https://github.com/diet103/claude-code-infrastructure-showcase) | Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents | 10062 | TypeScript |
+| 1980 | [claude-code-infrastructur](https://github.com/diet103/claude-code-infrastructure-showcase) | Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents | 10063 | TypeScript |
 | 1981 | [wechat-db-decrypt-macos](https://github.com/Thearas/wechat-db-decrypt-macos) | macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本 | 626 | 无 |
-| 1982 | [Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) | Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup | 7263 | 无 |
-| 1983 | [aicoding-cookbook](https://github.com/lili-luo/aicoding-cookbook) | 无 | 685 | JavaScript |
+| 1982 | [Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) | Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup | 7265 | 无 |
+| 1983 | [aicoding-cookbook](https://github.com/lili-luo/aicoding-cookbook) | 无 | 684 | JavaScript |
 | 1984 | [ai-make-face-meme](https://github.com/liangdabiao/ai-make-face-meme) | NanoMotion 是一个基于 Next.js 15 的 Web 应用：上传一张图片，自动通过 apiz.ai（fal-ai/nano-banana-2）并行生成 12 帧定格动画。在浏览器内即可预览、调速、拖拽重排、并一键导出 GIF——全程无需后端二次处理。  | 61 | TypeScript |
 | 1985 | [YuYuWechat](https://github.com/xieyumc/YuYuWechat) | 一个让微信（非WEB版）定时循环发送消息/文件（cron表达式精确到分钟），批量群发消息，定时检查聊天记录的小工具🚀，提供了简易直观的界面，并支持邮箱报警等功能，可部署到任意平台 | 900 | Python |
 | 1986 | [liurun-bookwriter-skills](https://github.com/liangdabiao/liurun-bookwriter-skills) | 蒸馏skill : 基于刘润28 年商业写作经验的完整复刻。基于其《我这28年的写作心法》提炼的 8 大心法、3 种结构、SCQA 逻辑势能、5商派 SCA++ 模板、7 种 callout，专为商业长文创作设计。你让它随便写任何 东西的 商业评论，都没有问题，都有意思，有洞见。 | 293 | Python |
-| 1987 | [Sequoia-X](https://github.com/sngyai/Sequoia-X) | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 | 8879 | Python |
+| 1987 | [Sequoia-X](https://github.com/sngyai/Sequoia-X) | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 | 8885 | Python |
 | 1988 | [Lector](https://github.com/BasioMeusPuga/Lector) | Qt based ebook reader | 1558 | Python |
 | 1989 | [WeChatFerry](https://github.com/lich0821/WeChatFerry) | 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook. | 6813 | C++ |
-| 1990 | [backgroundremover](https://github.com/nadermx/backgroundremover) | Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source. | 8195 | Python |
+| 1990 | [backgroundremover](https://github.com/nadermx/backgroundremover) | Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source. | 8196 | Python |
 | 1991 | [leetcodebook](https://github.com/huxiaoman7/leetcodebook) | leetcode 1~400知识点&题型总结&leetcode对应题表 | 588 | Python |
-| 1992 | [reclip](https://github.com/averygan/reclip) | Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. | 11261 | HTML |
-| 1993 | [subconverter](https://github.com/tindy2013/subconverter) | Utility to convert between various subscription format | 17126 | C++ |
+| 1992 | [reclip](https://github.com/averygan/reclip) | Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. | 11263 | HTML |
+| 1993 | [subconverter](https://github.com/tindy2013/subconverter) | Utility to convert between various subscription format | 17128 | C++ |
 | 1994 | [web2pdf](https://github.com/dvcoolarun/web2pdf) | 🔄 CLI to convert Webpages to PDFs 🚀  | 1292 | Python |
 | 1995 | [liuhuanyong.github.io](https://github.com/liuhuanyong/liuhuanyong.github.io) | 面向中文自然语言处理的六十余类实践项目及学习索引，涵盖语言资源构建、社会计算、自然语言处理组件、知识图谱、事理图谱、知识抽取、情感分析、深度学习等几个学习主题。包括作者个人简介、学习心得、语言资源、工业落地系统等，是供自然语言处理入门学习者的一个较为全面的学习资源，欢迎大家使用，并提出批评意见。 | 437 | CSS |
 | 1996 | [grok2api](https://github.com/jiujiu532/grok2api) | 无 | 1853 | Python |
-| 1997 | [deskreen](https://github.com/pavlobu/deskreen) | Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work! | 21818 | TypeScript |
+| 1997 | [deskreen](https://github.com/pavlobu/deskreen) | Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work! | 21823 | TypeScript |
 | 1998 | [prettymapp](https://github.com/chrieke/prettymapp) | 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp | 2852 | Python |
 | 1999 | [wxclawbot-cli](https://github.com/lroolle/wxclawbot-cli) | Weixin ClawBot CLI - proactive messaging for OpenClaw agents | 14 | TypeScript |
 | 2000 | [interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) | Book about interpretable machine learning | 5422 | Jupyter Notebook |
@@ -2006,20 +2006,20 @@
 | 2003 | [animation_nodes](https://github.com/JacquesLucke/animation_nodes) | Node based visual scripting system designed for motion graphics in Blender. | 2397 | Python |
 | 2004 | [grok-cli](https://github.com/superagent-ai/grok-cli) | An open-source coding agent for the Grok API | 3518 | TypeScript |
 | 2005 | [nova-youtube-agent](https://github.com/sharbelxyz/nova-youtube-agent) | Nova — YouTube growth agent for OpenClaw. Competitor scanning, channel analysis, idea generation, script writing, performance tracking, feedback loop. Self-installs in 5 minutes. | 396 | 无 |
-| 2006 | [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) | 无 | 44606 | 无 |
-| 2007 | [downkyi](https://github.com/leiurayer/downkyi) | 无 | 24321 | 无 |
+| 2006 | [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) | 无 | 44605 | 无 |
+| 2007 | [downkyi](https://github.com/leiurayer/downkyi) | 无 | 24320 | 无 |
 | 2008 | [fablize](https://github.com/fivetaku/fablize) | A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable. | 893 | Python |
 | 2009 | [narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用 | 3324 | 无 |
 | 2010 | [local_ai_ocr](https://github.com/th1nhhdk/local_ai_ocr) | An local, offline (after initial setup), portable OCR software that can process images and PDF files, using DeepSeek-OCR-2 AI (running directly on your machine). | 893 | Python |
 | 2011 | [TypeScript](https://github.com/zhongsp/TypeScript) | TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org | 7413 | TypeScript |
 | 2012 | [Anime4KCPP](https://github.com/TianZerL/Anime4KCPP) | A high performance anime upscaler | 2047 | C++ |
-| 2013 | [pot-desktop](https://github.com/pot-app/pot-desktop) | 🌈一个跨平台的划词翻译和OCR软件  A cross-platform software for text translation and recognition. | 19315 | JavaScript |
-| 2014 | [Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | Repo for BenCao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调 | 4998 | Python |
+| 2013 | [pot-desktop](https://github.com/pot-app/pot-desktop) | 🌈一个跨平台的划词翻译和OCR软件  A cross-platform software for text translation and recognition. | 19319 | JavaScript |
+| 2014 | [Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | Repo for BenCao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调 | 4999 | Python |
 | 2015 | [wechat-radar](https://github.com/huangserva/wechat-radar) | 无 | 196 | TypeScript |
-| 2016 | [spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) | A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for... | 4305 | TypeScript |
-| 2017 | [xhs-visual-director-skill](https://github.com/ziguishian/xhs-visual-director-skill) | 这是一个用于规划小红书图文的 Agent Skill。它不是普通文案助手，而是一个“视觉导演”：先判断内容任务，再选择适合的视觉风格，最后输出完整图文结构、逐页视觉方案、图像生成提示词、发布文案和自检清单。 | 1603 | 无 |
-| 2018 | [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) | ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 | 21780 | Python |
-| 2019 | [motion-canvas](https://github.com/motion-canvas/motion-canvas) | Visualize Your Ideas With Code | 20254 | TypeScript |
+| 2016 | [spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) | A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for... | 4306 | TypeScript |
+| 2017 | [xhs-visual-director-skill](https://github.com/ziguishian/xhs-visual-director-skill) | 这是一个用于规划小红书图文的 Agent Skill。它不是普通文案助手，而是一个“视觉导演”：先判断内容任务，再选择适合的视觉风格，最后输出完整图文结构、逐页视觉方案、图像生成提示词、发布文案和自检清单。 | 1605 | 无 |
+| 2018 | [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) | ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 | 21784 | Python |
+| 2019 | [motion-canvas](https://github.com/motion-canvas/motion-canvas) | Visualize Your Ideas With Code | 20280 | TypeScript |
 | 2020 | [openfang](https://github.com/RightNow-AI/openfang) | Open-source Agent Operating System | 18285 | Rust |
 | 2021 | [design2code](https://github.com/mostafasadeghi97/design2code) | Convert any web design screenshot to clean HTML/CSS code | 688 | TypeScript |
 | 2022 | [auth2api](https://github.com/AmazingAng/auth2api) | Lightweight Claude OAuth to OpenAI-compatible API proxy | 594 | TypeScript |
@@ -2027,19 +2027,19 @@
 | 2024 | [VvvebJs](https://github.com/givanz/VvvebJs) | Drag and drop page builder library written in vanilla javascript without dependencies or build tools. | 8744 | JavaScript |
 | 2025 | [pumpfun-sdk](https://github.com/cryptoscan-pro/pumpfun-sdk) | Toolkit to work with Pump.fun API, and Solana Transactions | 34 | TypeScript |
 | 2026 | [python-fire](https://github.com/google/python-fire) | Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. | 28229 | Python |
-| 2027 | [tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | 33943 | Rust |
+| 2027 | [tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | 33949 | Rust |
 | 2028 | [advertools](https://github.com/eliasdabbas/advertools) | advertools - online marketing productivity and analysis tools | 1507 | Python |
-| 2029 | [RedInk](https://github.com/HisMax/RedInk) | Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images." | 5743 | Python |
+| 2029 | [RedInk](https://github.com/HisMax/RedInk) | Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images." | 5744 | Python |
 | 2030 | [wx_key](https://github.com/ycccccccy/wx_key) | 获取微信4.0版本以上数据库密钥和图片密钥的工具  A tool for obtaining database keys and image keys for WeChat versions 4.0 and above | 1848 | 无 |
-| 2031 | [pyspur](https://github.com/PySpur-Dev/pyspur) | A visual playground for agentic workflows: Iterate over your agents 10x faster | 5807 | TypeScript |
-| 2032 | [get-it](https://github.com/beltromatti/get-it) | Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track. | 1174 | JavaScript |
-| 2033 | [everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 人人都能用英语 | 39826 | TypeScript |
+| 2031 | [pyspur](https://github.com/PySpur-Dev/pyspur) | A visual playground for agentic workflows: Iterate over your agents 10x faster | 5808 | TypeScript |
+| 2032 | [get-it](https://github.com/beltromatti/get-it) | Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track. | 1175 | JavaScript |
+| 2033 | [everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 人人都能用英语 | 39829 | TypeScript |
 | 2034 | [superdesign](https://github.com/superdesigndev/superdesign) | AI Product Design Agent - Open Source | 7648 | TypeScript |
 | 2035 | [pywakeonlan](https://github.com/remcohaszing/pywakeonlan) | A small python module for wake on lan. | 312 | Python |
 | 2036 | [flask_jsondash](https://github.com/christabor/flask_jsondash) | :snake: :bar_chart: :chart_with_upwards_trend: Build complex dashboards without any front-end code. Use your own endpoints. JSON config only. Ready to go. | 3278 | Python |
-| 2037 | [datasets](https://github.com/unsplash/datasets) | 🎁  7,400,000+ Unsplash images made available for research and machine learning | 2816 | Jupyter Notebook |
+| 2037 | [datasets](https://github.com/unsplash/datasets) | 🎁  7,400,000+ Unsplash images made available for research and machine learning | 2817 | Jupyter Notebook |
 | 2038 | [sese-engine-ui](https://github.com/YunYouJun/sese-engine-ui) | 🔍 Sese engine ui. 色色搜索引擎 UI | 292 | TypeScript |
-| 2039 | [aria2](https://github.com/aria2/aria2) | aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. | 43615 | C++ |
+| 2039 | [aria2](https://github.com/aria2/aria2) | aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. | 43625 | C++ |
 | 2040 | [zyfun](https://github.com/Hiram-Wong/zyfun) | 跨平台桌面端视频资源播放器,免费高颜值. | 9206 | TypeScript |
 | 2041 | [nanobanana](https://github.com/gemini-cli-extensions/nanobanana) | 无 | 1136 | TypeScript |
 | 2042 | [bypass](https://github.com/xllm-go/bypass) | 集成了openai-api、coze、deepseek、cursor、windsurf、qodo、blackbox、you、grok、bing  绘画 多款AI的聊天逆向接口适配到 OpenAI API 标准接口服务端。 | 1247 | Go |
@@ -2048,7 +2048,7 @@
 | 2045 | [OpenMOSS](https://github.com/uluckyXH/OpenMOSS) | A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention. | 1343 | Python |
 | 2046 | [weixin-decrypte-script](https://github.com/ZedeX/weixin-decrypte-script) | Decrypte WeiXin 4.x key | 132 | Python |
 | 2047 | [arrow](https://github.com/arrow-py/arrow) | 🏹 Better dates & times for Python | 9053 | Python |
-| 2048 | [awesome-vscode](https://github.com/viatsko/awesome-vscode) | 🎨 A curated list of delightful VS Code packages and resources. | 29270 | JavaScript |
+| 2048 | [awesome-vscode](https://github.com/viatsko/awesome-vscode) | 🎨 A curated list of delightful VS Code packages and resources. | 29274 | JavaScript |
 | 2049 | [article-to-video](https://github.com/anguswangchuknamgyal-coder/article-to-video) | 文章 → 文字动画视频：逐字照读 + 克隆音色配音 + kinetic typography 文字动效，9:16 抖音封面。Remotion + MiniMax 海螺 + ffprobe，四个人工核验点。 | 2 | TypeScript |
 | 2050 | [ProperTree](https://github.com/corpnewt/ProperTree) | Cross platform GUI plist editor written in python. | 3215 | Python |
 | 2051 | [Transcrypt](https://github.com/TranscryptOrg/Transcrypt) | Python 3.9 to JavaScript compiler - Lean, fast, open! | 2915 | Python |
@@ -2060,85 +2060,85 @@
 | 2057 | [pastemangax](https://github.com/crowforkotlin/pastemangax) | 拷贝漫画三方APP 、项目采用多模块 和 MVI框架开发、Compose + 原生混合开发 | 1551 | 无 |
 | 2058 | [CNinfo2Notebookllm](https://github.com/jarodise/CNinfo2Notebookllm) | 无 | 365 | Python |
 | 2059 | [MyCryptoBot](https://github.com/diogomatoschaves/MyCryptoBot) | Open source crypto trading platform to automate trading strategies. | 145 | Python |
-| 2060 | [MAGI-1](https://github.com/SandAI-org/MAGI-1) | MAGI-1: Autoregressive Video Generation at Scale | 3824 | Python |
-| 2061 | [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 | 54577 | JavaScript |
+| 2060 | [MAGI-1](https://github.com/SandAI-org/MAGI-1) | MAGI-1: Autoregressive Video Generation at Scale | 3827 | Python |
+| 2061 | [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 | 54581 | JavaScript |
 | 2062 | [Train](https://github.com/fontworks-fonts/Train) | A font file available from Google Fonts. | 245 | Python |
 | 2063 | [zeta](https://github.com/murphsicles/zeta) | The final systems language | 88 | C |
-| 2064 | [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync) | Rhubarb Lip Sync is a command-line tool that automatically creates 2D mouth animation from voice recordings. You can use it for characters in computer games, in animated cartoons, or in any other proj... | 2810 | C++ |
+| 2064 | [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync) | Rhubarb Lip Sync is a command-line tool that automatically creates 2D mouth animation from voice recordings. You can use it for characters in computer games, in animated cartoons, or in any other proj... | 2815 | C++ |
 | 2065 | [chinese-traditional-patte](https://github.com/dososo/chinese-traditional-patterns) | 开源的中国传统纹样图录项目 · 100 高清纹样(规划 800) · 中英日韩双语 · CC BY-NC 4.0 · https://wenyang.net | 364 | 无 |
-| 2066 | [proxy_pool](https://github.com/jhao104/proxy_pool) | Python ProxyPool for web spider | 23806 | Python |
+| 2066 | [proxy_pool](https://github.com/jhao104/proxy_pool) | Python ProxyPool for web spider | 23807 | Python |
 | 2067 | [MegaTTS3](https://github.com/bytedance/MegaTTS3) | 无 | 6115 | Python |
 | 2068 | [ant_nest](https://github.com/strongbugman/ant_nest) | Simple, clear and fast Web Crawler framework build on python3.6+, powered by asyncio. | 93 | Python |
 | 2069 | [ttkbootstrap-next](https://github.com/israel-dryer/ttkbootstrap-next) | ttkbootstrap-next is a forward-looking re-architecture of the original ttkbootstrap library—bringing modern UI patterns, unified layout containers, reactive events, and rich theming to classic Tkinter... | 15 | Python |
 | 2070 | [hm-rev](https://github.com/CuzTeam/hm-rev) | DevECO REV | 114 | Python |
-| 2071 | [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | 🚀 AI 全自动短视频引擎  AI Fully Automated Short Video Engine | 30545 | Python |
+| 2071 | [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | 🚀 AI 全自动短视频引擎  AI Fully Automated Short Video Engine | 30552 | Python |
 | 2072 | [Aperant](https://github.com/AndyMik90/Aperant) | Autonomous multi-session AI coding | 14632 | TypeScript |
 | 2073 | [midday](https://github.com/midday-ai/midday) | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers | 15143 | TypeScript |
 | 2074 | [onefilellm](https://github.com/jimmc414/onefilellm) | Specify a github or local repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard  for easier LLM ingestion | 2032 | Python |
 | 2075 | [writer](https://github.com/mintlify/writer) | ✍️ AI powered documentation writer | 3128 | TypeScript |
-| 2076 | [wxhelper](https://github.com/ttttupup/wxhelper) | Hook  WeChat  / 微信逆向 | 3209 | C++ |
+| 2076 | [wxhelper](https://github.com/ttttupup/wxhelper) | Hook  WeChat  / 微信逆向 | 3210 | C++ |
 | 2077 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com） | 76714 | Java |
 | 2078 | [xiaohu-wechat-format](https://github.com/xiaohuailabs/xiaohu-wechat-format) | Claude Code 公众号一键排版+发布技能  Markdown → 微信兼容 HTML → 推送草稿箱  30 套主题 + 可视化画廊 | 709 | Python |
 | 2079 | [xhshow](https://github.com/Cloxl/xhshow) | 小红书xs纯算 小红书x-s x-s-common xsc 等字段 纯算逆向 | 1125 | Python |
-| 2080 | [AI-Trader](https://github.com/HKUDS/AI-Trader) | "AI-Trader: 100% Fully-Automated Agent-Native Trading"   | 23388 | Python |
+| 2080 | [AI-Trader](https://github.com/HKUDS/AI-Trader) | "AI-Trader: 100% Fully-Automated Agent-Native Trading"   | 23393 | Python |
 | 2081 | [moviepy-cli](https://github.com/wkentaro/moviepy-cli) | Command line interface for MoviePy. | 28 | Python |
-| 2082 | [Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) | 收集整理 GitHub 上高质量、有趣的开源项目。 | 17452 | 无 |
-| 2083 | [XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) | 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。 | 9795 | Python |
+| 2082 | [Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) | 收集整理 GitHub 上高质量、有趣的开源项目。 | 17453 | 无 |
+| 2083 | [XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) | 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。 | 9796 | Python |
 | 2084 | [Stable-Diffusion-Webui-Ci](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper) | Stable Diffusion Webui Extension for Civitai, to manage your model much more easily. | 2514 | Python |
-| 2085 | [Blog](https://github.com/mqyqingfeng/Blog) | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 | 31040 | 无 |
+| 2085 | [Blog](https://github.com/mqyqingfeng/Blog) | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 | 31039 | 无 |
 | 2086 | [xiaomusic](https://github.com/hanxi/xiaomusic) | 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。 | 10008 | Python |
-| 2087 | [PySnooper](https://github.com/cool-RR/PySnooper) | Never use print for debugging again | 16577 | Python |
+| 2087 | [PySnooper](https://github.com/cool-RR/PySnooper) | Never use print for debugging again | 16578 | Python |
 | 2088 | [OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) | 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~ | 2667 | CSS |
-| 2089 | [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | A collection of MCP clients. | 6644 | 无 |
+| 2089 | [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | A collection of MCP clients. | 6645 | 无 |
 | 2090 | [pi-skills](https://github.com/badlogic/pi-skills) | Skills for pi coding agent (compatible with Claude Code and Codex CLI) | 2674 | JavaScript |
 | 2091 | [flaskwebgui](https://github.com/ClimenteA/flaskwebgui) | Create desktop applications with Flask/Django/FastAPI! | 783 | Python |
 | 2092 | [Deepseek-Cowork](https://github.com/imjszhang/Deepseek-Cowork) | Open-source alternative to Claude Cowork - Browser automation & AI assistant powered by DeepSeek | 225 | JavaScript |
 | 2093 | [hermes-agent](https://github.com/JimLiu/hermes-agent) | The agent that grows with you | 3 | Python |
-| 2094 | [presentation-ai](https://github.com/allweonedev/presentation-ai) | ALLWEONE® Open source AI presentation generator Gamma Alternative. Create professional slides with customizable themes and AI-generated content in minutes. | 3082 | TypeScript |
-| 2095 | [higgs-audio](https://github.com/boson-ai/higgs-audio) | Text-audio foundation model from Boson AI | 8393 | Python |
+| 2094 | [presentation-ai](https://github.com/allweonedev/presentation-ai) | ALLWEONE® Open source AI presentation generator Gamma Alternative. Create professional slides with customizable themes and AI-generated content in minutes. | 3083 | TypeScript |
+| 2095 | [higgs-audio](https://github.com/boson-ai/higgs-audio) | Text-audio foundation model from Boson AI | 8394 | Python |
 | 2096 | [googlevoice](https://github.com/ssnhd/googlevoice) | 注册 Google Voice 号码详细步骤 | 2242 | 无 |
-| 2097 | [log-lottery](https://github.com/LOG1997/log-lottery) | 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。 | 3426 | TypeScript |
+| 2097 | [log-lottery](https://github.com/LOG1997/log-lottery) | 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。 | 3425 | TypeScript |
 | 2098 | [FatRat-Collect](https://github.com/KitePig/FatRat-Collect) | 胖鼠采集 WordPress优秀开源采集插件 | 522 | PHP |
-| 2099 | [void](https://github.com/voideditor/void) | 无 | 28704 | TypeScript |
+| 2099 | [void](https://github.com/voideditor/void) | 无 | 28703 | TypeScript |
 | 2100 | [open-ralph-wiggum](https://github.com/Th0rgal/open-ralph-wiggum) | Type `ralph "prompt"` to start open code in a ralph loop. Also supports a prompt file & status check. Open Code, Claude Code, Codex, Copilot | 1910 | TypeScript |
 | 2101 | [Python-UIAutomation-for-W](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) | 🐍Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ... | 3589 | Python |
-| 2102 | [terminator](https://github.com/mediar-ai/terminator) | playwright for windows computer use  | 1675 | Rust |
+| 2102 | [terminator](https://github.com/mediar-ai/terminator) | playwright for windows computer use  | 1676 | Rust |
 | 2103 | [X-data](https://github.com/ttmouse/X-data) | Local-first Chrome extension for collecting, organizing, and exporting X/Twitter posts for research, AI workflows, and personal knowledge management. | 49 | JavaScript |
 | 2104 | [botgroup.chat](https://github.com/maojindao55/botgroup.chat) | AI机器人群聊 | 1718 | TypeScript |
 | 2105 | [python-cheatsheet-redefin](https://github.com/pynickle/python-cheatsheet-redefined) | 🌈 Python cheatsheet for all standard libraries | 17 | Python |
 | 2106 | [msOauth2api](https://github.com/HChaoHui/msOauth2api) | 将微软Oauth2登录取件转换为API取件 部署在Vercel 无服务器版 | 540 | HTML |
 | 2107 | [em-downpour-downloader](https://github.com/ErinMorelli/em-downpour-downloader) | Download Downpour.com audiobook files. | 10 | Python |
 | 2108 | [image-extender](https://github.com/boona13/image-extender) | Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker. | 1123 | TypeScript |
-| 2109 | [get-shit-done](https://github.com/gsd-build/get-shit-done) | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. | 64121 | JavaScript |
-| 2110 | [baidu_poi_search](https://github.com/soaringsoul/baidu_poi_search) | 一个基于pyqt5的百度地图兴趣点GUI采集工具，可根据关键词搜索指定区域的兴趣点，并导出为excel文件 | 141 | Python |
+| 2109 | [get-shit-done](https://github.com/gsd-build/get-shit-done) | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. | 64119 | JavaScript |
+| 2110 | [baidu_poi_search](https://github.com/soaringsoul/baidu_poi_search) | 一个基于pyqt5的百度地图兴趣点GUI采集工具，可根据关键词搜索指定区域的兴趣点，并导出为excel文件 | 140 | Python |
 | 2111 | [zhuque](https://github.com/Sophomoresty/zhuque) | Tencent Zhuque AI detection CLI — text and image, batch serial, auto-cooldown | 80 | Python |
-| 2112 | [Viper](https://github.com/FunnyWolf/Viper) | Adversary simulation and Red teaming platform with AI | 5364 | 无 |
+| 2112 | [Viper](https://github.com/FunnyWolf/Viper) | Adversary simulation and Red teaming platform with AI | 5365 | 无 |
 | 2113 | [golang-open-source-projec](https://github.com/hackstoic/golang-open-source-projects) | 为互联网IT人打造的中文版awesome-go | 11591 | Go |
 | 2114 | [PocketFlow-Tutorial-Codeb](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) | Pocket Flow: Codebase to Tutorial | 12775 | Python |
-| 2115 | [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors | 41194 | JavaScript |
+| 2115 | [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors | 41201 | JavaScript |
 | 2116 | [VoiceCraft](https://github.com/jasonppy/VoiceCraft) | Zero-Shot Speech Editing and Text-to-Speech in the Wild | 8595 | Jupyter Notebook |
 | 2117 | [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) | Algorithm Patterns — the most scientific way to practice, the fastest path to an offer. You deserve it~  | 15459 | Go |
-| 2118 | [claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust) | 🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97%  High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary | 1669 | TypeScript |
+| 2118 | [claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust) | 🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97%  High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary | 1670 | TypeScript |
 | 2119 | [vbot](https://github.com/Hanson/vbot) | weixin-cli,qiwei-cli,微信，企微，机器人，企业微信，企微机器人，微信机器人，ipad协议，视频号下载，聚合聊天，RPA，协议，hook，逆向，群发，自动回复，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用 | 4634 | PHP |
-| 2120 | [metrics](https://github.com/lowlighter/metrics) | 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! | 17485 | JavaScript |
+| 2120 | [metrics](https://github.com/lowlighter/metrics) | 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! | 17489 | JavaScript |
 | 2121 | [TenCyclesofFate](https://github.com/CassiopeiaCode/TenCyclesofFate) | 《浮生十梦》 是一款基于 Web 的沉浸式文字冒险游戏。玩家在游戏中扮演一个与命运博弈的角色，每天有十次机会进入不同的“梦境”（即生命轮回），体验由 AI 动态生成的、独一无二的人生故事。游戏的核心在于“知足”与“贪欲”之间的抉择：是见好就收，还是追求更高的回报但可能失去一切？ | 260 | Python |
-| 2122 | [next-forge](https://github.com/vercel/next-forge) | Production-grade Turborepo template for Next.js apps. | 7800 | TypeScript |
+| 2122 | [next-forge](https://github.com/vercel/next-forge) | Production-grade Turborepo template for Next.js apps. | 7801 | TypeScript |
 | 2123 | [pyvideo](https://github.com/pyvideo/pyvideo) | A Python media index | 270 | Python |
-| 2124 | [claude-code-cheat-sheet](https://github.com/Njengah/claude-code-cheat-sheet) | Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes | 2004 | 无 |
-| 2125 | [legado](https://github.com/gedoor/legado) | Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。 | 47298 | Kotlin |
-| 2126 | [openclaw-cn](https://github.com/mf-yang/openclaw-cn) | 中文社区版OpenClaw，同原版保持定期更新，已内置钉钉、企业微信、飞书、QQ、微信以及国内网络环境优化。你的专属个人AI助手。支持所有操作系统和平台。🦞 | 4667 | TypeScript |
+| 2124 | [claude-code-cheat-sheet](https://github.com/Njengah/claude-code-cheat-sheet) | Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes | 2003 | 无 |
+| 2125 | [legado](https://github.com/gedoor/legado) | Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。 | 47304 | Kotlin |
+| 2126 | [openclaw-cn](https://github.com/mf-yang/openclaw-cn) | 中文社区版OpenClaw，同原版保持定期更新，已内置钉钉、企业微信、飞书、QQ、微信以及国内网络环境优化。你的专属个人AI助手。支持所有操作系统和平台。🦞 | 4666 | TypeScript |
 | 2127 | [py3-tts](https://github.com/thevickypedia/py3-tts) | Offline Text To Speech library for python | 30 | Python |
 | 2128 | [polymarket-cli](https://github.com/Polymarket/polymarket-cli) | 无 | 2917 | Rust |
-| 2129 | [CosyVoice](https://github.com/QwenAudio/CosyVoice) | Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability. | 24520 | Python |
+| 2129 | [CosyVoice](https://github.com/QwenAudio/CosyVoice) | Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability. | 24525 | Python |
 | 2130 | [dongbei](https://github.com/zhanyong-wan/dongbei) | 东北方言编程语言 | 2656 | Python |
 | 2131 | [custom-diffusion](https://github.com/adobe-research/custom-diffusion) | Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion (CVPR 2023) | 1976 | Python |
 | 2132 | [OpenMythos](https://github.com/kyegomez/OpenMythos) | A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature. | 14934 | Python |
 | 2133 | [OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL) | OpenClaw-RL: Train any agent simply by talking | 5752 | Python |
-| 2134 | [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | Easy-to-use and powerful LLM and SLM library with awesome model zoo. | 12999 | Python |
-| 2135 | [aider](https://github.com/Aider-AI/aider) | aider is AI pair programming in your terminal | 50264 | Python |
+| 2134 | [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | Easy-to-use and powerful LLM and SLM library with awesome model zoo. | 12998 | Python |
+| 2135 | [aider](https://github.com/Aider-AI/aider) | aider is AI pair programming in your terminal | 50276 | Python |
 | 2136 | [danghuangshang](https://github.com/wanikua/danghuangshang) | Open-source multi-agent collaboration system inspired by Chinese governance — deploy and coordinate specialized AI agents with OpenClaw. | 2716 | TypeScript |
 | 2137 | [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ | 12283 | TypeScript |
-| 2138 | [the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching) | One has no future if one couldn't teach themself. | 19500 | Jupyter Notebook |
+| 2138 | [the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching) | One has no future if one couldn't teach themself. | 19502 | Jupyter Notebook |
 | 2139 | [agent-game-forge](https://github.com/0x0funky/agent-game-forge) | The local-first, bring-your-own-agent 2D game IDE. Codex or Claude Code drives, multi-engine on the roadmap. | 229 | TypeScript |
 | 2140 | [Paper2Slides](https://github.com/HKUDS/Paper2Slides) | "Paper2Slides: From Paper to Presentation in One Click" | 3863 | Python |
 | 2141 | [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) | 企业微信/微信 安全使用的 LLM 个人助手/客服, 也支持 dify 工作流 | 1168 | Go |
@@ -2146,102 +2146,102 @@
 | 2143 | [llama-cookbook](https://github.com/meta-llama/llama-cookbook) | Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f... | 18600 | Jupyter Notebook |
 | 2144 | [Pymem](https://github.com/srounet/Pymem) | A python library for windows, providing the needed functions to start working on your own with memory editing. | 378 | Python |
 | 2145 | [wechatpy](https://github.com/wechatpy/wechatpy) | WeChat SDK for Python | 4313 | Python |
-| 2146 | [cheat](https://github.com/cheat/cheat) | cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre... | 13510 | Go |
+| 2146 | [cheat](https://github.com/cheat/cheat) | cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre... | 13512 | Go |
 | 2147 | [x-algorithm-wiki](https://github.com/cclank/x-algorithm-wiki) | Architecture wiki for the open-sourced X "For You" recommendation algorithm (xai-org/x-algorithm) — 21 source-anchored pages | 165 | HTML |
 | 2148 | [city-vein](https://github.com/antct/city-vein) | Urban structure characterized by :bus: public lines | 783 | Python |
-| 2149 | [BBackupp](https://github.com/Lakr233/BBackupp) | Automated iOS Backup Robot | 2633 | Swift |
-| 2150 | [AIaW](https://github.com/NitroRCr/AIaW) | AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP  更好的 AI 客户端 | 1842 | TypeScript |
+| 2149 | [BBackupp](https://github.com/Lakr233/BBackupp) | Automated iOS Backup Robot | 2634 | Swift |
+| 2150 | [AIaW](https://github.com/NitroRCr/AIaW) | AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP  更好的 AI 客户端 | 1841 | TypeScript |
 | 2151 | [PromptX](https://github.com/Deepractice/PromptX) | PromptX · 领先的AI 智能体上下文平台 ｜ PromptX · Leading AI Agent Context Platform | 3687 | TypeScript |
 | 2152 | [PythonIDE-PyMe](https://github.com/honghaier-game/PythonIDE-PyMe) | PyMe – A visual development tool for Python developers. Build software and games through an intuitive visual interface, and publish cross-platform with one click. Make your Python projects run anywher... | 924 | C++ |
 | 2153 | [synthetix](https://github.com/zhaofu-hhh/synthetix) | 致力于更优雅的AI生成短视频，并提供webui界面，方便创作 | 86 | Python |
-| 2154 | [image-blaster](https://github.com/neilsonnn/image-blaster) | An image-to-world skillset for Claude. | 12638 | TypeScript |
-| 2155 | [solana-agent-kit](https://github.com/sendaifun/solana-agent-kit) | connect any ai agents to solana protocols | 1775 | TypeScript |
-| 2156 | [BBDown](https://github.com/nilaoda/BBDown) | Bilibili Downloader. 一个命令行式哔哩哔哩下载器. | 13819 | C# |
+| 2154 | [image-blaster](https://github.com/neilsonnn/image-blaster) | An image-to-world skillset for Claude. | 12685 | TypeScript |
+| 2155 | [solana-agent-kit](https://github.com/sendaifun/solana-agent-kit) | connect any ai agents to solana protocols | 1776 | TypeScript |
+| 2156 | [BBDown](https://github.com/nilaoda/BBDown) | Bilibili Downloader. 一个命令行式哔哩哔哩下载器. | 13818 | C# |
 | 2157 | [search_wechat_key](https://github.com/sunhanaix/search_wechat_key) | 搜索微信数据库加密key信息 | 64 | Python |
 | 2158 | [phantom-motion](https://github.com/pixelxzen/phantom-motion) | Phantom-Motion is an incredibly powerful, epic interactive dynamic visual storytelling generator. Its capabilities are limited only by the bounds of your imagination! 它是一个极其硬核的史诗级交互式动态视觉叙事生成器。它的实力只取决于... | 187 | HTML |
 | 2159 | [Heyxk.github.io](https://github.com/Heyxk/Heyxk.github.io) | 我的博客 | 69 | Java |
-| 2160 | [cursor](https://github.com/cursor/cursor) | 无 | 33362 | 无 |
+| 2160 | [cursor](https://github.com/cursor/cursor) | 无 | 33361 | 无 |
 | 2161 | [ccmate](https://github.com/djyde/ccmate) | Configure your Claude Code without pain | 622 | TypeScript |
 | 2162 | [team-manage](https://github.com/tibbar213/team-manage) | gpt team管理和自动邀请 | 1041 | Python |
-| 2163 | [cunzhi](https://github.com/imhuso/cunzhi) | 告别AI提前终止烦恼，助力AI更加持久 | 1386 | Rust |
+| 2163 | [cunzhi](https://github.com/imhuso/cunzhi) | 告别AI提前终止烦恼，助力AI更加持久 | 1385 | Rust |
 | 2164 | [Auto-Synced-Translated-Du](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) | Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's t... | 1756 | Python |
 | 2165 | [gelab-zero](https://github.com/stepfun-ai/gelab-zero) | STEP-GUI: The top GUI agent solution in the galaxy.  Developed by the StepFun-GELab team and powered by StepFun’s cutting-edge research capabilities. | 2296 | Python |
 | 2166 | [ds2api](https://github.com/CJackHwang/ds2api) | DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web pr... | 4694 | Go |
 | 2167 | [Sprite-Pipeline](https://github.com/LayrKits/Sprite-Pipeline) | 2D Sprite Sheet Creation Pipeline | 601 | Python |
 | 2168 | [skill-prompt-generator](https://github.com/huangserva/skill-prompt-generator) | 这是一个基于Claude Skill的**AI人像Prompt生成系统**，能够从特征库中智能组合生成高质量的人像描述Prompt，并具备自动学习和库扩展能力。 核心能力: Prompt生成、特征提取、自动学习、智能审核、版本控制 | 1536 | Python |
 | 2169 | [AutoSkill](https://github.com/ECNU-ICALK/AutoSkill) | AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution | 621 | Python |
-| 2170 | [Python](https://github.com/injetlee/Python) | Python脚本。模拟登录知乎， 爬虫，操作excel，微信公众号，远程开机 | 10927 | Python |
+| 2170 | [Python](https://github.com/injetlee/Python) | Python脚本。模拟登录知乎， 爬虫，操作excel，微信公众号，远程开机 | 10928 | Python |
 | 2171 | [AutoGPT-ZH](https://github.com/RiseInRose/AutoGPT-ZH) | Auto-GPT 中文版 文档翻译 研究 交流 | 32 | Python |
 | 2172 | [Auto-GPT-zh](https://github.com/RiseInRose/Auto-GPT-zh) | Auto-GPT 中文翻译 研究 交流 | 45 | Python |
 | 2173 | [moltworker](https://github.com/cloudflare/moltworker) | Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers | 9947 | TypeScript |
 | 2174 | [AssetsHunter](https://github.com/rabbitmask/AssetsHunter) | 资产狩猎框架-AssetsHunter，信息收集是一项艺术~ | 500 | Python |
-| 2175 | [git-mcp](https://github.com/idosal/git-mcp) | Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project | 8543 | TypeScript |
+| 2175 | [git-mcp](https://github.com/idosal/git-mcp) | Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project | 8545 | TypeScript |
 | 2176 | [WeClaw](https://github.com/MegaSuperKitty/WeClaw) | WeClaw: A Personal Assistant Powered by Mobile QQ and Windows PC Collaboration✨inspired by OpenClaw✨ | 369 | Python |
 | 2177 | [AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture) | AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" (^o^)/~ | 4611 | Java |
-| 2178 | [stock](https://github.com/pythonstock/stock) | stock，股票系统。使用python进行开发。 | 7894 | Python |
+| 2178 | [stock](https://github.com/pythonstock/stock) | stock，股票系统。使用python进行开发。 | 7895 | Python |
 | 2179 | [routersploit](https://github.com/threat9/routersploit) | Exploitation Framework for Embedded Devices | 13344 | Python |
-| 2180 | [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL) | A live stream development of RL tunning for LLM agents | 4180 | Python |
+| 2180 | [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL) | A live stream development of RL tunning for LLM agents | 4181 | Python |
 | 2181 | [brainrot](https://github.com/browserbase/brainrot) | Have something to say? We'll make memes from it | 94 | TypeScript |
 | 2182 | [myclaude](https://github.com/stellarlinkco/myclaude) | Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode) | 2755 | Go |
-| 2183 | [Public-APIs](https://github.com/n0shake/Public-APIs) | 📚 A public list of APIs from round the web. | 24157 | 无 |
+| 2183 | [Public-APIs](https://github.com/n0shake/Public-APIs) | 📚 A public list of APIs from round the web. | 24159 | 无 |
 | 2184 | [NextCreator](https://github.com/MoonWeSif/NextCreator) | 基于可视化节点的 AI 内容生成工作流工具，支持 文本/图片/视频/PPT 链式创作。 | 423 | TypeScript |
 | 2185 | [pautobot](https://github.com/nrl-ai/pautobot) | 🔥 Your private task assistant with GPT 🔥 - Ask questions about your documents. | 158 | Python |
-| 2186 | [Book3_Elements-of-Mathema](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics) | Book_3_《数学要素》    鸢尾花书：从加减乘除到机器学习；上架；欢迎继续纠错，纠错多的同学还会有赠书！ | 7726 | Jupyter Notebook |
-| 2187 | [director_ai](https://github.com/freestylefly/director_ai) | AI 漫剧制作 APP，能一键生成剧本、分镜及合成视频，让你在手机上也能快速制作漫剧。 | 1842 | Python |
+| 2186 | [Book3_Elements-of-Mathema](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics) | Book_3_《数学要素》    鸢尾花书：从加减乘除到机器学习；上架；欢迎继续纠错，纠错多的同学还会有赠书！ | 7727 | Jupyter Notebook |
+| 2187 | [director_ai](https://github.com/freestylefly/director_ai) | AI 漫剧制作 APP，能一键生成剧本、分镜及合成视频，让你在手机上也能快速制作漫剧。 | 1843 | Python |
 | 2188 | [pyobfuscate](https://github.com/astrand/pyobfuscate) | pyobfuscate | 656 | Python |
-| 2189 | [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code | 15940 | 无 |
+| 2189 | [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code | 15950 | 无 |
 | 2190 | [deepseek2api](https://github.com/iidamie/deepseek2api) | DeepSeek 逆向 API | 644 | Python |
-| 2191 | [claude-task-master](https://github.com/eyaltoledano/claude-task-master) | An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. | 28552 | JavaScript |
+| 2191 | [claude-task-master](https://github.com/eyaltoledano/claude-task-master) | An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. | 28555 | JavaScript |
 | 2192 | [SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) | SuperPrompt is an attempt to engineer prompts that might help us understand AI agents. | 6429 | 无 |
 | 2193 | [nexu](https://github.com/nexu-io/nexu) | The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone ... | 3298 | TypeScript |
-| 2194 | [mgrep](https://github.com/mixedbread-ai/mgrep) | A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more. | 4442 | TypeScript |
+| 2194 | [mgrep](https://github.com/mixedbread-ai/mgrep) | A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more. | 4443 | TypeScript |
 | 2195 | [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) | JavaScript 教程 https://wangdoc.com/javascript | 4001 | Shell |
-| 2196 | [Hands-On-Large-Language-M](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" | 30420 | Jupyter Notebook |
+| 2196 | [Hands-On-Large-Language-M](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" | 30426 | Jupyter Notebook |
 | 2197 | [libsql-python](https://github.com/tursodatabase/libsql-python) | Python bindings for the libSQL database library | 209 | Rust |
-| 2198 | [tts-vue](https://github.com/LokerL/tts-vue) | 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。 | 6081 | TypeScript |
-| 2199 | [icons](https://github.com/game-icons/icons) | All SVG icons available on https://game-icons.net | 1373 | Shell |
-| 2200 | [opc-methodology](https://github.com/easychen/opc-methodology) | 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 | 17127 | PHP |
+| 2198 | [tts-vue](https://github.com/LokerL/tts-vue) | 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。 | 6083 | TypeScript |
+| 2199 | [icons](https://github.com/game-icons/icons) | All SVG icons available on https://game-icons.net | 1376 | Shell |
+| 2200 | [opc-methodology](https://github.com/easychen/opc-methodology) | 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 | 17128 | PHP |
 | 2201 | [vue0](https://github.com/zernonia/vue0) | Vue version open source alternative for v0.dev | 820 | Vue |
-| 2202 | [Weylus](https://github.com/H-M-H/Weylus) | Use your tablet as graphic tablet/touch screen on your computer. | 9809 | Rust |
-| 2203 | [AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) | FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。 | 2535 | Python |
+| 2202 | [Weylus](https://github.com/H-M-H/Weylus) | Use your tablet as graphic tablet/touch screen on your computer. | 9810 | Rust |
+| 2203 | [AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) | FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。 | 2536 | Python |
 | 2204 | [hyperfy](https://github.com/hyperfy-xyz/hyperfy) | World building for everyone | 313 | JavaScript |
 | 2205 | [InfoSpider](https://github.com/kangvcar/InfoSpider) | INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源... | 8279 | Python |
 | 2206 | [neurapress](https://github.com/tianyaxiang/neurapress) | NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动设备。搭配 DeepSeek和微信公众号助手使用，碎片时间也能用手机发有排版的文章了。 | 1841 | TypeScript |
 | 2207 | [wxmp](https://github.com/jaywcjlove/wxmp) | 微信公众号文章 Markdown 编辑器，使用 markdown 语法创建一篇简介美观大方的微信公众号图文。 | 538 | TypeScript |
-| 2208 | [Duix-Avatar](https://github.com/duixcom/Duix-Avatar) | 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning. | 16454 | C |
-| 2209 | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. | 235826 | 无 |
+| 2208 | [Duix-Avatar](https://github.com/duixcom/Duix-Avatar) | 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning. | 16455 | C |
+| 2209 | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. | 235920 | 无 |
 | 2210 | [kryptogo-meme-trader](https://github.com/kryptogo/kryptogo-meme-trader) | 无 | 34 | Python |
 | 2211 | [aetherviz-master](https://github.com/andyhuo520/aetherviz-master) | AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页 | 1742 | 无 |
 | 2212 | [AI_NovelCraft-](https://github.com/15673312611/AI_NovelCraft-) | ai小说 一键生成多章节的长篇小说,一键生成详细大纲,一键拆分多卷,自然语言消痕,自动衔接之前章节，ai一键去痕 支持deepseek等大模型 | 88 | Java |
 | 2213 | [Miles](https://github.com/ai4deep/Miles) | 二爷翻墙，专注免费翻墙30年，但没有掌握核心科技，一切已经开始！^_^ | 2031 | 无 |
 | 2214 | [mp-html](https://github.com/jin-yufeng/mp-html) | 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用 | 3752 | JavaScript |
 | 2215 | [Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) | 中文LLaMA-2 & Alpaca-2大模型二期项目 + 64K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs with 64K long context models) | 7100 | Python |
-| 2216 | [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs) | 18914 | Python |
+| 2216 | [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs) | 18916 | Python |
 | 2217 | [qtkaifajingyan](https://github.com/feiyangqingyun/qtkaifajingyan) | 自己总结的这十多年做Qt开发以来的经验，以及Qt相关武林秘籍电子书，会一直持续更新增加，欢迎各位留言增加内容或者提出建议，谢谢！公众号：Qt实战/Qt入门和进阶/Qt教程 | 4680 | 无 |
 | 2218 | [stock](https://github.com/Rockyzsu/stock) | 30天掌握量化交易 (持续更新) | 9150 | Python |
 | 2219 | [bigbossbot](https://github.com/kitakitsune0x/bigbossbot) | Self-hosted live intelligence dashboard for conflict tracking, alerts, markets, and OSINT feeds, with optional guest access and MCP support for authenticated users. | 13 | TypeScript |
-| 2220 | [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide | 148016 | JavaScript |
+| 2220 | [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide | 148013 | JavaScript |
 | 2221 | [GeminiProChat](https://github.com/babaohuang/GeminiProChat) | Minimal web UI for GeminiPro. | 4916 | TypeScript |
 | 2222 | [modern-screenshot](https://github.com/qq15725/modern-screenshot) | 📸 Quickly generate image from DOM node using HTML5 canvas and SVG. | 2097 | TypeScript |
 | 2223 | [awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) | A curated list of vibe coding references, collaborating with AI to write code. | 5458 | 无 |
-| 2224 | [immortal-skill](https://github.com/agenmod/immortal-skill) | ♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。 | 1160 | Python |
+| 2224 | [immortal-skill](https://github.com/agenmod/immortal-skill) | ♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。 | 1161 | Python |
 | 2225 | [Depixelization_poc](https://github.com/spipm/Depixelization_poc) | Depix is a PoC for a technique to recover plaintext from pixelized screenshots. | 4535 | Python |
 | 2226 | [towxml](https://github.com/sbfkcel/towxml) | 微信小程序HTML、Markdown渲染库 | 2891 | JavaScript |
 | 2227 | [Magical-Template](https://github.com/lunalucid/Magical-Template) | Fully coded & animated Ren'Py GUI template | 2 | Ren'Py |
 | 2228 | [blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) | Blackbox Protobuf is a set of tools for working with encoded Protocol Buffers (protobuf) without the matching protobuf definition. | 743 | Python |
-| 2229 | [openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) | Turn OpenClaw from a black box into a local control center you can see, trust, and control. | 3994 | TypeScript |
-| 2230 | [Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Markets | 48207 | Python |
+| 2229 | [openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) | Turn OpenClaw from a black box into a local control center you can see, trust, and control. | 3993 | TypeScript |
+| 2230 | [Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Markets | 48227 | Python |
 | 2231 | [CuteGIF](https://github.com/tasy5kg/CuteGIF) | Convert video to GIF. Simple and fast. | 613 | Kotlin |
-| 2232 | [wxauto](https://github.com/cluic/wxauto) | Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人 | 7486 | Python |
+| 2232 | [wxauto](https://github.com/cluic/wxauto) | Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人 | 7487 | Python |
 | 2233 | [sitemcp](https://github.com/ryoppippi/sitemcp) | Fetch an entire site and use it as an MCP Server | 762 | TypeScript |
 | 2234 | [bulk-downloader-for-reddi](https://github.com/Serene-Arc/bulk-downloader-for-reddit) | Downloads and archives content from reddit | 2634 | Python |
 | 2235 | [novel-video-workflow](https://github.com/hulutech-web/novel-video-workflow) | 完全本地的AI小说视频生成工作流，每个人都能成为导演！ | 348 | Go |
-| 2236 | [deep-research](https://github.com/dzhng/deep-research) | An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp... | 19933 | TypeScript |
+| 2236 | [deep-research](https://github.com/dzhng/deep-research) | An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp... | 19941 | TypeScript |
 | 2237 | [wx4py](https://github.com/claw-codes/wx4py) | 微信4.x自动化机器人：群聊机器人、批量群发（支持文件）、批量设置群公告、聊天记录导出、群管理  5分钟上手 | 817 | Python |
-| 2238 | [Claudable](https://github.com/anymorph-ai/Claudable) | Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly. | 4053 | TypeScript |
+| 2238 | [Claudable](https://github.com/anymorph-ai/Claudable) | Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly. | 4054 | TypeScript |
 | 2239 | [GHunt](https://github.com/mxrch/GHunt) | 🕵️‍♂️ Offensive Google framework. | 19910 | Python |
 | 2240 | [Microverse](https://github.com/KsanaDock/Microverse) | A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social ... | 2522 | GDScript |
-| 2241 | [Open-Sora](https://github.com/hpcaitech/Open-Sora) | Open-Sora: Democratizing Efficient Video Production for All | 29953 | Python |
+| 2241 | [Open-Sora](https://github.com/hpcaitech/Open-Sora) | Open-Sora: Democratizing Efficient Video Production for All | 29957 | Python |
 | 2242 | [url-reader](https://github.com/akedia/url-reader) | 智能多平台内容抓取工具 - 支持微信公众号、小红书、Twitter/X、知乎等 | 3 | Python |
 | 2243 | [ipa-server](https://github.com/iineva/ipa-server) | Upload and install iOS ipa and Android apk in web. | 804 | Go |
 | 2244 | [makepad-skills](https://github.com/ZhangHanDong/makepad-skills) | Build App with Makepad and AI skills | 753 | 无 |
@@ -2257,73 +2257,73 @@
 | 2254 | [charts.css](https://github.com/ChartsCSS/charts.css) | Open source CSS framework for data visualization. | 6583 | HTML |
 | 2255 | [robot-tools](https://github.com/yooge/robot-tools) | 无 | 18 | JavaScript |
 | 2256 | [open-xiaoai](https://github.com/idootop/open-xiaoai) | 🔊 让小爱音箱「听见你的声音」，解锁无限可能。  | 2642 | Rust |
-| 2257 | [mi-gpt](https://github.com/idootop/mi-gpt) | 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。 | 12506 | TypeScript |
+| 2257 | [mi-gpt](https://github.com/idootop/mi-gpt) | 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。 | 12507 | TypeScript |
 | 2258 | [wemo](https://github.com/JackyLee3362/wemo) | 微信朋友圈备份工具 | 265 | Python |
 | 2259 | [AreaCity-JsSpider-StatsGo](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) | 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2026年04月03日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、中国•国家地名信息库、统计局、高德地图、腾讯地图行政区划数据 | 6987 | JavaScript |
 | 2260 | [ChatAny](https://github.com/ChatAnyTeam/ChatAny) | 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务  One click access to your own ChatGPT+Many AI web services | 6466 | TypeScript |
-| 2261 | [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) | 🔥🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high pe... | 5820 | Python |
+| 2261 | [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) | 🔥🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high pe... | 5821 | Python |
 | 2262 | [gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) | OpenAI to Google Gemini         https://gemini-openai-proxy.deno.dev | 436 | TypeScript |
-| 2263 | [stock](https://github.com/myhhub/stock) | stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。 | 15355 | Python |
+| 2263 | [stock](https://github.com/myhhub/stock) | stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。 | 15358 | Python |
 | 2264 | [cursor-api](https://github.com/wisdgod/cursor-api) | 无 | 691 | Rust |
 | 2265 | [DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) | 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、Youtube、快手、虎牙、斗鱼、B站、小红书、pandatv、sooplive、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、17Live、Twitch、Acfun、CHZZK、shopee等40+平台直播录制 | 11301 | Python |
 | 2266 | [DemoGPT](https://github.com/melih-unsal/DemoGPT) | 🤖 Create agentic apps in a second with your prompts. Everything you need to create an LLM Agent - tools, prompts, frameworks, and models - all in one place. | 1906 | Python |
 | 2267 | [claude-code](https://github.com/ZeenSong/claude-code) | Claude Code 源码文档解析 | 68 | TypeScript |
-| 2268 | [javascript-code-challenge](https://github.com/sadanandpai/javascript-code-challenges) | A collection of JavaScript modern interview code challenges for beginners to experts | 4467 | MDX |
+| 2268 | [javascript-code-challenge](https://github.com/sadanandpai/javascript-code-challenges) | A collection of JavaScript modern interview code challenges for beginners to experts | 4468 | MDX |
 | 2269 | [FastUI](https://github.com/pydantic/FastUI) | Build better UIs faster. | 8915 | Python |
-| 2270 | [Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) | Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation. | 6060 | Jupyter Notebook |
+| 2270 | [Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) | Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation. | 6061 | Jupyter Notebook |
 | 2271 | [AI2API](https://github.com/BlueSkyXN/AI2API) | Many AI-> API (OpenAI/DeepSeek) | 51 | Go |
-| 2272 | [Chinese-Security-RSS](https://github.com/zhengjim/Chinese-Security-RSS) | 网络安全、信息安全资讯的RSS订阅，网络安全、信息安全博客的RSS订阅，网络安全、信息安全公众号的RSS订阅 | 1866 | 无 |
+| 2272 | [Chinese-Security-RSS](https://github.com/zhengjim/Chinese-Security-RSS) | 网络安全、信息安全资讯的RSS订阅，网络安全、信息安全博客的RSS订阅，网络安全、信息安全公众号的RSS订阅 | 1867 | 无 |
 | 2273 | [weixin-agent-cli](https://github.com/Ginurx/weixin-agent-cli) | WeChat messaging CLI for AI agents, based on openclaw-weixin — poll, send & watch. JSON output.  基于 openclaw-weixin，专为 AI Agent 设计的微信消息命令行工具 | 7 | TypeScript |
-| 2274 | [clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) | 无 | 4215 | TypeScript |
+| 2274 | [clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) | 无 | 4216 | TypeScript |
 | 2275 | [codex-manager](https://github.com/cnlimiter/codex-manager) | 无 | 1986 | Python |
-| 2276 | [monaspace](https://github.com/githubnext/monaspace) | An innovative superfamily of fonts for code | 19853 | Shell |
+| 2276 | [monaspace](https://github.com/githubnext/monaspace) | An innovative superfamily of fonts for code | 19860 | Shell |
 | 2277 | [docarray](https://github.com/docarray/docarray) | Represent, send, store and search multimodal data | 3121 | Python |
 | 2278 | [gmgn-monitor](https://github.com/weiii8708271688/gmgn-monitor) | 監控gmgn上面的bsc代幣以及獲取錢包餘額 | 3 | JavaScript |
 | 2279 | [openclaw-manager](https://github.com/miaoxworld/openclaw-manager) | 无 | 1673 | TypeScript |
-| 2280 | [gym](https://github.com/openai/gym) | A toolkit for developing and comparing reinforcement learning algorithms. | 37237 | Python |
+| 2280 | [gym](https://github.com/openai/gym) | A toolkit for developing and comparing reinforcement learning algorithms. | 37234 | Python |
 | 2281 | [TOMATOX](https://github.com/liuxingyx/TOMATOX) | 基于Electron、React开发的全网在线免费VIP视频解析播放器，美剧、韩剧、日剧全资源，全平台（Windows、Linux、MacOS）可用 | 18 | TypeScript |
-| 2282 | [autoresearch](https://github.com/karpathy/autoresearch) | AI agents running research on single-GPU nanochat training automatically | 100645 | Python |
+| 2282 | [autoresearch](https://github.com/karpathy/autoresearch) | AI agents running research on single-GPU nanochat training automatically | 100660 | Python |
 | 2283 | [Pilipili-AutoVideo](https://github.com/OpenDemon/Pilipili-AutoVideo) | 🎬 全自动 AI 视频代理 · 一句话生成带字幕成片 · Fully Automated AI Video Agent · Local Deployment | 212 | Python |
-| 2284 | [PyDebloatX](https://github.com/Teraskull/PyDebloatX) | Python GUI for uninstalling the default Windows 10 apps. | 1685 | Python |
-| 2285 | [CLIP](https://github.com/openai/CLIP) | CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image | 34665 | Jupyter Notebook |
-| 2286 | [Amphion](https://github.com/open-mmlab/Amphion) | Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, ... | 10354 | Python |
-| 2287 | [blind_watermark](https://github.com/guofei9987/blind_watermark) | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ | 14880 | Python |
+| 2284 | [PyDebloatX](https://github.com/Teraskull/PyDebloatX) | Python GUI for uninstalling the default Windows 10 apps. | 1682 | Python |
+| 2285 | [CLIP](https://github.com/openai/CLIP) | CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image | 34670 | Jupyter Notebook |
+| 2286 | [Amphion](https://github.com/open-mmlab/Amphion) | Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, ... | 10355 | Python |
+| 2287 | [blind_watermark](https://github.com/guofei9987/blind_watermark) | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ | 14882 | Python |
 | 2288 | [png2pdf](https://github.com/gushuaialan1/png2pdf) | 长图自动分割转pdf方便打印 | 31 | Python |
 | 2289 | [codex-inter-agent-chat](https://github.com/Pricx/codex-inter-agent-chat) | Codex-native inter-agent terminal chat for independent Codex sessions | 75 | Python |
 | 2290 | [python-qrcode](https://github.com/lincolnloop/python-qrcode) | Python QR Code image generator | 4960 | Python |
-| 2291 | [jynew](https://github.com/jynew/jynew) | JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game. | 9007 | C# |
-| 2292 | [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | A community collection of OpenClaw use cases for making life easier. | 31638 | 无 |
-| 2293 | [excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) | Fast and streamable Excalidraw MCP App | 5708 | TypeScript |
-| 2294 | [zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) | 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。 | 10817 | HTML |
+| 2291 | [jynew](https://github.com/jynew/jynew) | JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game. | 9008 | C# |
+| 2292 | [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | A community collection of OpenClaw use cases for making life easier. | 31637 | 无 |
+| 2293 | [excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) | Fast and streamable Excalidraw MCP App | 5709 | TypeScript |
+| 2294 | [zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) | 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。 | 10816 | HTML |
 | 2295 | [addict](https://github.com/mewwts/addict) | The Python Dict that's better than heroin. | 2547 | Python |
 | 2296 | [aicodeguide](https://github.com/automata/aicodeguide) | AI Code Guide is a roadmap to start coding with AI | 2771 | 无 |
 | 2297 | [Claude-to-IM](https://github.com/op7418/Claude-to-IM) | Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu) | 474 | TypeScript |
 | 2298 | [Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) | Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark. | 2904 | TypeScript |
-| 2299 | [Airtest](https://github.com/AirtestProject/Airtest) | UI Automation Framework for Games and Apps | 9666 | Python |
+| 2299 | [Airtest](https://github.com/AirtestProject/Airtest) | UI Automation Framework for Games and Apps | 9667 | Python |
 | 2300 | [fetch-skill](https://github.com/aresbit/fetch-skill) | fetch-skill | 183 | Python |
 | 2301 | [qclaw-wechat-client](https://github.com/photon-hq/qclaw-wechat-client) | Reverse-engineered TypeScript client for QClaw's WeChat Access API. | 794 | TypeScript |
 | 2302 | [OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) | ClawdBot 一键部署工具 | 3394 | Shell |
-| 2303 | [weread-exporter](https://github.com/drunkdream/weread-exporter) | 将微信读书中的书籍导出成epub、pdf、mobi等格式 | 2407 | Python |
+| 2303 | [weread-exporter](https://github.com/drunkdream/weread-exporter) | 将微信读书中的书籍导出成epub、pdf、mobi等格式 | 2408 | Python |
 | 2304 | [Open-Claude-Cowork](https://github.com/DevAgentForge/Open-Claude-Cowork) | OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe. | 3396 | TypeScript |
 | 2305 | [Aurogen](https://github.com/UniRound-Tec/Aurogen) | "Aurogen🍊: The Multi-Agent Evolution of OpenClaw." | 548 | TypeScript |
-| 2306 | [triangula](https://github.com/rh12503/triangula) | Generate high-quality triangulated and polygonal art from images. | 3877 | Go |
+| 2306 | [triangula](https://github.com/rh12503/triangula) | Generate high-quality triangulated and polygonal art from images. | 3878 | Go |
 | 2307 | [autonovel](https://github.com/NousResearch/autonovel) | An autonomous novel writing pipeline, by Hermes Agent | 1703 | Python |
 | 2308 | [echotrace](https://github.com/ycccccccy/echotrace) | EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具  EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records | 3873 | 无 |
 | 2309 | [GLM-Image](https://github.com/zai-org/GLM-Image) | GLM-Image: Auto-regressive for Dense-knowledge and High-fidelity Image Generation. | 1093 | Python |
-| 2310 | [LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) | http://learnopengl.com 系列教程的简体中文翻译 | 6142 | CSS |
-| 2311 | [pydub](https://github.com/jiaaro/pydub) | Manipulate audio with a simple and easy high level interface | 9806 | Python |
+| 2310 | [LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) | http://learnopengl.com 系列教程的简体中文翻译 | 6143 | CSS |
+| 2311 | [pydub](https://github.com/jiaaro/pydub) | Manipulate audio with a simple and easy high level interface | 9807 | Python |
 | 2312 | [pythonguis-examples](https://github.com/pythonguis/pythonguis-examples) | Build desktop apps built with Python. Examples for PyQt6, PySide6, Flet, DearPyGUI, Kivy, NiceGUI, Streamlit, Tkinter, PyQt5 & PySide2 | 4652 | Python |
 | 2313 | [x64dbg-rippy](https://github.com/dariushoule/x64dbg-rippy) | AI reverse engineering assistant for x64dbg. Embeds a chat panel directly in the debugger with tool-use capabilities. | 63 | C++ |
-| 2314 | [github-trending-backup](https://github.com/yangwenmai/github-trending-backup) | Github trending backup by everyday. | 468 | Go |
+| 2314 | [github-trending-backup](https://github.com/yangwenmai/github-trending-backup) | Github trending backup by everyday. | 469 | Go |
 | 2315 | [amis](https://github.com/baidu/amis) | 前端低代码框架，通过 JSON 配置就能生成各种页面。 | 18891 | TypeScript |
 | 2316 | [hermes-skill-factory](https://github.com/Romanescu11/hermes-skill-factory) |  A meta-skill plugin for Nous Research's Hermes AI agent that watches your workflows and automatically turns them into reusable skills.  Every time you work with Hermes and solve something — setting u... | 568 | Python |
 | 2317 | [wepy](https://github.com/Tencent/wepy) | 小程序组件化开发框架 - 已归档 | 22502 | JavaScript |
-| 2318 | [ELI5](https://github.com/DreambigOu/ELI5) | ELI5 — A Claude Code skill that explains anything to anyone: kids, managers, engineers, parents. Adapts tone, vocabulary, and analogies to match the audience. | 2174 | Python |
+| 2318 | [ELI5](https://github.com/DreambigOu/ELI5) | ELI5 — A Claude Code skill that explains anything to anyone: kids, managers, engineers, parents. Adapts tone, vocabulary, and analogies to match the audience. | 2180 | Python |
 | 2319 | [MosaicMaker](https://github.com/flipswitchingmonkey/MosaicMaker) | Simple Python script to automate video preview mosaics | 9 | Python |
 | 2320 | [pygbag](https://github.com/pygame-web/pygbag) | python and pygame wasm for everyone ( packager + test server + simulator ) | 527 | Python |
 | 2321 | [webclaw](https://github.com/ibelick/webclaw) | Fast web client for OpenClaw | 644 | TypeScript |
-| 2322 | [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) | Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cl... | 14660 | Python |
-| 2323 | [Best-App](https://github.com/hzlzh/Best-App) | 收集&推荐优秀的 Apps/硬件/技巧/周边等 | 17587 | 无 |
+| 2322 | [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) | Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cl... | 14662 | Python |
+| 2323 | [Best-App](https://github.com/hzlzh/Best-App) | 收集&推荐优秀的 Apps/硬件/技巧/周边等 | 17588 | 无 |
 | 2324 | [alipay](https://github.com/fzlee/alipay) | Python Alipay(支付宝) SDK with SHA1/SHA256 support | 1340 | Python |
 | 2325 | [pytype](https://github.com/google/pytype) | A static type analyzer for Python code | 5033 | Python |
 | 2326 | [openclaw-wx-echo](https://github.com/laolin5564/openclaw-wx-echo) | 🦞 微信 AI 个人助手 — 自动提取待办、日程、干货（Alpha，欢迎共建） | 148 | Python |
@@ -2332,96 +2332,96 @@
 | 2329 | [wechat-article-skill](https://github.com/MaydayV/wechat-article-skill) | Openclaw的微信公众号的写作引擎，独家首发原创DNA写作概念，每个人本就不同，用的越多，它越像你。 | 36 | Python |
 | 2330 | [python-bigquery-pandas](https://github.com/googleapis/python-bigquery-pandas) | This library has moved to https://github.com/googleapis/google-cloud-python/tree/main/packages/pandas-gbq | 489 | Python |
 | 2331 | [style-extractor](https://github.com/Lucent-Snow/style-extractor) | 一个能够提取最大化提取网页风格的skill | 467 | CSS |
-| 2332 | [alisthelper](https://github.com/Xmarmalade/alisthelper) | Alist Helper is an application developed using Flutter, designed to simplify the use of the desktop version of alist. It can manage alist, allowing you to easily start and stop the alist program. | 2433 | Dart |
+| 2332 | [alisthelper](https://github.com/Xmarmalade/alisthelper) | Alist Helper is an application developed using Flutter, designed to simplify the use of the desktop version of alist. It can manage alist, allowing you to easily start and stop the alist program. | 2432 | Dart |
 | 2333 | [claude-init](https://github.com/cfrs2005/claude-init) | Claude Code 中文开发套件 - 为中国开发者定制的零门槛 AI 编程环境。一键安装完整中文化体验，集成 MCP 服务器、智能上下文管理、安全扫描，支持免翻墙访问。让 AI 编程更简单。 | 1361 | Shell |
 | 2334 | [weui-wxss](https://github.com/Tencent/weui-wxss) | A UI library by WeChat official design team, includes the most useful widgets/modules. | 15277 | Less |
-| 2335 | [coai](https://github.com/coaidev/coai) | 🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Co... | 9341 | TypeScript |
+| 2335 | [coai](https://github.com/coaidev/coai) | 🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Co... | 9342 | TypeScript |
 | 2336 | [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) | Claude Code to OpenAI API Proxy | 2798 | Python |
 | 2337 | [sora2api](https://github.com/TheSmallHanCat/sora2api) | 逆向账号池，Q交流群1073237297 | 1228 | Python |
-| 2338 | [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. | 80384 | MDX |
+| 2338 | [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. | 80401 | MDX |
 | 2339 | [tksheet](https://github.com/ragardner/tksheet) | Python tkinter table and treeview widget | 504 | Python |
-| 2340 | [Qbot](https://github.com/UFund-Me/Qbot) | [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant | 18874 | Jupyter Notebook |
-| 2341 | [cursor-vip](https://github.com/kingparks/cursor-vip) | cursor IDE enjoy VIP | 4739 | Go |
+| 2340 | [Qbot](https://github.com/UFund-Me/Qbot) | [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant | 18875 | Jupyter Notebook |
+| 2341 | [cursor-vip](https://github.com/kingparks/cursor-vip) | cursor IDE enjoy VIP | 4740 | Go |
 | 2342 | [Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) | A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only. | 7599 | HTML |
-| 2343 | [ddddocr](https://github.com/sml2h3/ddddocr) | 带带弟弟 通用验证码识别OCR pypi版 | 14978 | Python |
+| 2343 | [ddddocr](https://github.com/sml2h3/ddddocr) | 带带弟弟 通用验证码识别OCR pypi版 | 14980 | Python |
 | 2344 | [twikit](https://github.com/d60/twikit) | Twitter API Scraper  Without an API key  Twitter Internal API  Free  Twitter scraper  Twitter Bot | 4792 | Python |
 | 2345 | [qclaw-wechat-client](https://github.com/Germey/qclaw-wechat-client) | Reverse-engineered TypeScript client for QClaw's WeChat Access API. | 1 | 无 |
-| 2346 | [PUAClaw](https://github.com/puaclaw/PUAClaw) | Claw 们终将接管世界，PUAClaw is All You Need | 2692 | HTML |
-| 2347 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time | 60256 | Python |
-| 2348 | [r0capture](https://github.com/r0ysue/r0capture) | 安卓应用层抓包通杀脚本 | 7825 | Python |
+| 2346 | [PUAClaw](https://github.com/puaclaw/PUAClaw) | Claw 们终将接管世界，PUAClaw is All You Need | 2693 | HTML |
+| 2347 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time | 60258 | Python |
+| 2348 | [r0capture](https://github.com/r0ysue/r0capture) | 安卓应用层抓包通杀脚本 | 7826 | Python |
 | 2349 | [makemeahanzi](https://github.com/skishore/makemeahanzi) | Free, open-source Chinese character data | 2771 | JavaScript |
 | 2350 | [Google-Chinese-Results-Bl](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) | 我终于能用谷歌搜中文了…… | 7441 | 无 |
 | 2351 | [claude-code-proxy-enhance](https://github.com/zimplexing/claude-code-proxy-enhance) | Claude Code to OpenAI API Proxy | 90 | Python |
-| 2352 | [video2x](https://github.com/k4yt3x/video2x) | A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018. | 22898 | C++ |
-| 2353 | [JavaScript](https://github.com/TheAlgorithms/JavaScript) | Algorithms and Data Structures implemented in JavaScript for beginners, following best practices. | 34266 | JavaScript |
+| 2352 | [video2x](https://github.com/k4yt3x/video2x) | A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018. | 22907 | C++ |
+| 2353 | [JavaScript](https://github.com/TheAlgorithms/JavaScript) | Algorithms and Data Structures implemented in JavaScript for beginners, following best practices. | 34267 | JavaScript |
 | 2354 | [serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) | 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，仅需后台统一更新新二维码。不需要服务器。也可作为 URL 缩短链接服务使用。 | 1868 | JavaScript |
 | 2355 | [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) | PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot! | 7168 | Python |
-| 2356 | [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone | 26678 | Python |
+| 2356 | [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone | 26685 | Python |
 | 2357 | [Qwen](https://github.com/QwenLM/Qwen) | The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud. | 22083 | Python |
-| 2358 | [Wan2.1](https://github.com/Wan-Video/Wan2.1) | Wan: Open and Advanced Large-Scale Video Generative Models | 17496 | Python |
-| 2359 | [Paper2Video](https://github.com/showlab/Paper2Video) | Automatic Video Generation from Scientific Papers | 2429 | Python |
+| 2358 | [Wan2.1](https://github.com/Wan-Video/Wan2.1) | Wan: Open and Advanced Large-Scale Video Generative Models | 17499 | Python |
+| 2359 | [Paper2Video](https://github.com/showlab/Paper2Video) | Automatic Video Generation from Scientific Papers | 2430 | Python |
 | 2360 | [awesome-macos-command-lin](https://github.com/herrbischoff/awesome-macos-command-line) | Use your macOS terminal shell to do awesome things. | 31139 | 无 |
-| 2361 | [audiocraft](https://github.com/facebookresearch/audiocraft) | Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu... | 23974 | Jupyter Notebook |
+| 2361 | [audiocraft](https://github.com/facebookresearch/audiocraft) | Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu... | 23977 | Jupyter Notebook |
 | 2362 | [ClawWork](https://github.com/HKUDS/ClawWork) | "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours" | 8574 | Python |
-| 2363 | [MockingBird](https://github.com/babysor/MockingBird) | 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time | 36856 | Python |
+| 2363 | [MockingBird](https://github.com/babysor/MockingBird) | 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time | 36858 | Python |
 | 2364 | [happy-skills](https://github.com/notedit/happy-skills) | happy skills | 341 | Python |
 | 2365 | [wechat-pdf-generator](https://github.com/kindom-builder/wechat-pdf-generator) | 微信公众号文章转PDF工具 | 2 | Python |
 | 2366 | [WXminiprogram-Focus-clock](https://github.com/realyao/WXminiprogram-Focus-clock) | 微信小程序【专注时钟】；时间规划/效率工具类/毕业设计/课设/入门 | 726 | JavaScript |
 | 2367 | [PyOfficeRobot](https://github.com/CoderWanFeng/PyOfficeRobot) | pip install PyOfficeRobot，微信机器人 | 728 | Python |
 | 2368 | [automa](https://github.com/AutomaApp/automa) | A browser extension for automating your browser by connecting blocks | 21730 | Vue |
-| 2369 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | 165388 | Python |
+| 2369 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | 165390 | Python |
 | 2370 | [proxy-list](https://github.com/clarketm/proxy-list) | A list of free, public, forward proxy servers. UPDATED DAILY! | 2386 | 无 |
 | 2371 | [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) | A curated list of awesome JSON datasets that don't require authentication. | 3628 | JavaScript |
 | 2372 | [OmniSVG](https://github.com/OmniSVG/OmniSVG) | [NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple... | 2672 | Python |
 | 2373 | [remi](https://github.com/rawpython/remi) | Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet. | 3629 | Python |
-| 2374 | [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | Tongyi Deep Research, the Leading Open-source Deep Research Agent | 20183 | Python |
+| 2374 | [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | Tongyi Deep Research, the Leading Open-source Deep Research Agent | 20185 | Python |
 | 2375 | [genspark2api](https://github.com/deanxv/genspark2api) | 无 | 696 | Go |
 | 2376 | [ISO-5](https://github.com/christosantono/ISO-5) | A specialized framework for isolating and extracting +EV from Polymarket 5 minute binary markets. Use at your own risk. | 20 | TypeScript |
-| 2377 | [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) | 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事 | 6428 | HTML |
+| 2377 | [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) | 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事 | 6430 | HTML |
 | 2378 | [Box](https://github.com/takagen99/Box) | Experimental | 3124 | Java |
 | 2379 | [element3](https://github.com/hug-sun/element3) | A Vue.js 3.0 UI Toolkit for IT Education. Build with JS&TS | 3269 | JavaScript |
 | 2380 | [umy-ui](https://github.com/popo-fishes/umy-ui) | A desktop component library based on Vue 2.0 prepared for developers | 1149 | SCSS |
-| 2381 | [AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) | Google Antigravity AI模型配额监控插件 (Antigravity AI Model Quota Watching) | 2263 | TypeScript |
+| 2381 | [AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) | Google Antigravity AI模型配额监控插件 (Antigravity AI Model Quota Watching) | 2265 | TypeScript |
 | 2382 | [CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI) | CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️ | 2517 | TypeScript |
-| 2383 | [open-source-games](https://github.com/bobeff/open-source-games) | A list of open source games. | 18688 | Python |
+| 2383 | [open-source-games](https://github.com/bobeff/open-source-games) | A list of open source games. | 18698 | Python |
 | 2384 | [GitHubSentinel](https://github.com/DjangoPeng/GitHubSentinel) | GitHub Sentinel 是专为大模型（LLMs）时代打造的智能信息检索和高价值内容挖掘 AI Agent。它面向那些需要高频次、大量信息获取的用户，特别是开源爱好者、个人开发者和投资人等。GitHub Sentinel 不仅能帮助用户自动跟踪和分析 GitHub 开源项目 的最新动态，还能快速扩展到其他信息渠道，如 Hacker News 的热门话题，提供更全面的信息挖掘与分析能力。 | 370 | Jupyter Notebook |
 | 2385 | [fuclaude](https://github.com/wozulong/fuclaude) | 法克劳德，啥也不是。 | 1652 | 无 |
 | 2386 | [MoneyPrinterAICreate](https://github.com/q1uki/MoneyPrinterAICreate) | 基于MoneyPrinterTurbo，AI生成分镜大纲与视频（动态，不是念ppt），接入万相通义wan2.1 ai文生视频、图生视频功能，灵活把控视频生成。Based on MoneyPrinterTurbo, AI generates image outline and video (dynamic, not ppt), and integrates wan2.1 text-to-video ... | 339 | Python |
 | 2387 | [arboris-novel](https://github.com/t59688/arboris-novel) | AI 写作伙伴，点亮你的创作灵感 | 1628 | Python |
 | 2388 | [imaginAIry](https://github.com/brycedrennan/imaginAIry) | Pythonic AI generation of images and videos | 8183 | Python |
 | 2389 | [unrpyc](https://github.com/CensoredUsername/unrpyc) | A ren'py script decompiler | 1286 | Ren'Py |
-| 2390 | [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) | 🔠Foreign language reading and translation assistant based on copy and translate. | 18156 | TypeScript |
+| 2390 | [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) | 🔠Foreign language reading and translation assistant based on copy and translate. | 18158 | TypeScript |
 | 2391 | [wechat-dump](https://github.com/ppwwyyxx/wechat-dump) | Analyzing your wechat message history from android | 2032 | Python |
 | 2392 | [DeepClaude](https://github.com/ErlichLiu/DeepClaude) | Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Str... | 2927 | Python |
 | 2393 | [coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) | 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。 | 3766 | Go |
-| 2394 | [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | 12065 | Python |
+| 2394 | [Telethon](https://github.com/LonamiWebs/Telethon) | Pure Python 3 MTProto API Telegram client library, for bots too! | 12063 | Python |
 | 2395 | [tenacitOS](https://github.com/carlosazaustre/tenacitOS) | OpenClaw Mission Control Dashboard | 1260 | TypeScript |
 | 2396 | [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) | 阿里云盘 WebDAV 服务 | 9695 | Rust |
 | 2397 | [macOS_Big_Sur_icons_repla](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) | Replacement icons for popular apps in the style of macOS Big Sur | 4329 | CSS |
 | 2398 | [baodou_AI](https://github.com/mini-yifan/baodou_AI) | 包豆电脑是一款基于 豆包AI 视觉模型的智能控制系统，能够通过分析屏幕内容自动执行鼠标和键盘操作，实现任务自动化。 | 233 | Python |
-| 2399 | [mdx-notes](https://github.com/maqi1520/mdx-notes) | ⛷ Cross-platform note-taking software, public layout editor, using MDX ⛷ 跨平台笔记软件，公众号排版编辑器，使用MDX来排版 | 1592 | TypeScript |
+| 2399 | [mdx-notes](https://github.com/maqi1520/mdx-notes) | ⛷ Cross-platform note-taking software, public layout editor, using MDX ⛷ 跨平台笔记软件，公众号排版编辑器，使用MDX来排版 | 1593 | TypeScript |
 | 2400 | [WechatVisualization](https://github.com/Jasmine969/WechatVisualization) | 对微信聊天记录进行分析和可视化 | 148 | Python |
 | 2401 | [aipyapp](https://github.com/knownsec/aipyapp) | AI-Powered Python & Python-Powered AI (Python-Use) | 4032 | HTML |
-| 2402 | [ACE-Step](https://github.com/ace-step/ACE-Step) | ACE-Step: A Step Towards Music Generation Foundation Model | 5114 | Python |
+| 2402 | [ACE-Step](https://github.com/ace-step/ACE-Step) | ACE-Step: A Step Towards Music Generation Foundation Model | 5119 | Python |
 | 2403 | [shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) | 翻墙 从容穿越党国敏感日 ShadowsocksR (SSRoT) native implementation for all platforms, GFW terminator | 2765 | C |
 | 2404 | [bounty-hunter-skill](https://github.com/1sadjlk/bounty-hunter-skill) | 无 | 281 | Python |
-| 2405 | [seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill) | Seedance 2.0 prompt skill，使用该Skill生成Seedance 2.0 视频提示词 | 3031 | 无 |
-| 2406 | [automatisch](https://github.com/automatisch/automatisch) | The open source Zapier alternative. Build workflow automation without spending time and money. | 14031 | JavaScript |
+| 2405 | [seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill) | Seedance 2.0 prompt skill，使用该Skill生成Seedance 2.0 视频提示词 | 3033 | 无 |
+| 2406 | [automatisch](https://github.com/automatisch/automatisch) | The open source Zapier alternative. Build workflow automation without spending time and money. | 14033 | JavaScript |
 | 2407 | [antigravity-agent](https://github.com/MonchiLin/antigravity-agent) | Effortlessly manage your Antigravity multi-accounts | 678 | TypeScript |
 | 2408 | [datamaps](https://github.com/markmarkoh/datamaps) | Customizable SVG map visualizations for the web in a single Javascript file using D3.js | 3799 | JavaScript |
 | 2409 | [tencent-ima-copilot-mcp](https://github.com/highkay/tencent-ima-copilot-mcp) | tencent-ima-copilot-mcp | 138 | Python |
 | 2410 | [mpv.net](https://github.com/mpvnet-player/mpv.net) | 🎞 mpv.net is a media player for Windows with a modern GUI. | 5587 | C# |
-| 2411 | [Z-Image](https://github.com/Tongyi-MAI/Z-Image) | 无 | 12193 | Python |
+| 2411 | [Z-Image](https://github.com/Tongyi-MAI/Z-Image) | 无 | 12195 | Python |
 | 2412 | [infinite-zoom-automatic11](https://github.com/v8hid/infinite-zoom-automatic1111-webui) | infinite zoom effect extension for AUTOMATIC1111's webui - stable diffusion  | 670 | Python |
 | 2413 | [XS-VLM-OCR](https://github.com/xstongxue/XS-VLM-OCR) | XS-VLM-OCR：大模型时代的OCR工具🚀 | 83 | C++ |
 | 2414 | [QPT](https://github.com/QPT-Family/QPT) | [内测中]QPT - 致力于让开源项目更好通往互联网世界的Python to EXE工具（Python打包）。 | 787 | Python |
-| 2415 | [writing-helper](https://github.com/GeekyWizKid/writing-helper) | A Next.js-based AI writing assistant supporting multiple LLM APIs (OpenAI, Claude, Gemini, etc.) with rich style customization features to help content creators improve quality and efficiency. | 646 | TypeScript |
+| 2415 | [writing-helper](https://github.com/GeekyWizKid/writing-helper) | A Next.js-based AI writing assistant supporting multiple LLM APIs (OpenAI, Claude, Gemini, etc.) with rich style customization features to help content creators improve quality and efficiency. | 645 | TypeScript |
 | 2416 | [protobuf-finder](https://github.com/Accenture/protobuf-finder) | IDA Pro plugin for reconstructing original .proto files from binary. | 307 | Python |
 | 2417 | [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) | 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。 | 4109 | Vue |
-| 2418 | [myGPTReader](https://github.com/myreader-io/myGPTReader) | A community-driven way to read and chat with AI bots - powered by chatGPT. | 4392 | Python |
+| 2418 | [myGPTReader](https://github.com/myreader-io/myGPTReader) | A community-driven way to read and chat with AI bots - powered by chatGPT. | 4393 | Python |
 | 2419 | [Bella](https://github.com/Jackywine/Bella) | Bella is best | 6325 | JavaScript |
 | 2420 | [DevDocs](https://github.com/cyberagiinc/DevDocs) | Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App  | 2106 | TypeScript |
-| 2421 | [weiboSpider](https://github.com/dataabc/weiboSpider) | 新浪微博爬虫，用python爬取新浪微博数据 | 9755 | Python |
+| 2421 | [weiboSpider](https://github.com/dataabc/weiboSpider) | 新浪微博爬虫，用python爬取新浪微博数据 | 9757 | Python |
 | 2422 | [botflow](https://github.com/kkyon/botflow) | Python Fast Dataflow programming  framework for Data pipeline work( Web Crawler,Machine Learning,Quantitative Trading.etc) | 1195 | Python |
 | 2423 | [CPython-Internals](https://github.com/zpoint/CPython-Internals) | Dive into CPython internals, trying to illustrate every detail of CPython implementation | 5096 | C |
 | 2424 | [wemp-operator](https://github.com/IanShaw027/wemp-operator) | 微信公众号自动化运营 OpenClaw Skill - 内容采集、数据分析、互动管理 | 114 | JavaScript |
@@ -2436,8 +2436,8 @@
 | 2433 | [clawdchat-analysis](https://github.com/yangliu2060/clawdchat-analysis) | ClawdChat - Moltbook 深度分析 Skill for Claude Code. 抓取和分析 AI agents 社交网络，挖掘核心问题和解决方案。 | 89 | 无 |
 | 2434 | [babyagi](https://github.com/yoheinakajima/babyagi) | 无 | 22363 | Python |
 | 2435 | [RA.Aid](https://github.com/ai-christianson/RA.Aid) | Develop software autonomously. | 2223 | Python |
-| 2436 | [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | SkyReels-V2: Infinite-length Film Generative model | 7844 | Python |
-| 2437 | [igbot](https://github.com/ohld/igbot) | 🐙 Free scripts, bots and Python API wrapper. Get free followers with our auto like, auto follow and other scripts! | 4895 | Python |
+| 2436 | [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | SkyReels-V2: Infinite-length Film Generative model | 7848 | Python |
+| 2437 | [igbot](https://github.com/ohld/igbot) | 🐙 Free scripts, bots and Python API wrapper. Get free followers with our auto like, auto follow and other scripts! | 4896 | Python |
 | 2438 | [primerpython](https://github.com/Helpsypoo/primerpython) | code that makes videos for this: youtube.com/c/primerlearning | 1365 | Python |
 | 2439 | [Python-Silk-Module](https://github.com/DCZYewen/Python-Silk-Module) | Python bindings of silk codec. | 27 | C |
 | 2440 | [VoAPI](https://github.com/VoAPI/VoAPI) | 🎉 全新下一代高颜值、高性能、高扩展的智能AI大模型API聚合分发系统  A new next-generation high-value, high-performance, and highly scalable intelligent AI large-model API aggregation and distribution | 1090 | Go |
@@ -2450,25 +2450,25 @@
 | 2447 | [wechat-to-notebooklm](https://github.com/zstmfhy/wechat-to-notebooklm) | 无 | 103 | 无 |
 | 2448 | [mcp-agent](https://github.com/lastmile-ai/mcp-agent) | Build effective agents using Model Context Protocol and simple workflow patterns | 8596 | Python |
 | 2449 | [media-downloader](https://github.com/yizhiyanhua-ai/media-downloader) | 🎬 智能媒体下载器 - 根据用户描述自动搜索和下载图片、视频片段  Smart Media Downloader - Auto search and download images/videos based on description | 406 | Python |
-| 2450 | [gpt_academic](https://github.com/binary-husky/gpt_academic) | 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss... | 71724 | Python |
+| 2450 | [gpt_academic](https://github.com/binary-husky/gpt_academic) | 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss... | 71723 | Python |
 | 2451 | [suno-api-private](https://github.com/joeseesun/suno-api-private) | Suno API with JWT token authentication support | 70 | TypeScript |
-| 2452 | [manim_skill](https://github.com/adithya-s-k/manim_skill) | Agent skills for Manim to create 3Blue1Brown style animations. | 1368 | Python |
+| 2452 | [manim_skill](https://github.com/adithya-s-k/manim_skill) | Agent skills for Manim to create 3Blue1Brown style animations. | 1369 | Python |
 | 2453 | [pilk](https://github.com/foyoux/pilk) | python silk codec bindings 支持微信语音编解码 | 154 | C |
 | 2454 | [skills-updater](https://github.com/yizhiyanhua-ai/skills-updater) | Manage, update, and discover Claude Code skills. 管理、更新和发现 Claude Code 技能。 | 175 | Python |
 | 2455 | [word_cloud](https://github.com/amueller/word_cloud) | A little word cloud generator in Python | 10544 | Python |
 | 2456 | [avatar-3d](https://github.com/0xGF/avatar-3d) | 无 | 171 | TypeScript |
 | 2457 | [wfuzz](https://github.com/xmendez/wfuzz) | Web application fuzzer | 6609 | Python |
-| 2458 | [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming | 71489 | Python |
+| 2458 | [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming | 71493 | Python |
 | 2459 | [BlenderProc](https://github.com/DLR-RM/BlenderProc) | A procedural Blender pipeline for photorealistic training image generation | 3816 | Python |
 | 2460 | [uni-template-login](https://github.com/dcloudio/uni-template-login) | 基于uni-app框架的登录模板 | 242 | Vue |
 | 2461 | [RealChar](https://github.com/Shaunwei/RealChar) | 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT... | 6216 | JavaScript |
 | 2462 | [pyxelate](https://github.com/sedthh/pyxelate) | Python class that generates pixel art from images | 1704 | Jupyter Notebook |
 | 2463 | [nuitka-extractor](https://github.com/extremecoders-re/nuitka-extractor) | Tool to extract nuitka compiled executables | 250 | Go |
-| 2464 | [openskills](https://github.com/numman-ali/openskills) | Universal skills loader for AI coding agents - npm i -g openskills | 10839 | TypeScript |
-| 2465 | [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) | PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/ | 3875 | Jupyter Notebook |
+| 2464 | [openskills](https://github.com/numman-ali/openskills) | Universal skills loader for AI coding agents - npm i -g openskills | 10838 | TypeScript |
+| 2465 | [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) | PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/ | 3874 | Jupyter Notebook |
 | 2466 | [win11toast](https://github.com/GitHub30/win11toast) | Toast notifications for Windows 10 and 11 based on WinRT | 337 | Python |
 | 2467 | [twitterts](https://github.com/book000/twitterts) | Twitter Unofficial Scraping API Library for TypeScript : https://book000.github.io/twitterts/ | 50 | TypeScript |
-| 2468 | [zlibrary-to-notebooklm](https://github.com/zstmfhy/zlibrary-to-notebooklm) | 一键将 Z-Library 书籍自动下载并上传到 Google NotebookLM | 1775 | Python |
+| 2468 | [zlibrary-to-notebooklm](https://github.com/zstmfhy/zlibrary-to-notebooklm) | 一键将 Z-Library 书籍自动下载并上传到 Google NotebookLM | 1776 | Python |
 | 2469 | [blender-power-sequencer](https://github.com/GDQuest/blender-power-sequencer) | Add-on for video editing in Blender 3D: edit videos faster! Included in Blender 2.81+ | 732 | Python |
 | 2470 | [soprano](https://github.com/ekwek1/soprano) | Soprano: Instant, Ultra-Realistic Text-to-Speech | 1636 | Python |
 | 2471 | [handy-ollama](https://github.com/datawhalechina/handy-ollama) | 动手学Ollama，CPU玩转大模型部署，在线阅读地址：https://datawhalechina.github.io/handy-ollama/ | 2561 | Jupyter Notebook |
@@ -2479,14 +2479,14 @@
 | 2476 | [WeRoBot](https://github.com/offu/WeRoBot) | WeRoBot 是一个微信公众号开发框架 | 4660 | Python |
 | 2477 | [simpleui](https://github.com/newpanjing/simpleui) | A modern theme based on vue+element-ui for django admin.一款基于vue+element-ui的django admin现代化主题。全球20000+网站都在使用！喜欢可以点个star✨ | 3830 | Python |
 | 2478 | [situation-monitor](https://github.com/hipcityreg/situation-monitor) | Real-time dashboard for monitoring global news, markets, and geopolitical events | 4209 | TypeScript |
-| 2479 | [ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。 | 24447 | Python |
+| 2479 | [ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。 | 24451 | Python |
 | 2480 | [geoblender](https://github.com/joewdavies/geoblender) | Tutorials for making 3D-looking maps with Blender and QGIS | 1875 | HTML |
 | 2481 | [ebook-mcp](https://github.com/onebirdrocks/ebook-mcp) | A MCP server that supports mainstream eBook formats including EPUB, PDF and more. Simplify your eBook user experience with LLM. | 399 | Python |
 | 2482 | [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) | 无 | 6410 | 无 |
 | 2483 | [VideoCrafter](https://github.com/AILab-CVC/VideoCrafter) | VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models | 5116 | Python |
-| 2484 | [one-api](https://github.com/songquanpeng/one-api) | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key ... | 37483 | JavaScript |
+| 2484 | [one-api](https://github.com/songquanpeng/one-api) | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key ... | 37484 | JavaScript |
 | 2485 | [wechat-backup](https://github.com/greycodee/wechat-backup) | 微信聊天记录持久化备份本地硬盘，释放手机存储空间。 | 3404 | Go |
-| 2486 | [Qwen3](https://github.com/QwenLM/Qwen3) | Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud. | 27775 | Python |
+| 2486 | [Qwen3](https://github.com/QwenLM/Qwen3) | Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud. | 27774 | Python |
 | 2487 | [WechatBakTool](https://github.com/SuxueCode/WechatBakTool) | 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。 | 3683 | 无 |
 | 2488 | [wechat-decipher-macos](https://github.com/nalzok/wechat-decipher-macos) | DTrace scripts to extract chat history from WeChat on macOS | 281 | Rich Text Format |
 | 2489 | [PyMuPDF-Utilities](https://github.com/pymupdf/PyMuPDF-Utilities) | Demos, examples and utilities using PyMuPDF | 721 | Jupyter Notebook |
@@ -2507,25 +2507,25 @@
 | 2504 | [chatgpt-android](https://github.com/skydoves/chatgpt-android) | 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose. | 3873 | Kotlin |
 | 2505 | [Omni-Adapter](https://github.com/HuChundong/Omni-Adapter) | 多平台 文生图/图生图 等能力接入MCP | 208 | JavaScript |
 | 2506 | [awesome-jquery](https://github.com/petk/awesome-jquery) | A curated list of awesome jQuery plugins, resources and other shiny things. | 982 | 无 |
-| 2507 | [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. | 48567 | 无 |
+| 2507 | [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. | 48571 | 无 |
 | 2508 | [ztm-python-cheat-sheet](https://github.com/aneagoie/ztm-python-cheat-sheet) | 无 | 2700 | 无 |
 | 2509 | [Office-Word-MCP-Server](https://github.com/GongRzhe/Office-Word-MCP-Server) | A Model Context Protocol (MCP) server for creating, reading, and manipulating Microsoft Word documents. This server enables AI assistants to work with Word documents through a standardized interface, ... | 2114 | Python |
 | 2510 | [Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered) | Qwen-Image-Layered: Layered Decomposition for Inherent Editablity | 2207 | Python |
 | 2511 | [mini-blog](https://github.com/CavinCao/mini-blog) | 🚀 一款基于微信云开发的博客小程序，采用 MVVM 架构，支持前后端完全解耦 💡 无需自己的网站、服务器、域名等资源，只需注册小程序账号即可使用 | 531 | JavaScript |
 | 2512 | [PyQt](https://github.com/PyQt5/PyQt) | PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5 | 7125 | Python |
-| 2513 | [WeChatMsg](https://github.com/LC044/WeChatMsg) | 无 | 42374 | 无 |
+| 2513 | [WeChatMsg](https://github.com/LC044/WeChatMsg) | 无 | 42375 | 无 |
 | 2514 | [FFmpegCommand](https://github.com/AnJoiner/FFmpegCommand) | FFmpegCommand适用于Android的FFmpeg命令库，实现了对音视频相关的处理，能够快速的处理音视频，大概功能包括：音视频剪切，音视频转码，音视频解码原始数据，音视频编码，视频转图片或gif，视频添加水印，多画面拼接，音频混音，视频亮度和对比度，音频淡入和淡出效果等 | 960 | C |
 | 2515 | [GroupRecap](https://github.com/ZiHuixi/GroupRecap) | 一个用于分析QQ群聊记录并生成年度热词报告的工具。支持热词发现、趣味统计、可视化报告生成等功能。 | 734 | Python |
 | 2516 | [CVprojects](https://github.com/enpeizhao/CVprojects) | computer vision projects   计算机视觉相关好玩的AI项目（Python、C++、embedded system） | 2657 | Jupyter Notebook |
 | 2517 | [notebooklm-skill](https://github.com/cclank/notebooklm-skill) | Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features... | 140 | Python |
 | 2518 | [Token-Smart-Contracts](https://github.com/pandatoolcode/Token-Smart-Contracts) | PandaTool一键发币平台智能合约源码 | 13 | 无 |
 | 2519 | [english-dictionary-web](https://github.com/TICKurt/english-dictionary-web) | 科学英语学习平台-基于LLM释义的英汉词典数据 | 243 | Vue |
-| 2520 | [gel](https://github.com/geldata/gel) | Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more. | 14194 | Python |
-| 2521 | [practical-python](https://github.com/dabeaz-course/practical-python) | Practical Python Programming (course by @dabeaz) | 10951 | Python |
+| 2520 | [gel](https://github.com/geldata/gel) | Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more. | 14193 | Python |
+| 2521 | [practical-python](https://github.com/dabeaz-course/practical-python) | Practical Python Programming (course by @dabeaz) | 10954 | Python |
 | 2522 | [kinoko](https://github.com/gsioteam/kinoko) | An online manga browser. | 277 | C |
-| 2523 | [BlenderGIS](https://github.com/domlysz/BlenderGIS) | Blender addons to make the bridge between Blender and geographic data | 9690 | Python |
+| 2523 | [BlenderGIS](https://github.com/domlysz/BlenderGIS) | Blender addons to make the bridge between Blender and geographic data | 9693 | Python |
 | 2524 | [wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) | 保存微信历史版本 | 3364 | Shell |
-| 2525 | [crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) | crypto-trading-open | 1698 | Python |
+| 2525 | [crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) | crypto-trading-open | 1699 | Python |
 | 2526 | [SenseVoice.cpp](https://github.com/lovemefan/SenseVoice.cpp) | Port of Funasr's Sense-voice model in C/C++ | 576 | C |
 | 2527 | [Vibe-Agent](https://github.com/yuyou-dev/Vibe-Agent) | 手搓Agent系列，香蕉Pro邪修应用和gemini本地化部署 | 434 | HTML |
 | 2528 | [inkdown](https://github.com/1943time/inkdown) | Inkdown is a WYSIWYG editor and an LLM dialogue tool, fully compatible with GitHub Flavored Markdown Spec. | 1176 | TypeScript |
@@ -2533,44 +2533,44 @@
 | 2530 | [wechat_summary](https://github.com/Vita0519/wechat_summary) | 基于wxauto库做的一个用于微信群历史消息AI总结工具 | 137 | Python |
 | 2531 | [geminicli2api](https://github.com/gzzhongqi/geminicli2api) | 无 | 592 | Python |
 | 2532 | [WeChatRobot](https://github.com/TonyChen56/WeChatRobot) | 微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK | 7253 | C++ |
-| 2533 | [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI | 27347 | Python |
+| 2533 | [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI | 27349 | Python |
 | 2534 | [stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) | Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts | 4712 | Python |
-| 2535 | [stable-diffusion-webui-co](https://github.com/camenduru/stable-diffusion-webui-colab) | stable diffusion webui colab | 15880 | Jupyter Notebook |
+| 2535 | [stable-diffusion-webui-co](https://github.com/camenduru/stable-diffusion-webui-colab) | stable diffusion webui colab | 15878 | Jupyter Notebook |
 | 2536 | [open-deep-research](https://github.com/btahir/open-deep-research) | Open source alternative to Gemini Deep Research. Generate reports with AI based on search results. | 2139 | TypeScript |
 | 2537 | [lifekline](https://github.com/curionox/lifekline) | 人生K线 - 基于AI的八字命理可视化工具 | 788 | 无 |
 | 2538 | [SoulX-Podcast](https://github.com/Soul-AILab/SoulX-Podcast) | SoulX-Podcast is an inference codebase by the Soul AI team for generating high-fidelity podcasts from text. | 3697 | Python |
 | 2539 | [Echo-4o](https://github.com/yejy53/Echo-4o) | Echo-4o: Harnessing Proprietary Models’ Synthetic Images for Improved Image Generation | 507 | Jupyter Notebook |
 | 2540 | [full-self-coding](https://github.com/NO-CHATBOT-REVOLUTION/full-self-coding) | No prompts, no instructions, no plans, you have 100~1000 AI agent coding in parallel now, solving all possible problems and issues in your codebase. | 370 | TypeScript |
-| 2541 | [Web](https://github.com/qianguyihao/Web) | 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。 | 28661 | 无 |
+| 2541 | [Web](https://github.com/qianguyihao/Web) | 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。 | 28662 | 无 |
 | 2542 | [TelegramGoodsInbot](https://github.com/rashidovich2/TelegramGoodsInbot) | Бот на Python, магазин с каталогом и автопродажей товаров, методы пополнения: карты, USDT, TRX, LTC, BTC. Реализован i18n: Английский и Русский. | 97 | Python |
 | 2543 | [nof0](https://github.com/wquguru/nof0) | Open-source AI trading arena. A full reproduction of NOF1 Alpha Arena for running and comparing LLM agents. | 2754 | Go |
 | 2544 | [pl-table](https://github.com/parlay96/pl-table) | A table based on element, Perfectly solve the problem of lag in rendering data of tens of thousands of levels | 1147 | JavaScript |
 | 2545 | [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) | CSS is powerful, you can do a lot of things without JS. | 20578 | HTML |
 | 2546 | [CodeWeaver](https://github.com/tesserato/CodeWeaver) | Weave your codebase into a single, navigable Markdown document | 745 | Go |
-| 2547 | [MuJing](https://github.com/tangshimin/MuJing) | 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。 | 4902 | Kotlin |
+| 2547 | [MuJing](https://github.com/tangshimin/MuJing) | 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。 | 4903 | Kotlin |
 | 2548 | [ZtoApi](https://github.com/dext7r/ZtoApi) | 佛法GLM-4.6 For Kilo CODE、Roo Code | 51 | TypeScript |
 | 2549 | [mcp-client-cli](https://github.com/adhikasp/mcp-client-cli) | A simple CLI to run LLM prompt and implement MCP client. | 675 | Python |
 | 2550 | [cherry-studio-magic](https://github.com/xiao-ge008/cherry-studio-magic) | Cherry Studio 组件魔改版本，新增组件功能，可以自定义聊天组件，选项组件,comfyui 组件 ，tts组件 和 html 渲染组件。  | 18 | TypeScript |
-| 2551 | [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | 53976 | Python |
+| 2551 | [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | 53979 | Python |
 | 2552 | [manim-docs-zh-hans](https://github.com/MarkHoo/manim-docs-zh-hans) | Manim 社区版中文文档 | 80 | 无 |
 | 2553 | [ai-doctor](https://github.com/DragonChenCL/ai-doctor) | ai多医生会诊 | 356 | Vue |
 | 2554 | [auto-claude-writing-agent](https://github.com/MapleShaw/auto-claude-writing-agent-pub) | 无 | 436 | 无 |
 | 2555 | [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) | fast-stable-diffusion + DreamBooth | 7912 | Python |
-| 2556 | [PptxGenJS](https://github.com/gitbrent/PptxGenJS) | Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more. | 6415 | TypeScript |
+| 2556 | [PptxGenJS](https://github.com/gitbrent/PptxGenJS) | Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more. | 6417 | TypeScript |
 | 2557 | [jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) | JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team. | 10899 | TypeScript |
-| 2558 | [DiffRhythm](https://github.com/ASLP-lab/DiffRhythm) | Di♪♪Rhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion | 2372 | Python |
+| 2558 | [DiffRhythm](https://github.com/ASLP-lab/DiffRhythm) | Di♪♪Rhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion | 2373 | Python |
 | 2559 | [prompt-manager](https://github.com/DEKVIW/prompt-manager) | 一个用于创建、管理和共享 AI 提示词的平台，支持多用户协作、版本控制和分类管理。 | 54 | HTML |
 | 2560 | [coding-problems](https://github.com/MTrajK/coding-problems) | Solutions for various coding/algorithmic problems and many useful resources for learning algorithms and data structures | 3405 | Python |
 | 2561 | [fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! | 12031 | Python |
-| 2562 | [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) | 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained | 24869 | Jupyter Notebook |
-| 2563 | [llm-council](https://github.com/karpathy/llm-council) | LLM Council works together to answer your hardest questions | 27005 | Python |
-| 2564 | [awesome-nano-banana-pro](https://github.com/muset-ai/awesome-nano-banana-pro) | Awesome curated collection of images and prompts built with the soon-to-launch Nano Banana Pro model. Browse limited early-access test cases that highlight Nano Banana Pro’s strengths in consistent, h... | 1054 | JavaScript |
+| 2562 | [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) | 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained | 24872 | Jupyter Notebook |
+| 2563 | [llm-council](https://github.com/karpathy/llm-council) | LLM Council works together to answer your hardest questions | 27024 | Python |
+| 2564 | [awesome-nano-banana-pro](https://github.com/muset-ai/awesome-nano-banana-pro) | Awesome curated collection of images and prompts built with the soon-to-launch Nano Banana Pro model. Browse limited early-access test cases that highlight Nano Banana Pro’s strengths in consistent, h... | 1055 | JavaScript |
 | 2565 | [charactercreator](https://github.com/ubik23/charactercreator) | A frontend interface for creating characters in SVG. | 346 | HTML |
 | 2566 | [docz](https://github.com/pedronauck/docz) | ✍ It has never been so easy to document your things! | 23553 | TypeScript |
 | 2567 | [gmgnai-wrapper](https://github.com/1f1n/gmgnai-wrapper) | An API wrapper for undocumented endpoints on GMGN.ai | 144 | Python |
 | 2568 | [Dragon](https://github.com/1f1n/Dragon) | The all-in-one tool to help you find profitable wallets on Solana, Ethereum and Binance Smart Chain. | 183 | Python |
-| 2569 | [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。 | 49006 | Python |
-| 2570 | [dia](https://github.com/nari-labs/dia) | A TTS model capable of generating ultra-realistic dialogue in one pass. | 19426 | Python |
+| 2569 | [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。 | 49017 | Python |
+| 2570 | [dia](https://github.com/nari-labs/dia) | A TTS model capable of generating ultra-realistic dialogue in one pass. | 19427 | Python |
 | 2571 | [WeChat3.9-32bit-Compatibi](https://github.com/Skyler1n/WeChat3.9-32bit-Compatibility-Launcher) | 让微信3.9.12 32位版本能够在64位Windows操作系统上正常运行，并且不显示"版本过低"的提示 | 403 | Python |
 | 2572 | [agentic-cursorrules](https://github.com/s-smits/agentic-cursorrules) | A practical approach to managing multiple AI agents in Cursor through strict file-tree partitioning and domain boundaries. | 645 | Python |
 | 2573 | [crypto-trend-analysis](https://github.com/FreakyLime/crypto-trend-analysis) | A Python-based cryptocurrency monitoring tool that fetches data from multiple sources such as Binance, CoinGecko, and Senticrypt. It calculates technical indicators, performs AI-driven market sentimen... | 3 | Python |
@@ -2578,60 +2578,60 @@
 | 2575 | [shadowproxy](https://github.com/guyingbo/shadowproxy) | A proxy server that implements Socks5/Shadowsocks/Redirect/HTTP (tcp) and Shadowsocks/TProxy/Tunnel (udp) protocols. | 202 | Python |
 | 2576 | [googlesearch](https://github.com/MarioVilas/googlesearch) | Google search from Python (unofficial). | 1252 | Python |
 | 2577 | [python-parallel-programmi](https://github.com/laixintao/python-parallel-programming-cookbook-cn) | 📖《Python Parallel Programming Cookbook》中文版 | 1515 | Python |
-| 2578 | [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | DeepSeek Coder: Let the Code Write Itself | 24405 | Python |
-| 2579 | [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) | DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence | 7041 | 无 |
+| 2578 | [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | DeepSeek Coder: Let the Code Write Itself | 24408 | Python |
+| 2579 | [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) | DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence | 7042 | 无 |
 | 2580 | [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. | 53026 | Shell |
 | 2581 | [Discord-Audio-Stream-Bot](https://github.com/BinkanSalaryman/Discord-Audio-Stream-Bot) | A simple discord audio streaming bot. | 252 | Java |
-| 2582 | [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用  Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll... | 38716 | Python |
-| 2583 | [ottomator-agents](https://github.com/coleam00/ottomator-agents) | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! | 5802 | Python |
+| 2582 | [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用  Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll... | 38713 | Python |
+| 2583 | [ottomator-agents](https://github.com/coleam00/ottomator-agents) | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! | 5801 | Python |
 | 2584 | [scira](https://github.com/foreveryh/scira) | Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. | 122 | TypeScript |
 | 2585 | [ttkthemes](https://github.com/TkinterEP/ttkthemes) | A group of themes for the ttk extenstions for Tkinter | 413 | Tcl |
 | 2586 | [awesome-claude-skills](https://github.com/kenryu42/awesome-claude-skills) | Awesome list for Claude Skills — a reusable, filesystem-based resources that provide Claude with domain-specific expertise developed by Anthropic | 33 | 无 |
 | 2587 | [gel-python](https://github.com/geldata/gel-python) | The official Python client library for Gel | 414 | Python |
 | 2588 | [listen](https://github.com/piotrostr/listen) | DeFAI Swiss Army Knife | 1093 | TypeScript |
-| 2589 | [bilibili-subtitle](https://github.com/IndieKKY/bilibili-subtitle) | 哔哔君 - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等。 | 1191 | TypeScript |
+| 2589 | [bilibili-subtitle](https://github.com/IndieKKY/bilibili-subtitle) | 哔哔君 - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等。 | 1192 | TypeScript |
 | 2590 | [CogVideo](https://github.com/zai-org/CogVideo) | text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023) | 13232 | Python |
 | 2591 | [MixMessage](https://github.com/InvertGeek/MixMessage) | 在安卓任何聊天软件(例如QQ或微信)中使用加密聊天,基于无障碍服务 | 100 | Kotlin |
 | 2592 | [Kotatsu](https://github.com/KotatsuApp/Kotatsu) | Manga reader for Android | 8987 | Kotlin |
 | 2593 | [mcp2py](https://github.com/MaximeRivest/mcp2py) | Turn any MCP server into a Python module | 254 | Python |
 | 2594 | [math-worksheet-generator](https://github.com/januschung/math-worksheet-generator) | Create basic addition, subtraction, multiplication and division practice questions with the answer sheet | 542 | Python |
 | 2595 | [awesome-developer-go-sail](https://github.com/geekjourneyx/awesome-developer-go-sail) | 一份专为中国开发者“扬帆出海”打造的精选指南，一站式解决全球收款、海外公司、银行开户等难题。 | 312 | 无 |
-| 2596 | [BlenderSourceTools](https://github.com/Artfunkel/BlenderSourceTools) | The Blender Source Tools add Source engine support to Blender, the free 3D modelling suite. | 297 | Python |
-| 2597 | [pygame](https://github.com/pygame/pygame) | 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL... | 9018 | C |
+| 2596 | [BlenderSourceTools](https://github.com/Artfunkel/BlenderSourceTools) | The Blender Source Tools add Source engine support to Blender, the free 3D modelling suite. | 296 | Python |
+| 2597 | [pygame](https://github.com/pygame/pygame) | 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL... | 9019 | C |
 | 2598 | [cursor-auto-icloud](https://github.com/Ryan0204/cursor-auto-icloud) | Reset Cursor MachineID & Auto Sign Up New Account with Cursor Pro // 自动注册 Cursor AI (免费使用Pro功能) & 自动重置机器ID  // You've reached your trial request limit. / Too many free trial accounts used on this mach... | 178 | Python |
 | 2599 | [ai-comic-factory](https://github.com/jbilcke-hf/ai-comic-factory) | Generate comic panels using a LLM + SDXL. Powered by Hugging Face 🤗 | 1371 | TypeScript |
 | 2600 | [Video_note_generator](https://github.com/whotto/Video_note_generator) | 一键将视频转换为优质小红书笔记，自动优化内容和配图 | 1851 | Python |
 | 2601 | [UnityScriptTrainer](https://github.com/GlossMod/UnityScriptTrainer) | 一些unity游戏的内置修改器 | 177 | C# |
-| 2602 | [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) | Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. | 23967 | Python |
+| 2602 | [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) | Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. | 23968 | Python |
 | 2603 | [Z.ai2api](https://github.com/hmjz100/Z.ai2api) | 将 Z.ai Chat 代理为 OpenAI/Anthropic Compatible 格式，支持多模型列表映射、免令牌、智能处理思考链、图片上传等功能；Z.ai ZtoApi z2api ZaitoApi zai X-Signature 签名 GLM 4.5 v 4.6 | 153 | Python |
-| 2604 | [PhoneDriver](https://github.com/OminousIndustries/PhoneDriver) | Android Phone Control With Qwen3-VL | 1661 | Python |
+| 2604 | [PhoneDriver](https://github.com/OminousIndustries/PhoneDriver) | Android Phone Control With Qwen3-VL | 1662 | Python |
 | 2605 | [mcp_server_wechat](https://github.com/panxingfeng/mcp_server_wechat) | 基于MCP技术，操作微信发送消息和获取历史记录 | 117 | Python |
 | 2606 | [autotranscription](https://github.com/mmletgo/autotranscription) | 无 | 29 | Shell |
-| 2607 | [PyWxDump](https://github.com/xaoyaoo/PyWxDump) | 删库 | 9619 | 无 |
-| 2608 | [chatlog](https://github.com/sjzar/chatlog) | chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据 | 9166 | 无 |
-| 2609 | [aimoneyhunter](https://github.com/bleedline/aimoneyhunter) | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version ... | 18419 | 无 |
+| 2607 | [PyWxDump](https://github.com/xaoyaoo/PyWxDump) | 删库 | 9620 | 无 |
+| 2608 | [chatlog](https://github.com/sjzar/chatlog) | chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据 | 9167 | 无 |
+| 2609 | [aimoneyhunter](https://github.com/bleedline/aimoneyhunter) | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version ... | 18421 | 无 |
 | 2610 | [VACE](https://github.com/ali-vilab/VACE) | [ICCV 2025] Official implementations for paper: VACE: All-in-One Video Creation and Editing | 4079 | Python |
 | 2611 | [InCloudGitHub](https://github.com/gaocaipeng/InCloudGitHub) | 自动扫描 GitHub 仓库，发现泄露的 AI API 密钥和敏感信息 | 76 | Python |
 | 2612 | [agentipy](https://github.com/niceberginc/agentipy) | The #Python framework for connecting AI agents to any onchain app on  @solana-labs  🤖🐍 | 247 | Python |
-| 2613 | [FramePack](https://github.com/lllyasviel/FramePack) | Lets make video diffusion practical! | 17400 | Python |
+| 2613 | [FramePack](https://github.com/lllyasviel/FramePack) | Lets make video diffusion practical! | 17401 | Python |
 | 2614 | [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) | Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 | 8204 | 无 |
-| 2615 | [auto-video-generateor](https://github.com/kuangdd2024/auto-video-generateor) | 自动视频生成器，给定主题，自动生成解说视频。用户输入主题文字，系统调用大语言模型生成故事或解说的文字，然后进一步调用语音合成接口生成解说的语音，调用文生图接口生成契合文字内容的配图，最后融合语音和配图生成解说视频。 | 901 | Python |
+| 2615 | [auto-video-generateor](https://github.com/kuangdd2024/auto-video-generateor) | 自动视频生成器，给定主题，自动生成解说视频。用户输入主题文字，系统调用大语言模型生成故事或解说的文字，然后进一步调用语音合成接口生成解说的语音，调用文生图接口生成契合文字内容的配图，最后融合语音和配图生成解说视频。 | 902 | Python |
 | 2616 | [Blockchain-dark-forest-se](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) | Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency. | 6900 | 无 |
-| 2617 | [app-ideas](https://github.com/florinpop17/app-ideas) | A Collection of application ideas which can be used to improve your coding skills. | 98732 | 无 |
+| 2617 | [app-ideas](https://github.com/florinpop17/app-ideas) | A Collection of application ideas which can be used to improve your coding skills. | 98736 | 无 |
 | 2618 | [maotv](https://github.com/hd9211/maotv) | 无 | 226 | 无 |
-| 2619 | [h2ogpt](https://github.com/h2oai/h2ogpt) | Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/ | 11915 | Python |
-| 2620 | [gh-proxy](https://github.com/hunshcn/gh-proxy) | github release、archive以及项目文件的加速项目 | 9087 | Python |
+| 2619 | [h2ogpt](https://github.com/h2oai/h2ogpt) | Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/ | 11916 | Python |
+| 2620 | [gh-proxy](https://github.com/hunshcn/gh-proxy) | github release、archive以及项目文件的加速项目 | 9085 | Python |
 | 2621 | [video-editing-mcp](https://github.com/burningion/video-editing-mcp) | MCP Interface for Video Jungle | 296 | Python |
 | 2622 | [ququ](https://github.com/yan5xu/ququ) | 开源免费的 Wispr Flow 替代方案  集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流 | 2291 | JavaScript |
 | 2623 | [advanced-go-programming-b](https://github.com/chai2010/advanced-go-programming-book) | :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿) | 20081 | Go |
-| 2624 | [chrome-devtools-mcp](https://github.com/benjaminr/chrome-devtools-mcp) | An MCP Server for Chrome DevTools, following the Chrome DevTools Protocol. Integrates with Claude Desktop and Claude Code. | 316 | Python |
-| 2625 | [LuoGen-agent](https://github.com/LuoGen-AI/LuoGen-agent) | 一键产出爆款视频：1.自动提取对标文案 2.自动进行文案仿写 3.自动根据文案声音克隆 4.自动生成数字人口播 5.自动添加字幕 6.自动添加背景音乐 7.自动添加视频标题 8.自动生成视频封面 9.自动将视频发布到各平台 | 899 | Python |
-| 2626 | [qgis_mcp](https://github.com/jjsantos01/qgis_mcp) | Model Context Protocol (MCP) that allows LLMs to use QGIS Desktop | 1162 | Python |
+| 2624 | [chrome-devtools-mcp](https://github.com/benjaminr/chrome-devtools-mcp) | An MCP Server for Chrome DevTools, following the Chrome DevTools Protocol. Integrates with Claude Desktop and Claude Code. | 317 | Python |
+| 2625 | [LuoGen-agent](https://github.com/LuoGen-AI/LuoGen-agent) | 一键产出爆款视频：1.自动提取对标文案 2.自动进行文案仿写 3.自动根据文案声音克隆 4.自动生成数字人口播 5.自动添加字幕 6.自动添加背景音乐 7.自动添加视频标题 8.自动生成视频封面 9.自动将视频发布到各平台 | 900 | Python |
+| 2626 | [qgis_mcp](https://github.com/jjsantos01/qgis_mcp) | Model Context Protocol (MCP) that allows LLMs to use QGIS Desktop | 1164 | Python |
 | 2627 | [pphoto](https://github.com/sichang824/pphoto) | 这是一个基于 [Next.js](https://nextjs.org) 开发的照片打印排版工具，帮助用户轻松实现照片在不同尺寸打印纸张上的智能排版。 | 18 | TypeScript |
 | 2628 | [fairseq](https://github.com/facebookresearch/fairseq) | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. | 32207 | Python |
-| 2629 | [gemini-balance](https://github.com/snailyp/gemini-balance) | Gemini polling proxy service （gemini轮询代理服务） | 5772 | Python |
-| 2630 | [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | 29528 | 无 |
-| 2631 | [Second-Me](https://github.com/mindverse/Second-Me) | Train your AI self, amplify you, bridge the world | 15703 | Python |
+| 2629 | [gemini-balance](https://github.com/snailyp/gemini-balance) | Gemini polling proxy service （gemini轮询代理服务） | 5773 | Python |
+| 2630 | [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | 29529 | 无 |
+| 2631 | [Second-Me](https://github.com/mindverse/Second-Me) | Train your AI self, amplify you, bridge the world | 15704 | Python |
 | 2632 | [Qwen2API](https://github.com/fengwind2006/Qwen2API) | 无 | 45 | Python |
 | 2633 | [Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) | A Curated list of Awesome Python Scripts that Automate Stuffs.  | 2437 | Python |
 | 2634 | [dumpfun](https://github.com/evolify/dumpfun) | Tools for solana launchpad | 135 | TypeScript |
@@ -2640,23 +2640,23 @@
 | 2637 | [devika](https://github.com/stitionai/devika) | Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin. | 19549 | Python |
 | 2638 | [Twitter-Scraper](https://github.com/amalaz/Twitter-Scraper) | 无 | 8 | Python |
 | 2639 | [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) | Node.js example app from the OpenAI API quickstart tutorial | 2644 | JavaScript |
-| 2640 | [mcp](https://github.com/baidu-netdisk/mcp) | baidu netdisk mcp server | 174 | Python |
+| 2640 | [mcp](https://github.com/baidu-netdisk/mcp) | baidu netdisk mcp server | 176 | Python |
 | 2641 | [Awesome-Seedream-Four-Ima](https://github.com/StevenQi7/Awesome-Seedream-Four-Images) | 收集整理一些在Seedream 4.0 下生成的令人惊艳的图片和提示词 | 131 | 无 |
 | 2642 | [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | 14784 | 无 |
 | 2643 | [ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation) | 我的 nano-banana 创意玩法大合集！  持续更新中！ | 3719 | 无 |
 | 2644 | [oop-python](https://github.com/ariannedee/oop-python) | Object-Oriented Programming in Python | 334 | Python |
 | 2645 | [PrinterService](https://github.com/cp9no1/PrinterService) | 基于@a937750307 项目lan-printing的修改 | 1107 | Python |
-| 2646 | [sweep](https://github.com/sweepai/sweep) | Sweep: AI coding assistant for JetBrains | 7702 | Jupyter Notebook |
-| 2647 | [Best-websites-a-programme](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | :link: Some useful websites for programmers. | 76128 | 无 |
+| 2646 | [sweep](https://github.com/sweepai/sweep) | Sweep: AI coding assistant for JetBrains | 7703 | Jupyter Notebook |
+| 2647 | [Best-websites-a-programme](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | :link: Some useful websites for programmers. | 76124 | 无 |
 | 2648 | [Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary) | 香蕉超市｜各种玩法一键生成，无需提示词，支持局部涂选、连续编辑 | 1846 | TypeScript |
 | 2649 | [IP_POOL](https://github.com/xiaosimao/IP_POOL) | 免费的IP代理池 | 690 | Python |
 | 2650 | [tavily-crawl-for-kilo-wor](https://github.com/B3000Kcn/tavily-crawl-for-kilo-workflow) | A Tavily Crawl Kilocode Workflow, designed for crawling publicly accessible documentation. | 8 | PowerShell |
 | 2651 | [games](https://github.com/leereilly/games) | Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. | 25020 | 无 |
 | 2652 | [wechat-format](https://github.com/lyricat/wechat-format) | 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML | 4558 | JavaScript |
 | 2653 | [geoapi](https://github.com/risk3sixty/geoapi) | Lightweight API service to get geolocation data from IP addresses. | 712 | JavaScript |
-| 2654 | [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) | IntelliJ IDEA 简体中文专题教程 | 22012 | 无 |
+| 2654 | [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) | IntelliJ IDEA 简体中文专题教程 | 22013 | 无 |
 | 2655 | [BananaFlow-ZHO](https://github.com/ZHO-ZHO-ZHO/BananaFlow-ZHO) | 香蕉工厂：基于 Nano Banana 和 Veo3 模型/工具，轻松实现流程自动化 | 372 | TypeScript |
-| 2656 | [ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE) | ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation | 5739 | Python |
+| 2656 | [ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE) | ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation | 5740 | Python |
 | 2657 | [FileManager](https://github.com/codecyou/FileManager) | 查找重复文件、计算文件hash值、文件自动分类、功能强大的文件和目录搜索、批量重命名、视频截取、音频提取、格式转换、比对文本内容、文件同步备份、查找相似图片和视频 | 377 | Python |
 | 2658 | [TabNine](https://github.com/codota/TabNine) | AI Code Completions | 10757 | Shell |
 | 2659 | [AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) | Code to accompany "A Method for Animating Children's Drawings of the Human Figure" | 12811 | Python |
@@ -2664,11 +2664,11 @@
 | 2661 | [SimpleSDXL](https://github.com/metercai/SimpleSDXL) | Enhanced version of Fooocus for SDXL, more suitable for Chinese and Cloud | 867 | Python |
 | 2662 | [NexusGUI](https://github.com/shadowcz007/NexusGUI) | AI-generated GUI interfaces through MCP protocol with desktop rendering 通过 MCP 传递 GUI 定义，实现“AI 生成界面，桌面端渲染“ | 7 | JavaScript |
 | 2663 | [superduper](https://github.com/superduper-io/superduper) | Superduper: End-to-end framework for building custom AI applications and agents. | 5327 | Python |
-| 2664 | [lottie-web](https://github.com/airbnb/lottie-web) | Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/ | 32591 | JavaScript |
+| 2664 | [lottie-web](https://github.com/airbnb/lottie-web) | Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/ | 32602 | JavaScript |
 | 2665 | [programming-for-kids](https://github.com/jackdoe/programming-for-kids) | book for parents and kids. | 664 | Python |
 | 2666 | [magic-animate](https://github.com/magic-research/magic-animate) | [CVPR 2024] Official repository for "MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model" | 10887 | Python |
 | 2667 | [deepseek-wechat-summary-t](https://github.com/Bevis619/deepseek-wechat-summary-tool) | DeepSeek总结微信聊天记录小工具 | 9 | Python |
-| 2668 | [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | 无 | 104915 | Python |
+| 2668 | [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | 无 | 104918 | Python |
 | 2669 | [Python-GUI-Project](https://github.com/Aashishkumar123/Python-GUI-Project) | A Repositry that contains 20+ GUI Projects on python Tkinter | 652 | Python |
 | 2670 | [wechat-pc-hook-python](https://github.com/holdyeah/wechat-pc-hook-python) | 微信 pc hook | 296 | C |
 | 2671 | [learn-regex](https://github.com/ziishaned/learn-regex) | Learn regex the easy way | 46037 | 无 |
@@ -2680,20 +2680,20 @@
 | 2677 | [screeninfo](https://github.com/rr-/screeninfo) | Fetch location and size of physical screens. | 245 | Python |
 | 2678 | [ComfyUI-HunyuanVideoWrapp](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper) | 无 | 2594 | Python |
 | 2679 | [tavily-register](https://github.com/yatotm/tavily-register) | Intelligent automation tool for Tavily API Key acquisition | 61 | Python |
-| 2680 | [USTC-Course](https://github.com/USTC-Resource/USTC-Course) | :heart:中国科学技术大学课程资源 | 16374 | C++ |
+| 2680 | [USTC-Course](https://github.com/USTC-Resource/USTC-Course) | :heart:中国科学技术大学课程资源 | 16376 | C++ |
 | 2681 | [lsbasi](https://github.com/rspivak/lsbasi) | Let's Build A Simple Interpreter | 1877 | Python |
 | 2682 | [figma-to-json](https://github.com/yagudaev/figma-to-json) | 💾 Read/Write Figma Files as JSON | 333 | TypeScript |
 | 2683 | [LayaAir-v1](https://github.com/layabox/LayaAir-v1) | This is old LayaAir veriosn writetten by ActionScript 3.0 ,now LayaAir is using TypeScript as the Engine Script,Please use  https://github.com/layabox/LayaAir instead.  | 1817 | JavaScript |
-| 2684 | [ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio) | An AI-Powered Speech Processing Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Enhancement, Separation, and Target Speaker Extraction, etc. | 4660 | Python |
+| 2684 | [ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio) | An AI-Powered Speech Processing Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Enhancement, Separation, and Target Speaker Extraction, etc. | 4664 | Python |
 | 2685 | [omni-bot-sdk-oss](https://github.com/weixin-omni/omni-bot-sdk-oss) | 🤖一个基于视觉识别，使用自定义YOLO模型，OCR，数据库监听，实现的运行时零侵入的 微信4.0 RPA框架，支持动态接入插件，适配OpenAI，DIfy，支持解析所有消息类型，内置文本图片文件消息发送能力，可扩展小程序朋友圈发送。 | 559 | Python |
 | 2686 | [duckgo_api](https://github.com/wang-zhibo/duckgo_api) | duckduckgo api  免费的无限制的搜索接口, 和免费的 ai chat gpt-4o-mini,claude-3-haiku,llama-3.1-70b,mixtral-8x7b | 47 | Python |
 | 2687 | [music-dl](https://github.com/0xHJK/music-dl) | search and download music 从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐、咪咕音乐等搜索和下载歌曲 | 4548 | Python |
-| 2688 | [Hello-Python](https://github.com/mouredev/Hello-Python) | Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA... | 38136 | Python |
+| 2688 | [Hello-Python](https://github.com/mouredev/Hello-Python) | Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA... | 38141 | Python |
 | 2689 | [Neutron](https://github.com/IanTerzo/Neutron) | Create cross-platform apps in Python using HTML and CSS | 452 | Python |
 | 2690 | [vue](https://github.com/ygs-code/vue) | vue源码逐行注释分析+40多m的vue源码程序流程图思维导图(vue source code line by line annotation analysis +40 + m vue source code process flow chart mind map) | 7330 | JavaScript |
 | 2691 | [bye](https://github.com/J3n5en/bye) | 无 | 1039 | 无 |
 | 2692 | [TradingView-Binance-Teleg](https://github.com/ytrevor81/TradingView-Binance-Telegram-Bot) | An automated trading bot connecting TradingView alerts via webhook to the Binance API, and sending order confirmations or errors to a Telegram user. The user can also send commands to the bot to make ... | 156 | Python |
-| 2693 | [kokoro](https://github.com/hexgrad/kokoro) | https://hf.co/hexgrad/Kokoro-82M | 10389 | JavaScript |
+| 2693 | [kokoro](https://github.com/hexgrad/kokoro) | https://hf.co/hexgrad/Kokoro-82M | 10398 | JavaScript |
 | 2694 | [pytorch-CycleGAN-and-pix2](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) | Image-to-Image Translation in PyTorch | 25287 | Python |
 | 2695 | [DeveloperHelper](https://github.com/WrBug/DeveloperHelper) | 📌易开发是一款帮助开发人员快速开发的工具，功能包括界面分析，页面信息，加固脱壳，支持Android9.0 | 1419 | Kotlin |
 | 2696 | [tkwebview2](https://github.com/Smart-Space/tkwebview2) | tkinter use WebView2 Runtime to render html | 45 | Python |
@@ -2704,15 +2704,15 @@
 | 2701 | [solana-meme-forge-telegra](https://github.com/solanamemeforge/solana-meme-forge-telegram-bot) | 🚀 Professional Telegram bot for creating memecoins with custom addresses, referral system, and automated token distribution. Features IPFS integration, payment verification, and complete authority rev... | 3 | Python |
 | 2702 | [SocialEngineeringDictiona](https://github.com/zgjx6/SocialEngineeringDictionaryGenerator) | 社会工程学密码生成器，是一个利用个人信息生成密码的工具 | 1215 | HTML |
 | 2703 | [flux](https://github.com/black-forest-labs/flux) | Official inference repo for FLUX.1 models | 26083 | Python |
-| 2704 | [stable-diffusion-webui-fo](https://github.com/lllyasviel/stable-diffusion-webui-forge) | 无 | 13157 | Python |
-| 2705 | [nerfstudio](https://github.com/nerfstudio-project/nerfstudio) | A collaboration friendly studio for NeRFs | 12263 | Python |
+| 2704 | [stable-diffusion-webui-fo](https://github.com/lllyasviel/stable-diffusion-webui-forge) | 无 | 13156 | Python |
+| 2705 | [nerfstudio](https://github.com/nerfstudio-project/nerfstudio) | A collaboration friendly studio for NeRFs | 12264 | Python |
 | 2706 | [code2flow](https://github.com/scottrogowski/code2flow) | Pretty good call graphs for dynamic languages | 4623 | Python |
 | 2707 | [TheoremExplainAgent](https://github.com/TIGER-AI-Lab/TheoremExplainAgent) | Official Repo for "TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding" [ACL 2025 oral] | 1516 | Python |
 | 2708 | [draw-a-ui](https://github.com/SawyerHood/draw-a-ui) | Draw a mockup and generate html for it | 13560 | TypeScript |
-| 2709 | [AListFlutter](https://github.com/jing332/AListFlutter) | AList 安卓版本，APK安装即用，无需Root或Termux。 | 1988 | Dart |
-| 2710 | [maybe](https://github.com/maybe-finance/maybe) | The personal finance app for everyone | 54185 | Ruby |
+| 2709 | [AListFlutter](https://github.com/jing332/AListFlutter) | AList 安卓版本，APK安装即用，无需Root或Termux。 | 1987 | Dart |
+| 2710 | [maybe](https://github.com/maybe-finance/maybe) | The personal finance app for everyone | 54183 | Ruby |
 | 2711 | [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) | An online avatar generator just for fun  一个纯前端实现的头像生成网站 | 3762 | Vue |
-| 2712 | [indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) | 收录独立开发者出海技术栈和工具 | 7987 | 无 |
+| 2712 | [indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) | 收录独立开发者出海技术栈和工具 | 7988 | 无 |
 | 2713 | [xnomad.fun](https://github.com/xNomad-AI/xnomad.fun) | A smart terminal for creating, trading and engaging with AI-NFT agents. | 42 | TypeScript |
 | 2714 | [wechat_summary_tool](https://github.com/Smile232323/wechat_summary_tool) | A Python desktop tool for summarizing WeChat chat history using LLMs | 2 | Python |
 | 2715 | [vue-chrome-extension](https://github.com/zangse/vue-chrome-extension) | 使用Vue.js编写chrome扩展程序 | 48 | 无 |
@@ -2725,22 +2725,22 @@
 | 2722 | [awesome-python-books](https://github.com/junnplus/awesome-python-books) | :books: Directory of Python books | 4322 | 无 |
 | 2723 | [cline-mcp-memory-bank](https://github.com/dazeb/cline-mcp-memory-bank) | A memory system for Cline that tracks progress between conversations. | 61 | JavaScript |
 | 2724 | [QDarkStyleSheet](https://github.com/ColinDuquesnoy/QDarkStyleSheet) | A dark style sheet for QtWidgets application  | 3089 | Python |
-| 2725 | [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) | WhatsApp MCP server | 6959 | Go |
+| 2725 | [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) | WhatsApp MCP server | 6961 | Go |
 | 2726 | [chatlogwebUI](https://github.com/Backtthefuture/chatlogwebUI) | 基于Chatlog的微信群聊自动分析 | 274 | JavaScript |
 | 2727 | [fastapi-tailwind](https://github.com/THEGOLDENPRO/fastapi-tailwind) | ✨ TailwindCSS v4 support for 🔥 FastAPI without NodeJS and made incredibly simple. | 13 | Python |
 | 2728 | [Qt-RoastedDuck-Widgets](https://github.com/Rev-RoastedDuck/Qt-RoastedDuck-Widgets) | 🎨 基于Qt的动画特效控件实现   Qt widgets-based implementation of the Animation Material Design specification.😊 | 291 | Python |
-| 2729 | [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | 22411 | TypeScript |
+| 2729 | [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | 22412 | TypeScript |
 | 2730 | [ComfyUI-Pollinations](https://github.com/1038lab/ComfyUI-Pollinations) | pollinations API AI Generations | 48 | Python |
 | 2731 | [scratch-asset-utils](https://github.com/open-scratch/scratch-asset-utils) | scratch2和scratch3素材库爬虫和处理工具 | 48 | Python |
 | 2732 | [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) | Generate the Excel formulas you need in seconds using ChatGPT. | 1653 | TypeScript |
 | 2733 | [Simple_Prompt_Generator](https://github.com/WiNE-iNEFF/Simple_Prompt_Generator) | A user-friendly tool for generating high-quality text prompts for AI image generation models like Midjourney, DALL-E, Stable Diffusion, and more. Our Hugging Face demo attracts over 2,500 users monthl... | 166 | Python |
 | 2734 | [vibe-draw](https://github.com/martin226/vibe-draw) | 🎨 Turn your roughest sketches into stunning 3D worlds by vibe drawing | 2124 | TypeScript |
 | 2735 | [PyArmor-Unpacker](https://github.com/Svenskithesource/PyArmor-Unpacker) | A deobfuscator for PyArmor. | 764 | Python |
-| 2736 | [PandoraHelper](https://github.com/nianhua99/PandoraHelper) | 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！ | 1344 | TypeScript |
+| 2736 | [PandoraHelper](https://github.com/nianhua99/PandoraHelper) | 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！ | 1345 | TypeScript |
 | 2737 | [Twocast](https://github.com/panyanyany/Twocast) | AI Podcast Generator for bilingual episodes, Multi Languages, Alternative to NotebookLLM；真人对话AI播客生成器，多语言，多音色 | 1292 | TypeScript |
 | 2738 | [doubao_ai_agent_esp32](https://github.com/zhou19830318/doubao_ai_agent_esp32) | 基于micropython的esp32s3+豆包语音智能体实时语音对话智能助手 | 31 | Python |
-| 2739 | [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) | 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. ) | 14712 | HTML |
-| 2740 | [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | 无 | 92061 | 无 |
+| 2739 | [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) | 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. ) | 14713 | HTML |
+| 2740 | [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | 无 | 92063 | 无 |
 | 2741 | [cursor-api](https://github.com/zhx47/cursor-api) | 无 | 268 | JavaScript |
 | 2742 | [opengpts](https://github.com/langchain-ai/opengpts) | 无 | 6697 | Rich Text Format |
 | 2743 | [LittleTips](https://github.com/chenjing1294/LittleTips) | Display a list of shortcut keys for the active window with one click | 52 | C# |
@@ -2748,7 +2748,7 @@
 | 2745 | [CortexON](https://github.com/TheAgenticAI/CortexON) | Open-source generalized AI agent for everyday task automations. | 455 | Python |
 | 2746 | [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | Fish-like autosuggestions for zsh | 36232 | Shell |
 | 2747 | [chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) | 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出 | 3030 | HTML |
-| 2748 | [Complete-Python-3-Bootcam](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) | Course Files for Complete Python 3 Bootcamp Course on Udemy | 29845 | Jupyter Notebook |
+| 2748 | [Complete-Python-3-Bootcam](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) | Course Files for Complete Python 3 Bootcamp Course on Udemy | 29846 | Jupyter Notebook |
 | 2749 | [dumpkey](https://github.com/kekeimiku/dumpkey) | apple m1 wechat dump key | 160 | C |
 | 2750 | [Eel](https://github.com/python-eel/Eel) | A little Python library for making simple Electron-like HTML/JS GUI apps | 6711 | Python |
 | 2751 | [jupyter-themes](https://github.com/dunovank/jupyter-themes) | Custom Jupyter Notebook Themes | 9818 | CSS |
@@ -2758,7 +2758,7 @@
 | 2755 | [Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) | Qwen2.5-Omni is an end-to-end multimodal model by Qwen team at Alibaba Cloud, capable of understanding text, audio, vision, video, and performing real-time speech generation. | 4097 | Jupyter Notebook |
 | 2756 | [open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) | Video discussing this curriculum: | 3958 | 无 |
 | 2757 | [frida-unpack](https://github.com/dstmath/frida-unpack) | 基于Frida的脱壳工具 | 1619 | Python |
-| 2758 | [cloudscraper](https://github.com/VeNoMouS/cloudscraper) | A Python module to bypass Cloudflare's anti-bot page. | 6826 | Python |
+| 2758 | [cloudscraper](https://github.com/VeNoMouS/cloudscraper) | A Python module to bypass Cloudflare's anti-bot page. | 6827 | Python |
 | 2759 | [Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme) | A gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style ✨ | 2583 | Tcl |
 | 2760 | [DockerRegisterCloud](https://github.com/xausky/DockerRegisterCloud) | 基于 Docker 仓库协议的网盘客户端，可以将目前众多的免费容器仓库服务用于网盘。 | 652 | Dart |
 | 2761 | [python-gems](https://github.com/RealHacker/python-gems) | Beautifully constructed python scripts | 676 | Python |
@@ -2769,14 +2769,14 @@
 | 2766 | [quickshare](https://github.com/joeseesun/quickshare) | 快速分享大模型生成的HTML、Markdown、SVG、Mermaid代码 | 137 | JavaScript |
 | 2767 | [Tailor](https://github.com/FutureUniant/Tailor) | Tailor是一款视频智能裁剪、视频生成和视频优化的视频剪辑工具。目前的目标是通过人工智能技术减少视频剪辑的繁琐操作，让普通人也能简单实现专业剪辑人的水准！长远目标是让视频剪辑实现真正的AIGC！ | 1133 | Python |
 | 2768 | [llmpeg](https://github.com/ali-master/llmpeg) | AI-powered FFmpeg command generator. Describe your video task in plain English, get the perfect FFmpeg command instantly. | 138 | TypeScript |
-| 2769 | [reverse-linear-sync-engin](https://github.com/wzhudev/reverse-linear-sync-engine) | A reverse engineering of Linear's sync engine. | 2908 | JavaScript |
+| 2769 | [reverse-linear-sync-engin](https://github.com/wzhudev/reverse-linear-sync-engine) | A reverse engineering of Linear's sync engine. | 2912 | JavaScript |
 | 2770 | [ninja](https://github.com/0x676e67/ninja) | Reverse engineered ChatGPT proxy | 1671 | Rust |
 | 2771 | [MIGPT](https://github.com/Afool4U/MIGPT) |  基于API流式对话的低延迟版MIGPT | 577 | Python |
 | 2772 | [Semantic-UI-Docs](https://github.com/Semantic-Org/Semantic-UI-Docs) | Official Documentation for Semantic UI | 313 | JavaScript |
 | 2773 | [PandasGUI](https://github.com/adamerose/PandasGUI) | A GUI for Pandas DataFrames | 3255 | Python |
 | 2774 | [ida-mcp-server](https://github.com/MxIris-Reverse-Engineering/ida-mcp-server) | A Model Context Protocol server for IDA | 550 | Python |
-| 2775 | [gpt4all](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | 77346 | C++ |
-| 2776 | [devin.cursorrules](https://github.com/grapeot/devin.cursorrules) | Magic to turn Cursor/Windsurf as 90% of Devin | 5945 | Python |
+| 2775 | [gpt4all](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | 77347 | C++ |
+| 2776 | [devin.cursorrules](https://github.com/grapeot/devin.cursorrules) | Magic to turn Cursor/Windsurf as 90% of Devin | 5944 | Python |
 | 2777 | [neur-app](https://github.com/NeurProjects/neur-app) | The Intelligent Copilot for Solana | 438 | TypeScript |
 | 2778 | [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) | Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabili... | 8177 | JavaScript |
 | 2779 | [WeChatDB](https://github.com/lich0821/WeChatDB) | 解密微信数据库，聊天记录备份。Crack WeChat DB.  | 369 | 无 |
@@ -2791,12 +2791,12 @@
 | 2788 | [roo-code-memory-bank](https://github.com/GreatScottyMac/roo-code-memory-bank) | 🧠 Roo Code Memory Bank: Seamless project context in Roo Code.  No more repetition, just continuous development! | 1668 | Batchfile |
 | 2789 | [AI-Writer](https://github.com/BlinkDL/AI-Writer) | AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation. | 3949 | Python |
 | 2790 | [Awesome-GPT4o-Image-Promp](https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts) | 📚 GPT4o Prompts Dictionary  Curated Collection of AI Image Generation Prompts | 586 | HTML |
-| 2791 | [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) | CLI platform to experiment with codegen. Precursor to: https://lovable.dev | 54939 | Python |
+| 2791 | [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) | CLI platform to experiment with codegen. Precursor to: https://lovable.dev | 54937 | Python |
 | 2792 | [ChatSummary](https://github.com/Lingyuzhou111/ChatSummary) | 聊天记录总结助手 (ChatSummary) 是一个功能强大的插件，用于自动记录、总结和可视化群聊或私聊的对话内容。 | 39 | Python |
 | 2793 | [WeChat-PyRobot](https://github.com/kanadeblisst00/WeChat-PyRobot) | 注入Python到微信实现微信机器人 | 107 | Python |
 | 2794 | [sese-engine](https://github.com/RimoChan/sese-engine) | 【sese-engine】新时代的搜索引擎！ | 941 | Python |
 | 2795 | [zifei-panel](https://github.com/skanger/zifei-panel) | A data panel for crypto assets | 510 | JavaScript |
-| 2796 | [cocos2d-x](https://github.com/cocos2d/cocos2d-x) | Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x &... | 19257 | C++ |
+| 2796 | [cocos2d-x](https://github.com/cocos2d/cocos2d-x) | Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x &... | 19255 | C++ |
 | 2797 | [pdf_reports](https://github.com/Edinburgh-Genome-Foundry/pdf_reports) | :closed_book: Python library and CSS theme to generate PDF reports from HTML/Pug | 251 | Python |
 | 2798 | [jiki](https://github.com/teilomillet/jiki) | 无 | 19 | Python |
 | 2799 | [one-person-company](https://github.com/cyfyifanchen/one-person-company) | 遇事不决，Vibe 力学! One-Person Company AI Tools Series – continuously updated to help boost productivity and empower your solo business!  | 2742 | 无 |
@@ -2813,9 +2813,9 @@
 | 2810 | [Cola_wechatPay-Callback](https://github.com/x18990027/Cola_wechatPay-Callback) | 微信支付个人收款回调微信收款免签微信支付回调微信支付免签。一般的支付接口都需要营业执照才能申请解决个人无法轻易申请到支付接口的问题。通过python插件监听收款码的免签支付方式使用微信实现支付接口，无视微信版本，不会风控 | 48 | Python |
 | 2811 | [IOPaint](https://github.com/Sanster/IOPaint) | Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. | 23282 | Python |
 | 2812 | [mcp-twitterio](https://github.com/fuhaooo/mcp-twitterio) | 这是一个基于Model Context Protocol (MCP)的Twitter API客户端，使用twitterapi.io的API服务来获取Twitter数据。该服务允许AI助手（如Claude）查询Twitter数据，包括用户信息、推文、趋势等。 | 6 | Python |
-| 2813 | [XSStrike](https://github.com/s0md3v/XSStrike) | Most advanced XSS scanner. | 15289 | Python |
+| 2813 | [XSStrike](https://github.com/s0md3v/XSStrike) | Most advanced XSS scanner. | 15290 | Python |
 | 2814 | [Aina-Website-Creator](https://github.com/Iteranya/Aina-Website-Creator) | Create Beautiful Websites with AI - Now with Discord Integration! | 2 | HTML |
-| 2815 | [NuitkaGUI](https://github.com/271374667/NuitkaGUI) | 无 | 491 | Python |
+| 2815 | [NuitkaGUI](https://github.com/271374667/NuitkaGUI) | 无 | 492 | Python |
 | 2816 | [trending-in-one](https://github.com/huqi-pr/trending-in-one) | 今日头条热搜,知乎热门视频，知乎热搜榜，知乎热门话题，微博热搜榜；记录从 2020-11-29 日开始的热搜。每小时抓取一次数据，按天归档。 | 465 | TypeScript |
 | 2817 | [Python-Web-Every-Day](https://github.com/hippieZhou/Python-Web-Every-Day) | Python Web 开发每日一练 | 5 | HTML |
 | 2818 | [iAI](https://github.com/aimuch/iAI) | 🎯  AI Zero to Hero 👑 | 694 | Python |
@@ -2831,12 +2831,12 @@
 | 2828 | [flashtext](https://github.com/vi3k6i5/flashtext) | Extract Keywords from sentence or Replace keywords in sentences. | 5714 | Python |
 | 2829 | [deepsite-python](https://github.com/marlenezw/deepsite-python) | A Python version of DeepSite  | 19 | HTML |
 | 2830 | [CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image) | 基于Cloudflare Worker的AI图片生成脚本 | 116 | JavaScript |
-| 2831 | [selenium-twitter-scraper](https://github.com/godkingjay/selenium-twitter-scraper) | This is a Twitter Scraper which uses Selenium for scraping tweets. It is capable of scraping tweets from home, user profile, hashtag, query or search, and advanced searches. | 304 | Jupyter Notebook |
+| 2831 | [selenium-twitter-scraper](https://github.com/godkingjay/selenium-twitter-scraper) | This is a Twitter Scraper which uses Selenium for scraping tweets. It is capable of scraping tweets from home, user profile, hashtag, query or search, and advanced searches. | 305 | Jupyter Notebook |
 | 2832 | [superl-url](https://github.com/super-l/superl-url) | 根据关键词，对搜索引擎内容检索结果的网址内容进行采集的一款程序。可自动从多个搜索引擎采集相关网站的真实地址与标题等信息，可保存为文件，自动去除重复URL。同时，也可以自定义忽略多条域名等。 | 618 | Python |
 | 2833 | [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) | An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm. | 5067 | Python |
 | 2834 | [fake-cursor](https://github.com/Angels-Ray/fake-cursor) | 一个用于重新生成 Cursor 设备 ID 和设置 Access Token 的 Cursor 扩展 | 335 | JavaScript |
 | 2835 | [deepsite](https://github.com/kiritoko1029/deepsite) | Enhanced Deepsite | 107 | JavaScript |
-| 2836 | [IdGenerator](https://github.com/yitter/IdGenerator) | 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId... | 3207 | C |
+| 2836 | [IdGenerator](https://github.com/yitter/IdGenerator) | 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId... | 3208 | C |
 | 2837 | [prompt-manager](https://github.com/liujuntao123/prompt-manager) | 一个简洁、美观、实用的提示词管理网站。 | 294 | JavaScript |
 | 2838 | [Aina-Website-Builder](https://github.com/Iteranya/Aina-Website-Builder) | 无 | 1 | TypeScript |
 | 2839 | [Spark-TTS](https://github.com/SparkAudio/Spark-TTS) | Spark-TTS Inference Code | 10979 | Python |
@@ -2844,7 +2844,7 @@
 | 2841 | [mcp-dexscreener](https://github.com/janswist/mcp-dexscreener) | Dexscreener API's MCP server - let your AI agent check any on-chain price using Dexscreener's free and open API | 19 | JavaScript |
 | 2842 | [ComfyUI-J](https://github.com/Jannchie/ComfyUI-J) | Jannchie's ComfyUI custom nodes. | 99 | Python |
 | 2843 | [OpenManus-WebUI](https://github.com/Shybert-AI/OpenManus-WebUI) | 构建一个前端页面，通过flask框架实现OpenManus的前端调用。 | 223 | JavaScript |
-| 2844 | [Llama-Chinese](https://github.com/LlamaChinese/Llama-Chinese) | Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用 | 14756 | Python |
+| 2844 | [Llama-Chinese](https://github.com/LlamaChinese/Llama-Chinese) | Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用 | 14755 | Python |
 | 2845 | [google-search](https://github.com/web-agent-master/google-search) | A Playwright-based Node.js tool that bypasses search engine anti-scraping mechanisms to execute Google searches. Local alternative to SERP APIs with MCP server integration. | 629 | TypeScript |
 | 2846 | [typora-blubook-theme](https://github.com/HanryYu/typora-blubook-theme) | Blubook, a flat typora theme. | 589 | CSS |
 | 2847 | [AutoScriptBase](https://github.com/TonyJiangWJ/AutoScriptBase) | AutoJS项目框架，用于快速构建自动化项目 | 613 | JavaScript |
@@ -2863,7 +2863,7 @@
 | 2860 | [Solana-PumpFun-Bundler](https://github.com/Rabnail-SOL/Solana-PumpFun-Bundler) | Pumpfun bundler with 20 wallets that creates pool in pumpfun and bundle buy with 20 wallets using jito bundle | 191 | TypeScript |
 | 2861 | [AppAgent](https://github.com/TencentQQGYLab/AppAgent) | AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps. | 6926 | Python |
 | 2862 | [lookscanned.io](https://github.com/lookscanned/lookscanned.io) | 📚 LookScanned.io - Make your PDFs look scanned | 3609 | Vue |
-| 2863 | [samurai](https://github.com/yangchris11/samurai) | Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory" | 7128 | Python |
+| 2863 | [samurai](https://github.com/yangchris11/samurai) | Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory" | 7127 | Python |
 | 2864 | [lyraios](https://github.com/GalaxyLLMCI/lyraios) | LYRAI is a Model Context Protocol (MCP) operating system for multi-AI AGENTs designed to extend the functionality of AI applications by enabling them to interact with financial networks and blockchain... | 137 | Python |
 | 2865 | [crypto](https://github.com/dchampion/crypto) | Python implementations of two fully-featured public-key cryptosystems, including protocols for symmetric key agreement, encryption and digital signature | 2 | Python |
 | 2866 | [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) | An extension for VS Code that visualizes data during debugging. | 8175 | TypeScript |
@@ -2876,19 +2876,19 @@
 | 2873 | [HTML-Crypto-Currency-Char](https://github.com/IDouble/HTML-Crypto-Currency-Chart-Snippets) | 💹 Simple HTML Snippets to create Tickers / Charts of Cryptocurrencies with the TradingView API 💹 | 603 | HTML |
 | 2874 | [Wonder3D](https://github.com/xxlong0/Wonder3D) | Single Image to 3D using Cross-Domain Diffusion for 3D Generation | 5460 | Python |
 | 2875 | [PPOxFamily](https://github.com/opendilab/PPOxFamily) | PPO x Family DRL Tutorial Course（决策智能入门级公开课：8节课帮你盘清算法理论，理顺代码逻辑，玩转决策AI应用实践 ） | 2628 | Python |
-| 2876 | [story-flicks](https://github.com/alecm20/story-flicks) | 使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models. | 2553 | Python |
+| 2876 | [story-flicks](https://github.com/alecm20/story-flicks) | 使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models. | 2554 | Python |
 | 2877 | [ai_code_reader](https://github.com/duma-repo/ai_code_reader) | AI项目阅读器 by渡码 | 679 | Python |
 | 2878 | [ClaudePlayer](https://github.com/jmurth1234/ClaudePlayer) | An AI-powered game playing agent using Claude and PyBoy | 47 | Python |
 | 2879 | [youtube-transcripts-machi](https://github.com/zaidmukaddam/youtube-transcripts-machine) | 无 | 506 | TypeScript |
 | 2880 | [AnyText](https://github.com/tyxsspa/AnyText) | Official implementation code of the paper <AnyText: Multilingual Visual Text Generation And Editing> | 4890 | Python |
 | 2881 | [full-stack-starter-backen](https://github.com/Bradd3rs/full-stack-starter-backend) | A modern, production-ready backend starter built with FastAPI, featuring RESTful API endpoints, database integration, CORS support, and health monitoring. Perfect foundation for full-stack web applica... | 5 | Python |
-| 2882 | [MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus) | AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI L... | 7389 | Python |
+| 2882 | [MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus) | AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI L... | 7390 | Python |
 | 2883 | [pollinations-mcp](https://github.com/bendusy/pollinations-mcp) | pollinations-mcp | 9 | JavaScript |
 | 2884 | [coders](https://github.com/0xKoda/coders) | AI coding assistant in rust | 32 | Rust |
 | 2885 | [Ai-Agent-for-meme-coins](https://github.com/Kshitij10000/Ai-Agent-for-meme-coins) | Ai agent for meme coins which searches twitter , google and has own knowledge base | 2 | Python |
 | 2886 | [Ai-Agent-for-meme-coins](https://github.com/byst4nder/Ai-Agent-for-meme-coins) | Ai agent for meme coins which searches twitter , google and has own knowledge base | 1 | 无 |
 | 2887 | [clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) | Clarity AI  AI Image Upscaler & Enhancer - free and open-source Magnific Alternative | 5178 | Python |
-| 2888 | [mavonEditor](https://github.com/hinesboy/mavonEditor) | mavonEditor - A markdown editor based on Vue that supports a variety of personalized features | 6552 | Vue |
+| 2888 | [mavonEditor](https://github.com/hinesboy/mavonEditor) | mavonEditor - A markdown editor based on Vue that supports a variety of personalized features | 6551 | Vue |
 | 2889 | [markdown-to-image](https://github.com/gcui-art/markdown-to-image) | This React component is used to render Markdown into a beautiful poster image, with support for copying as an image. Md to Poster/Image/Quote/Card/Instagram/Twitter/Facebook... | 2000 | TypeScript |
 | 2890 | [Ollama-Scan](https://github.com/b3nguang/Ollama-Scan) | 助你实现Ollama自由，配合FOFA等搜索引擎体验更佳 | 249 | Python |
 | 2891 | [PhantomKeyRetriever](https://github.com/slowmist/PhantomKeyRetriever) | 无 | 24 | Python |
@@ -2906,9 +2906,9 @@
 | 2903 | [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) | Pytorch🍊🍉   is delicious, just eat it! 😋😋 | 6166 | Jupyter Notebook |
 | 2904 | [setwithfriends](https://github.com/ekzhang/setwithfriends) | 🎮 A frictionless multiplayer web app that lets you play Set with friends | 647 | JavaScript |
 | 2905 | [open-source-ai-weekly](https://github.com/YOYZHANG/open-source-ai-weekly) | 优质AI开源项目周刊, 每周一更新 | 648 | 无 |
-| 2906 | [hacker101](https://github.com/Hacker0x01/hacker101) | Source code for Hacker101.com - a free online web and mobile security class. | 14658 | SCSS |
+| 2906 | [hacker101](https://github.com/Hacker0x01/hacker101) | Source code for Hacker101.com - a free online web and mobile security class. | 14660 | SCSS |
 | 2907 | [wxdump_web](https://github.com/xaoyaoo/wxdump_web) | PyWxDump 的网页端 | 101 | Vue |
-| 2908 | [IC-Light](https://github.com/lllyasviel/IC-Light) | More relighting! | 8586 | Python |
+| 2908 | [IC-Light](https://github.com/lllyasviel/IC-Light) | More relighting! | 8587 | Python |
 | 2909 | [sd-webui-aspect-ratio-hel](https://github.com/thomasasfk/sd-webui-aspect-ratio-helper) | Simple extension to easily maintain aspect ratio while changing dimensions.  Install via the extensions tab on the AUTOMATIC1111 webui. | 433 | Python |
 | 2910 | [subtitle-extractor](https://github.com/sevengivings/subtitle-extractor) | A Python script for AI speech recognition of video or audio file using whisper, stable-ts or faster-whisper and translation of subtitle using DeepL app or DeepL API file translation. | 9 | Python |
 | 2911 | [WeCat](https://github.com/Sitoi/WeCat) | 提取微信聊天记录，对聊天记录进行分析生成年度聊天报告。 | 32 | 无 |
@@ -2916,29 +2916,29 @@
 | 2913 | [FK-Onmyoji](https://github.com/BluePlumStudio/FK-Onmyoji) | 阴阳师抗检测多功能脚本 | 211 | Python |
 | 2914 | [PaddleVideo](https://github.com/PaddlePaddle/PaddleVideo) | Awesome video understanding toolkits based on PaddlePaddle. It supports video data annotation tools, lightweight RGB and skeleton based action recognition model, practical applications for video taggi... | 1707 | Python |
 | 2915 | [cursor-account-api](https://github.com/Elawen-Carl/cursor-account-api) | 获取cursor免费账号api | 69 | Python |
-| 2916 | [lens](https://github.com/lensapp/lens) | Lens - The way the world runs Kubernetes | 23248 | 无 |
+| 2916 | [lens](https://github.com/lensapp/lens) | Lens - The way the world runs Kubernetes | 23246 | 无 |
 | 2917 | [gInk](https://github.com/geovens/gInk) | An easy to use on-screen annotation software inspired by Epic Pen. | 2627 | C# |
 | 2918 | [AutoGPT-Next-Web](https://github.com/ElricLiu/AutoGPT-Next-Web) | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用 | 2993 | TypeScript |
-| 2919 | [ShortGPT](https://github.com/RayVentura/ShortGPT) | 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation | 8212 | Python |
+| 2919 | [ShortGPT](https://github.com/RayVentura/ShortGPT) | 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation | 8213 | Python |
 | 2920 | [Translator3000](https://github.com/NyashniyVladya/Translator3000) | Automatic translator of games made on Ren'Py engine. | 144 | Ren'Py |
 | 2921 | [innoextract](https://github.com/dscharrer/innoextract) | A tool to unpack installers created by Inno Setup | 1424 | C++ |
 | 2922 | [AI0x0.com](https://github.com/mushan0x0/AI0x0.com) | 一个多模态多模型通用型的全局全能 AI 查询生成桌面悬浮助手应用 | 3913 | 无 |
 | 2923 | [OpenCursor](https://github.com/yokingma/OpenCursor) | Cursor AI编辑器接口转为OpenAI兼容的API，仅供研究学习使用。Convert Cursor to an OpenAI-compatible API, For learning purposes only. | 43 | TypeScript |
-| 2924 | [lama](https://github.com/advimman/lama) | 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022 | 10417 | Jupyter Notebook |
-| 2925 | [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) | 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具 | 5780 | C# |
+| 2924 | [lama](https://github.com/advimman/lama) | 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022 | 10418 | Jupyter Notebook |
+| 2925 | [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) | 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具 | 5781 | C# |
 | 2926 | [XYBot](https://github.com/HenryXiaoYang/XYBot) | XYBot是一个可运行于Linux和Windows的基于Hook的微信机器人🤖️！✅高度可自定义！ ✅支持自我编写插件！非常多的功能：天气🌤️、获取新闻📰、ChatGPT聊天🗣️、Hypixel玩家查询🎮、随机图片📷、随机链接🔗、随机群成员👥、五子棋♟️、签到✅、查询积分📊、积分榜🏆、积分转送💰、积分抽奖🎁、积分红包🧧等 | 535 | Python |
 | 2927 | [sparrow](https://github.com/sparrow-js/sparrow) | 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码 | 3190 | TypeScript |
 | 2928 | [coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) | A coincap mcp server to access crypto data from coincap API | 93 | TypeScript |
 | 2929 | [Whisper-Input](https://github.com/ErlichLiu/Whisper-Input) | 可以实现按下 Option 按钮开始录制，抬起按钮就结束录制，并调用 Groq Whisper Large V3 Turbo 模型进行转译，由于 Groq 的速度非常快，所以大部分的语音输入都可以在 1-2s 内反馈。并且得益于 whisper 的强大能力，转译效果非常不错。 | 585 | Python |
 | 2930 | [bor-protocol](https://github.com/themeshri/bor-protocol) | live streaming ai agent protocol | 6 | TypeScript |
-| 2931 | [llama](https://github.com/meta-llama/llama) | Inference code for Llama models | 59653 | Python |
+| 2931 | [llama](https://github.com/meta-llama/llama) | Inference code for Llama models | 59651 | Python |
 | 2932 | [aicover](https://github.com/all-in-aigc/aicover) | ai cover generator | 1795 | TypeScript |
 | 2933 | [nextjs-subscription-payme](https://github.com/vercel/nextjs-subscription-payments) | Clone, deploy, and fully customize a SaaS subscription application with Next.js. | 7705 | TypeScript |
 | 2934 | [wenda](https://github.com/wenda-LLM/wenda) | 闻达：一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题 | 6137 | JavaScript |
 | 2935 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. | 17758 | Python |
 | 2936 | [SuperAGI](https://github.com/jackfrued/SuperAGI) | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. | 1 | 无 |
 | 2937 | [silk-v3-decoder](https://github.com/kn007/silk-v3-decoder) | [Skype Silk Codec SDK]Decode silk v3 audio files (like wechat amr, aud files, qq slk files) and convert to other format (like mp3). Batch conversion support. | 3214 | C |
-| 2938 | [exceljs](https://github.com/exceljs/exceljs) | Excel Workbook Manager | 15527 | JavaScript |
+| 2938 | [exceljs](https://github.com/exceljs/exceljs) | Excel Workbook Manager | 15528 | JavaScript |
 | 2939 | [novel](https://github.com/steven-tey/novel) | Notion-style WYSIWYG editor with AI-powered autocompletion. | 16470 | TypeScript |
 | 2940 | [ChatGPT_JCM](https://github.com/JunChenMoCode/ChatGPT_JCM) | OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star。 | 2910 | Vue |
 | 2941 | [ChatGemini](https://github.com/bclswl0827/ChatGemini) | ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。 | 900 | TypeScript |
@@ -2963,12 +2963,12 @@
 | 2960 | [fbs](https://github.com/mherrmann/fbs) | Create Python GUIs with Qt in minutes | 3921 | Python |
 | 2961 | [blog](https://github.com/dwqs/blog) | :dog: :clap: :star2: Welcome to star | 3767 | JavaScript |
 | 2962 | [wxDraw](https://github.com/bobiscool/wxDraw) | A lightweight canvas library which providing 2d draw for weapp  微信小程序2d动画库 😎  🐼 | 1721 | JavaScript |
-| 2963 | [LearnPython](https://github.com/xianhu/LearnPython) | 以撸代码的形式学习Python | 8654 | Jupyter Notebook |
+| 2963 | [LearnPython](https://github.com/xianhu/LearnPython) | 以撸代码的形式学习Python | 8655 | Jupyter Notebook |
 | 2964 | [license_system](https://github.com/gushuaialan1/license_system) | 小巧的验证码系统 | 2 | Python |
-| 2965 | [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) | A Comprehensive Toolkit for High-Quality PDF Content Extraction | 10083 | Python |
+| 2965 | [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) | A Comprehensive Toolkit for High-Quality PDF Content Extraction | 10085 | Python |
 | 2966 | [uView2.0](https://github.com/umicro/uView2.0) | uView UI，是全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水 | 1788 | Vue |
 | 2967 | [uView](https://github.com/umicro/uView) | uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水 | 4210 | Vue |
-| 2968 | [How-To-Ask-Questions-The-](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。 | 36159 | JavaScript |
+| 2968 | [How-To-Ask-Questions-The-](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。 | 36158 | JavaScript |
 | 2969 | [BBScan](https://github.com/lijiejie/BBScan) | A fast vulnerability scanner helps pentesters pinpoint possibly vulnerable targets from a large number of web servers | 2371 | Python |
 | 2970 | [litellm-config](https://github.com/HogskinKitty/litellm-config) | Cline + GPT-4o API + LiteLLM 实现 Cursor 免费平替 | 6 | 无 |
 | 2971 | [sd-webui-inpaint-anything](https://github.com/Uminosachi/sd-webui-inpaint-anything) | Inpaint Anything extension performs stable diffusion inpainting on a browser UI using masks from Segment Anything. | 1296 | Python |
@@ -2979,23 +2979,23 @@
 | 2976 | [cursor-api](https://github.com/906051999/cursor-api) | 无 | 43 | JavaScript |
 | 2977 | [userland](https://github.com/raspberrypi/userland) | Source code for ARM side libraries for interfacing to Raspberry Pi GPU. | 2065 | C |
 | 2978 | [cursor2api](https://github.com/mt-altman/cursor2api) | Cursor to API | 57 | JavaScript |
-| 2979 | [PicaComic](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. | 8659 | Dart |
+| 2979 | [PicaComic](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. | 8658 | Dart |
 | 2980 | [browserpilot](https://github.com/handrew/browserpilot) | Natural language browser automation | 637 | Python |
 | 2981 | [mineru-api](https://github.com/neka-nat/mineru-api) | MinerU API server | 91 | Python |
-| 2982 | [FFCreator](https://github.com/tnfe/FFCreator) | A fast video processing library based on node.js (一个基于node.js的高速视频制作库) | 3165 | JavaScript |
+| 2982 | [FFCreator](https://github.com/tnfe/FFCreator) | A fast video processing library based on node.js (一个基于node.js的高速视频制作库) | 3164 | JavaScript |
 | 2983 | [jupai](https://github.com/jensellfors/jupai) | 无 | 1 | TypeScript |
 | 2984 | [AI-Website-Generator](https://github.com/Kshitij10000/AI-Website-Generator) | AI-Website-Generator is a Flask app that uses AI to convert voice commands into website code. It leverages OpenAI and image generation APIs to streamline the creation process. | 1 | Python |
 | 2985 | [mcp-webresearch](https://github.com/mzxrai/mcp-webresearch) | MCP web research server (give Claude real-time info from the web) | 299 | JavaScript |
-| 2986 | [PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual) | Prompt越狱手册 | 3714 | 无 |
+| 2986 | [PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual) | Prompt越狱手册 | 3716 | 无 |
 | 2987 | [ChatFiles](https://github.com/guangzhengli/ChatFiles) | Document Chatbot — multiple files. Powered by GPT / Embedding. | 3326 | TypeScript |
 | 2988 | [v0-copilot](https://github.com/yf-yang/v0-copilot) | Use GitHub Copilot to interactively generate and visualize components like v0.dev | 43 | TypeScript |
 | 2989 | [threestudio](https://github.com/threestudio-project/threestudio) | A unified framework for 3D content generation. | 7077 | Jupyter Notebook |
-| 2990 | [TTime](https://github.com/InkTimeRecord/TTime) | 🚀 Screenshots, word marking, OCR, AI, translation software  截图、划词、文字识别、AI、翻译软件 | 3375 | TypeScript |
-| 2991 | [TVBox](https://github.com/2hacc/TVBox) | TVBox 网络接口，更新速度快，接口访问速度快且稳定！ | 5915 | JavaScript |
+| 2990 | [TTime](https://github.com/InkTimeRecord/TTime) | 🚀 Screenshots, word marking, OCR, AI, translation software  截图、划词、文字识别、AI、翻译软件 | 3374 | TypeScript |
+| 2991 | [TVBox](https://github.com/2hacc/TVBox) | TVBox 网络接口，更新速度快，接口访问速度快且稳定！ | 5917 | JavaScript |
 | 2992 | [sdwebuiapi](https://github.com/mix1009/sdwebuiapi) | Python API client for AUTOMATIC1111/stable-diffusion-webui | 1419 | Jupyter Notebook |
 | 2993 | [i18n-ally](https://github.com/lokalise/i18n-ally) | 🌍 All in one i18n extension for VS Code | 4901 | TypeScript |
 | 2994 | [eliza-aws-plugin](https://github.com/TrenchBuddy/eliza-aws-plugin) | A template plus helper methods to facilitate hosting an Eliza agent on AWS. | 6 | JavaScript |
-| 2995 | [claude-engineer](https://github.com/Doriandarko/claude-engineer) | Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t... | 11233 | Python |
+| 2995 | [claude-engineer](https://github.com/Doriandarko/claude-engineer) | Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude t... | 11234 | Python |
 | 2996 | [pump-meta](https://github.com/yllvar/pump-meta) | Using NLTK to analyze the trending Meta from recent Pump.Fun launch, applying sentiment analysis and time series analysis to capture current meme hype | 11 | Python |
 | 2997 | [wechat-django](https://github.com/Xavier-Lam/wechat-django) | WeChat-Django旨在为接入微信公众平台的django开发者提供便捷的微信功能封装及最基本的后台管理支持 | 205 | Python |
 | 2998 | [Proctoring-AI](https://github.com/vardanagarwal/Proctoring-AI) | Creating a software for automatic monitoring in online proctoring | 635 | Python |
@@ -3004,12 +3004,12 @@
 | 3001 | [django-sspanel](https://github.com/Ehco1996/django-sspanel) | 用 diango 开发的 shadowsocks 面板 | 3060 | Python |
 | 3002 | [mcp-chatbot](https://github.com/3choff/mcp-chatbot) | A simple CLI chatbot that demonstrates the integration of the Model Context Protocol (MCP). | 251 | Python |
 | 3003 | [mcp_gradio_client](https://github.com/justjoehere/mcp_gradio_client) | This is a proof of concept repo on how to create a gradio UI using the Model Context Protocol Client Python SDK. | 68 | Python |
-| 3004 | [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) | StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation | 10842 | Python |
+| 3004 | [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) | StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation | 10843 | Python |
 | 3005 | [mcp-server-chatsum](https://github.com/chatmcp/mcp-server-chatsum) | Query and Summarize your chat messages. | 1028 | TypeScript |
 | 3006 | [MinerU-webui](https://github.com/liuhuapiaoyuan/MinerU-webui) | MinerU是一款开源的高质量PDF解析工具，基于深度学习技术，可自动提取PDF文档中的文字、表格、图片、公式等内容，并提供丰富的分析、统计、搜索等功能。 本项目为其提供一个简化版本的WebUI，方便用户上传PDF文件，并实时展示提取结果。 | 344 | Python |
 | 3007 | [TaskingAI](https://github.com/TaskingAI/TaskingAI) | The open source platform for AI-native application development. | 5407 | Python |
 | 3008 | [crypto-ai-analysis](https://github.com/amirho3inh/crypto-ai-analysis) | Cryptocurrency analysis based on news and user analysis | 1 | Python |
-| 3009 | [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) | wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译 | 12687 | Jupyter Notebook |
+| 3009 | [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) | wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译 | 12688 | Jupyter Notebook |
 | 3010 | [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | Semantic is a UI component framework based around useful principles from natural language. | 50991 | JavaScript |
 | 3011 | [CS-Base](https://github.com/xiaolincoder/CS-Base) | 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com   | 18645 | 无 |
 | 3012 | [twitter-space-downloader](https://github.com/wodeche/twitter-space-downloader) | Twitter Space 音频下载器 Chrome 扩展 | 7 | JavaScript |
@@ -3023,8 +3023,8 @@
 | 3020 | [twspace-dl](https://github.com/HoloArchivists/twspace-dl) | A python module to download twitter spaces. | 572 | Python |
 | 3021 | [SubPlayer](https://github.com/zhw2590582/SubPlayer) | SubPlayer is no longer maintained, please consider Aimu | 944 | JavaScript |
 | 3022 | [vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets) | These snippets were built to supercharge my workflow in the most seamless manner possible. | 1333 | JavaScript |
-| 3023 | [the-book-of-secret-knowle](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | 261466 | 无 |
-| 3024 | [gao](https://github.com/gaotianliuyun/gao) | FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 | 8297 | JavaScript |
+| 3023 | [the-book-of-secret-knowle](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | 261611 | 无 |
+| 3024 | [gao](https://github.com/gaotianliuyun/gao) | FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 | 8299 | JavaScript |
 | 3025 | [python-proxy](https://github.com/qwj/python-proxy) | HTTP/HTTP2/HTTP3/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python 3 asyncio. | 2209 | Python |
 | 3026 | [aginews](https://github.com/ericciarla/aginews) | 无 | 274 | TypeScript |
 | 3027 | [LaVie](https://github.com/Vchitect/LaVie) | [IJCV 2024] LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models | 950 | Python |
@@ -3032,7 +3032,7 @@
 | 3029 | [ailearning](https://github.com/apachecn/ailearning) | AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2 | 42648 | Python |
 | 3030 | [binanceAlert](https://github.com/fabius8/binanceAlert) | 无 | 83 | Python |
 | 3031 | [x_watcher](https://github.com/claude89757/x_watcher) | 本项目是一个基于 Streamlit 的智能助手应用，旨在通过数据收集、分析和生成个性化消息来帮助用户进行市场营销。该应用集成了多种功能模块，支持从 TikTok 和 X 平台收集用户评论，并利用 GPT 模型进行数据分析和消息生成。 | 2 | Python |
-| 3032 | [DeepFaceLive](https://github.com/iperov/DeepFaceLive) | Real-time face swap for PC streaming or video calls | 31019 | Python |
+| 3032 | [DeepFaceLive](https://github.com/iperov/DeepFaceLive) | Real-time face swap for PC streaming or video calls | 31020 | Python |
 | 3033 | [zibuyu-lanzou](https://github.com/zibuyu2015831/zibuyu-lanzou) | 蓝奏云逆向：文件上传、设置密码、下载直链等。 | 6 | Python |
 | 3034 | [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) | 👾 Open source implementation of the ChatGPT Code Interpreter | 3837 | Python |
 | 3035 | [contract](https://github.com/steedos/contract) | 开源合同管理系统，基于华炎魔方开发，多租户，云服务 | 162 | JavaScript |
@@ -3041,8 +3041,8 @@
 | 3038 | [pix2pixHD](https://github.com/NVIDIA/pix2pixHD) | Synthesizing and manipulating 2048x1024 images with conditional GANs | 6928 | Python |
 | 3039 | [preserve-cd](https://github.com/skywind3000/preserve-cd) | Game Preservation Project | 7047 | 无 |
 | 3040 | [magicoder](https://github.com/ise-uiuc/magicoder) | [ICML'24] Magicoder: Empowering Code Generation with OSS-Instruct | 2096 | Python |
-| 3041 | [Lazymux](https://github.com/Gameye98/Lazymux) | termux tool installer | 3777 | Python |
-| 3042 | [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) | ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution. | 4256 | Vue |
+| 3041 | [Lazymux](https://github.com/Gameye98/Lazymux) | termux tool installer | 3778 | Python |
+| 3042 | [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) | ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution. | 4257 | Vue |
 | 3043 | [read-list](https://github.com/eryajf/read-list) | 📖 优质内容订阅，阅读方为根本 | 204 | 无 |
 | 3044 | [PhotoMaker](https://github.com/TencentARC/PhotoMaker) | PhotoMaker [CVPR 2024] | 10080 | Jupyter Notebook |
 | 3045 | [PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) | PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis | 3319 | Python |
@@ -3053,7 +3053,7 @@
 | 3050 | [xray](https://github.com/chaitin/xray) | 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc  使用之前务必先阅读文档 | 11799 | Vue |
 | 3051 | [easyexcel](https://github.com/alibaba/easyexcel) | 快速、简洁、解决大文件内存溢出的java处理Excel工具 | 33526 | Java |
 | 3052 | [bilili](https://github.com/yutto-dev/bilili) | :beers: bilibili video (including bangumi) and danmaku downloader  B站视频（含番剧）、弹幕下载器 | 1175 | Python |
-| 3053 | [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) | A curated list of software and architecture related design patterns. | 49904 | 无 |
+| 3053 | [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) | A curated list of software and architecture related design patterns. | 49913 | 无 |
 | 3054 | [AI-System](https://github.com/microsoft/AI-System) | System for AI Education Resource. | 4366 | Python |
 | 3055 | [PrimarySchoolMathematics](https://github.com/bosichong/PrimarySchoolMathematics) | 孩子上小学一年级了，加减乘除的口算就要开始练习了，估计老师肯定会让家长出题，所以提前准备一下，利用Python开发了一套自动生成小学生口算题的小应用。而且今天是程序员节，撸200行代码庆祝一下。：） | 312 | JavaScript |
 | 3056 | [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin | 90080 | Vue |
@@ -3072,30 +3072,30 @@
 | 3069 | [vue](https://github.com/vuejs/vue) | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core | 212555 | TypeScript |
 | 3070 | [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) | Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch | 8431 | Python |
 | 3071 | [write-prompt](https://github.com/lijigang/write-prompt) | 公众号Write Prompt 发布的Prompt，同步记录于此 | 602 | 无 |
-| 3072 | [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs | 32021 | 无 |
+| 3072 | [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs | 32022 | 无 |
 | 3073 | [StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) | Accepted as [NeurIPS 2024] Spotlight Presentation Paper | 6504 | Jupyter Notebook |
 | 3074 | [Tradingview-ticker](https://github.com/Hattorius/Tradingview-ticker) | Reverse engineered connection to the TradingView ticker in Python | 108 | Python |
 | 3075 | [redbook-post-auto](https://github.com/MrDalili/redbook-post-auto) | 一款小红书的封面内容笔记自动生成排版工具，目前支持大标题+下面的小内容标题的自动化排版和布局。支持手写模式和内容模式，可以切换封面，目前仅支持网格和苹果备忘录的背景。 | 26 | HTML |
 | 3076 | [sd-webui-animatediff](https://github.com/continue-revolution/sd-webui-animatediff) | AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI | 3417 | Python |
 | 3077 | [bilix](https://github.com/HFrost0/bilix) | ⚡️Lightning-fast async download tool for bilibili and more | 1778 | Python |
-| 3078 | [paper2gui](https://github.com/Baiyuetribe/paper2gui) | Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术 | 10690 | Jupyter Notebook |
+| 3078 | [paper2gui](https://github.com/Baiyuetribe/paper2gui) | Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术 | 10691 | Jupyter Notebook |
 | 3079 | [openv0](https://github.com/nraiden/openv0) | AI generated UI components | 3957 | TypeScript |
 | 3080 | [claude-api](https://github.com/bincooo/claude-api) | ClaudeAI for Slack、claude.ai | 174 | Go |
 | 3081 | [genworlds-community](https://github.com/genlayerlabs/genworlds-community) | 无 | 33 | Jupyter Notebook |
 | 3082 | [audio2photoreal](https://github.com/facebookresearch/audio2photoreal) | Code and dataset for photorealistic Codec Avatars driven from audio | 2846 | Python |
 | 3083 | [colabcode](https://github.com/abhishekkrthakur/colabcode) | Run VSCode (codeserver) on Google Colab or Kaggle Notebooks | 2161 | Python |
-| 3084 | [weekly](https://github.com/ascoders/weekly) | 前端精读周刊。帮你理解最前沿、实用的技术。 | 31725 | JavaScript |
+| 3084 | [weekly](https://github.com/ascoders/weekly) | 前端精读周刊。帮你理解最前沿、实用的技术。 | 31726 | JavaScript |
 | 3085 | [Linear-Algebra-With-Pytho](https://github.com/weijie-chen/Linear-Algebra-With-Python) | Lecture Notes for Linear Algebra Featuring Python. This series of lecture notes will walk you through all the must-know concepts that set the foundation of data science or advanced quantitative skills... | 2579 | Jupyter Notebook |
 | 3086 | [flask-restful-example](https://github.com/qzq1111/flask-restful-example) | flask后端开发接口示例，利用Flask开发后端API接口。包含基本的项目配置、统一响应、MySQL和Redis数据库操作、定时任务、图片生成、项目部署、用户权限认证、报表输出、无限层级生成目录树、阿里云手机验证码验证、微信授权、Celery、单元测试、Drone等模块。 | 997 | Python |
 | 3087 | [crackq](https://github.com/f0cker/crackq) | CrackQ: A Python Hashcat cracking queue system | 941 | Python |
 | 3088 | [uniapp-plugin-collections](https://github.com/xiaowang1314/uniapp-plugin-collections) | uni-app项目插件功能集合https://github.com/xiaowang1314/uniapp-plugin-collections | 1215 | Vue |
-| 3089 | [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) | Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/) | 25553 | Python |
-| 3090 | [awesome-actions](https://github.com/sdras/awesome-actions) | A curated list of awesome actions to use on GitHub | 28469 | 无 |
-| 3091 | [DeepMosaics](https://github.com/HypoX64/DeepMosaics) | Automatically remove the mosaics in images and videos, or add mosaics to them. | 2679 | Python |
+| 3089 | [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) | Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/) | 25552 | Python |
+| 3090 | [awesome-actions](https://github.com/sdras/awesome-actions) | A curated list of awesome actions to use on GitHub | 28468 | 无 |
+| 3091 | [DeepMosaics](https://github.com/HypoX64/DeepMosaics) | Automatically remove the mosaics in images and videos, or add mosaics to them. | 2677 | Python |
 | 3092 | [OpenSource-RoadMap-DataSc](https://github.com/DataScienceResearchPeru/OpenSource-RoadMap-DataScience) | ¡Camino a una educación autodidacta en Ciencia de Datos! | 808 | Jupyter Notebook |
 | 3093 | [onmyoji_bot](https://github.com/AcademicDog/onmyoji_bot) | 阴阳师多平台自动化 | 379 | Python |
 | 3094 | [templateWxappUniapp](https://github.com/yinchengnuo/templateWxappUniapp) | UNI-APP微信小程序 | 298 | Vue |
-| 3095 | [grok-1](https://github.com/xai-org/grok-1) | Grok open release | 52251 | Python |
+| 3095 | [grok-1](https://github.com/xai-org/grok-1) | Grok open release | 52252 | Python |
 | 3096 | [animatplot](https://github.com/t-makaro/animatplot) | A python package for animating plots build on matplotlib. | 420 | Python |
 | 3097 | [vue-crx](https://github.com/ylfeng250/vue-crx) | 使用 Vue 2.0 进行Chrome扩展开发的模板 | 35 | JavaScript |
 | 3098 | [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) | [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime | 5373 | Python |
@@ -3106,50 +3106,50 @@
 | 3103 | [algo](https://github.com/wangzheng0822/algo) | 数据结构和算法必知必会的50个代码实现 | 23115 | Python |
 | 3104 | [aardio.gitclone](https://github.com/sfantree/aardio.gitclone) | 全网搜集的aardio项目，来源为github和gitee，各项目所有权归属原作者，上传仅供学习参考 | 110 | 无 |
 | 3105 | [pyscreeze](https://github.com/asweigart/pyscreeze) | PyScreeze is a simple, cross-platform screenshot module for Python 2 and 3. | 219 | Python |
-| 3106 | [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) | DeDRM tools for ebooks | 15418 | Python |
-| 3107 | [pyautogui](https://github.com/asweigart/pyautogui) | A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard. | 12768 | Python |
+| 3106 | [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) | DeDRM tools for ebooks | 15417 | Python |
+| 3107 | [pyautogui](https://github.com/asweigart/pyautogui) | A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard. | 12769 | Python |
 | 3108 | [youtube-video-maker](https://github.com/cristianzsh/youtube-video-maker) | :video_camera: A tool for automatic video creation and uploading on YouTube | 242 | Python |
 | 3109 | [InternGPT](https://github.com/OpenGVLab/InternGPT) | InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, ... | 3203 | Python |
 | 3110 | [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) | vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具 | 3408 | TypeScript |
 | 3111 | [pifuhd](https://github.com/facebookresearch/pifuhd) | High-Resolution 3D Human Digitization from A Single Image. | 9714 | Python |
-| 3112 | [what-happens-when](https://github.com/alex/what-happens-when) | An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?" | 43499 | 无 |
+| 3112 | [what-happens-when](https://github.com/alex/what-happens-when) | An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?" | 43502 | 无 |
 | 3113 | [vuepress-theme-gungnir](https://github.com/Renovamen/vuepress-theme-gungnir) | A blog theme for VuePress 2. | 369 | TypeScript |
-| 3114 | [bark](https://github.com/suno-ai/bark) | 🔊 Text-Prompted Generative Audio Model | 39431 | Jupyter Notebook |
-| 3115 | [python-spider](https://github.com/Jack-Cherish/python-spider) | :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等 | 19877 | Python |
+| 3114 | [bark](https://github.com/suno-ai/bark) | 🔊 Text-Prompted Generative Audio Model | 39432 | Jupyter Notebook |
+| 3115 | [python-spider](https://github.com/Jack-Cherish/python-spider) | :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等 | 19878 | Python |
 | 3116 | [python_koans](https://github.com/gregmalcolm/python_koans) | Python Koans - Learn Python through TDD | 5135 | Python |
 | 3117 | [winapps](https://github.com/Fmstrat/winapps) | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. | 10262 | Shell |
 | 3118 | [alist-html-render](https://github.com/xuanqb/alist-html-render) | html、md、pdf预览，自动生成目录 | 21 | JavaScript |
 | 3119 | [makair](https://github.com/makers-for-life/makair) | 🫁 The world's first open-source ventilator tested on human patients. Mass-producible at a low cost (~2000€). | 845 | 无 |
 | 3120 | [claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) | This project converts the API of Anthropic's Claude model to the OpenAI Chat API format. | 1298 | Python |
-| 3121 | [d2l-en](https://github.com/d2l-ai/d2l-en) | Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge. | 30117 | Python |
+| 3121 | [d2l-en](https://github.com/d2l-ai/d2l-en) | Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge. | 30118 | Python |
 | 3122 | [Claude-API](https://github.com/KoushikNavuluri/Claude-API) | This project provides an unofficial API for Claude AI, allowing users to access and interact with Claude AI . | 912 | Python |
 | 3123 | [Youtube-Auto-Subtitle-Dow](https://github.com/1c7/Youtube-Auto-Subtitle-Download) | （no longer maintained）（停止维护）功能：下载 Youtube 字幕，Download Youtube Subtitles（备注：因为不能带来收入，而且我自己也没有下载字幕的需求了，所以不再维护，除非情况有所改变） | 851 | JavaScript |
 | 3124 | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | 🖱️ 纯粹的Windows右键菜单管理程序 | 20495 | C# |
 | 3125 | [sd-webui-deforum](https://github.com/deforum/sd-webui-deforum) | Deforum extension for AUTOMATIC1111's Stable Diffusion webui | 2853 | Python |
-| 3126 | [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) | A neural network that transforms a design mock-up into a static website. | 16536 | HTML |
+| 3126 | [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) | A neural network that transforms a design mock-up into a static website. | 16538 | HTML |
 | 3127 | [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) | 用 Express 和  Vue3 搭建的 ChatGPT 演示网页 | 31300 | Vue |
 | 3128 | [free-python-games](https://github.com/grantjenks/free-python-games) | Free Python Games | 4071 | Python |
-| 3129 | [Best-websites-a-programme](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) | 程序员应该访问的最佳网站中文版 | 13754 | 无 |
+| 3129 | [Best-websites-a-programme](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) | 程序员应该访问的最佳网站中文版 | 13755 | 无 |
 | 3130 | [Video-to-audio-converter](https://github.com/adityashrm21/Video-to-audio-converter) | A simple tool to convert video files into mp3 audio files | 79 | Python |
-| 3131 | [Projects](https://github.com/karan/Projects) | :page_with_curl: A list of practical projects that anyone can solve in any programming language. | 48122 | 无 |
+| 3131 | [Projects](https://github.com/karan/Projects) | :page_with_curl: A list of practical projects that anyone can solve in any programming language. | 48121 | 无 |
 | 3132 | [LongLoRA](https://github.com/JIA-Lab-research/LongLoRA) | Code and documents of LongLoRA and LongAlpaca (ICLR 2024 Oral) | 2685 | Python |
 | 3133 | [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) | An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux) | 8374 | TypeScript |
-| 3134 | [ResumeSample](https://github.com/geekcompany/ResumeSample) | Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板 | 28386 | 无 |
+| 3134 | [ResumeSample](https://github.com/geekcompany/ResumeSample) | Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板 | 28387 | 无 |
 | 3135 | [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) | 《The Way to Go》中文译本，中文正式名《Go 入门指南》 | 34984 | Go |
 | 3136 | [opensource](https://github.com/programthink/opensource) | 【编程随想】收藏的开源项目清单 | 5154 | 无 |
 | 3137 | [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) | AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo | 11768 | 无 |
-| 3138 | [ChatIDE](https://github.com/yagil/ChatIDE) | AI Coding Assistant in your IDE - ChatGPT (OpenAI) and Claude (Anthropic) in a VSCode extension. | 219 | TypeScript |
+| 3138 | [ChatIDE](https://github.com/yagil/ChatIDE) | AI Coding Assistant in your IDE - ChatGPT (OpenAI) and Claude (Anthropic) in a VSCode extension. | 220 | TypeScript |
 | 3139 | [CodeGeeX](https://github.com/zai-org/CodeGeeX) | CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023) | 8808 | Python |
 | 3140 | [Gitbook](https://github.com/dodola/Gitbook) | 收录找到的不错的文档 | 572 | 无 |
 | 3141 | [pyston](https://github.com/pyston/pyston) | (No longer maintained) A faster and highly-compatible implementation of the Python programming language. | 2487 | Python |
 | 3142 | [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) | WebUI extension for ControlNet | 17792 | Python |
-| 3143 | [codellama](https://github.com/meta-llama/codellama) | Inference code for CodeLlama models | 16196 | Python |
-| 3144 | [LLaVA](https://github.com/haotian-liu/LLaVA) | [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond. | 25092 | Python |
+| 3143 | [codellama](https://github.com/meta-llama/codellama) | Inference code for CodeLlama models | 16195 | Python |
+| 3144 | [LLaVA](https://github.com/haotian-liu/LLaVA) | [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond. | 25093 | Python |
 | 3145 | [pytrends](https://github.com/GeneralMills/pytrends) | Pseudo API for Google Trends  | 3730 | Python |
 | 3146 | [pdfy](https://github.com/mikahama/pdfy) | A Python library for converting HTML files into PDF with Chrome's engine. | 21 | Python |
 | 3147 | [PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) | StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation. | 3493 | Python |
 | 3148 | [crypto-js](https://github.com/brix/crypto-js) | JavaScript library of crypto standards. | 16394 | JavaScript |
-| 3149 | [Interview_Question_for_Be](https://github.com/jbee37142/Interview_Question_for_Beginner) | :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader: | 21842 | 无 |
+| 3149 | [Interview_Question_for_Be](https://github.com/jbee37142/Interview_Question_for_Beginner) | :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader: | 21843 | 无 |
 | 3150 | [grequests](https://github.com/spyoungtech/grequests) | Requests + Gevent = <3 | 4567 | Python |
 | 3151 | [crypto-bot-analyzer](https://github.com/arham2211/crypto-bot-analyzer) | I have developed a Crypto Analyzer using Crew AI in Python, utilizing agents, tasks, and tools. | 19 | Python |
 | 3152 | [ControlNet-v1-1-nightly](https://github.com/lllyasviel/ControlNet-v1-1-nightly) | Nightly release of ControlNet 1.1 | 5157 | Python |
@@ -3157,10 +3157,10 @@
 | 3154 | [scprint](https://github.com/DanGill/scprint) | SCPrint⠀⠀Simple Color Print⠀⠀Python 3 Module⠀ | 7 | Python |
 | 3155 | [chinese-dos-games](https://github.com/rwv/chinese-dos-games) | 🎮 Chinese DOS games collections. | 10366 | Python |
 | 3156 | [multidiffusion-upscaler-f](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111) | Tiled Diffusion and VAE optimize, licensed under CC BY-NC-SA 4.0 | 4989 | Python |
-| 3157 | [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) | Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. | 37672 | Python |
-| 3158 | [mmagic](https://github.com/open-mmlab/mmagic) | OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio... | 7481 | Jupyter Notebook |
-| 3159 | [generative_agents](https://github.com/joonspk-research/generative_agents) | Generative Agents: Interactive Simulacra of Human Behavior | 22420 | 无 |
-| 3160 | [ant-design-landing](https://github.com/ant-design/ant-design-landing) | :mountain_bicyclist: Landing Pages of Ant Design System | 6541 | JavaScript |
+| 3157 | [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) | Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. | 37687 | Python |
+| 3158 | [mmagic](https://github.com/open-mmlab/mmagic) | OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio... | 7482 | Jupyter Notebook |
+| 3159 | [generative_agents](https://github.com/joonspk-research/generative_agents) | Generative Agents: Interactive Simulacra of Human Behavior | 22425 | 无 |
+| 3160 | [ant-design-landing](https://github.com/ant-design/ant-design-landing) | :mountain_bicyclist: Landing Pages of Ant Design System | 6540 | JavaScript |
 | 3161 | [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course | 10936 | JavaScript |
 | 3162 | [video-retalking](https://github.com/OpenTalker/video-retalking) | [SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild | 7310 | Python |
 | 3163 | [spinningup](https://github.com/openai/spinningup) | An educational resource to help anyone learn deep reinforcement learning. | 12052 | Python |
@@ -3172,34 +3172,34 @@
 | 3169 | [94list](https://github.com/codehub666/94list) | 百度网盘分享链接分析渲染列表辅助下载开源程序 | 1778 | PHP |
 | 3170 | [algor](https://github.com/binzhouchn/algor) | 数据结构与算法 py3 九章算法 | 84 | Python |
 | 3171 | [code_snippets](https://github.com/CoreyMSchafer/code_snippets) | 无 | 10616 | Jupyter Notebook |
-| 3172 | [Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) |  A collection of resources and papers on Diffusion Models | 12385 | HTML |
+| 3172 | [Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) |  A collection of resources and papers on Diffusion Models | 12386 | HTML |
 | 3173 | [WhisperFusion](https://github.com/collabora/WhisperFusion) | WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI. | 1643 | Python |
 | 3174 | [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 | 32849 | 无 |
 | 3175 | [MLN](https://github.com/momotech/MLN) | 高性能、小巧、易上手的移动跨平台开发框架. A framework for building Mobile cross-platform apps with Lua | 1641 | C |
 | 3176 | [AnimateDiff](https://github.com/guoyww/AnimateDiff) | Official implementation of AnimateDiff. | 12304 | Python |
 | 3177 | [pdf2word](https://github.com/python-fan/pdf2word) | 60行代码实现多线程PDF转Word | 902 | Python |
 | 3178 | [FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) | Fast Segment Anything | 8448 | Python |
-| 3179 | [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 | 82745 | Python |
+| 3179 | [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 | 82754 | Python |
 | 3180 | [animate.css](https://github.com/animate-css/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | 83074 | CSS |
-| 3181 | [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | Clean Code concepts adapted for JavaScript | 94689 | JavaScript |
-| 3182 | [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | The best design tools and plugins for everything 👉 | 42038 | JavaScript |
+| 3181 | [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | Clean Code concepts adapted for JavaScript | 94688 | JavaScript |
+| 3182 | [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | The best design tools and plugins for everything 👉 | 42044 | JavaScript |
 | 3183 | [code_to_flowchart](https://github.com/Vatsha/code_to_flowchart) | TThe program will take as input - code, algorithm, workflow or manual and will give as output- a flowchart for it. | 18 | Python |
-| 3184 | [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. | 37737 | Python |
+| 3184 | [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. | 37738 | Python |
 | 3185 | [StableCascade](https://github.com/Stability-AI/StableCascade) | Official Code for Stable Cascade | 6515 | Jupyter Notebook |
 | 3186 | [dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) | Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann. | 5258 | Jupyter Notebook |
-| 3187 | [pytorch-handbook](https://github.com/zergtant/pytorch-handbook) | pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行 | 21742 | Jupyter Notebook |
+| 3187 | [pytorch-handbook](https://github.com/zergtant/pytorch-handbook) | pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行 | 21741 | Jupyter Notebook |
 | 3188 | [deep-translator](https://github.com/nidhaloff/deep-translator) | A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators. | 2051 | Python |
 | 3189 | [gpt-games](https://github.com/JimLiu/gpt-games) | Build games with GPT | 322 | Python |
 | 3190 | [riffusion-hobby](https://github.com/riffusion/riffusion-hobby) | Stable diffusion for real-time music generation | 3908 | Python |
 | 3191 | [python_scripts](https://github.com/lzjun567/python_scripts) | 一些python相关的演示代码 | 707 | HTML |
 | 3192 | [CTkTable](https://github.com/Akascape/CTkTable) | Customtkinter Table widget (extension/add-on) | 340 | Python |
-| 3193 | [Java](https://github.com/DuGuQiuBai/Java) | 27天成为Java大神 | 14681 | Java |
+| 3193 | [Java](https://github.com/DuGuQiuBai/Java) | 27天成为Java大神 | 14680 | Java |
 | 3194 | [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | 97973 | Python |
 | 3195 | [AIChatWeb](https://github.com/Nanjiren01/AIChatWeb) | 在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。提供后台管理系统，可配置标题、欢迎词、额度不足提醒、公告 | 1469 | TypeScript |
 | 3196 | [taichi.js](https://github.com/AmesingFlank/taichi.js) | Modern GPU Compute and Rendering in Javascript | 538 | TypeScript |
-| 3197 | [baiduyun](https://github.com/syhyz1990/baiduyun) | 油猴脚本 - 一个免费开源的网盘下载助手 | 4789 | JavaScript |
-| 3198 | [InstantID](https://github.com/instantX-research/InstantID) | InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥 | 11994 | Python |
-| 3199 | [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) | List of Data Science Cheatsheets to rule the world | 16391 | 无 |
+| 3197 | [baiduyun](https://github.com/syhyz1990/baiduyun) | 油猴脚本 - 一个免费开源的网盘下载助手 | 4791 | JavaScript |
+| 3198 | [InstantID](https://github.com/instantX-research/InstantID) | InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥 | 11995 | Python |
+| 3199 | [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) | List of Data Science Cheatsheets to rule the world | 16390 | 无 |
 | 3200 | [sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) | All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI | 2358 | Python |
 | 3201 | [BookChatApp](https://github.com/TruthHun/BookChatApp) | 通用书籍阅读APP，BookChat 的 uni-app 实现版本，支持多端分发，编译生成Android和iOS 手机APP以及各平台的小程序 | 692 | Vue |
 | 3202 | [summary](https://github.com/zgx949/summary) | 基于ChatGPT的自动读取视频的内容并摘要 | 6 | Python |
@@ -3213,12 +3213,12 @@
 | 3210 | [Open-AnimateAnyone](https://github.com/guoqincode/Open-AnimateAnyone) | Unofficial Implementation of Animate Anyone | 2916 | Python |
 | 3211 | [avvvatars](https://github.com/nusu/avvvatars) | Beautifully crafted unique avatar placeholder for your next react project | 1973 | TypeScript |
 | 3212 | [wxpusher-sdk-python](https://github.com/wxpusher/wxpusher-sdk-python) | 微信消息实时推送服务[WxPusher]的Python版本sdk，可以通过API实时给个人微信推送消息。wechat pusher.  | 288 | Python |
-| 3213 | [Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) | Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks | 5666 | Python |
+| 3213 | [Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) | Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks | 5668 | Python |
 | 3214 | [fooocus-telegram](https://github.com/dzhusipov/fooocus-telegram) | Telegram bot for Fooocus-API | 13 | Python |
-| 3215 | [flv.js](https://github.com/bilibili/flv.js) | HTML5 FLV Player | 23168 | JavaScript |
+| 3215 | [flv.js](https://github.com/bilibili/flv.js) | HTML5 FLV Player | 23169 | JavaScript |
 | 3216 | [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head | 10171 | Python |
 | 3217 | [TranslatorBot](https://github.com/PasaOpasen/TranslatorBot) | Telegram bot for translation messages to certain languages | 6 | Python |
-| 3218 | [awesome-design](https://github.com/gztchan/awesome-design) | 🌟 Curated design resources from all over the world. | 17824 | 无 |
+| 3218 | [awesome-design](https://github.com/gztchan/awesome-design) | 🌟 Curated design resources from all over the world. | 17826 | 无 |
 | 3219 | [metapensiero.pj](https://github.com/metapensiero/metapensiero.pj) | Javascript for refined palates: a Python 3 to ES6 Javascript translator | 895 | Python |
 | 3220 | [ijavascript](https://github.com/n-riesco/ijavascript) | IJavascript is a javascript kernel for the Jupyter notebook | 2258 | JavaScript |
 | 3221 | [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) | PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on. | 8038 | Python |
@@ -3234,25 +3234,25 @@
 | 3231 | [stable-diffusion-webui-da](https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor) | Extension to edit dataset captions for SD web UI by AUTOMATIC1111 | 736 | Python |
 | 3232 | [generative_inpainting](https://github.com/JiahuiYu/generative_inpainting) | DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral | 3467 | Python |
 | 3233 | [qq_msg_decode](https://github.com/saucer-man/qq_msg_decode) | 解码qq聊天数据库 | 71 | Python |
-| 3234 | [javascript-testing-best-p](https://github.com/goldbergyoni/javascript-testing-best-practices) | 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025) | 24615 | JavaScript |
-| 3235 | [ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) | ChatGLM-6B: An Open Bilingual Dialogue Language Model  开源双语对话语言模型 | 40843 | Python |
+| 3234 | [javascript-testing-best-p](https://github.com/goldbergyoni/javascript-testing-best-practices) | 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025) | 24617 | JavaScript |
+| 3235 | [ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) | ChatGLM-6B: An Open Bilingual Dialogue Language Model  开源双语对话语言模型 | 40844 | Python |
 | 3236 | [ChatGLM2-6B](https://github.com/zai-org/ChatGLM2-6B) | ChatGLM2-6B: An Open Bilingual Chat LLM  开源双语对话语言模型 | 15473 | Python |
 | 3237 | [DouZero](https://github.com/kwai/DouZero) | [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning  斗地主AI | 4708 | Python |
-| 3238 | [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) | Python Data Science Handbook: full text in Jupyter Notebooks | 50519 | Jupyter Notebook |
+| 3238 | [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) | Python Data Science Handbook: full text in Jupyter Notebooks | 50521 | Jupyter Notebook |
 | 3239 | [python-small-examples](https://github.com/jackzhenguo/python-small-examples) | 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见  https://ai-jupyter.com | 8120 | Python |
-| 3240 | [SadTalker](https://github.com/OpenTalker/SadTalker) | [CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation | 14223 | Python |
-| 3241 | [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | 162848 | 无 |
-| 3242 | [Front-End-Web-Development](https://github.com/RitikPatni/Front-End-Web-Development-Resources) | This repository contains content which will be helpful in your journey as a front-end Web Developer | 5175 | 无 |
+| 3240 | [SadTalker](https://github.com/OpenTalker/SadTalker) | [CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation | 14225 | Python |
+| 3241 | [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | 162845 | 无 |
+| 3242 | [Front-End-Web-Development](https://github.com/RitikPatni/Front-End-Web-Development-Resources) | This repository contains content which will be helpful in your journey as a front-end Web Developer | 5176 | 无 |
 | 3243 | [concise-excel-vba](https://github.com/bluetata/concise-excel-vba) | Excel-vba 开发使用手册 | 722 | VBA |
 | 3244 | [coding-cheat-sheets](https://github.com/aspittel/coding-cheat-sheets) | Various cheat sheets on CS stuff | 1340 | 无 |
-| 3245 | [my-tv](https://github.com/lizongying/my-tv) | 我的电视 电视直播软件，安装即可使用 | 31948 | C |
-| 3246 | [apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) | ApacheCN 数据结构与算法译文集 | 11165 | JavaScript |
+| 3245 | [my-tv](https://github.com/lizongying/my-tv) | 我的电视 电视直播软件，安装即可使用 | 31950 | C |
+| 3246 | [apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) | ApacheCN 数据结构与算法译文集 | 11166 | JavaScript |
 | 3247 | [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) | Real-Time High-Resolution Background Matting | 7215 | Python |
 | 3248 | [Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) | Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do... | 2526 | Python |
 | 3249 | [pyment](https://github.com/dadadel/pyment) | Format and convert Python docstrings and generates patches | 954 | Python |
 | 3250 | [Peregrine](https://github.com/SaptakCompiler/Peregrine) | A blazing fast language for the blazing fast world(WIP) | 1434 | C++ |
 | 3251 | [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) | PyTorch implementations of Generative Adversarial Networks. | 17453 | Python |
-| 3252 | [BaiduPCS-Py](https://github.com/PeterDing/BaiduPCS-Py) | BaiduPCS API & App 百度网盘客户端 和 API | 878 | Python |
+| 3252 | [BaiduPCS-Py](https://github.com/PeterDing/BaiduPCS-Py) | BaiduPCS API & App 百度网盘客户端 和 API | 879 | Python |
 | 3253 | [telegram-upload](https://github.com/Nekmo/telegram-upload) | Upload and download files from Telegram up to 4 GiB using your account | 1439 | Python |
 | 3254 | [simple_movie_qa_with_KG](https://github.com/IrvingBei/simple_movie_qa_with_KG) | 使用python实现一个简单的基于知识图谱的电影问答系统 | 272 | Python |
 | 3255 | [python_data_structures_an](https://github.com/PegasusWang/python_data_structures_and_algorithms) | Python 中文数据结构和算法教程 | 3091 | Python |
@@ -3261,11 +3261,11 @@
 | 3258 | [comfyui-portrait-master-z](https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn) | 肖像大师 中文版 comfyui-portrait-master | 1807 | Python |
 | 3259 | [PadChat-SDK](https://github.com/AvengersWeChat/PadChat-SDK) | 永久免费 微信ipad、微信mac协议，可实现微信80%功能；支持62数据登录、扫码登录、收发朋友圈、查看朋友圈、微信建群、微信拉人进群、微信公众号阅读、微信消息收发、微信附近的人定位、微信添加好友、微信红包接收、微信防撤回、分享小程序、微信加粉、微信收藏、微信标签等 | 2024 | JavaScript |
 | 3260 | [awesome-indie](https://github.com/mezod/awesome-indie) | Resources for independent developers to make money | 12016 | 无 |
-| 3261 | [Machine-Learning-Tutorial](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | machine learning and deep learning tutorials, articles and other resources  | 18390 | 无 |
-| 3262 | [best-resume-ever](https://github.com/salomonelli/best-resume-ever) | :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS. | 16489 | Vue |
+| 3261 | [Machine-Learning-Tutorial](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | machine learning and deep learning tutorials, articles and other resources  | 18389 | 无 |
+| 3262 | [best-resume-ever](https://github.com/salomonelli/best-resume-ever) | :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS. | 16488 | Vue |
 | 3263 | [PIDM](https://github.com/ankanbhunia/PIDM) | Person Image Synthesis via Denoising Diffusion Model (CVPR 2023) | 501 | Jupyter Notebook |
 | 3264 | [QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup) | QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messaging QQ. | 1066 | Python |
-| 3265 | [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | :fireworks:Interactive Online Platform that Visualizes Algorithms from Code | 49587 | JavaScript |
+| 3265 | [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | :fireworks:Interactive Online Platform that Visualizes Algorithms from Code | 49588 | JavaScript |
 | 3266 | [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) | 基于 Apache ECharts 的微信小程序图表库 | 7509 | JavaScript |
 | 3267 | [musegan](https://github.com/salu133445/musegan) | An AI for Music Generation | 2046 | Python |
 | 3268 | [coloruiBeta](https://github.com/wen-gang/coloruiBeta) | Colorui先行版本 | 477 | Vue |
@@ -3274,7 +3274,7 @@
 | 3271 | [robotic-process-automatio](https://github.com/yihleego/robotic-process-automation) | 🤖 Robotic process automation (RPA) for WeChat, WeCom, etc. Support multiple clients and keep the computer unlocked when disconnect from the remote desktop. | 312 | Java |
 | 3272 | [LibraryManagement](https://github.com/yumendy/LibraryManagement) | 无 | 258 | HTML |
 | 3273 | [api-cheat-sheet](https://github.com/RestCheatSheet/api-cheat-sheet) | API Design Guidelines and Best Practices Cheat Sheet | 1162 | 无 |
-| 3274 | [awesome-hacking](https://github.com/carpedm20/awesome-hacking) | A curated list of awesome Hacking tutorials, tools and resources | 17584 | 无 |
+| 3274 | [awesome-hacking](https://github.com/carpedm20/awesome-hacking) | A curated list of awesome Hacking tutorials, tools and resources | 17590 | 无 |
 | 3275 | [xlist](https://github.com/xlist-io/xlist) | An all-in-one Alist client. / 一款多功能 Alist 客户端。 | 592 | Dart |
 | 3276 | [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) | Character Animation (AnimateAnyone, Face Reenactment) | 3517 | Python |
 | 3277 | [nps](https://github.com/ehang-io/nps) | 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,... | 34257 | Go |
@@ -3283,20 +3283,20 @@
 | 3280 | [rapidpages](https://github.com/rapidpages/rapidpages) | Generate React and Tailwind components using AI | 1233 | TypeScript |
 | 3281 | [wechat-ai-summarize-bot](https://github.com/small-tou/wechat-ai-summarize-bot) | 微信群聊总结助手 JS 版 | 280 | TypeScript |
 | 3282 | [pix2code](https://github.com/tonybeltramelli/pix2code) | pix2code: Generating Code from a Graphical User Interface Screenshot | 12009 | Python |
-| 3283 | [learn-python3](https://github.com/michaelliao/learn-python3) | Learn Python 3 Sample Code | 6492 | 无 |
+| 3283 | [learn-python3](https://github.com/michaelliao/learn-python3) | Learn Python 3 Sample Code | 6493 | 无 |
 | 3284 | [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) | A Blender script to procedurally generate 3D spaceships | 7869 | Python |
 | 3285 | [tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) | Code for Tensorflow Machine Learning Cookbook | 6234 | Jupyter Notebook |
 | 3286 | [autoSuperVim](https://github.com/ChinaLym/autoSuperVim) | ⚡一键将vim打造成python IDE 💪 | 2 | Shell |
-| 3287 | [chatgpt-clone](https://github.com/xtekky/chatgpt-clone) | ChatGPT interface with better UI  | 3486 | Python |
+| 3287 | [chatgpt-clone](https://github.com/xtekky/chatgpt-clone) | ChatGPT interface with better UI  | 3487 | Python |
 | 3288 | [ECommerceCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers) | 实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、企查查、招聘网站、闲鱼、阿里任务、博客园、微博、百度贴吧、豆瓣电影、包图网、全景网、豆瓣音乐、某省药监局、搜狐新闻、机器学习文本采集、fofa资产采集、汽车之家、国家统计局、百度关键词收录数、蜘蛛泛目录、今日头条、豆瓣影评、携程、小米应用商店、安居客、途家民宿❤️❤️❤️。微信爬虫展示项目: | 5797 | Python |
 | 3289 | [ComfyUI-PhotoMaker-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker-ZHO) | Unofficial implementation of PhotoMaker for ComfyUI | 808 | Python |
 | 3290 | [ComfyUI-InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID) | Unofficial implementation of InstantID for ComfyUI | 1441 | Python |
 | 3291 | [mtbird](https://github.com/staringos/mtbird) | 💻 无代码编辑器，无需代码生成小程序、H5页面和网站 ，拖拽操作、样式配置快速生成页面应用，数据可视化接入，支持定制业务拓展插件. StaringOS MtBird is a low-code platform for HTML Pages 、 Websites. We help users build pages without code or less code. | 753 | TypeScript |
 | 3292 | [SeargeSDXL](https://github.com/SeargeDP/SeargeSDXL) | Custom nodes and workflows for SDXL in ComfyUI | 867 | Python |
 | 3293 | [AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) | A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory. | 6589 | JavaScript |
-| 3294 | [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) | Manually curated collection of resources for frontend web developers. | 47908 | 无 |
+| 3294 | [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) | Manually curated collection of resources for frontend web developers. | 47913 | 无 |
 | 3295 | [pose-animator](https://github.com/yemount/pose-animator) | 无 | 8854 | JavaScript |
-| 3296 | [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python) | 机器学习算法python实现 | 8670 | Python |
+| 3296 | [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python) | 机器学习算法python实现 | 8669 | Python |
 | 3297 | [automating_excel_with_pyt](https://github.com/driscollis/automating_excel_with_python) | Code from the book, Automating Excel with Python by Michael Driscoll | 176 | Python |
 | 3298 | [ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc) | 2023年，最新音视频学习资料整理，项目（调试可用），ffmpeg命令手册，文章，编解码论文，视频讲解，面试题全套资料 | 2187 | C |
 | 3299 | [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | Use ChatGPT On Wechat via wechaty | 13225 | TypeScript |
@@ -3309,7 +3309,7 @@
 | 3306 | [PythonPlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies) | a simple PlantsVsZombies game | 3775 | Python |
 | 3307 | [Abstract-Art-Generator](https://github.com/burakunutmaz/Abstract-Art-Generator) | A python program that generates abstract art with variety of shapes, styles and randomization using pygame. | 173 | Python |
 | 3308 | [qt-material](https://github.com/UN-GCPDS/qt-material) | Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6 | 2857 | Python |
-| 3309 | [ai-edu](https://github.com/microsoft/ai-edu) | AI education materials for Chinese students, teachers and IT professionals. | 14148 | HTML |
+| 3309 | [ai-edu](https://github.com/microsoft/ai-edu) | AI education materials for Chinese students, teachers and IT professionals. | 14149 | HTML |
 | 3310 | [one-python-craftsman](https://github.com/piglei/one-python-craftsman) | 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。 | 7347 | 无 |
 | 3311 | [pywxdll](https://github.com/HenryXiaoYang/pywxdll) | A Python package for wechat dll hook  一个用于微信Dll Hook的Python库 | 58 | Python |
 | 3312 | [street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) | This is an AI agent for Street Fighter II Champion Edition. | 6544 | Python |
@@ -3318,7 +3318,7 @@
 | 3315 | [python-resources-2019](https://github.com/stephenh67/python-resources-2019) | Updated 8/8/2022 A curated list of Python 3 resources, books, websites, tutorials, code challenges | 247 | 无 |
 | 3316 | [build-web-application-wit](https://github.com/astaxie/build-web-application-with-golang) | A golang ebook intro how to build a web with golang | 43840 | Go |
 | 3317 | [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) | Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch | 11301 | Python |
-| 3318 | [funNLP](https://github.com/fighting41love/funNLP) | 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名... | 84783 | Python |
+| 3318 | [funNLP](https://github.com/fighting41love/funNLP) | 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名... | 84792 | Python |
 | 3319 | [DTrace-on-Windows](https://github.com/microsoft/DTrace-on-Windows) | Code for the cross platform, single source, OpenDTrace implementation | 545 | C |
 | 3320 | [BookStack](https://github.com/TruthHun/BookStack) | BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。 | 3507 | Go |
 | 3321 | [Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) | A curated list of awesome ARKit projects and resources. Feel free to contribute! | 7992 | Swift |
@@ -3342,7 +3342,7 @@
 | 3339 | [pic_hide_barcode-2.0](https://github.com/unsnad/pic_hide_barcode-2.0) | hide barcode in a picture 2.0. 在一张普通图片里隐藏二维码，可以被微信识别。 | 4 | Python |
 | 3340 | [iOSbackup](https://github.com/avibrazil/iOSbackup) | A Python 3 class that reads and extracts files from a password-encrypted iOS backup created by iTunes on Mac and Windows. Compatible with iOS 26. Class works on Linux too. | 290 | Python |
 | 3341 | [roomGPT](https://github.com/Nutlope/roomGPT) | Upload a photo of your room to generate your dream room with AI. | 10726 | TypeScript |
-| 3342 | [videogrep](https://github.com/antiboredom/videogrep) | automatic video supercuts with python | 3466 | Python |
+| 3342 | [videogrep](https://github.com/antiboredom/videogrep) | automatic video supercuts with python | 3467 | Python |
 | 3343 | [WebChatGPT](https://github.com/Simatwa/WebChatGPT) |   Python SDK/API for ChatGPT Web-Version | 124 | Python |
 | 3344 | [Convert-Pdf-Text-to-Speec](https://github.com/yongyewhon/Convert-Pdf-Text-to-Speech) | Text to Speech by using pyttsx3 to converting a PDF file and text file into audio and MP3 | 1 | Python |
 | 3345 | [sheetjs](https://github.com/SheetJS/sheetjs) | 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs | 36337 | 无 |
@@ -3351,13 +3351,13 @@
 | 3348 | [FreeAskInternet](https://github.com/nashsu/FreeAskInternet) | FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult... | 8736 | Python |
 | 3349 | [chessboardjs](https://github.com/oakmac/chessboardjs) | JavaScript chessboard | 2127 | JavaScript |
 | 3350 | [requests-html](https://github.com/psf/requests-html) | Pythonic HTML Parsing for Humans™ | 13797 | Python |
-| 3351 | [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | 60620 | 无 |
+| 3351 | [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | 60631 | 无 |
 | 3352 | [LangChain-ChatGLM-Webui](https://github.com/X-D-Lab/LangChain-ChatGLM-Webui) | 基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答 | 3303 | Python |
 | 3353 | [IF](https://github.com/deep-floyd/IF) | 无 | 7779 | Python |
 | 3354 | [chinese-dos-games-web](https://github.com/rwv/chinese-dos-games-web) | 🌐 Source code of https://dos.zczc.cz | 1169 | JavaScript |
 | 3355 | [QQ-History-Backup](https://github.com/QQBackup/QQ-History-Backup) | 【停更】QQ/TIM 聊天记录导出为 HTML，支持图片、语音，可 GUI 与 非 GUI 操作 (Python) | 394 | Python |
 | 3356 | [TextCreateVideo](https://github.com/Anning01/TextCreateVideo) | chatGPT + 百度云API + Stable Diffusion + MoviePy + fastapi | 97 | Python |
-| 3357 | [BlackBox](https://github.com/FBlackBox/BlackBox) | BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, s... | 2639 | 无 |
+| 3357 | [BlackBox](https://github.com/FBlackBox/BlackBox) | BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, s... | 2640 | 无 |
 | 3358 | [architect-awesome](https://github.com/xingshaocheng/architect-awesome) | 后端架构师技术图谱 | 60841 | 无 |
 | 3359 | [baiduwp-php](https://github.com/yuantuo666/baiduwp-php) | A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具 | 6331 | HTML |
 | 3360 | [awesome-taro](https://github.com/jd-opensource/awesome-taro) | 多端统一开发框架 Taro 优秀学习资源汇总 | 2920 | 无 |
@@ -3373,16 +3373,16 @@
 | 3370 | [Handright](https://github.com/Gsllchb/Handright) | A lightweight Python library for simulating Chinese handwriting | 2240 | Python |
 | 3371 | [generative-art-nft](https://github.com/rounakbanik/generative-art-nft) | A generative art library for NFT avatar and collectible projects. | 753 | Python |
 | 3372 | [Auto-PPT](https://github.com/limaoyi1/Auto-PPT) | Auto generate pptx using gpt-3.5, Free to use online / 通过gpt-3.5生成PPT,免费在线使用 | 754 | Python |
-| 3373 | [Voyager](https://github.com/MineDojo/Voyager) | An Open-Ended Embodied Agent with Large Language Models | 7344 | JavaScript |
+| 3373 | [Voyager](https://github.com/MineDojo/Voyager) | An Open-Ended Embodied Agent with Large Language Models | 7346 | JavaScript |
 | 3374 | [google-bard-api](https://github.com/ra83205/google-bard-api) | This project provides a FastAPI wrapper for interacting with Google Bard, a conversational AI by Google. It allows users to send messages to Google Bard and receive responses through a simple API. | 249 | Python |
 | 3375 | [awesome-machine-learning-](https://github.com/jobbole/awesome-machine-learning-cn) | 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件 | 4519 | 无 |
 | 3376 | [GAN-Anime-Characters](https://github.com/Tejas-Nanaware/GAN-Anime-Characters) | Creating Anime Faces using Generative Adversarial Networks (GAN) techniques such as: DCGAN, WGAN, StyleGAN, StyleGAN2 and StyleGAN3. Top repos on GitHub for AnimeFace GAN Generative AI Models | 73 | Jupyter Notebook |
-| 3377 | [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! | 9646 | Python |
+| 3377 | [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! | 9647 | Python |
 | 3378 | [Text-file-to-handwritten-](https://github.com/sharanya02/Text-file-to-handwritten-pdf-file) | Converts a text file to a handwritten pdf file. | 302 | Python |
 | 3379 | [shadowsocks](https://github.com/shadowsocks/shadowsocks) | 无 | 33485 | Python |
 | 3380 | [Lee-SLAM-source](https://github.com/GeekLiB/Lee-SLAM-source) | SLAM 开发学习资源与经验分享 | 1705 | 无 |
 | 3381 | [AR-Source](https://github.com/GeekLiB/AR-Source) | Augmented reality (AR) development resources(增强现实开发资源汇总)---AIRX整理 | 1902 | 无 |
-| 3382 | [WriteGPT](https://github.com/Turing-Project/WriteGPT) | 由图灵的猫开发，基于开源GPT2.0的初代创作型人工智能  可扩展、可进化 | 5268 | Python |
+| 3382 | [WriteGPT](https://github.com/Turing-Project/WriteGPT) | 由图灵的猫开发，基于开源GPT2.0的初代创作型人工智能  可扩展、可进化 | 5267 | Python |
 | 3383 | [python](https://github.com/Show-Me-the-Code/python) | Show Me the Code Python version. | 4335 | HTML |
 | 3384 | [langup-ai](https://github.com/jiran214/langup-ai) | AGI 社交网络 Bot.  BiliBili   直播聊天数字人  视频@自动回复  私信bot  终端聊天    语音交互 | 732 | Python |
 | 3385 | [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) | 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。 | 5189 | Java |
@@ -3391,17 +3391,17 @@
 | 3388 | [text-to-video-synthesis-c](https://github.com/camenduru/text-to-video-synthesis-colab) | Text To Video Synthesis Colab | 1515 | Jupyter Notebook |
 | 3389 | [WechatBot](https://github.com/kkx600/WechatBot) | 一个基于PC版的微信机器人，采用hook的形式进行消息拦截，内存信息读取的形式，实现安全工具，安全资讯，安全客，freebuf等安全论坛自动推送以及每日早报，晚报和娱乐功能，并且还加入当前最火的openai对话功能 | 235 | Python |
 | 3390 | [stack-roadmap](https://github.com/easychen/stack-roadmap) | 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈 | 4602 | PHP |
-| 3391 | [howto-make-more-money](https://github.com/easychen/howto-make-more-money) | 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate | 18763 | PHP |
-| 3392 | [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) | 精益副业：程序员如何优雅地做副业 | 12206 | 无 |
+| 3391 | [howto-make-more-money](https://github.com/easychen/howto-make-more-money) | 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate | 18764 | PHP |
+| 3392 | [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) | 精益副业：程序员如何优雅地做副业 | 12208 | 无 |
 | 3393 | [one-person-businesses-met](https://github.com/easychen/one-person-businesses-methodology) | 一人公司方法论 | 8397 | 无 |
-| 3394 | [game-programmer](https://github.com/miloyip/game-programmer) | A Study Path for Game Programmer | 18762 | Python |
+| 3394 | [game-programmer](https://github.com/miloyip/game-programmer) | A Study Path for Game Programmer | 18760 | Python |
 | 3395 | [SSR-Gate](https://github.com/bieberg0n/SSR-Gate) | 根据ssr订阅链接自动连接可用的服务器 | 3 | Python |
 | 3396 | [PoCBox](https://github.com/overspace-labs/PoCBox) | PoCBox - Vulnerability Test Aid Platform | 951 | JavaScript |
 | 3397 | [Animating-Landscape](https://github.com/endo-yuki-t/Animating-Landscape) | Pytorch implementation of Animating Landscape (SIGGRAPH Asia 2019) | 184 | Python |
 | 3398 | [autosub](https://github.com/agermanidis/autosub) | [NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file | 4189 | Python |
 | 3399 | [llama2-webui](https://github.com/liltom-eth/llama2-webui) | Run any Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Use `llama2-wrapper` as your local llama2 backend for Generative Agents/Apps.   | 1930 | Jupyter Notebook |
 | 3400 | [lora](https://github.com/cloneofsimo/lora) | Using Low-rank adaptation to quickly fine-tune diffusion models. | 7555 | Jupyter Notebook |
-| 3401 | [data-science-ipython-note](https://github.com/donnemartin/data-science-ipython-notebooks) | Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW... | 29402 | Python |
+| 3401 | [data-science-ipython-note](https://github.com/donnemartin/data-science-ipython-notebooks) | Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW... | 29403 | Python |
 | 3402 | [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) | An open source implementation of OpenAI's ChatGPT Code interpreter | 3529 | Python |
 | 3403 | [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) | 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。 | 8381 | HTML |
 | 3404 | [SMSBoom](https://github.com/OpenEthan/SMSBoom) | SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended! | 15056 | Python |
@@ -3415,12 +3415,12 @@
 | 3412 | [binance-futures-trading-b](https://github.com/Erfaniaa/binance-futures-trading-bot) | Easy-to-use multi-strategic automatic trading for Binance Futures with Telegram integration | 411 | Python |
 | 3413 | [codecv](https://github.com/acmenlei/codecv) | 一款 Markdown 在线简历制作工具，海量简历模板免费使用 https://www.codecvcv.com | 1001 | TypeScript |
 | 3414 | [Painter](https://github.com/manycore-maas/Painter) | 小程序生成图片库，轻松通过 json 方式绘制一张可以发到朋友圈的图片 | 4471 | JavaScript |
-| 3415 | [VirtualXposed](https://github.com/android-hacker/VirtualXposed) | A simple app to use Xposed without root, unlock the bootloader or modify system image, etc. | 16095 | Java |
+| 3415 | [VirtualXposed](https://github.com/android-hacker/VirtualXposed) | A simple app to use Xposed without root, unlock the bootloader or modify system image, etc. | 16097 | Java |
 | 3416 | [gpt-api](https://github.com/JimLiu/gpt-api) | 无 | 232 | TypeScript |
 | 3417 | [try_moonshot](https://github.com/timks-wonder/try_moonshot) | 本意是想做一个直接调用kimi的API帮我读论文的程序，然后发现API太贵了，但kimi网页版免费，就结合chrome和python写了这么个东西 | 12 | Python |
 | 3418 | [disco-diffusion-wrapper](https://github.com/mazzzystar/disco-diffusion-wrapper) | Implementation of disco-diffusion wrapper that could run on your own GPU with batch text input. | 561 | Jupyter Notebook |
-| 3419 | [WSAPatch](https://github.com/cinit/WSAPatch) | Make WSA(Windows Subsystem for Android) run on Windows 10. | 1548 | C++ |
-| 3420 | [studio](https://github.com/stoplightio/studio) | The modern editor for API Design and Technical Writing. | 870 | 无 |
+| 3419 | [WSAPatch](https://github.com/cinit/WSAPatch) | Make WSA(Windows Subsystem for Android) run on Windows 10. | 1547 | C++ |
+| 3420 | [studio](https://github.com/stoplightio/studio) | The modern editor for API Design and Technical Writing. | 871 | 无 |
 | 3421 | [gligen-gui](https://github.com/mut-ex/gligen-gui) | An intuitive GUI for GLIGEN that uses ComfyUI in the backend | 2033 | JavaScript |
 | 3422 | [jumpcutter](https://github.com/carykh/jumpcutter) | Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw | 3147 | Python |
 | 3423 | [html2text](https://github.com/aaronsw/html2text) | Convert HTML to Markdown-formatted text. | 2811 | Python |
@@ -3445,7 +3445,7 @@
 | 3442 | [ChatWithYou](https://github.com/CodeBoyPhilo/ChatWithYou) | 基于GhatGLM3-6B和微信聊天记录，克隆一个“你”的微信聊天机器人 ｜Create a personalised WeChat chat-bot that sounds like you using chat history based on ChatGLM3-6b  | 13 | Python |
 | 3443 | [AIDeveloper](https://github.com/maikherbig/AIDeveloper) | GUI-based software for training, evaluating and applying deep neural nets for image classification | 122 | Python |
 | 3444 | [SagerNet](https://github.com/SagerNet/SagerNet) | The universal proxy toolchain for Android | 5716 | Kotlin |
-| 3445 | [VALL-E-X](https://github.com/Plachtaa/VALL-E-X) | An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/ | 7901 | Python |
+| 3445 | [VALL-E-X](https://github.com/Plachtaa/VALL-E-X) | An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/ | 7902 | Python |
 | 3446 | [DragNUWA](https://github.com/ProjectNUWA/DragNUWA) | 无 | 720 | 无 |
 | 3447 | [psd](https://github.com/webtoon/psd) | Fast zero-dependency PSD parser for the web and Node.js | 1352 | TypeScript |
 | 3448 | [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) | stackoverflow上Java相关回答整理翻译 | 5065 | 无 |
@@ -3472,14 +3472,14 @@
 | 3469 | [Bjango-Actions](https://github.com/bjango/Bjango-Actions) | A collection of Photoshop actions, Photoshop scripts, Hazel rules, macOS workflows and other random things for screen designers and developers. | 1457 | JavaScript |
 | 3470 | [onelist](https://github.com/msterzhang/onelist) | 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。 | 1519 | Go |
 | 3471 | [wsl-windows-toolbar-launc](https://github.com/cascadium/wsl-windows-toolbar-launcher) | Adds linux GUI application menu to a windows toolbar | 1236 | Python |
-| 3472 | [GhostTrack](https://github.com/HunxByts/GhostTrack) | Useful tool to track location or mobile number | 20903 | Python |
+| 3472 | [GhostTrack](https://github.com/HunxByts/GhostTrack) | Useful tool to track location or mobile number | 20911 | Python |
 | 3473 | [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | 7900 | JavaScript |
 | 3474 | [StarterLearningPython](https://github.com/qiwsir/StarterLearningPython) | Learning Python: from Beginner to Master. https://lqlab.readthedocs.io | 1836 | Python |
 | 3475 | [canvas2pdf](https://github.com/joshua-gould/canvas2pdf) | Export your HTML canvas to PDF | 241 | JavaScript |
 | 3476 | [learn-python-the-smart-wa](https://github.com/datawhalechina/learn-python-the-smart-way) | 聪明方法学Python，简明且系统的 Python 入门教程。 | 426 | Jupyter Notebook |
 | 3477 | [idiomatic.js](https://github.com/rwaldron/idiomatic.js) | Principles of Writing Consistent, Idiomatic JavaScript | 25715 | 无 |
 | 3478 | [xuniren](https://github.com/waityousea/xuniren) | 无 | 599 | HTML |
-| 3479 | [xiaomi_miot_raw](https://github.com/ha0y/xiaomi_miot_raw) | All-in-one & Easy-to-use. Integrate all your Xiaomi Smart Home - with a single integration and NO YAML files - into Home Assistant. | 2173 | Python |
+| 3479 | [xiaomi_miot_raw](https://github.com/ha0y/xiaomi_miot_raw) | All-in-one & Easy-to-use. Integrate all your Xiaomi Smart Home - with a single integration and NO YAML files - into Home Assistant. | 2174 | Python |
 | 3480 | [awesome-sanic](https://github.com/mekicha/awesome-sanic) | A curated list of awesome Sanic resources and extensions | 765 | 无 |
 | 3481 | [TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) | 无 | 33884 | Python |
 | 3482 | [graf](https://github.com/heyuncle/graf) | GUI tool for making animations and graphics using the manim animation engine. | 27 | Python |
@@ -3487,16 +3487,16 @@
 | 3484 | [Sign-Sacker](https://github.com/langsasec/Sign-Sacker) | Sign-Sacker(签名掠夺者)：一款数字签名复制器，可将其他官方exe中数字签名，图标，详细信息复制到没有签名的exe中，作为免杀，权限维持，伪装的一种小手段。 | 625 | Python |
 | 3485 | [Llama-2-Onnx](https://github.com/microsoft/Llama-2-Onnx) | 无 | 1025 | Python |
 | 3486 | [dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) | [ICLR 2024 Oral] Generative Gaussian Splatting for Efficient 3D Content Creation | 4365 | Python |
-| 3487 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 100 Days of ML Coding | 52076 | 无 |
-| 3488 | [BlockChain](https://github.com/itheima1/BlockChain) | 黑马程序员 120天全栈区块链开发 开源教程 | 4660 | JavaScript |
-| 3489 | [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) | :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。 | 11801 | Python |
+| 3487 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 100 Days of ML Coding | 52078 | 无 |
+| 3488 | [BlockChain](https://github.com/itheima1/BlockChain) | 黑马程序员 120天全栈区块链开发 开源教程 | 4659 | JavaScript |
+| 3489 | [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) | :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。 | 11802 | Python |
 | 3490 | [OpenAI_wechat_bot](https://github.com/yexleo/OpenAI_wechat_bot) | 如果你有基于 openai 的 key，可以用这个项目定制自己的微信机器人，来作为你的聊天替身，或者客服，或者私人学习工作助理 | 43 | Python |
 | 3491 | [pytorch-book](https://github.com/chenyuntc/pytorch-book) | PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》) | 12847 | Jupyter Notebook |
 | 3492 | [chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) | Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust | 1995 | Rust |
 | 3493 | [Sports-betting](https://github.com/pretrehr/Sports-betting) | Sports betting assistant (with interface) which optimizes earnings regarding odds and offers | 544 | Python |
-| 3494 | [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) | Use AI to translate code from one language to another. | 4157 | TypeScript |
+| 3494 | [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) | Use AI to translate code from one language to another. | 4158 | TypeScript |
 | 3495 | [annotated-py-projects](https://github.com/hhstore/annotated-py-projects) | fastapi/flask/sanic/asyncio/bottle/webpy 等源码注解合集 | 721 | Python |
-| 3496 | [english-note](https://github.com/hzpt-inet-club/english-note) | 从0开始学习英语语法 | 5841 | 无 |
+| 3496 | [english-note](https://github.com/hzpt-inet-club/english-note) | 从0开始学习英语语法 | 5844 | 无 |
 | 3497 | [bug](https://github.com/liu673cn/bug) | TVbox开源版（空壳-自行配置） | 10303 | HTML |
 | 3498 | [uniapp](https://github.com/Airubby/uniapp) | 用uni-app开发的DCIM管理系统 | 119 | JavaScript |
 | 3499 | [awesome-bookmarks](https://github.com/awesome-wiki/awesome-bookmarks) | 书签「利器」收集 🍪🍿 Wiki 在线阅读👉 | 64 | 无 |
@@ -3517,7 +3517,7 @@
 | 3514 | [Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) | My notes of Clean Code book | 6129 | 无 |
 | 3515 | [dirScan](https://github.com/Degree-21/dirScan) | 网站目录、后台扫描 基于御剑字典 | 245 | Python |
 | 3516 | [Redream](https://github.com/Fictiverse/Redream) | Realtime Diffusion, using Automatic1111 Stable Diffusion API | 1772 | C# |
-| 3517 | [wechat_info_collect](https://github.com/lucky-ecat/wechat_info_collect) | 调查取证  针对微信客户端的信息收集工具, 自动化提取本地PC所有的微信信息, 包括微信号, 手机号等   | 670 | 无 |
+| 3517 | [wechat_info_collect](https://github.com/lucky-ecat/wechat_info_collect) | 调查取证  针对微信客户端的信息收集工具, 自动化提取本地PC所有的微信信息, 包括微信号, 手机号等   | 671 | 无 |
 | 3518 | [SingleFileDB](https://github.com/lllyasviel/SingleFileDB) | A single file implementation of key-value database for Python 3. | 88 | Python |
 | 3519 | [DriveDirectLink](https://github.com/jimu5/DriveDirectLink) | DriveDirectLink 网盘直链下载，支持谷歌, 蓝奏云,360云盘 | 248 | PHP |
 | 3520 | [chinese_keyphrase_extract](https://github.com/dongrixinyu/chinese_keyphrase_extractor) |  An off-the-shelf tool for Chinese Keyphrase Extraction 一个快速从中文里抽取关键短语的工具，仅占35M内存 www.jionlp.com | 554 | Python |
@@ -3527,7 +3527,7 @@
 | 3524 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) | SoftVC VITS Singing Voice Conversion | 28021 | Python |
 | 3525 | [ChatConnect-Pro](https://github.com/codingwithzaz/ChatConnect-Pro) | Integrate ChatGPT with WhatsApp without API key 📲🤖💬 | 6 | Python |
 | 3526 | [bookshelf](https://github.com/AnsonZnl/bookshelf) | 书架小程序——基于微信小程序云开发 | 47 | JavaScript |
-| 3527 | [TTS](https://github.com/mozilla/TTS) | :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts) | 10187 | Jupyter Notebook |
+| 3527 | [TTS](https://github.com/mozilla/TTS) | :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts) | 10188 | Jupyter Notebook |
 | 3528 | [dalle-mini](https://github.com/borisdayma/dalle-mini) | DALL·E Mini - Generate images from a text prompt | 14707 | Python |
 | 3529 | [BlackDex](https://github.com/CodingGay/BlackDex) | BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in sever... | 6485 | C++ |
 | 3530 | [golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) | An overview of Go syntax and features. | 8837 | 无 |
@@ -3536,9 +3536,9 @@
 | 3533 | [pyscreenshot](https://github.com/ponty/pyscreenshot) | Python screenshot library, replacement for the Pillow ImageGrab module on Linux. | 511 | Python |
 | 3534 | [ComfyUI_tutorial_vn](https://github.com/comfyanonymous/ComfyUI_tutorial_vn) | A VN made with ComfyUI as a tutorial for ComfyUI | 82 | Ren'Py |
 | 3535 | [WX-forensics](https://github.com/i-Corner/WX-forensics) | 微信取证小师，提取Windows微信登录状态下的信息，及解密硬盘中的数据库，图片，形成web浏览 | 24 | Python |
-| 3536 | [Python3-Spider](https://github.com/wkunzhi/Python3-Spider) | Python爬虫实战 - 模拟登陆各大网站 包含但不限于：滑块验证、拼多多、美团、百度、bilibili、大众点评、淘宝，如果喜欢请start ❤️ | 3416 | Python |
+| 3536 | [Python3-Spider](https://github.com/wkunzhi/Python3-Spider) | Python爬虫实战 - 模拟登陆各大网站 包含但不限于：滑块验证、拼多多、美团、百度、bilibili、大众点评、淘宝，如果喜欢请start ❤️ | 3415 | Python |
 | 3537 | [streakjs](https://github.com/guyoung/streakjs) | streakjs是一款多端JavaScript Canvas框架  | 566 | JavaScript |
-| 3538 | [tiler](https://github.com/nuno-faria/tiler) | 👷 Build images with images | 6061 | Python |
+| 3538 | [tiler](https://github.com/nuno-faria/tiler) | 👷 Build images with images | 6062 | Python |
 | 3539 | [Azure-ttk-theme](https://github.com/rdbende/Azure-ttk-theme) | A stunning modern theme for ttk inspired by Fluent Design 💠 | 852 | Tcl |
 | 3540 | [QGUI](https://github.com/QPT-Family/QGUI) | QGUI - 0.1MB超轻量Python GUI框架，用模板来快捷制作深度学习模型推理界面 | 123 | Python |
 | 3541 | [Crawler4Caida](https://github.com/52ai/Crawler4Caida) | Stick to doing something interesting and valuable. | 97 | 无 |
@@ -3547,21 +3547,21 @@
 | 3544 | [chatgpt-file-uploader-ext](https://github.com/ariburaco/chatgpt-file-uploader-extended) | 无 | 184 | TypeScript |
 | 3545 | [jd_tb_auto](https://github.com/czj2369/jd_tb_auto) | 基于AutoJsx编写的618双十一淘宝京东幻想岛总动员赚喵币赚汪汪币炸年兽任务自动完成脚本 | 1363 | JavaScript |
 | 3546 | [apollo](https://github.com/amirgamil/apollo) | A Unix-style personal search engine and web crawler for your digital footprint. | 1384 | Go |
-| 3547 | [QuickCut](https://github.com/HaujetZhao/QuickCut) | Your most handy video processing software | 2942 | Python |
+| 3547 | [QuickCut](https://github.com/HaujetZhao/QuickCut) | Your most handy video processing software | 2941 | Python |
 | 3548 | [python-pdfkit](https://github.com/JazzCore/python-pdfkit) | Wkhtmltopdf python wrapper to convert html to pdf | 2040 | Python |
 | 3549 | [Bringing-Old-Photos-Back-](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) | Bringing Old Photo Back to Life (CVPR 2020 oral) | 15688 | Python |
 | 3550 | [safaribooks](https://github.com/ViciousPotato/safaribooks) | Convert safaribooksonline ebook to epub and Kindle mobi format | 348 | Python |
 | 3551 | [Access-chatGPT-in-Siri](https://github.com/Daiyimo/Access-chatGPT-in-Siri) | chatGPT全方面接入指南 | 1708 | 无 |
-| 3552 | [char-rnn](https://github.com/karpathy/char-rnn) | Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch | 12146 | Lua |
+| 3552 | [char-rnn](https://github.com/karpathy/char-rnn) | Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch | 12147 | Lua |
 | 3553 | [awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books) | 📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Secur... | 2126 | 无 |
-| 3554 | [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | Based on a true story | 49877 | JavaScript |
+| 3554 | [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | Based on a true story | 49876 | JavaScript |
 | 3555 | [Claude2-PyAPI](https://github.com/wwwzhouhui/Claude2-PyAPI) | 一个使用python 实现Claude2 创建会话、聊天、发送附件、获取历史会话，清理历史记录等功能的api接口，可以对接第三方系统作为二次开发使用。 | 318 | Python |
 | 3556 | [gpt-web](https://github.com/weaigc/gpt-web) | 一个基于逆向工程的 ChatGPT 命令行及 API 工具，支持账号登录 ChatGPT Web 版本，无需充值，无需代理即可使用。 | 98 | TypeScript |
 | 3557 | [baidupankey](https://github.com/hippieZhou/baidupankey) | 百度网盘提取码一键获取 | 57 | Python |
 | 3558 | [AI-Scalpel-Trading-Bot](https://github.com/hackobi/AI-Scalpel-Trading-Bot) | A python bot that lets you trade in most crypto exchanges and allows you to optimize your strategies with machine learning. | 466 | Python |
 | 3559 | [iTunes_Backup_Reader](https://github.com/jfarley248/iTunes_Backup_Reader) | Python 3 Script to parse out iTunes backups | 193 | Python |
 | 3560 | [data-storyteller](https://github.com/prakharrathi25/data-storyteller) | Automated tool for data story telling | 115 | Python |
-| 3561 | [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin... | 33455 | Python |
+| 3561 | [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin... | 33460 | Python |
 | 3562 | [wx-charts](https://github.com/xiaolin3303/wx-charts) | 微信小程序图表库，Charts for WeChat Mini Program | 4980 | JavaScript |
 | 3563 | [cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) | A Python module to bypass Cloudflare's anti-bot page. | 3547 | Python |
 | 3564 | [GPT-vup](https://github.com/jiran214/GPT-vup) | GPT-vup BIliBili  抖音  AI  虚拟主播 | 1277 | Python |
@@ -3574,17 +3574,17 @@
 | 3571 | [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) | A list of all named GANs! | 14691 | Python |
 | 3572 | [HuiHome](https://github.com/HuiDBK/HuiHome) | 基于FastAPI的房屋租赁系统 | 191 | JavaScript |
 | 3573 | [zao-](https://github.com/qiucheng025/zao-) | AI技术换脸源码 | 1125 | Python |
-| 3574 | [Douyin-Bot](https://github.com/wangshub/Douyin-Bot) | 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？  | 9654 | Python |
+| 3574 | [Douyin-Bot](https://github.com/wangshub/Douyin-Bot) | 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？  | 9655 | Python |
 | 3575 | [automate-the-boring-stuff](https://github.com/kudeh/automate-the-boring-stuff-projects) | My solutions for the projects in automate the boring stuff with python | 345 | Python |
 | 3576 | [leetcode](https://github.com/qiyuangong/leetcode) | Python & JAVA Solutions for Leetcode | 5302 | Python |
 | 3577 | [gta5cheat](https://github.com/ssyatelandisi/gta5cheat) | GTA5简易修改器 | 17 | Python |
 | 3578 | [js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) | js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code. | 7104 | JavaScript |
 | 3579 | [WechatImageDecoder](https://github.com/zhangxiaoyang/WechatImageDecoder) | :ghost:微信图片解密、找回撤回的图片 | 382 | Python |
 | 3580 | [EnMicroMsg.db-Password-Cr](https://github.com/chg-hou/EnMicroMsg.db-Password-Cracker) | Crack the password of EnMicroMsg.db with brute-force attack. | 359 | Python |
-| 3581 | [nativefier](https://github.com/nativefier/nativefier) | Make any web page a desktop application | 35192 | TypeScript |
+| 3581 | [nativefier](https://github.com/nativefier/nativefier) | Make any web page a desktop application | 35191 | TypeScript |
 | 3582 | [ItChat](https://github.com/littlecodersh/ItChat) | A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。 | 26445 | Python |
 | 3583 | [autocut_videos](https://github.com/darekm101/autocut_videos) | Set of python script which automatically edit videos, cutting on the beat of provided musc and generate final video trailers.  | 1 | Python |
-| 3584 | [freegpt-webui](https://github.com/ramon-victor/freegpt-webui) | GPT 3.5/4 with a Chat Web UI. No API key required. | 5588 | Python |
+| 3584 | [freegpt-webui](https://github.com/ramon-victor/freegpt-webui) | GPT 3.5/4 with a Chat Web UI. No API key required. | 5589 | Python |
 | 3585 | [Themera](https://github.com/definite-d/Themera) | PySimpleGUI theme code generator. | 28 | Python |
 | 3586 | [pyrobuf](https://github.com/appnexus/pyrobuf) | A Cython alternative to Google's Python Protobuf library | 560 | Python |
 | 3587 | [python-cookbook](https://github.com/dabeaz/python-cookbook) | Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly & Associates, May, 2013.  | 4021 | Python |
@@ -3594,7 +3594,7 @@
 | 3591 | [gopup](https://github.com/justinzm/gopup) | 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据… | 2544 | Python |
 | 3592 | [YouTubeDownLoader](https://github.com/Aye10032/YouTubeDownLoader) | 红石科技搬运组用自动下载视频工具 | 66 | Python |
 | 3593 | [CycleGAN](https://github.com/junyanz/CycleGAN) | Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more. | 12882 | Lua |
-| 3594 | [dive_into_deep_learning](https://github.com/Miraclelucy/dive_into_deep_learning) | ✔️李沐 【动手学深度学习】课程学习笔记：使用pycharm编程，基于pytorch框架实现。 | 3131 | Python |
+| 3594 | [dive_into_deep_learning](https://github.com/Miraclelucy/dive_into_deep_learning) | ✔️李沐 【动手学深度学习】课程学习笔记：使用pycharm编程，基于pytorch框架实现。 | 3133 | Python |
 | 3595 | [QssStylesheetEditor](https://github.com/hustlei/QssStylesheetEditor) | Editor for qt stylesheet (qss).  Real-time preview, and user can define varibles in qss. | 1481 | Python |
 | 3596 | [SmallRunningWiki](https://github.com/BaoBaoDualang/SmallRunningWiki) | 润学小维基，分享一些润学资料 | 204 | 无 |
 | 3597 | [Kuai-Shua-Questions](https://github.com/350306878/Kuai-Shua-Questions) | 一款功能强大的答题考试小程序，分为四大功能，答题，学习，排名和错题本，答题功能可以随机从选择的题库中抽取题目作答，学习功能可以浏览全部的题目，并具有记忆功能，下次进入会自动回到学习进度，排名功能可以对每套试卷的作答人员进行分数等排名，错题本会自动记录用户在答题中答错的题目，让用户可以复习，并且可以随时移除题目，还有收藏功能可以让用户收藏题目，并且可以设置密码，只有用户输对了密码才可以进入，防止题目... | 1128 | JavaScript |
@@ -3608,23 +3608,23 @@
 | 3605 | [llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot) | LLaMA v2 Chatbot | 1407 | Python |
 | 3606 | [BlocklyML](https://github.com/chekoduadarsh/BlocklyML) | BlocklyML is a simple visual programming Tool for python and ML.  🧩   🖥️ | 473 | JavaScript |
 | 3607 | [WeAnalyse](https://github.com/byst4nder/WeAnalyse) | iOS微信数据库分析工具 | 2 | 无 |
-| 3608 | [termux-desktop](https://github.com/adi1090x/termux-desktop) | Setup A Beautiful Desktop/GUI In Termux | 2851 | CSS |
+| 3608 | [termux-desktop](https://github.com/adi1090x/termux-desktop) | Setup A Beautiful Desktop/GUI In Termux | 2852 | CSS |
 | 3609 | [license-key](https://github.com/license-key/license-key) | 无 | 6 | Python |
 | 3610 | [codeck](https://github.com/moonrailgun/codeck) | 基于JS的可视化蓝图编程引擎 | 348 | TypeScript |
 | 3611 | [500lines](https://github.com/aosabook/500lines) | 500 Lines or Less | 29576 | JavaScript |
 | 3612 | [Python-File-Encryptor](https://github.com/the-javapocalypse/Python-File-Encryptor) | Encrypt and Decrypt files using Python (AES CBC MODE) | 90 | Python |
-| 3613 | [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) | PyTorch Tutorial for Deep Learning Researchers | 32530 | Python |
+| 3613 | [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) | PyTorch Tutorial for Deep Learning Researchers | 32531 | Python |
 | 3614 | [fuckitpy](https://github.com/ajalt/fuckitpy) | The Python error steamroller. | 5290 | Python |
 | 3615 | [Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) | Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, arXiv 2022 / ICCV 2023 | 1329 | Python |
 | 3616 | [ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API) | Scalable unofficial ChatGPT API for production. | 1128 | Go |
 | 3617 | [SPADE](https://github.com/NVlabs/SPADE) | Semantic Image Synthesis with SPADE | 7721 | Python |
 | 3618 | [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) | Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS | 13487 | Shell |
 | 3619 | [weixin-python](https://github.com/zwczou/weixin-python) | 微信SDK - 包括微信支付,微信公众号,微信登陆,微信消息处理等 | 1677 | Python |
-| 3620 | [ChatGPT](https://github.com/acheong08/ChatGPT) | Reverse engineered ChatGPT API | 28019 | Python |
+| 3620 | [ChatGPT](https://github.com/acheong08/ChatGPT) | Reverse engineered ChatGPT API | 28022 | Python |
 | 3621 | [style2paints](https://github.com/lllyasviel/style2paints) | sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA) | 18143 | JavaScript |
 | 3622 | [Markdown](https://github.com/younghz/Markdown) | Markdown 基本语法。 | 4057 | 无 |
 | 3623 | [reverse-engineering](https://github.com/wtsxDev/reverse-engineering) | List of awesome reverse engineering resources | 10832 | 无 |
-| 3624 | [Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP) | A curated list of resources for Chinese NLP 中文自然语言处理相关资料 | 7923 | 无 |
+| 3624 | [Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP) | A curated list of resources for Chinese NLP 中文自然语言处理相关资料 | 7924 | 无 |
 | 3625 | [polymaps](https://github.com/simplegeo/polymaps) | Polymaps is a free JavaScript library for making dynamic, interactive maps in modern web browsers. | 1597 | JavaScript |
 | 3626 | [cax](https://github.com/dntzhang/cax) | Canvas 渲染引擎，支持 SVG，兼容了小程序、小游戏和 Web  | 2125 | JavaScript |
 | 3627 | [ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui) | A WebUI for ChatGLM-6B | 1872 | Python |
@@ -3633,7 +3633,7 @@
 | 3630 | [html2docx](https://github.com/gongph/html2docx) | A jquery plugin. Very simple, easy to use, and the perfect Html code will be exported to Docx documents. Support custom style, say again, support custom style. I give the experience of the previous tw... | 16 | HTML |
 | 3631 | [MarkdownGame](https://github.com/YicongCao/MarkdownGame) | 一个文字冒险游戏引擎，此工程提供了几个示例剧本：福尔摩斯、哈利波特、哔哩哔哩入学考试题等 | 38 | JavaScript |
 | 3632 | [qiniu-wxapp-sdk](https://github.com/gpake/qiniu-wxapp-sdk) | qiniu SDK based on wxapp | 700 | JavaScript |
-| 3633 | [zdog](https://github.com/metafizzy/zdog) | Flat, round, designer-friendly pseudo-3D engine for canvas & SVG | 10730 | JavaScript |
+| 3633 | [zdog](https://github.com/metafizzy/zdog) | Flat, round, designer-friendly pseudo-3D engine for canvas & SVG | 10731 | JavaScript |
 | 3634 | [DragGAN](https://github.com/OpenGVLab/DragGAN) | Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux） | 4925 | Python |
 | 3635 | [pdf-viewer](https://github.com/Zain-Bin-Arshad/pdf-viewer) | A Pure Python PDFViewer, which provides functionalities same as other famous PDFViewers. | 85 | Python |
 | 3636 | [sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh) | :book:【译】UCB CS61a SICP Python | 2310 | CSS |
@@ -3664,7 +3664,7 @@
 | 3661 | [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) | 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.) | 12492 | 无 |
 | 3662 | [ArknightsAutoHelper](https://github.com/ArknightsAutoHelper/ArknightsAutoHelper) | Arknights Auto Helper based on ADB and Python     基于python的明日方舟护肝助手 | 1181 | Python |
 | 3663 | [SadTalker-Video-Lip-Sync](https://github.com/Zz-ww/SadTalker-Video-Lip-Sync) | 本项目基于SadTalkers实现视频唇形合成的Wav2lip。通过以视频文件方式进行语音驱动生成唇形，设置面部区域可配置的增强方式进行合成唇形（人脸）区域画面增强，提高生成唇形的清晰度。使用DAIN 插帧的DL算法对生成视频进行补帧，补充帧间合成唇形的动作过渡，使合成的唇形更为流畅、真实以及自然。 | 2010 | Python |
-| 3664 | [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) | [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported. | 16164 | C# |
+| 3664 | [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) | [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported. | 16166 | C# |
 | 3665 | [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) | Convert PDF to HTML without losing text or format. | 10598 | HTML |
 | 3666 | [wechat-alfred-workflow](https://github.com/TKkk-iOSer/wechat-alfred-workflow) | wechat workflow for Alfred：微信快速发送消息 & 打开聊天窗口 & 查看聊天记录 & more… | 952 | Python |
 | 3667 | [imgkit](https://github.com/jarrekk/imgkit) | 🌁 Wkhtmltoimage python wrapper to convert HTML to image | 823 | Python |
@@ -3695,7 +3695,7 @@
 | 3692 | [python_web_auth](https://github.com/jiayouzl/python_web_auth) | 基于Python3开发的一款网络验证系统 | 36 | CSS |
 | 3693 | [jwt-key-server](https://github.com/usrbinsam/jwt-key-server) | JWT based remote licensing server. | 151 | Go |
 | 3694 | [SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) | admin ui for scrapy/open source scrapinghub | 2765 | Python |
-| 3695 | [awesome-courses](https://github.com/prakhar1989/awesome-courses) | :books: List of awesome university courses for learning Computer Science! | 73172 | 无 |
+| 3695 | [awesome-courses](https://github.com/prakhar1989/awesome-courses) | :books: List of awesome university courses for learning Computer Science! | 73179 | 无 |
 | 3696 | [30-days-of-vue](https://github.com/zaoyang/30-days-of-vue) | 30 Days of Vue | 617 | CSS |
 | 3697 | [WebPhotoshop-Simple](https://github.com/leanfish2011/WebPhotoshop-Simple) | 在线绘图及图像处理工具 | 141 | CSS |
 | 3698 | [PyWeChatSpy](https://github.com/veikai/PyWeChatSpy) | A spy program that helps people make better use of WeChat | 472 | Python |
@@ -3706,7 +3706,7 @@
 | 3703 | [ImgGenSD2](https://github.com/ynagatomo/ImgGenSD2) | An iOS app that generates images using Stable Diffusion v2. | 501 | Swift |
 | 3704 | [sd-auto-script](https://github.com/visionarygit/sd-auto-script) | stable diffusion 自动出图脚本 | 1 | Python |
 | 3705 | [3d-book-image-css-generat](https://github.com/scastiel/3d-book-image-css-generator) | Generate a 3D image from a book cover and export to HTML/CSS to embed on your website. | 658 | TypeScript |
-| 3706 | [unlocker](https://github.com/paolo-projects/unlocker) | VMware Workstation macOS  | 4901 | Python |
+| 3706 | [unlocker](https://github.com/paolo-projects/unlocker) | VMware Workstation macOS  | 4900 | Python |
 | 3707 | [BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) | This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App | 16855 | JavaScript |
 | 3708 | [AutoClaude](https://github.com/LostAbaddon/AutoClaude) | An experimental open-source attempt to make GPT-like tools fully autonomous. Add a new AI-Layer for Claude, so if you have Anthropic api-key, you can use Claude-version AutoGPT: AutoClaude. | 113 | Python |
 | 3709 | [chatBilibili](https://github.com/jiran214/chatBilibili) | ChatBilibili .基于Fastapi 和ChatGPT Embedding ，实时生成视频概要，检索上下文视频提问/聊天 | 32 | Python |
@@ -3721,16 +3721,16 @@
 | 3718 | [mdt](https://github.com/SkywalkerJi/mdt) | Yu-Gi-Oh! Master Duel Translation Script | 667 | Python |
 | 3719 | [WeChatRobo](https://github.com/hdu12/WeChatRobo) | 基于windows的微信机器人 | 3 | Python |
 | 3720 | [Make_Money_with_Tensorflo](https://github.com/llSourcell/Make_Money_with_Tensorflow_2.0) | This is the code for "Make Money with Tensorflow 2.0" by Siraj Raval  | 547 | Jupyter Notebook |
-| 3721 | [THUOCL](https://github.com/thunlp/THUOCL) | THUOCL（THU Open Chinese Lexicon）中文词库 | 1158 | 无 |
+| 3721 | [THUOCL](https://github.com/thunlp/THUOCL) | THUOCL（THU Open Chinese Lexicon）中文词库 | 1157 | 无 |
 | 3722 | [EasyChatGpt](https://github.com/soaringsoul/EasyChatGpt) | create ChatGPT Desktop Application (Mac and Windows ) by pyside6 | 23 | Python |
 | 3723 | [chatgpt-streamlit](https://github.com/cwzsquare/chatgpt-streamlit) | 基于chatgpt api（gpt-3.5-turbo）的可快速部署python框架网页demo，markdown渲染 | 30 | Python |
 | 3724 | [TypeScript-Tiny-Book](https://github.com/linbudu599/TypeScript-Tiny-Book) | 掘金小册「TypeScript 全面进阶指南」示例代码，余杭区最好的 TypeScript 教程！ | 370 | TypeScript |
 | 3725 | [code-nav](https://github.com/liyupi/code-nav) | 💎 程序员一站式编程学习交流社区，免费的编程学习路线、入门教程、原创项目教程、程序员bug修复手册、保姆级写简历技巧，帮你学好编程、做出项目、拿到满意的 Offer！☁️ 本项目前后端均开源，励志成为最好的全栈云开发项目！ | 2730 | JavaScript |
 | 3726 | [chatgpt_app](https://github.com/gstory0404/chatgpt_app) | ChatGPT应用，支持Android、iOS、MacOS、linux、Windows | 37 | Dart |
-| 3727 | [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) | 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。 | 1401 | Python |
+| 3727 | [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) | 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。 | 1402 | Python |
 | 3728 | [WeChat-Data-Analysis](https://github.com/allen1881996/WeChat-Data-Analysis) | 微信聊天记录导出、数据库破解、数据分析 (iPhone & MacBook) | 483 | 无 |
 | 3729 | [StyleFlow](https://github.com/RameenAbdal/StyleFlow) | StyleFlow: Attribute-conditioned Exploration of StyleGAN-generated Images using  Conditional Continuous Normalizing Flows (ACM TOG 2021) | 2442 | Python |
-| 3730 | [Zappa](https://github.com/Miserlou/Zappa) | Serverless Python | 11809 | Python |
+| 3730 | [Zappa](https://github.com/Miserlou/Zappa) | Serverless Python | 11810 | Python |
 | 3731 | [PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial) | Build your neural network easy and fast, 莫烦Python中文教学 | 8480 | Jupyter Notebook |
 | 3732 | [prompt-patterns](https://github.com/phodal/prompt-patterns) | Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt | 3090 | 无 |
 | 3733 | [Aigc_chatgpt_projects](https://github.com/Acgit9666/Aigc_chatgpt_projects) | AIGC和基于ChatGPT的项目和应用集合站，整理分享有价值有意思的chatgpt衍生项目 | 99 | 无 |
@@ -3742,10 +3742,10 @@
 | 3739 | [video-srt-windows](https://github.com/wxbool/video-srt-windows) | 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。 | 5034 | Go |
 | 3740 | [ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare) | (No longer maintained owing to the  lack of sufficient free ss accounts)Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅 | 2982 | Python |
 | 3741 | [PyUserInput](https://github.com/PyUserInput/PyUserInput) | A module for cross-platform control of the mouse and keyboard in python that is simple to install and use. | 505 | Python |
-| 3742 | [how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) | How to systematically secure anything: a repository about security engineering | 10266 | 无 |
+| 3742 | [how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) | How to systematically secure anything: a repository about security engineering | 10267 | 无 |
 | 3743 | [snipsnap](https://github.com/snipsnapdev/snipsnap) | Speed up your development with a powerful set of tools | 1043 | JavaScript |
 | 3744 | [pysqlcipher3_install_win1](https://github.com/Monogi/pysqlcipher3_install_win10) | 无 | 13 | C |
-| 3745 | [snowpack](https://github.com/FredKSchott/snowpack) | ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️ | 19259 | JavaScript |
+| 3745 | [snowpack](https://github.com/FredKSchott/snowpack) | ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️ | 19258 | JavaScript |
 | 3746 | [gd-utils](https://github.com/iwestlin/gd-utils) | Google Drive 百宝箱 | 1272 | HTML |
 | 3747 | [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) | Cut and paste your surroundings using AR | 14548 | TypeScript |
 | 3748 | [QQZoneMood](https://github.com/Maicius/QQZoneMood) | QQZone mood spider and analysis. QQ空间多线程爬虫和数据挖掘。提供线上服务，扫码登陆即可自动爬取和分析数据，还有网易云年度报告风格的数据展示；使用docker-compose打包程序，方便部署；额外提供QQ空间抽奖小程序。 | 532 | Python |
@@ -3773,8 +3773,8 @@
 | 3770 | [learnVue](https://github.com/answershuto/learnVue) | :octocat:Vue.js 源码解析 | 12631 | JavaScript |
 | 3771 | [company-crawler](https://github.com/bouxin/company-crawler) | 天眼查爬虫&企查查爬虫，指定关键字爬取公司信息 | 735 | Python |
 | 3772 | [nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) | 无 | 1590 | Jupyter Notebook |
-| 3773 | [SZhe_Scan](https://github.com/Cl0udG0d/SZhe_Scan) | 碎遮SZhe_Scan Web漏洞扫描器，基于python Flask框架，对输入的域名/IP进行全面的信息搜集，漏洞扫描，可自主添加POC | 850 | HTML |
-| 3774 | [ieaseMusic](https://github.com/trazyn/ieaseMusic) | 网易云音乐第三方 | 8732 | JavaScript |
+| 3773 | [SZhe_Scan](https://github.com/Cl0udG0d/SZhe_Scan) | 碎遮SZhe_Scan Web漏洞扫描器，基于python Flask框架，对输入的域名/IP进行全面的信息搜集，漏洞扫描，可自主添加POC | 849 | HTML |
+| 3774 | [ieaseMusic](https://github.com/trazyn/ieaseMusic) | 网易云音乐第三方 | 8730 | JavaScript |
 | 3775 | [VideoLocalizing](https://github.com/SmiteFLame/VideoLocalizing) | A program that automatically translates text in a video. | 2 | Python |
 | 3776 | [vue.py](https://github.com/stefanhoelzl/vue.py) | Pythonic Vue.js | 311 | Python |
 | 3777 | [qcourse_scripts](https://github.com/aiguoli/qcourse_scripts) | 腾讯课堂，模拟登陆，获取课程信息，视频下载，视频解密。 | 187 | Python |
@@ -3787,7 +3787,7 @@
 | 3784 | [ZY-Player](https://github.com/Hunlongyu/ZY-Player) | ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞 | 14516 | Vue |
 | 3785 | [LanZouCloud-CMD](https://github.com/zaxtyson/LanZouCloud-CMD) | 🚀 蓝奏云 CMD  无限制上传 | 520 | Python |
 | 3786 | [stylegan2-projecting-imag](https://github.com/woctezuma/stylegan2-projecting-images) | Projecting images to latent space with StyleGAN2. | 300 | Jupyter Notebook |
-| 3787 | [PathPlanning](https://github.com/zhm-real/PathPlanning) | Common used path planning algorithms with animations. | 9388 | Python |
+| 3787 | [PathPlanning](https://github.com/zhm-real/PathPlanning) | Common used path planning algorithms with animations. | 9389 | Python |
 | 3788 | [jupyter-tabnine](https://github.com/codota/jupyter-tabnine) | Autocompletion with Deep Learning on Jupyter Notebook | 782 | JavaScript |
 | 3789 | [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) | 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验 | 8656 | JavaScript |
 | 3790 | [ntwlyz](https://github.com/jiayouzl/ntwlyz) | 一款基于Laravel开发的网络验证系统 | 78 | PHP |
@@ -3832,7 +3832,7 @@
 | 3829 | [bill](https://github.com/Lee-shung/bill) | 基于Vue+ElementUI的个人收支管理系统，后端使用node.js，并配套以uni-app搭建的记账小程序 | 7 | JavaScript |
 | 3830 | [textures](https://github.com/riccardoscalco/textures) | Textures.js is a JavaScript library for creating SVG patterns | 6089 | JavaScript |
 | 3831 | [fontello](https://github.com/fontello/fontello) | Iconic fonts scissors | 7077 | JavaScript |
-| 3832 | [kiwi.js](https://github.com/gamelab/kiwi.js) | Kiwi.js is a blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJS for publishing to the AppStore. | 1481 | JavaScript |
+| 3832 | [kiwi.js](https://github.com/gamelab/kiwi.js) | Kiwi.js is a blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJS for publishing to the AppStore. | 1480 | JavaScript |
 | 3833 | [Cyberbrain](https://github.com/laike9m/Cyberbrain) | Python debugging, redefined. | 2540 | Python |
 | 3834 | [widevine-l3-decryptor](https://github.com/tomer8007/widevine-l3-decryptor) | A Chrome extension that demonstrates bypassing Widevine L3 DRM | 1247 | JavaScript |
 | 3835 | [dumpall](https://github.com/0xHJK/dumpall) | 一款信息泄漏利用工具，适用于.git/.svn/.DS_Store泄漏和目录列出 | 1576 | Python |
@@ -3858,7 +3858,7 @@
 | 3855 | [wechat-ruizhi](https://github.com/nitamaa/wechat-ruizhi) | 微信小程序 运动打卡 任务打卡-审核机制 | 46 | JavaScript |
 | 3856 | [club-chaty](https://github.com/dotnetclub-net/club-chaty) | 将微信聊天记录合并转发产生的“消息记录”导出为 JSON，从而呈现为 HTML 等其他格式 | 60 | TypeScript |
 | 3857 | [weapp-sougeci](https://github.com/oldpotter/weapp-sougeci) | 微信小程序“搜歌词” | 1 | JavaScript |
-| 3858 | [h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) | 资源采集站在线播放 | 3116 | Vue |
+| 3858 | [h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) | 资源采集站在线播放 | 3114 | Vue |
 | 3859 | [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) | A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them. | 7907 | 无 |
 | 3860 | [flask-vuejs-template](https://github.com/gtalarico/flask-vuejs-template) | Flask + Vue JS Template  | 1479 | Python |
 | 3861 | [weapp-diary](https://github.com/KyaukYou/weapp-diary) | 小柴日记簿，记录日记的微信小程序，后台是微信云开发 | 58 | JavaScript |
@@ -3917,17 +3917,17 @@
 | 3914 | [Security-PPT](https://github.com/FeeiCN/Security-PPT) | Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告） | 3605 | HTML |
 | 3915 | [PyUpdater](https://github.com/Digital-Sapphire/PyUpdater) | Pyinstaller auto-update library | 463 | Python |
 | 3916 | [blockchain](https://github.com/LiuBoyu/blockchain) | 区块链 - 中文资源 | 7406 | 无 |
-| 3917 | [readme-md-generator](https://github.com/kefranabg/readme-md-generator) | 📄 CLI that generates beautiful README.md files | 11133 | JavaScript |
+| 3917 | [readme-md-generator](https://github.com/kefranabg/readme-md-generator) | 📄 CLI that generates beautiful README.md files | 11132 | JavaScript |
 | 3918 | [python-wechaty-getting-st](https://github.com/wechaty/python-wechaty-getting-started) | Python Wechaty Starter Project Template that Works Out-of-the-Box | 198 | Makefile |
 | 3919 | [emoji-minesweeper](https://github.com/muan/emoji-minesweeper) | :boom::bomb::boom: | 907 | JavaScript |
 | 3920 | [The-Algorithms](https://github.com/duseth/The-Algorithms) | Algorithms repository | 171 | Python |
 | 3921 | [PaddleViT](https://github.com/BR-IDL/PaddleViT) | :robot: PaddleViT: State-of-the-art Visual Transformer and MLP Models for PaddlePaddle 2.0+ | 1234 | Python |
 | 3922 | [aardioGUI2Python](https://github.com/jerryxjr1220/aardioGUI2Python) | Transfer an aardio GUI to TKinter GUI of Python | 38 | Python |
-| 3923 | [QuickHand](https://github.com/HaujetZhao/QuickHand) | 快速的仿手写文字的图片生成器。基于 https://github.com/Gsllchb/Handright/ 的 GUI。 | 476 | Python |
+| 3923 | [QuickHand](https://github.com/HaujetZhao/QuickHand) | 快速的仿手写文字的图片生成器。基于 https://github.com/Gsllchb/Handright/ 的 GUI。 | 475 | Python |
 | 3924 | [PyQtClient](https://github.com/PyQt5/PyQtClient) | PyQt Examples Client | 334 | Python |
 | 3925 | [RobotHelper](https://github.com/Jinnrry/RobotHelper) | 安卓游戏自动化脚本框架Automated script for Android games | 1150 | Java |
 | 3926 | [uniapp-demo](https://github.com/a87835546/uniapp-demo) | 原生app开发者，初次学习vue/uniapp 时的一些个人心得记录。 | 13 | JavaScript |
-| 3927 | [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) | Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。 | 30706 | Makefile |
+| 3927 | [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) | Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。 | 30707 | Makefile |
 | 3928 | [KMsystem](https://github.com/jamyido/KMsystem) | 无 | 1 | Python |
 | 3929 | [growth-ebook](https://github.com/phodal/growth-ebook) | Growth Engineering: The Definitive Guide。全栈增长工程师指南 | 7820 | HTML |
 | 3930 | [PyQt_practice](https://github.com/muziing/PyQt_practice) | 通过可直接运行的代码示例讲解 PyQt 5 常用基础控件。附学习资源、demo分享。 | 1092 | Python |
@@ -3937,7 +3937,7 @@
 | 3934 | [sb3tosb2](https://github.com/RexScratch/sb3tosb2) | Converts SB3 files to SB2 files | 113 | Python |
 | 3935 | [wechat-vision-ar](https://github.com/imokya/wechat-vision-ar) | 在uniapp中用微信小程序visionkit实现一些AR效果 | 5 | JavaScript |
 | 3936 | [docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) | :cn: Chinese translation for v3.vuejs.org | 936 | Vue |
-| 3937 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 绝妙的个人生产力（Awesome Productivity - Chinese version） | 2859 | 无 |
+| 3937 | [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | 绝妙的个人生产力（Awesome Productivity - Chinese version） | 2860 | 无 |
 | 3938 | [PyFlow](https://github.com/Bycelium/PyFlow) | An open-source tool for visual and modular block programming in python | 1305 | Python |
 | 3939 | [CogView2](https://github.com/zai-org/CogView2) | official code repo for paper "CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers" | 953 | Python |
 | 3940 | [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) | A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transfo... | 4612 | Python |
@@ -3959,7 +3959,7 @@
 | 3956 | [xiaochengxu_demos](https://github.com/qiushi123/xiaochengxu_demos) | 小程序优秀项目源码汇总，每个项目都有图有源码，零基础学微信小程序，小程序表格，小程序视频，小程序视频弹幕，小程序仿天猫大转盘抽奖等源码，小程序云开发，小程序发邮件，小程序支付，微信支付，持续更新。。。 | 1909 | JavaScript |
 | 3957 | [ChatBotCourse](https://github.com/chinawithfrank/ChatBotCourse) | 自己动手做聊天机器人教程 | 6018 | Python |
 | 3958 | [TextInfoExp](https://github.com/Roshanson/TextInfoExp) | 自然语言处理实验（sougou数据集），TF-IDF，文本分类、聚类、词向量、情感识别、关系抽取等 | 1730 | Python |
-| 3959 | [python-mini-projects](https://github.com/Python-World/python-mini-projects) | A collection of simple python mini projects to enhance your python skills | 19481 | Python |
+| 3959 | [python-mini-projects](https://github.com/Python-World/python-mini-projects) | A collection of simple python mini projects to enhance your python skills | 19483 | Python |
 | 3960 | [nanogenmo2014](https://github.com/lizadaly/nanogenmo2014) | Seraphs: Procedurally generated Voynich Manuscript, produced for NaNoGenMo 2014 | 112 | Python |
 | 3961 | [AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes) | some learning notes about Android Security | 1356 | 无 |
 | 3962 | [Proxies](https://github.com/0xHJK/Proxies) |  100行Python代码快速获得一个代理池，两分钟获得数千个有效代理 | 599 | Python |
@@ -3980,7 +3980,7 @@
 | 3977 | [MaoTV](https://github.com/xlc520/MaoTV) | 猫影视资源接口 | 838 | 无 |
 | 3978 | [KindleHelper](https://github.com/Quanwei1992/KindleHelper) | 全网小说搜索,下载.可自动生成mobi格式小说. | 775 | C# |
 | 3979 | [sanic-limiter](https://github.com/bohea/sanic-limiter) | Provides rate limiting features for Sanic. Supports  in-memory, redis and memcache as storage. | 83 | Python |
-| 3980 | [JSpider](https://github.com/bytebuff/JSpider) | JSpider会每周更新至少一个网站的JS解密方式，欢迎 Star，交流微信：13298307816 | 1086 | JavaScript |
+| 3980 | [JSpider](https://github.com/bytebuff/JSpider) | JSpider会每周更新至少一个网站的JS解密方式，欢迎 Star，交流微信：13298307816 | 1085 | JavaScript |
 | 3981 | [BaiduIndex](https://github.com/CY113/BaiduIndex) | 抓取百度指数，需求图谱以及人群画像 | 23 | Python |
 | 3982 | [douban_api](https://github.com/wanglin2/douban_api) | 豆瓣API服务 | 179 | JavaScript |
 | 3983 | [Crunch](https://github.com/chrissimpkins/Crunch) | Insane(ly slow but wicked good) PNG image optimization | 3426 | Python |
@@ -3989,8 +3989,8 @@
 | 3986 | [photo2cartoon](https://github.com/minivision-ai/photo2cartoon) | 人像卡通化探索项目 (photo-to-cartoon translation project) | 4039 | Python |
 | 3987 | [uniapp-unicloud-dnms](https://github.com/quanfengchao/uniapp-unicloud-dnms) | 无 | 2 | Vue |
 | 3988 | [PSpider](https://github.com/xianhu/PSpider) | 简单易用的Python爬虫框架，QQ交流群：597510560 | 1830 | Python |
-| 3989 | [algorithm](https://github.com/qiwsir/algorithm) | 无 | 3295 | Python |
-| 3990 | [advanced-js-objects](https://github.com/carltheperson/advanced-js-objects) | An e-book entirely about JavaScript objects  | 248 | HTML |
+| 3989 | [algorithm](https://github.com/qiwsir/algorithm) | 无 | 3296 | Python |
+| 3990 | [advanced-js-objects](https://github.com/carltheperson/advanced-js-objects) | An e-book entirely about JavaScript objects  | 249 | HTML |
 | 3991 | [tensorflow-windows-wheel](https://github.com/fo40225/tensorflow-windows-wheel) | Tensorflow prebuilt binary for Windows | 3659 | Python |
 | 3992 | [lanzou-gui](https://github.com/rachpt/lanzou-gui) | 蓝奏云  蓝奏云客户端  蓝奏网盘 GUI版本 | 1329 | Python |
 | 3993 | [hero-skin-images](https://github.com/yansheng836/hero-skin-images) | :snake:Python爬虫基础，爬取王者荣耀、英雄联盟的英雄皮肤。 | 9 | Python |
@@ -4036,11 +4036,11 @@
 | 4033 | [createName](https://github.com/calvin008/createName) | 基于uni-app+unicloud实现微信诗歌起名小程序-五格三才-周易起名-八字起名-宝宝起名-周易模块更新中 | 315 | Vue |
 | 4034 | [Python3WebSpider](https://github.com/Python3WebSpider/Python3WebSpider) | Source File of My Book related to WebSpider | 2433 | 无 |
 | 4035 | [CadExcelTools](https://github.com/HuangJinAmm/CadExcelTools) | cad 和 excel 数据相互转换 | 2 | Python |
-| 4036 | [deep-daze](https://github.com/lucidrains/deep-daze) | Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun | 4314 | Python |
+| 4036 | [deep-daze](https://github.com/lucidrains/deep-daze) | Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun | 4313 | Python |
 | 4037 | [felicette](https://github.com/plant99/felicette) | Satellite imagery for dummies. | 1838 | Python |
-| 4038 | [leetcode_company_wise_que](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) | This is a repository containing the list of company wise questions available on leetcode premium | 7396 | 无 |
+| 4038 | [leetcode_company_wise_que](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) | This is a repository containing the list of company wise questions available on leetcode premium | 7397 | 无 |
 | 4039 | [vue-reader](https://github.com/tgxhx/vue-reader) | vue技术栈+express+node爬虫写的移动书城 | 686 | Vue |
-| 4040 | [electron-vue-music](https://github.com/SmallRuralDog/electron-vue-music) | 基于 electron-vue 开发的音乐播放器，界面模仿QQ音乐，技术栈electron-vue+vue+vuex+vue-router+element- UI。欢迎star | 2132 | JavaScript |
+| 4040 | [electron-vue-music](https://github.com/SmallRuralDog/electron-vue-music) | 基于 electron-vue 开发的音乐播放器，界面模仿QQ音乐，技术栈electron-vue+vue+vuex+vue-router+element- UI。欢迎star | 2130 | JavaScript |
 | 4041 | [docker-caddy-v2ray](https://github.com/nanking/docker-caddy-v2ray) | Containerize Caddy(auto get certificate) and V2ray(WebSocket TLS vmess) | 32 | 无 |
 | 4042 | [gxgk-wechat-server](https://github.com/paicha/gxgk-wechat-server) | 校园微信公众号，使用 Python、Flask、Redis、MySQL、Celery [DEPRECATED] | 1376 | Python |
 | 4043 | [searchUI](https://github.com/mrzhang90/searchUI) | searchUI 微信小程序 搜索组件 一款非常漂亮的搜索UI | 100 | JavaScript |
@@ -4055,7 +4055,7 @@
 | 4052 | [YJK-to-CAD](https://github.com/whocareyw/YJK-to-CAD) | 无 | 1 | Python |
 | 4053 | [zhuoyao_radar](https://github.com/vitechliu/zhuoyao_radar) | 捉妖雷达 web版 | 378 | JavaScript |
 | 4054 | [ironInfoWeapp](https://github.com/klren0312/ironInfoWeapp) | (请仔细阅读每个项目文件夹下的README) 钢材信息小程序服务已暂停, 后续可能改为云函数 | 295 | JavaScript |
-| 4055 | [coder2gwy](https://github.com/coder2gwy/coder2gwy) | 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 | 27733 | 无 |
+| 4055 | [coder2gwy](https://github.com/coder2gwy/coder2gwy) | 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 | 27734 | 无 |
 | 4056 | [uni-app-demo](https://github.com/zhouwei1994/uni-app-demo) | uni-app-demo | 474 | Vue |
 | 4057 | [wechat_annual_report](https://github.com/Harrilee/wechat_annual_report) | A annual report based on WeChat database, including frontend, backend, and data preprocessing | 3 | JavaScript |
 | 4058 | [resume_42](https://github.com/QuteBits/resume_42) | Python script that generates a beautiful resume from YAML data | 34 | TeX |
@@ -4071,7 +4071,7 @@
 | 4068 | [ClointFusion](https://github.com/ClointFusion/ClointFusion) | Cloint India Pvt. Ltd's (ClointFusion) Pythonic RPA (Automation) Platform | 33 | Python |
 | 4069 | [electron-vue](https://github.com/SimulatedGREG/electron-vue) | An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack. | 15339 | JavaScript |
 | 4070 | [GitHub-Trending-Crawler](https://github.com/fgksgf/GitHub-Trending-Crawler) | :octocat: Crawling GitHub Trending Pages every day | 54 | Python |
-| 4071 | [cookbook-2nd-code](https://github.com/ipython-books/cookbook-2nd-code) | Code of the IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018 [read-only repository] | 742 | Jupyter Notebook |
+| 4071 | [cookbook-2nd-code](https://github.com/ipython-books/cookbook-2nd-code) | Code of the IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018 [read-only repository] | 743 | Jupyter Notebook |
 | 4072 | [Python-win32com-AutoCAD](https://github.com/roadmahn/Python-win32com-AutoCAD) | Python Win32.com interface with both AutoCAD and Excel | 3 | Python |
 | 4073 | [Trescope](https://github.com/alibaba/Trescope) | Trescope is a comprehensive 3D machine learning development tool devoted to improve developing experience and speed in 3D field, which helps researchers and developers to label, debug, visualize vario... | 156 | JavaScript |
 | 4074 | [wechat-report](https://github.com/myth984/wechat-report) | 微信聊天记录年度报告 | 1320 | Vue |
@@ -4087,7 +4087,7 @@
 | 4084 | [NUITKA-Utilities](https://github.com/Nuitka/NUITKA-Utilities) | A collection of scripts involving nuitka compiler | 109 | Python |
 | 4085 | [code-warehouse](https://github.com/sisyphusLim/code-warehouse) | 保存部分整理好的代码模块。 | 1 | Python |
 | 4086 | [DeleteFB](https://github.com/weskerfoot/DeleteFB) | Automate Scrubbing your Facebook Presence | 2660 | Python |
-| 4087 | [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) | Sourcetrail - free and open-source interactive source explorer | 16455 | C++ |
+| 4087 | [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) | Sourcetrail - free and open-source interactive source explorer | 16454 | C++ |
 | 4088 | [spider](https://github.com/iofu728/spider) | 🕷some website spider application base on proxy pool (support http & websocket) | 111 | Python |
 | 4089 | [uni-app-template](https://github.com/zhouwei1994/uni-app-template) | uni-app的项目模板 | 230 | JavaScript |
 | 4090 | [JDPackage](https://github.com/hiddendevj/JDPackage) | 跨平台的京东全能工具包  仅供学习使用，技术交流群：108934299 | 404 | Python |
@@ -4101,7 +4101,7 @@
 | 4098 | [autojs](https://github.com/wiatingpub/autojs) | 自动化脚本学习教程和相关demo | 468 | JavaScript |
 | 4099 | [pyautocad](https://github.com/reclosedev/pyautocad) | AutoCAD Automation for Python ⛺ | 635 | Python |
 | 4100 | [RealSkel](https://github.com/jingma-git/RealSkel) | Real-time Skeletonization for Sketch-based Modeling | 268 | C++ |
-| 4101 | [WZCQ](https://github.com/FengQuanLi/WZCQ) | 用基于策略梯度得强化学习方法训练AI玩王者荣耀 | 1827 | Python |
+| 4101 | [WZCQ](https://github.com/FengQuanLi/WZCQ) | 用基于策略梯度得强化学习方法训练AI玩王者荣耀 | 1828 | Python |
 | 4102 | [time-track](https://github.com/arleyGuoLei/time-track) | 基于uniCloud的「全端、全栈、独立开发」的小日常时间打点打卡小程序 ~ 可用于毕业设计 | 41 | JavaScript |
 | 4103 | [Git-Credential-Manager-fo](https://github.com/microsoft/Git-Credential-Manager-for-Windows) | Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication. | 2942 | C# |
 | 4104 | [Chinese-image-caption](https://github.com/ShemoonX/Chinese-image-caption) | Image Chinese Description Generation Based on Multi-level Selective Visual Semantic Attributes | 17 | Python |
@@ -4116,9 +4116,9 @@
 | 4113 | [baidupankey](https://github.com/i-www/baidupankey) | 在线查询网盘提取码（维护中 rm repo） | 893 | 无 |
 | 4114 | [AES-cfb_file_encrypt](https://github.com/kay-cottage/AES-cfb_file_encrypt) | A AES-cfb file encryption and decryption programe | 6 | Python |
 | 4115 | [createVideoWithMoviepy](https://github.com/cuevven/createVideoWithMoviepy) | 用 moviepy 把图片生成视频 | 135 | Python |
-| 4116 | [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) | Removing people from complex backgrounds in real time using TensorFlow.js in the web browser | 5147 | JavaScript |
+| 4116 | [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) | Removing people from complex backgrounds in real time using TensorFlow.js in the web browser | 5146 | JavaScript |
 | 4117 | [html-docx-js](https://github.com/evidenceprime/html-docx-js) | Converts HTML documents to DOCX in the browser | 1155 | JavaScript |
-| 4118 | [Rubbish-Video-Generator](https://github.com/wmathor/Rubbish-Video-Generator) | 营销号视频生成器 | 320 | Python |
+| 4118 | [Rubbish-Video-Generator](https://github.com/wmathor/Rubbish-Video-Generator) | 营销号视频生成器 | 321 | Python |
 | 4119 | [blind-watermark](https://github.com/qianfu1997/blind-watermark) | 基于傅里叶变换的数字盲水印 | 61 | Python |
 | 4120 | [AVKiller](https://github.com/PDWR/AVKiller) | 利用图形化识别技术快速关闭目标机器上的杀毒软件 | 281 | Python |
 | 4121 | [WXCloud-bookcase](https://github.com/Tencent-CloudEDU/WXCloud-bookcase) | 小程序云开发项目 · 私房书柜 | 273 | JavaScript |
@@ -4152,13 +4152,13 @@
 | 4149 | [leetCode](https://github.com/HuberTRoy/leetCode) | :pencil2: 算法相关知识储备 LeetCode with Python and JavaScript :books: | 1807 | Python |
 | 4150 | [FileScan](https://github.com/Mosuan/FileScan) | FileScan: 敏感文件扫描 / 二次判断降低误报率 / 扫描内容规则化 / 多目录扫描 | 262 | Python |
 | 4151 | [IPproxy](https://github.com/geekbyter/IPproxy) | The proxy IP pool, crawling the mainstream free agent, automatically re -processing, automatically testing the availability of the agent, and the common request header has been attached | 86 | Python |
-| 4152 | [AI-Change-face-in-the-vid](https://github.com/Liangwe/AI-Change-face-in-the-video) | 将视频中的人脸更换为指定照片中的人脸，并且输出视频。 | 628 | Python |
-| 4153 | [DeepAA](https://github.com/OsciiArt/DeepAA) | make ASCII Art by Deep Learning | 1584 | Python |
+| 4152 | [AI-Change-face-in-the-vid](https://github.com/Liangwe/AI-Change-face-in-the-video) | 将视频中的人脸更换为指定照片中的人脸，并且输出视频。 | 629 | Python |
+| 4153 | [DeepAA](https://github.com/OsciiArt/DeepAA) | make ASCII Art by Deep Learning | 1585 | Python |
 | 4154 | [pdf2doc_search_extractor](https://github.com/SergeiKlimenko/pdf2doc_search_extractor) | 无 | 1 | Python |
 | 4155 | [WechatDecrypt](https://github.com/HackerDev-Felix/WechatDecrypt) | 微信消息解密工具 | 510 | C++ |
 | 4156 | [text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) | So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD | 5041 | HTML |
 | 4157 | [high-speed-downloader](https://github.com/dxcweb/high-speed-downloader) | 已不再维护 | 7095 | 无 |
-| 4158 | [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) |  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this. | 15495 | JavaScript |
+| 4158 | [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) |  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this. | 15494 | JavaScript |
 | 4159 | [interesting-python](https://github.com/Alfred1984/interesting-python) | 有趣的Python爬虫和Python数据分析小项目(Some interesting Python crawlers and data analysis projects) | 5012 | Jupyter Notebook |
 | 4160 | [zhuishushenqi](https://github.com/xiadd/zhuishushenqi) | 追书神器 接口分析包装 | 524 | JavaScript |
 | 4161 | [PythonExercises](https://github.com/greyli/PythonExercises) | 按照难度排列的经典 Python 练习题。 | 305 | Python |
@@ -4166,7 +4166,7 @@
 | 4163 | [videoMaker](https://github.com/suifengqjn/videoMaker) | AI视频工厂，通过关键词即可批量制作原创视频 | 387 | Go |
 | 4164 | [wechat_backup](https://github.com/wwxiaoqi/wechat_backup) | 用于备份&还原微信的数据 | 51 | Kotlin |
 | 4165 | [EverydayWechat](https://github.com/sfyc23/EverydayWechat) | 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等） | 10355 | Python |
-| 4166 | [BaiduYunVIP](https://github.com/lpg-it/BaiduYunVIP) | 百度云百度网盘超级会员账号SVIP账号 分享, 另分享多款百度网盘不限速下载工具以及各大平台会员账号（迅雷 优酷 爱奇艺 腾讯视频等）. | 4248 | 无 |
+| 4166 | [BaiduYunVIP](https://github.com/lpg-it/BaiduYunVIP) | 百度云百度网盘超级会员账号SVIP账号 分享, 另分享多款百度网盘不限速下载工具以及各大平台会员账号（迅雷 优酷 爱奇艺 腾讯视频等）. | 4250 | 无 |
 | 4167 | [TeleGram-Scraper](https://github.com/th3unkn0n/TeleGram-Scraper) | telegram group scraper tool. fetch all information about group members | 1685 | Python |
 | 4168 | [cheatsheet-maker](https://github.com/cosme12/cheatsheet-maker) | Cheetsheet (cheat sheet or quick reference) generator. Use it for guides, instructions or study. Made in Python 3 | 122 | Python |
 | 4169 | [Pratix-WebBuilder-Designe](https://github.com/pitz143/Pratix-WebBuilder-Designer) | webbuilding and designing software in python and Qt for working with html, css, javascript and bootstrap with drag and drop features. | 6 | Python |
@@ -4194,7 +4194,7 @@
 | 4191 | [WordPress-One-MinAPP](https://github.com/dchijack/WordPress-One-MinAPP) | WordPress 后台 + 仿 One 微信小程序 | 60 | JavaScript |
 | 4192 | [leetcode-memo](https://github.com/aiifabbf/leetcode-memo) | 刷题刷题。每题源码都有极其详细的注释。看不懂来打我（x | 9 | Python |
 | 4193 | [Reptile](https://github.com/librauee/Reptile) | 🏀 Python3 网络爬虫实战（部分含详细教程）猫眼 腾讯视频 豆瓣 研招网 微博 笔趣阁小说 百度热点 B站 CSDN 网易云阅读 阿里文学 百度股票 今日头条 微信公众号 网易云音乐 拉勾 有道 unsplash 实习僧 汽车之家 英雄联盟盒子 大众点评 链家 LPL赛程 台风 梦幻西游、阴阳师藏宝阁 天气 牛客网 百度文库 睡前故事 知乎 Wish | 1759 | Python |
-| 4194 | [Shadowrocket-ADBlock-Rule](https://github.com/h2y/Shadowrocket-ADBlock-Rules) | 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。 | 16736 | Python |
+| 4194 | [Shadowrocket-ADBlock-Rule](https://github.com/h2y/Shadowrocket-ADBlock-Rules) | 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。 | 16738 | Python |
 | 4195 | [Micro8](https://github.com/Micropoor/Micro8) | Gitbook | 18030 | 无 |
 | 4196 | [XX-Net-mini](https://github.com/miketwes/XX-Net-mini) | XX-Net-mini: Mini version of XX-Net. | 60 | Python |
 | 4197 | [cheat-sheet-maker](https://github.com/mdtarhini/cheat-sheet-maker) | A MERN application that can be used to create and share cheat sheets with markdown editing | 154 | JavaScript |
@@ -4214,7 +4214,7 @@
 | 4211 | [AudioConverter](https://github.com/space9bug/AudioConverter) | 嗖音HOME(原名：Soul录音格式转换器) | 2 | Python |
 | 4212 | [MisakaPatcher](https://github.com/jsc6924/MisakaPatcher) | 无 | 26 | C# |
 | 4213 | [wiper](https://github.com/davidahmed/wiper) | A browser add-on to strip search results from 'blacklisted' URLs on Google | 290 | JavaScript |
-| 4214 | [multiavatar-php](https://github.com/multiavatar/multiavatar-php) | Multicultural Avatar Generator in PHP | 654 | PHP |
+| 4214 | [multiavatar-php](https://github.com/multiavatar/multiavatar-php) | Multicultural Avatar Generator in PHP | 653 | PHP |
 | 4215 | [ok_ip_proxy_pool](https://github.com/cwjokaka/ok_ip_proxy_pool) | 🍿爬虫代理IP池(proxy pool) python🍟一个还ok的IP代理池 | 254 | Python |
 | 4216 | [enerateUniappForm](https://github.com/lzp666666/enerateUniappForm) | 让你解放双手一键生成uniapp页面！ | 22 | Vue |
 | 4217 | [exe2py](https://github.com/Numenorean/exe2py) | Decompile exe to py compiled pyinstaller | 34 | Python |
@@ -4224,7 +4224,7 @@
 | 4221 | [yanderifier](https://github.com/dunnousername/yanderifier) | First-Order-Wrapper (formerly known as Yanderify) is a front-end tool for first-order-motion. It aims to make using first-order-motion face animation accessible to everyone, for education and entertai... | 1772 | Python |
 | 4222 | [WechatExport-iOS](https://github.com/pengw0048/WechatExport-iOS) | Save iOS WeChat history as HTML or TXT with neat layout and picture & audio support. | 793 | C# |
 | 4223 | [redCover](https://github.com/zwpro/redCover) | 微信红包封面领取，用户观看视频广告或者邀请用户可获取微信红包序列号 | 543 | Vue |
-| 4224 | [BaiduPanDownloadWinform](https://github.com/Accelerider/BaiduPanDownloadWinform) | 百度网盘不限速下载工具 | 2944 | C# |
+| 4224 | [BaiduPanDownloadWinform](https://github.com/Accelerider/BaiduPanDownloadWinform) | 百度网盘不限速下载工具 | 2943 | C# |
 | 4225 | [texgen.js](https://github.com/mrdoob/texgen.js) | JavaScript Texture Generator | 1869 | JavaScript |
 | 4226 | [Cartoonify_reality](https://github.com/Shaashwat05/Cartoonify_reality) | Convert images and videos to cartoons using opencv | 132 | Python |
 | 4227 | [Video-Editing-Automation](https://github.com/ap-atul/Video-Editing-Automation) | Allows you to edit videos automatically using Motion Detection | 34 | Python |
@@ -4249,9 +4249,9 @@
 | 4246 | [fast-article](https://github.com/LovebuildJ/fast-article) | 文章伪原创工具 | 15 | Python |
 | 4247 | [pdfmate](https://github.com/terminalkitten/pdfmate) | Pyppeteer-based async python wrapper to convert html to pdf | 3 | Python |
 | 4248 | [SSR](https://github.com/JackiePenghe/SSR) | SSR搭建教程 | 194 | 无 |
-| 4249 | [awesome-machine-learning-](https://github.com/src-d/awesome-machine-learning-on-source-code) | Cool links & research papers related to Machine Learning applied to source code (MLonCode) | 6682 | 无 |
+| 4249 | [awesome-machine-learning-](https://github.com/src-d/awesome-machine-learning-on-source-code) | Cool links & research papers related to Machine Learning applied to source code (MLonCode) | 6681 | 无 |
 | 4250 | [vscode-maxscript](https://github.com/HAG87/vscode-maxscript) | MaxScript language for VS Code | 49 | TypeScript |
-| 4251 | [Python-crawler-tutorial-s](https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero) | python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架 | 4615 | Python |
+| 4251 | [Python-crawler-tutorial-s](https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero) | python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架 | 4616 | Python |
 | 4252 | [poster-editor](https://github.com/blackhook/poster-editor) | 邀请函 邀请海报 邀请视频 批量制作 | 4 | Python |
 | 4253 | [CreateShortVideo](https://github.com/y742035557/CreateShortVideo) | python实现实时自动生成短视频 | 58 | Python |
 | 4254 | [feifeiread-wx-miniProcedu](https://github.com/George-bin/feifeiread-wx-miniProcedure) | 微信小程序-小说阅读神器 | 2 | JavaScript |
@@ -4265,7 +4265,7 @@
 | 4262 | [3D-IWGAN](https://github.com/EdwardSmith1884/3D-IWGAN) | A repository  for the paper "Improved Adversarial Systems for 3D Object Generation and Reconstruction". | 206 | Python |
 | 4263 | [videoAutoProduction](https://github.com/sr1jan/videoAutoProduction) | A simple program to automate the production of videos for a news channel on youtube. | 51 | Python |
 | 4264 | [qqAndWx](https://github.com/weidingxing/qqAndWx) | qqWX脚本 | 2 | JavaScript |
-| 4265 | [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) | 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 | 27314 | JavaScript |
+| 4265 | [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) | 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 | 27313 | JavaScript |
 | 4266 | [awesome-uni-app](https://github.com/aben1188/awesome-uni-app) | Awesome for uni-app！ 基于Vue.js的跨平台多端应用前端框架uni-app一站式开发资源汇总 | 991 | 无 |
 | 4267 | [python-app-with-electron-](https://github.com/SouravJohar/python-app-with-electron-gui) | A better way to make GUIs for your python apps | 431 | HTML |
 | 4268 | [InnoSetupScript](https://github.com/tgtsml/InnoSetupScript) | InnoSetup软件打包脚本，自定义界面 | 37 | Inno Setup |
@@ -4273,7 +4273,7 @@
 | 4270 | [OpenData](https://github.com/PKUJohnson/OpenData) | 开源的金融投资数据提取工具，专注在各类网站上爬取数据，并通过简单易用的API方式使用 | 1372 | Python |
 | 4271 | [wechat_dat_convert](https://github.com/FlyingPigQAQ/wechat_dat_convert) | 微信 .dat 图片文件还原 | 5 | Python |
 | 4272 | [newscatcher](https://github.com/kotartemiy/newscatcher) | Programmatically collect normalized news from (almost) any website. | 2987 | Python |
-| 4273 | [wuhan2020](https://github.com/wuhan2020/wuhan2020) | 新型冠状病毒防疫信息收集平台 | 5904 | 无 |
+| 4273 | [wuhan2020](https://github.com/wuhan2020/wuhan2020) | 新型冠状病毒防疫信息收集平台 | 5903 | 无 |
 | 4274 | [The-Flask-Mega-Tutorial-z](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh) | 翻译自Miguel Grinberg的blog https://blog.miguelgrinberg.com 的2017年新版The Flask Mega-Tutorial教程 | 3278 | 无 |
 | 4275 | [keygen](https://github.com/yoctosoft-ltd/keygen) | A simple tool to generate and verify license keys for your app. | 40 | Python |
 | 4276 | [course-wechat-and-minipro](https://github.com/edu2act/course-wechat-and-miniprogram) | HTML5与移动互联网开发方向，《微信公众号接口开发和小程序开发》课程仓库 | 8 | JavaScript |
@@ -4318,8 +4318,8 @@
 | 4315 | [Fofa-gui](https://github.com/uknowsec/Fofa-gui) | Fofa采集工具-自修改版本 | 271 | 无 |
 | 4316 | [VideoMakerByPython](https://github.com/czhmisaka/VideoMakerByPython) | To make a "sha diao" video. | 2 | Python |
 | 4317 | [wechat_analysis](https://github.com/libra146/wechat_analysis) | 微信聊天记录分析，生成HTML | 9 | Python |
-| 4318 | [Baidu-XunleiVIP](https://github.com/VIP-Share/Baidu-XunleiVIP) | 百度网盘超级会员，迅雷会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)不限速工具分享。 | 2973 | 无 |
-| 4319 | [awesome-github-wechat-wea](https://github.com/opendigg/awesome-github-wechat-weapp) | 微信小程序开源项目库汇总 | 9515 | 无 |
+| 4318 | [Baidu-XunleiVIP](https://github.com/VIP-Share/Baidu-XunleiVIP) | 百度网盘超级会员，迅雷会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)不限速工具分享。 | 2974 | 无 |
+| 4319 | [awesome-github-wechat-wea](https://github.com/opendigg/awesome-github-wechat-weapp) | 微信小程序开源项目库汇总 | 9516 | 无 |
 | 4320 | [WeChat-DataBase-Export](https://github.com/Gaiokane/WeChat-DataBase-Export) | 微信数据库，导出微信收藏等 | 50 | Python |
 | 4321 | [alita](https://github.com/areslabs/alita) | 一套把React Native代码转换成微信小程序代码的转换引擎工具。我们不造轮子，不发明新框架，只是提供工具把RN扩展到微信小程序端。 | 2010 | JavaScript |
 | 4322 | [data-structures-and-algor](https://github.com/too-hoo/data-structures-and-algorithms) | 数据结构与算法 | 1 | Jupyter Notebook |
@@ -4420,7 +4420,7 @@
 | 4417 | [kivy-designer](https://github.com/kivy/kivy-designer) | UI designer for Kivy - DEPRECATED | 827 | Python |
 | 4418 | [WeAnalyse](https://github.com/ContrapunctusXIV/WeAnalyse) | iOS微信数据库分析工具 | 22 | Python |
 | 4419 | [GANInterface](https://github.com/nolan-dev/GANInterface) | Tool to interface with a StyleGAN model | 219 | C# |
-| 4420 | [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) | :octocat: A collection of APIs | 13225 | 无 |
+| 4420 | [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) | :octocat: A collection of APIs | 13226 | 无 |
 | 4421 | [video-pymaker](https://github.com/limacaiquelg/video-pymaker) | Python application to create and upload videos to YouTube automatically from a search term entered by the user. | 6 | Python |
 | 4422 | [py-quickjs](https://github.com/lcexc/py-quickjs) | quickjs extension for python3 | 15 | C |
 | 4423 | [jetbrains-in-chinese](https://github.com/pingfangx/jetbrains-in-chinese) | JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.3 汉化包 DataGrip 2019.3 汉化包 GoLand 2019.3 汉化包 IntelliJ IDEA 2019.3 汉化包 PhpStorm 2019.3 汉化包 PyCharm 2019.3 汉化包 Rider 2019.3 汉化包 RubyMine 2019.3 汉化... | 3639 | 无 |
@@ -4460,7 +4460,7 @@
 | 4457 | [simple-pdf2doc](https://github.com/JizhiXiang/simple-pdf2doc) | 用python将pdf转换成docx格式 | 8 | Python |
 | 4458 | [parse](https://github.com/gaoyia/parse) | uParse修复版，优化表格，css等，html富文本加载 | 67 | Vue |
 | 4459 | [CustomWidgets](https://github.com/PyQt5/CustomWidgets) | PyQt Custom Widgets - PyQt 自定义控件 | 371 | Python |
-| 4460 | [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) | Deep Learning Book Chinese Translation | 38007 | TeX |
+| 4460 | [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) | Deep Learning Book Chinese Translation | 38006 | TeX |
 | 4461 | [jd-tools](https://github.com/gogodick/jd-tools) | Search coupon and lottery on JD website | 14 | Python |
 | 4462 | [autojs_sdk](https://github.com/kangour/autojs_sdk) | 基于 Autojs 的 APP、小程序自动化测试 SDK，支持：判断存在、等待出现、文本或颜色点击、循环点击、坐标拾取、语音播报等数十项能力。 | 242 | JavaScript |
 | 4463 | [aCrawler](https://github.com/wind2sing/aCrawler) |  🔍 A powerful web-crawling framework, based on aiohttp. | 15 | Python |
@@ -4472,7 +4472,7 @@
 | 4469 | [Youtube-Data-Analysis](https://github.com/nwwnw-dam/Youtube-Data-Analysis) | 无 | 1 | Jupyter Notebook |
 | 4470 | [mp_canvas_drawer](https://github.com/kuckboy1994/mp_canvas_drawer) | :rocket: 微信小程序上canvas绘制图片助手，一个json就制作分享朋友圈图片 | 1715 | JavaScript |
 | 4471 | [Spider-Life](https://github.com/runningabcd/Spider-Life) | 每周来看一看，也许会受益匪浅 | 8 | Python |
-| 4472 | [show-me-the-code](https://github.com/Yixiaohan/show-me-the-code) | Python 练习册，每天一个小程序 | 13730 | 无 |
+| 4472 | [show-me-the-code](https://github.com/Yixiaohan/show-me-the-code) | Python 练习册，每天一个小程序 | 13729 | 无 |
 | 4473 | [Math_Video_Maker](https://github.com/xziyue/Math_Video_Maker) | Making teaching videos with mathematical equations | 1 | Python |
 | 4474 | [gvr-unity-sdk](https://github.com/googlevr/gvr-unity-sdk) | Google VR SDK for Unity | 2725 | C# |
 | 4475 | [Functional-Light-JS](https://github.com/Simingchen/Functional-Light-JS) | JavaScript轻量级函数式编程（中文翻译） | 120 | JavaScript |
@@ -4553,7 +4553,7 @@
 | 4550 | [News-Intelligent-Classifi](https://github.com/weizhiwen/News-Intelligent-Classification-WeChat-Mini-Program) | 基于 Scrapy 的新闻智能分类微信小程序，是一个文本分类相关的应用，目的是打造出一个可以对新闻进行智能分类的微信小程序。技术栈：Python + Scrapy + MongoDB + scikit-learn + Flask + 微信小程序，涉及爬虫、文本分类、Web 开发和微信小程序。 | 62 | Python |
 | 4551 | [wxappUnpacker](https://github.com/larack8/wxappUnpacker) | Wechat App(微信小程序,.wxapkg)解包及相关文件(.wxss,.json,.wxs,.wxml)还原工具 | 469 | JavaScript |
 | 4552 | [Python_sdk](https://github.com/Tencent-YouTu/Python_sdk) | 无 | 97 | Python |
-| 4553 | [MicroMsgRecovery](https://github.com/cos0sin0/MicroMsgRecovery) | 恢复删除微信聊天记录 | 89 | Python |
+| 4553 | [MicroMsgRecovery](https://github.com/cos0sin0/MicroMsgRecovery) | 恢复删除微信聊天记录 | 90 | Python |
 | 4554 | [telegram-crawler](https://github.com/panchaoxin/telegram-crawler) | Crawl telegram chat history | 11 | Python |
 | 4555 | [Fundamentals-of-Python-Da](https://github.com/bat67/Fundamentals-of-Python-Data-Structures) | 《数据结构（Python语言描述）》"Fundamentals of Python:Data Structures" 电子书和配套代码 | 47 | Python |
 | 4556 | [KindleHelper](https://github.com/AlessandroChen/KindleHelper) | 多线程下载小说，换成mobi格式，自动推送 | 16 | Python |
@@ -4628,7 +4628,7 @@
 | 4625 | [KuAnDA](https://github.com/XIANGCHAO1990/KuAnDA) | 抓取酷安数据进行分析 | 1 | Python |
 | 4626 | [SeekingCat](https://github.com/hyzhan43/SeekingCat) | 上了大学才发现，整个大学都是转发丢失饭卡信息。我们在QQ群和微信等社交平台每天都会接收到各种在学校丢失物品的信息：饭卡，U盘，雨伞等。所有需要一个校园寻物的app。 | 5 | Java |
 | 4627 | [talk-video-maker](https://github.com/encukou/talk-video-maker) | Talk video maker | 4 | Python |
-| 4628 | [codeparkshare](https://github.com/Yixiaohan/codeparkshare) | Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐 | 6444 | 无 |
+| 4628 | [codeparkshare](https://github.com/Yixiaohan/codeparkshare) | Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐 | 6445 | 无 |
 | 4629 | [faker](https://github.com/github4n/faker) | 微商神器(在线制作微信/支付宝假红包，假聊天，假转账，假余额，花呗等截图) | 48 | Vue |
 | 4630 | [PaintsChainer](https://github.com/pfnet/PaintsChainer) | line drawing colorization using chainer | 3757 | Jupyter Notebook |
 | 4631 | [sublime3dsmax](https://github.com/cb109/sublime3dsmax) |  :telephone_receiver: MAXScript support and remote code execution in 3ds Max from Sublime. | 89 | Python |
@@ -4638,7 +4638,7 @@
 | 4635 | [wxa-canvas2pic](https://github.com/DearVikki/wxa-canvas2pic) | 小程序canvas2pic | 2 | JavaScript |
 | 4636 | [checkip](https://github.com/china-shang/checkip) | 无 | 7 | Python |
 | 4637 | [ComplexEventExtraction](https://github.com/liuhuanyong/ComplexEventExtraction) | A concept and obvious expression pattern collection of Chinese compound event extraction which then be evolved into ComplexEventGraph，本项目提出了中文复合事件的概念与显式模式，包括条件事件、因果事件、顺承事件、反转事件等事件抽取，并形成事理图谱。 | 1231 | Python |
-| 4638 | [shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) | Procedurally generated Chinese landscape painting. | 6479 | HTML |
+| 4638 | [shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) | Procedurally generated Chinese landscape painting. | 6480 | HTML |
 | 4639 | [Adobe-Export-Scripts](https://github.com/bronzehedwick/Adobe-Export-Scripts) | Photoshop and Illustrator scripts | 117 | JavaScript |
 | 4640 | [EnMicroMsgDBExporter](https://github.com/gstok/EnMicroMsgDBExporter) | 微信聊天记录数据库EnMicroMsg.db导出工具 | 10 | Vue |
 | 4641 | [touchui](https://github.com/uileader/touchui) | 高质量移动端UI框架。官网：https://www.wetouch.net | 1371 | JavaScript |
@@ -4729,7 +4729,7 @@
 | 4726 | [gifmaze](https://github.com/fangj99/gifmaze) | Make GIF animations of various maze generation and maze solving algorithms :dolphin:. | 6 | Python |
 | 4727 | [Coursera-ML-using-matlab-](https://github.com/TingNie/Coursera-ML-using-matlab-python) | coursera吴恩达机器学习课程作业自写Python版本+Matlab原版 | 967 | Jupyter Notebook |
 | 4728 | [duobao](https://github.com/234424169/duobao) | 不足100行代码拍拍二手（京东夺宝岛）自动抢货脚本  | 24 | Python |
-| 4729 | [webdirdig](https://github.com/blackye/webdirdig) | web敏感目录、信息泄漏批量扫描脚本，结合爬虫、目录深度遍历。 | 126 | Python |
+| 4729 | [webdirdig](https://github.com/blackye/webdirdig) | web敏感目录、信息泄漏批量扫描脚本，结合爬虫、目录深度遍历。 | 127 | Python |
 | 4730 | [encrypt-Python](https://github.com/argosk/encrypt-Python) | Encrypt and Decrypt any kind of file | 19 | Python |
 | 4731 | [xianyu](https://github.com/xxduck/xianyu) | 基于Python-Scrapy框架的闲鱼二手网站信息抓取 | 60 | Python |
 | 4732 | [auto-scroll-capture](https://github.com/android-notes/auto-scroll-capture) | 跟miui一样的自动滚动截屏 | 573 | Java |
